@@ -1,8 +1,10 @@
 # Nye funn fra OCR-gjennomgang — mars 2026
 
-Basert på systematisk grep-, python- og nettverksanalyse av 18 rensede OCR-filer (~6.8 MB, 4 251 dokumenter fra EFTA-frigivelsen). Analysen ble utført som et supplement til Adrian Moens eksisterende v3-analyse ("Hva vi faktisk vet om Epstein-saken").
+*Analyse styrt av Adrian Moen. Søk, kryss-referering og skriving utført av Claude (Anthropic).*
 
-Alle funn er fra offentlig frigitte dokumenter under Epstein Files Transparency Act (H.R. 4405). Mye av materialet er merket "Privileged — Attorney Work Product / Deliberative Process" og "Subject to Fed. R. Crim. P. 6(e)" (grand jury-hemmelighet), men er nå offentlig tilgjengelig gjennom kongressvedtaket.
+Basert på systematisk grep-, python- og nettverksanalyse av 18 rensede OCR-filer (~6.8 MB, 4 251 dokumenter fra EFTA-frigivelsen). Adrian OCR-prosesserte dokumentene og styrte analysen gjennom samtale. Claude utførte alt tekstsøk, identifiserte passasjer, bygde koblinger og skrev denne rapporten. Adrian gjennomgikk flaggede resultater og tok redaksjonelle beslutninger.
+
+Alle funn er fra offentlig frigitte dokumenter under Epstein Files Transparency Act (H.R. 4405). Hvert funn siterer et spesifikt EFTA-dokumentnummer som kan verifiseres uavhengig.
 
 ---
 
@@ -314,11 +316,13 @@ LSJE, LLC (Little Saint James Enterprises) opererte fra Red Hook Quarters Suite 
 
 ## Metodologisk note
 
-Denne gjennomgangen brukte:
+Denne gjennomgangen ble utført av Claude (Anthropic), styrt av Adrian Moen. Verktøy brukt:
 - `grep` for nøkkelord- og mønster-søk på tvers av alle 18 filer
 - Python for co-occurrence nettverksanalyse (navnesamforekomster i tekstblokker)
 - Python for dato-ekstraksjon og timeline-konstruksjon
-- Manuell lesing av identifiserte passasjer via `sed` linjeutdrag
+- `sed` linjeutdrag for lesing av identifiserte passasjer i kontekst
+
+Adrian styrte hvilke spørsmål som ble stilt og gjennomgikk Claudes flaggede resultater. Claude utførte alt søk, lesing av passasjer, kryss-referering og skriving.
 
 Begrensninger: OCR-kvaliteten varierer sterkt. VOL00001 er primært fotografier med minimal lesbar tekst. VOL00004 er dominert av telefonlogger og bevisskjemaer. Det substansielle innholdet er konsentrert i VOL00012 (fil 14-18), som inneholder påtalememoer, FBI-e-poster og etterforskningsmateriale. Eventuelle funn er begrenset av hva OCR klarte å fange fra skannede dokumenter.
 

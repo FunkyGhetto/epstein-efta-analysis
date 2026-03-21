@@ -2,11 +2,13 @@
 
 *En primærkildebasert gjennomgang av det dokumenterte bevisgrunnlaget — oppdatert med funn fra systematisk OCR-analyse av EFTA-frigivelsen*
 
+*Analyse styrt av Adrian Moen. Søk, analyse og skriving utført av Claude (Anthropic).*
+
 ---
 
 ## Om denne versjonen
 
-v3 ble skrevet basert på to faser: OCR-prosessering av 4 251 PDF-er og en Research-basert sammenligning mot 814 offentlige kilder. v4 integrerer funn fra en tredje fase: systematisk tekstanalyse (grep, python, nettverksanalyse) utført direkte på de 18 rensede OCR-filene (~6.8 MB). Denne fasen identifiserte substansielt materiale som ble oversett i de to første fasene — spesielt i SDNYs privilegerte påtalememoer i VOL00012.
+v3 ble skrevet basert på to faser: OCR-prosessering av 4 251 PDF-er og en Research-basert sammenligning mot 814 offentlige kilder. v4 integrerer funn fra en tredje fase: systematisk tekstanalyse (grep, python, nettverksanalyse) utført av Claude på de 18 rensede OCR-filene (~6.8 MB), styrt av Adrian gjennom samtale. Denne fasen identifiserte substansielt materiale som ble oversett i de to første fasene — spesielt i SDNYs privilegerte påtalememoer i VOL00012.
 
 Teksten bruker fortsatt fire evidensnivåer: **bekreftet**, **sannsynlig**, **ubesvart**, og **mønsterkonsistent**.
 
@@ -14,13 +16,17 @@ Teksten bruker fortsatt fire evidensnivåer: **bekreftet**, **sannsynlig**, **ub
 
 ## Metode og begrensninger
 
-Denne teksten er skrevet av en privatperson uten journalistisk eller akademisk tilknytning. Den bygger på tre faser av analyse:
+Adrian Moen OCR-prosesserte 4 251 PDF-filer fra EFTA-serien med Tesseract. Han styrte deretter Claude (Anthropic) gjennom en serie samtaler for å søke, analysere og syntetisere resultatene. Claude utførte alt tekstsøk, kryss-referering, mønsteridentifisering og skriving. Adrian gjennomgikk flaggede passasjer og Claudes konklusjoner, valgte hvilke tråder å følge, og tok redaksjonelle beslutninger. Adrian leste ikke de rå OCR-filene selv — det gjorde Claude.
+
+Verken Adrian eller Claude er journalist, advokat eller akademiker. Dette er en AI-generert analyse av offentlige myndighetsdokumenter, styrt av en privatperson. Hvert funn siterer et spesifikt EFTA-dokumentnummer som hvem som helst kan verifisere.
+
+Den bygger på tre faser av analyse:
 
 **Fase 1** besto av å OCR-prosessere 4 251 PDF-filer fra EFTA-serien (Epstein Files Transparency Act), frigitt av det amerikanske justisdepartementet i januar 2026. Prosesseringen ble utført med Anthropic Cowork.
 
 **Fase 2** besto av en Research-basert sammenligning der hvert funn fra primærdokumentene ble sjekket mot 814 offentlige kilder.
 
-**Fase 3** besto av systematisk tekstsøk og nettverksanalyse direkte på OCR-filene — navnefrekvensanalyse, co-occurrence-kartlegging, sladdeinkonsistens-identifisering, og kontekstuell rekonstruksjon av sladde identiteter. Denne fasen avdekket SDNYs interne påtalememoer, som er det mest substansielle materialet i hele frigivelsen.
+**Fase 3** besto av systematisk tekstsøk og nettverksanalyse utført av Claude på OCR-filene, styrt av Adrian — navnefrekvensanalyse, co-occurrence-kartlegging, sladdeinkonsistens-identifisering, og kontekstuell rekonstruksjon av sladde identiteter. Denne fasen avdekket SDNYs interne påtalememoer, som er det mest substansielle materialet i hele frigivelsen.
 
 **Begrensninger:** OCR-prosessering av skannede dokumenter innebærer feilmargin. VOL00001 er primært fotografier med minimal lesbar tekst. VOL00004 er dominert av telefonlogger med dårlig OCR-kvalitet. Det substansielle innholdet er konsentrert i VOL00012 (SDNYs påtalememoer og FBI-korrespondanse). Samme verktøy og metode kan brukes til å produsere overbevisende feilanalyse. Den eneste beskyttelsen er å aldri akseptere én analyse som endelig, inkludert denne.
 
@@ -173,8 +179,8 @@ Fra v3, oppdatert med v4-funn:
 
 ## Etterord
 
-Denne analysen ble gjennomført av én person med en bærbar datamaskin og tilgang til AI-verktøy. Den tredje fasen — systematisk tekstanalyse av 6.8 MB OCR-data — tok omtrent to timer og identifiserte Glen Dubin, Harvey Weinstein, David Blaine, Joseph Alvarez, Bella Klein, Kimberly Galindo, Rich Kahn, og Darren Indykes obstruksjon som navngitte men ikke allment kjente elementer i primærdokumentene. Den identifiserte også at Leon Black var gjenstand for aktiv føderal menneskehandelsetterforskning i 2023, at SDNY hadde null samarbeidende medtiltalte da Epstein døde, at ingen kameraer ble funnet i soverom, og at ingen klientkontoer noen gang eksisterte.
+Denne analysen ble styrt av én person og utført av en AI. Den tredje fasen — systematisk tekstanalyse av 6.8 MB OCR-data — tok omtrent to timer med styrt samtale og identifiserte Glen Dubin, Harvey Weinstein, David Blaine, Joseph Alvarez, Bella Klein, Kimberly Galindo, Rich Kahn, og Darren Indykes obstruksjon som navngitte men ikke allment kjente elementer i primærdokumentene. Den identifiserte også at Leon Black var gjenstand for aktiv føderal menneskehandelsetterforskning i 2023, at SDNY hadde null samarbeidende medtiltalte da Epstein døde, at ingen kameraer ble funnet i soverom, og at ingen klientkontoer noen gang eksisterte.
 
 Mesteparten av dette materialet finnes i SDNYs privilegerte påtalememoer i VOL00012 — dokumenter som er merket «Attorney Work Product» og «Subject to Fed. R. Crim. P. 6(e)» men som nå er offentlige gjennom kongressvedtaket. Paradokset er at de mest substansielle dokumentene i hele frigivelsen er de færreste har lest, fordi de er begravd i 18 OCR-filer blant tusenvis av ulesbare fotografier og telefonlogger.
 
-Det som gjenstår er det samme som alltid: viljen til å lese, tenke, og trekke konklusjoner basert på det som faktisk står i dokumentene.
+Det som gjenstår er det samme som alltid: viljen til å se på primærkildene og trekke konklusjoner basert på det som faktisk står i dokumentene — ikke på det noen forteller deg at de sier. AI erstatter ikke den viljen — men det gjør det mulig å lete i en skala som ikke var mulig før.

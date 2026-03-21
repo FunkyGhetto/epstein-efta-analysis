@@ -1,8 +1,10 @@
 # New Findings from OCR Review — March 2026
 
-Based on systematic grep, Python, and network analysis of 18 cleaned OCR files (~6.8 MB, 4,251 documents from the EFTA release). This analysis was performed as a supplement to the existing v3 analysis ("What We Actually Know About the Epstein Case").
+*Analysis directed by Adrian Moen. Searching, cross-referencing, and writing performed by Claude (Anthropic).*
 
-All findings derive from publicly released documents under the Epstein Files Transparency Act (H.R. 4405). Much of the material is marked "Privileged — Attorney Work Product / Deliberative Process" and "Subject to Fed. R. Crim. P. 6(e)" (grand jury secrecy), but is now publicly available through the congressional act.
+Based on systematic grep, Python, and network analysis of 18 cleaned OCR files (~6.8 MB, 4,251 documents from the EFTA release). Adrian OCR-processed the documents and directed the analysis through conversation. Claude performed all text searching, identified passages, built connections, and wrote this report. Adrian reviewed the flagged results and made editorial decisions.
+
+All findings derive from publicly released documents under the Epstein Files Transparency Act (H.R. 4405). Every claim cites a specific EFTA document number that can be independently verified.
 
 ---
 
@@ -464,10 +466,12 @@ Groff thus operated as Epstein's recruitment and contact person for over 15 year
 
 ## Methodological Note
 
-This review used:
+This review was performed by Claude (Anthropic), directed by Adrian Moen. Tools used:
 - `grep` for keyword and pattern search across all 18 files
 - Python for co-occurrence network analysis (name co-occurrences in text blocks)
 - Python for date extraction and timeline construction
-- Manual reading of identified passages via `sed` line extraction
+- `sed` line extraction for reading identified passages in context
+
+Adrian directed which questions to ask and reviewed Claude's flagged results. Claude performed all searching, reading of passages, cross-referencing, and writing.
 
 Limitations: OCR quality varies greatly. VOL00001 is primarily photographs with minimal readable text. VOL00004 is dominated by phone records and evidence forms. The substantive content is concentrated in VOL00012 (files 14–18), which contains prosecution memos, FBI emails, and investigative material. All findings are limited by what OCR was able to capture from scanned documents.

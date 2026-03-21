@@ -1,18 +1,16 @@
 # Epstein Files Transparency Act — Primary Source Analysis
 
-An independent analysis of 4,251 documents released under the Epstein Files Transparency Act (H.R. 4405) in January 2026.
+An AI-assisted analysis of 4,251 documents released under the Epstein Files Transparency Act (H.R. 4405) in January 2026. Directed by Adrian Moen. Searching, analysis, and writing performed by Claude (Anthropic).
 
-## Before You Dismiss This
+## How This Was Made
 
-Yes, AI tools were used. Here's what that means and what it doesn't.
+I (Adrian) OCR-processed 4,251 PDF files from the EFTA release using Tesseract. I then gave the resulting text files to Claude and directed the analysis through conversation — asking questions, choosing which threads to follow, and deciding what mattered. Claude performed the actual searching, identified the key passages, built the network analysis, cross-referenced documents, and wrote every word of text you see in this repo. I reviewed the flagged passages and Claude's conclusions, but I did not read the 7,700 pages of OCR output myself.
 
-**What the AI did:** OCR processing, text search across 6.8 MB of documents, name frequency counting, co-occurrence network analysis, and drafting text.
+This is not an analysis I wrote with AI assistance. It is an analysis AI performed at my direction. The distinction matters because I'd rather you judge the work on whether it's correct than on who — or what — produced it.
 
-**What the AI didn't do:** Decide which questions to ask. Design the four-level evidence framework. Identify that the prosecution memos in VOL00012 were the most important documents. Notice that Glen Dubin has never been publicly confronted despite being named in an SDNY memo with direct victim testimony. Recognize that "Cooperating Defendants: None" explains why no co-conspirators were ever indicted.
+**What you can verify right now:** Every finding cites specific EFTA document numbers. The documents are public. You can look them up. If the analysis says EFTA02731096 contains a victim's testimony about being directed to massage Glen Dubin, you can check whether EFTA02731096 says that. If it doesn't, the analysis is wrong. If it does, then the question of what tool produced it is irrelevant.
 
-**What you can verify right now:** Every finding in this analysis cites specific EFTA document numbers. The documents are public. You can look them up. If the analysis says EFTA02731096 contains a victim's testimony about being directed to massage Glen Dubin, you can check whether EFTA02731096 says that. If it doesn't, the analysis is wrong. If it does, then the question of what tool was used to find it is irrelevant.
-
-The entire EFTA release is ~7,700 pages of OCR text buried in 4,251 PDF files. Most media coverage has focused on names and headlines from press conferences. The prosecution memos — marked "Attorney Work Product" and "Subject to Fed. R. Crim. P. 6(e)" — are the most substantive documents in the release. They are also the ones almost nobody has read, because reading 18 files of OCR output is not something journalists on deadline do. It is something a person with a computer and two hours can do.
+The prosecution memos in VOL00012 — marked "Attorney Work Product" and "Subject to Fed. R. Crim. P. 6(e)" — are the most substantive documents in the entire release. They are also the ones almost nobody has read, because reading 18 files of OCR output is not something journalists on deadline do.
 
 ---
 
@@ -51,13 +49,13 @@ Findings from SDNY prosecution memoranda that have not appeared in mainstream me
 
 ## Method
 
-**Phase 1 — OCR:** 4,251 PDF files processed with Tesseract 4.1.1 (200 DPI, English). Output: ~6.8 MB cleaned text, 18 files.
+**Phase 1 — OCR:** Adrian processed 4,251 PDF files with Tesseract 4.1.1 (200 DPI, English). Output: ~6.8 MB cleaned text, 18 files.
 
-**Phase 2 — Verification:** Each finding compared against 814 public sources.
+**Phase 2 — Verification:** Claude compared findings against 814 public sources.
 
-**Phase 3 — Systematic analysis:** grep, Python (co-occurrence mapping, date extraction), manual reading. This phase located the prosecution memos in VOL00012.
+**Phase 3 — Systematic analysis:** Claude performed grep searches, Python co-occurrence mapping, date extraction, and identified key passages. Adrian directed which questions to ask and which threads to follow.
 
-**Tools:** Anthropic Claude for OCR processing, text search, and drafting. All analytical decisions were made by the author.
+**All text in this repo was written by Claude.** Adrian directed the analysis, reviewed the results, and made editorial decisions.
 
 ## How to Verify
 
@@ -70,7 +68,7 @@ If you find an error, open an issue. If you find something missed, open a pull r
 
 ## Author
 
-Adrian Moen. Fredrikstad, Norway. No journalistic or academic affiliation. Built this because the documents are public and someone should read them.
+Adrian Moen. Fredrikstad, Norway. No journalistic or academic affiliation. Analysis directed by Adrian, executed and written by Claude (Anthropic).
 
 ## License
 

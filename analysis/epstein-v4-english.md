@@ -2,11 +2,13 @@
 
 *A primary-source review of the documented evidence — updated with findings from systematic OCR analysis of the EFTA release*
 
+*Analysis directed by Adrian Moen. Searching, analysis, and writing performed by Claude (Anthropic).*
+
 ---
 
 ## About This Version
 
-v3 was written based on two phases: OCR processing of 4,251 PDF files and a research-based comparison against 814 public sources. v4 integrates findings from a third phase: systematic text analysis (grep, Python, network analysis) performed directly on the 18 cleaned OCR files (~6.8 MB). This phase identified substantial material overlooked in the first two phases — particularly within SDNY's privileged prosecution memoranda in VOL00012.
+v3 was written based on two phases: OCR processing of 4,251 PDF files and a research-based comparison against 814 public sources. v4 integrates findings from a third phase: systematic text analysis (grep, Python, network analysis) performed by Claude on the 18 cleaned OCR files (~6.8 MB), directed by Adrian through conversation. This phase identified substantial material overlooked in the first two phases — particularly within SDNY's privileged prosecution memoranda in VOL00012.
 
 The text continues to use four evidence levels: **confirmed**, **probable**, **unanswered**, and **pattern-consistent**.
 
@@ -14,13 +16,13 @@ The text continues to use four evidence levels: **confirmed**, **probable**, **u
 
 ## Method and Limitations
 
-This text was written by a private individual with no journalistic or academic affiliation. It draws on three phases of analysis:
+Adrian Moen OCR-processed 4,251 PDF files from the EFTA series using Tesseract. He then directed Claude (Anthropic) through a series of conversations to search, analyze, and synthesize the results. Claude performed all text searching, cross-referencing, pattern identification, and writing. Adrian reviewed flagged passages and Claude's conclusions, chose which threads to pursue, and made editorial decisions. Adrian did not read the raw OCR files himself — Claude did.
 
 **Phase 1** consisted of OCR processing 4,251 PDF files from the EFTA series (Epstein Files Transparency Act), released by the U.S. Department of Justice in January 2026. Processing was performed using Anthropic Cowork.
 
 **Phase 2** consisted of a research-based comparison where each finding from the primary documents was checked against 814 public sources.
 
-**Phase 3** consisted of systematic text search and network analysis performed directly on the OCR files — name frequency analysis, co-occurrence mapping, redaction inconsistency identification, and contextual reconstruction of redacted identities. This phase uncovered SDNY's internal prosecution memoranda, which constitute the most substantive material in the entire release.
+**Phase 3** consisted of systematic text search and network analysis performed by Claude on the OCR files, directed by Adrian — name frequency analysis, co-occurrence mapping, redaction inconsistency identification, and contextual reconstruction of redacted identities. This phase uncovered SDNY's internal prosecution memoranda, which constitute the most substantive material in the entire release.
 
 **Limitations:** OCR processing of scanned documents involves margin of error. VOL00001 is primarily photographs with minimal readable text. VOL00004 is dominated by phone records with poor OCR quality. The substantive content is concentrated in VOL00012 (SDNY prosecution memos and FBI correspondence). The same tools and method can be used to produce convincing but erroneous analysis. The only safeguard is to never accept any single analysis as definitive, including this one.
 
@@ -173,8 +175,8 @@ Updated from v3:
 
 ## Afterword
 
-This analysis was conducted by one person with a laptop and access to AI tools. The third phase — systematic text analysis of 6.8 MB of OCR data — took approximately two hours and identified Glen Dubin, Harvey Weinstein, David Blaine, Joseph Alvarez, Bella Klein, Kimberly Galindo, Rich Kahn, and Darren Indyke's obstruction as named but not widely known elements in the primary documents. It also identified that Leon Black was the subject of an active federal human trafficking investigation in 2023, that SDNY had zero cooperating defendants when Epstein died, that no cameras were found in bedrooms, and that no client accounts ever existed.
+This analysis was directed by one person and executed by an AI. The third phase — systematic text analysis of 6.8 MB of OCR data — took approximately two hours of directed conversation and identified Glen Dubin, Harvey Weinstein, David Blaine, Joseph Alvarez, Bella Klein, Kimberly Galindo, Rich Kahn, and Darren Indyke's obstruction as named but not widely known elements in the primary documents. It also identified that Leon Black was the subject of an active federal human trafficking investigation in 2023, that SDNY had zero cooperating defendants when Epstein died, that no cameras were found in bedrooms, and that no client accounts ever existed.
 
 Most of this material is found in SDNY's privileged prosecution memoranda in VOL00012 — documents marked "Attorney Work Product" and "Subject to Fed. R. Crim. P. 6(e)" but now public through the congressional act. The paradox is that the most substantive documents in the entire release are the ones fewest people have read, because they are buried in 18 OCR files among thousands of unreadable photographs and phone records.
 
-What remains is what has always remained: the willingness to read, think, and draw conclusions based on what the documents actually say — not on what someone tells you they say.
+What remains is what has always remained: the willingness to look at primary sources and draw conclusions based on what the documents actually say — not on what someone tells you they say. AI doesn't replace that willingness — but it makes looking possible at a scale that wasn't before.
