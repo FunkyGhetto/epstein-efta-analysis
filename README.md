@@ -47,6 +47,14 @@ Findings from SDNY prosecution memoranda that have not appeared in mainstream me
 | `analysis/epstein-v4-norwegian.md` | Norwegian original of v4. |
 | `analysis/epstein-findings-norwegian.md` | Norwegian original of the findings report. |
 
+## Source Data
+
+The raw OCR text files are included in the `ocr/` folder (~6.8 MB, 18 files). You can verify any finding by grepping for the EFTA document number:
+
+    grep -A 20 'EFTA02731113' ocr/epstein_ren16.txt
+
+No need to download 4,251 PDFs or run OCR yourself.
+
 ## Method
 
 **Phase 1 — OCR:** Adrian processed 4,251 PDF files with Tesseract 4.1.1 (200 DPI, English). Output: ~6.8 MB cleaned text, 18 files.
