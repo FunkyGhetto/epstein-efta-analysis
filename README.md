@@ -18,7 +18,7 @@ The prosecution memos in VOL00012 — marked "Attorney Work Product" and "Subjec
 
 Findings from SDNY prosecution memoranda that have not appeared in mainstream media coverage:
 
-- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731113. Never investigated, never publicly confronted. This is the most actionable finding in the entire analysis.
+- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731138. Never investigated, never publicly confronted. This is the most actionable finding in the entire analysis.
 
 - **Harvey Weinstein** — Epstein instructed a victim to massage Weinstein at the Paris residence. Weinstein ordered her to remove her shirt. She refused. Source: EFTA02731096. Not previously reported from primary EFTA documents.
 
