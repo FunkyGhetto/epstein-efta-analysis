@@ -18,7 +18,7 @@ The prosecution memos in VOL00012 — marked "Attorney Work Product" and "Subjec
 
 Findings from SDNY prosecution memoranda that have not appeared in mainstream media coverage:
 
-- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731138. Never investigated, never publicly confronted. This is the most actionable finding in the entire analysis.
+- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731139. Never investigated, never publicly confronted. This is the most actionable finding in the entire analysis.
 
 - **Harvey Weinstein** — Epstein instructed a victim to massage Weinstein at the Paris residence. Weinstein ordered her to remove her shirt. She refused. Source: EFTA02731096. Not previously reported from primary EFTA documents.
 
@@ -30,9 +30,9 @@ Findings from SDNY prosecution memoranda that have not appeared in mainstream me
 
 - **No client accounts** — "We have not identified any accounts that are consistent with Epstein handling or investing other people's money." The hedge fund manager myth is disproven in SDNY's own words.
 
-- **Darren Indyke** (Epstein's attorney) told a witness not to talk to police and brought computers into prison for Epstein to have video sex. Source: EFTA02731123.
+- **Darren Indyke** (Epstein's attorney) told a witness not to talk to police (EFTA02731123) and brought computers into prison for Epstein to have video sex (EFTA02731127).
 
-- **David Blaine** introduced a victim to Epstein at a NYC nightclub. Source: EFTA02731116.
+- **David Blaine** introduced a victim to Epstein at a NYC nightclub. Source: EFTA02731111.
 
 - **Leslie Groff** was still actively recruiting in December 2018, six months before Epstein's arrest, and was never indicted despite being named throughout the prosecution memo.
 
@@ -51,7 +51,7 @@ Findings from SDNY prosecution memoranda that have not appeared in mainstream me
 
 The raw OCR text files are included in the `ocr/` folder (~6.8 MB, 18 files). You can verify any finding by grepping for the EFTA document number:
 
-    grep -A 20 'EFTA02731113' ocr/epstein_ren16.txt
+    grep -A 20 'EFTA02731114' ocr/epstein_ren16.txt
 
 No need to download 4,251 PDFs or run OCR yourself.
 

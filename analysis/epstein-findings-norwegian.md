@@ -72,7 +72,7 @@ Hva som skjedde med referansen etterpå er ubesvart i det frigitte materialet.
 
 ## 3. Epsteins betalingsmønster — systematisk taushetskjøp
 
-**Kilde:** EFTA02731126 (epstein_ren16.txt, VOL00012)
+**Kilde:** EFTA02731127–EFTA02731133 (epstein_ren16.txt, VOL00012)
 
 Memoet dokumenterer et mønster der Epstein betalte ofre i forbindelse med negativ mediedekning:
 

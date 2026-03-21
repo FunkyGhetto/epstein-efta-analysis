@@ -62,7 +62,7 @@ What happened to the referral afterward is unanswered in the released material.
 
 ## 3. Epstein's Payment Pattern — Systematic Silence Buying
 
-**Source:** EFTA02731126 (epstein_ren16.txt, VOL00012)
+**Source:** EFTA02731127–EFTA02731133 (epstein_ren16.txt, VOL00012)
 
 The memo documents a pattern where Epstein paid victims in connection with negative media coverage:
 

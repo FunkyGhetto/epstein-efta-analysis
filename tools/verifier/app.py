@@ -36,17 +36,19 @@ OCR_DIR = os.path.expanduser("~/Documents/epstein-efta-analysis/ocr/")
 # ---------------------------------------------------------------------------
 
 PRESETS = [
-    ("Dubin", "02731138"),
+    ("Dubin", "02731139"),
     ("Weinstein", "02731096"),
     ("Black HT", "02731477"),
     ("Coop. Defendants", "02731053"),
-    ("No cameras", "02731147"),
+    ("No cameras", "02731148"),
     ("Indyke police", "02731123"),
-    ("Indyke prison", "02731126"),
-    ("Blaine", "02731116"),
+    ("Indyke prison", "02731127"),
+    ("Blaine", "02731111"),
     ("Wexner wealth", "02731146"),
-    ("Staley", "02731113"),
+    ("Staley", "02731114"),
+    ("Black massage", "02731114"),
     ("Black HT chain", "02731638"),
+    ("Groff Dec 2018", "02731133"),
 ]
 
 # ---------------------------------------------------------------------------
