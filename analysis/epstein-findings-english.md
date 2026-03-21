@@ -107,7 +107,7 @@ SDNY's strategy was to use Epstein's indictment as leverage to press co-conspira
 
 ## 6. Acosta Under Oath: Directly Denies Intelligence Connection
 
-**Source:** epstein_ren13.txt (VOL00007) — OPR interview of R. Alexander Acosta, October 18, 2019
+**Source:** EFTA00009220–00009221 (epstein_ren13.txt, VOL00007) — OPR interview of R. Alexander Acosta, October 18, 2019
 
 Acosta was asked directly about the press conference claim that he had been told Epstein was "an intelligence asset of some sort." His response:
 

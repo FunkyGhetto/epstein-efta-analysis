@@ -117,7 +117,7 @@ SDNYs strategi var å bruke Epsteins tiltale som brekkstang for å presse medsky
 
 ## 6. Acosta under ed: benekter intelligence-koblingen direkte
 
-**Kilde:** epstein_ren13.txt (VOL00007) — OPR-intervju av R. Alexander Acosta, 18. oktober 2019
+**Kilde:** EFTA00009220–00009221 (epstein_ren13.txt, VOL00007) — OPR-intervju av R. Alexander Acosta, 18. oktober 2019
 
 Acosta ble spurt direkte om påstanden fra pressekonferansen om at han var blitt fortalt at Epstein var "an intelligence asset of some sort." Hans svar:
 

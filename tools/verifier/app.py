@@ -41,6 +41,7 @@ PRESETS = [
     ("Black HT", "02731477"),
     ("Coop. Defendants", "02731053"),
     ("No cameras", "02731148"),
+    ("No client accounts", "02731148"),
     ("Indyke police", "02731123"),
     ("Indyke prison", "02731127"),
     ("Blaine", "02731111"),
