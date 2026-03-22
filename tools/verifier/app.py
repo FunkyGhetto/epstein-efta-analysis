@@ -18,7 +18,7 @@ import zipfile
 import webview
 import Quartz
 from CoreFoundation import CFURLCreateFromFileSystemRepresentation
-from pypdf import PdfReader, PdfWriter
+from pypdf import PdfReader
 
 
 # ---------------------------------------------------------------------------
@@ -30,27 +30,6 @@ PDF_DIR = os.path.expanduser(
     "PDF-dokumenter/VOL00012/IMAGES/0001/"
 )
 OCR_DIR = os.path.expanduser("~/Documents/epstein-efta-analysis/ocr/")
-
-# ---------------------------------------------------------------------------
-# Quick-verify presets
-# ---------------------------------------------------------------------------
-
-PRESETS = [
-    ("Dubin", "02731139"),
-    ("Weinstein", "02731096"),
-    ("Black HT", "02731477"),
-    ("Coop. Defendants", "02731053"),
-    ("No cameras", "02731148"),
-    ("No client accounts", "02731148"),
-    ("Indyke police", "02731123"),
-    ("Indyke prison", "02731127"),
-    ("Blaine", "02731111"),
-    ("Wexner wealth", "02731146"),
-    ("Staley", "02731114"),
-    ("Black massage", "02731114"),
-    ("Black HT chain", "02731638"),
-    ("Groff Dec 2018", "02731133"),
-]
 
 # ---------------------------------------------------------------------------
 # PDF index — built once
@@ -105,7 +84,6 @@ def render_pdf_page_to_png(pdf_path, page_index, dpi=200):
     if pdf_doc is None:
         return None
 
-    # Quartz pages are 1-indexed
     page = Quartz.CGPDFDocumentGetPage(pdf_doc, page_index + 1)
     if page is None:
         return None
@@ -121,16 +99,13 @@ def render_pdf_page_to_png(pdf_path, page_index, dpi=200):
         Quartz.kCGImageAlphaPremultipliedLast,
     )
 
-    # White background
     Quartz.CGContextSetRGBFillColor(ctx, 1.0, 1.0, 1.0, 1.0)
     Quartz.CGContextFillRect(ctx, Quartz.CGRectMake(0, 0, width, height))
-
     Quartz.CGContextScaleCTM(ctx, scale, scale)
     Quartz.CGContextDrawPDFPage(ctx, page)
 
     image = Quartz.CGBitmapContextCreateImage(ctx)
 
-    # Write PNG to temp file and read back as bytes
     tmp_png = os.path.join(tempfile.gettempdir(), f"efta_render_{os.getpid()}.png")
     tmp_url = CFURLCreateFromFileSystemRepresentation(
         None, tmp_png.encode("utf-8"), len(tmp_png.encode("utf-8")), False
@@ -154,12 +129,9 @@ def find_ocr_text(efta_num):
     """Find the OCR text block for a given EFTA number from the ocr/ files.
 
     OCR markers are page footers captured AFTER the page body text.
-    So the marker EFTA02731138 appears at the end of page 02731138's text,
-    meaning the content BETWEEN marker (N-1) and marker N is the actual
-    body text of page N.  To get text for page 02731139, we find the
-    EFTA02731138 marker and return everything from there up to EFTA02731139.
+    The content BETWEEN marker (N-1) and marker N is the body text of page N.
     """
-    prev_num = efta_num - 1  # the marker that precedes our page's content
+    prev_num = efta_num - 1
 
     ocr_files = sorted(glob.glob(os.path.join(OCR_DIR, "epstein_ren*.txt")))
 
@@ -173,9 +145,7 @@ def find_ocr_text(efta_num):
 
         for i, (pos, end_pos, marker_num) in enumerate(positions):
             if marker_num == prev_num:
-                # Start of our page's text is right after the (N-1) marker
                 start = end_pos
-                # End is at the N marker (our EFTA number) or +5000
                 if i + 1 < len(positions):
                     end = positions[i + 1][0]
                 else:
@@ -191,17 +161,15 @@ def find_ocr_text(efta_num):
 # API class exposed to JavaScript
 # ---------------------------------------------------------------------------
 
-# Store rendered images for ZIP download
-_rendered_images = {}
+_results_cache = []
 
 
 class Api:
     def search(self, query):
         """Search for EFTA numbers. Returns JSON array of results."""
-        global _rendered_images
-        _rendered_images.clear()
+        global _results_cache
+        _results_cache.clear()
 
-        # Parse comma/space separated numbers
         raw = re.split(r"[,\s]+", query.strip())
         numbers = []
         for r in raw:
@@ -212,7 +180,6 @@ class Api:
         if not numbers:
             return json.dumps([])
 
-        # Deduplicate while preserving order
         seen = set()
         unique = []
         for n in numbers:
@@ -232,7 +199,7 @@ class Api:
                 "page": page_idx + 1 if page_idx is not None else None,
                 "total_pages": total_pages,
                 "ocr_text": ocr_text or "No OCR text found.",
-                "ocr_file": ocr_file or "—",
+                "ocr_file": ocr_file or "",
                 "image": None,
                 "error": None,
             }
@@ -242,30 +209,33 @@ class Api:
                 results.append(result)
                 continue
 
-            # Render page
             pdf_path = os.path.join(PDF_DIR, filename)
             png_bytes = render_pdf_page_to_png(pdf_path, page_idx, dpi=200)
             if png_bytes:
                 b64 = base64.b64encode(png_bytes).decode("ascii")
                 result["image"] = f"data:image/png;base64,{b64}"
-                _rendered_images[f"EFTA{efta_num:08d}.png"] = png_bytes
+                _results_cache.append({
+                    "efta": f"EFTA{efta_num:08d}",
+                    "png": png_bytes,
+                    "ocr": ocr_text or "",
+                })
 
             results.append(result)
 
         return json.dumps(results)
 
     def download_zip(self):
-        """Package all rendered images as a ZIP, prompt save dialog."""
-        if not _rendered_images:
-            return json.dumps({"error": "No images to download."})
+        """Package results as ZIP with folder-per-EFTA structure."""
+        if not _results_cache:
+            return json.dumps({"error": "No results to download."})
 
-        # Build ZIP in memory, write to temp file
         tmp = os.path.join(tempfile.gettempdir(), "efta-verification.zip")
         with zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zf:
-            for name, data in _rendered_images.items():
-                zf.writestr(name, data)
+            for entry in _results_cache:
+                folder = entry["efta"]
+                zf.writestr(f"{folder}/page.png", entry["png"])
+                zf.writestr(f"{folder}/ocr.txt", entry["ocr"])
 
-        # Use pywebview save dialog
         window = webview.windows[0]
         dest = window.create_file_dialog(
             webview.SAVE_DIALOG,
@@ -297,21 +267,11 @@ HTML = """
 body {
     background: #1a1a1a; color: #e0e0e0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 14px; padding: 20px; overflow-y: auto;
+    font-size: 14px; padding: 24px; overflow-y: auto;
 }
-h1 { font-size: 20px; font-weight: 600; margin-bottom: 6px; color: #fff; }
-.subtitle { color: #888; font-size: 12px; margin-bottom: 18px; }
+h1 { font-size: 20px; font-weight: 600; margin-bottom: 4px; color: #fff; }
+.subtitle { color: #888; font-size: 12px; margin-bottom: 20px; }
 
-/* Preset buttons */
-.presets { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
-.preset-btn {
-    background: #2a2a2a; border: 1px solid #444; color: #ccc;
-    padding: 5px 10px; border-radius: 4px; cursor: pointer;
-    font-size: 12px; transition: all 0.15s;
-}
-.preset-btn:hover { background: #3a3a3a; color: #fff; border-color: #666; }
-
-/* Search bar */
 .search-row { display: flex; gap: 8px; margin-bottom: 16px; }
 #search-input {
     flex: 1; background: #2a2a2a; border: 1px solid #444; color: #e0e0e0;
@@ -319,20 +279,18 @@ h1 { font-size: 20px; font-weight: 600; margin-bottom: 6px; color: #fff; }
 }
 #search-input::placeholder { color: #666; }
 #search-input:focus { outline: none; border-color: #888; }
-.search-btn, .zip-btn {
+.btn {
     background: #333; border: 1px solid #555; color: #e0e0e0;
     padding: 8px 16px; border-radius: 4px; cursor: pointer; font-size: 13px;
     transition: all 0.15s;
 }
-.search-btn:hover { background: #444; color: #fff; }
-.zip-btn { background: #2a3a2a; border-color: #4a6a4a; }
-.zip-btn:hover { background: #3a4a3a; color: #fff; }
-.zip-btn:disabled { opacity: 0.4; cursor: default; }
+.btn:hover { background: #444; color: #fff; }
+.btn-zip { background: #2a3a2a; border-color: #4a6a4a; }
+.btn-zip:hover { background: #3a4a3a; color: #fff; }
+.btn:disabled { opacity: 0.4; cursor: default; }
 
-/* Status */
 #status { color: #888; font-size: 12px; margin-bottom: 16px; min-height: 16px; }
 
-/* Results */
 .result {
     background: #222; border: 1px solid #333; border-radius: 6px;
     margin-bottom: 20px; overflow: hidden;
@@ -343,7 +301,7 @@ h1 { font-size: 20px; font-weight: 600; margin-bottom: 6px; color: #fff; }
 }
 .result-header h2 { font-size: 16px; color: #fff; font-family: monospace; }
 .result-meta { color: #888; font-size: 12px; font-family: monospace; }
-.result-body { display: flex; gap: 0; }
+.result-body { display: flex; }
 .result-image {
     flex: 1; min-width: 0; padding: 12px; border-right: 1px solid #333;
     display: flex; align-items: flex-start; justify-content: center;
@@ -363,8 +321,6 @@ h1 { font-size: 20px; font-weight: 600; margin-bottom: 6px; color: #fff; }
     white-space: pre-wrap; word-wrap: break-word;
 }
 .error-msg { color: #e55; padding: 16px; }
-
-/* Loading spinner */
 .loading { text-align: center; padding: 40px; color: #888; }
 .loading::after {
     content: ""; display: inline-block; width: 20px; height: 20px;
@@ -377,37 +333,20 @@ h1 { font-size: 20px; font-weight: 600; margin-bottom: 6px; color: #fff; }
 <body>
 
 <h1>EFTA Verifier</h1>
-<div class="subtitle">PDF page + OCR text side by side &mdash; verify any finding from the analysis</div>
-
-<div class="presets" id="presets"></div>
+<div class="subtitle">PDF page + OCR text side by side</div>
 
 <div class="search-row">
     <input type="text" id="search-input"
-           placeholder="Enter EFTA numbers (e.g. 02731113, 02731096)"
+           placeholder="Enter EFTA numbers (e.g. 02731139, 02731096)"
            autocomplete="off">
-    <button class="search-btn" onclick="doSearch()">Search</button>
-    <button class="zip-btn" id="zip-btn" onclick="doZip()" disabled>Download ZIP</button>
+    <button class="btn" onclick="doSearch()">Search</button>
+    <button class="btn btn-zip" id="zip-btn" onclick="doZip()" disabled>Download ZIP</button>
 </div>
 
 <div id="status"></div>
 <div id="results"></div>
 
 <script>
-const PRESETS = PRESET_DATA;
-
-// Build preset buttons
-const presetsEl = document.getElementById('presets');
-PRESETS.forEach(([label, num]) => {
-    const btn = document.createElement('button');
-    btn.className = 'preset-btn';
-    btn.textContent = label + ' (' + num + ')';
-    btn.onclick = () => {
-        document.getElementById('search-input').value = num;
-        doSearch();
-    };
-    presetsEl.appendChild(btn);
-});
-
 document.getElementById('search-input').addEventListener('keydown', (e) => {
     if (e.key === 'Enter') doSearch();
 });
@@ -440,7 +379,9 @@ async function doSearch() {
             html += '<div class="result-header">';
             html += '<h2>' + r.efta + '</h2>';
             if (r.pdf) {
-                html += '<span class="result-meta">' + r.pdf + ' &mdash; page ' + r.page + '/' + r.total_pages + ' &mdash; OCR: ' + r.ocr_file + '</span>';
+                html += '<span class="result-meta">' + r.pdf + ' p.' + r.page + '/' + r.total_pages;
+                if (r.ocr_file) html += ' · OCR: ' + r.ocr_file;
+                html += '</span>';
             }
             html += '</div>';
 
@@ -457,7 +398,7 @@ async function doSearch() {
                 }
                 html += '</div>';
                 html += '<div class="result-ocr">';
-                html += '<div class="result-ocr-label">OCR TEXT (' + r.ocr_file + ')</div>';
+                html += '<div class="result-ocr-label">OCR TEXT</div>';
                 html += '<pre>' + escapeHtml(r.ocr_text) + '</pre>';
                 html += '</div>';
                 html += '</div>';
@@ -466,7 +407,7 @@ async function doSearch() {
         });
 
         results.innerHTML = html;
-        status.textContent = data.length + ' result(s) rendered.';
+        status.textContent = data.length + ' result(s)';
         zipBtn.disabled = imageCount === 0;
 
     } catch (e) {
@@ -480,13 +421,9 @@ async function doZip() {
     try {
         const raw = await pywebview.api.download_zip();
         const data = JSON.parse(raw);
-        if (data.saved) {
-            status.textContent = 'Saved to ' + data.saved;
-        } else if (data.cancelled) {
-            status.textContent = 'Download cancelled.';
-        } else if (data.error) {
-            status.textContent = data.error;
-        }
+        if (data.saved) status.textContent = 'Saved to ' + data.saved;
+        else if (data.cancelled) status.textContent = 'Cancelled.';
+        else if (data.error) status.textContent = data.error;
     } catch (e) {
         status.textContent = 'Error: ' + e;
     }
@@ -500,10 +437,7 @@ function escapeHtml(s) {
 </script>
 </body>
 </html>
-""".replace(
-    "PRESET_DATA",
-    json.dumps([[label, num] for label, num in PRESETS]),
-)
+"""
 
 
 # ---------------------------------------------------------------------------
@@ -512,7 +446,7 @@ function escapeHtml(s) {
 
 def main():
     api = Api()
-    window = webview.create_window(
+    webview.create_window(
         "EFTA Verifier",
         html=HTML,
         js_api=api,
