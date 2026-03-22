@@ -1,0 +1,51 @@
+{
+  "probe_date": "2026-03-22",
+  "probes": {
+    "emmy_tayler": {
+      "status": "EXTENSIVELY PUBLIC — not our discovery",
+      "key_facts": [
+        "135-190 flights on Epstein planes",
+        "Sjoberg deposition: Tayler showed her how to massage Epstein",
+        "Maxwell called Tayler 'her slave'",
+        "Filed and WON defamation lawsuit against Julie Brown/HarperCollins",
+        "Fled UK after Maxwell arrest",
+        "Never interviewed by SDNY — confirmed by public reporting",
+        "Working as freelance voice actor in London"
+      ],
+      "our_contribution": "Graph-based quantification of structural importance (#1 betweenness). Known person, new methodology.",
+      "genuinely_new": false
+    },
+    "groff_proffer": {
+      "status": "COOPERATION KNOWN — proffer document partially new",
+      "key_facts": [
+        "Attorney stated she 'voluntarily spoke with prosecutors'",
+        "Told she was 'not being prosecuted'",
+        "June 2008 memo: 'most likely to flip if sufficient evidence'",
+        "Bequeathed $2M in Epstein will + loan forgiveness",
+        "iHeart podcast covered DOJ looking the other way"
+      ],
+      "our_contribution": "Specific proffer agreement EFTA01682023 with date (July 23, 2021), attorney (Bachner), and formal terms not cited by public sources.",
+      "genuinely_new": "partially — cooperation known, formal document new"
+    },
+    "genuinely_new_verification": {
+      "no_client_accounts": {"status": "CONFIRMED NEW — zero internet results", "genuinely_new": true},
+      "78_proffer_count": {"status": "CONFIRMED NEW — zero internet results", "genuinely_new": true},
+      "groff_proffer_document": {"status": "PARTIALLY NEW — cooperation known, EFTA01682023 not cited", "genuinely_new": "partial"},
+      "tayler_most_critical": {"status": "NOT NEW — known from EFTA release coverage", "genuinely_new": false},
+      "18_excised_pages_skeleton": {"status": "CONFIRMED NEW — zero internet results for section structure", "genuinely_new": true},
+      "linguistic_hedging_analysis": {"status": "CONFIRMED NEW — zero internet results", "genuinely_new": true},
+      "joint_charging_groff_maxwell": {"status": "CONFIRMED NEW — 'and/or' evaluation not reported", "genuinely_new": true},
+      "groff_2m_will": {"status": "NOT NEW — already public", "genuinely_new": false}
+    }
+  },
+  "updated_genuinely_new_list": [
+    "SDNY found no client accounts (EFTA02731148) — zero internet results",
+    "78 proffer agreements mapped across corpus — no other count exists",
+    "18 excised pages structural skeleton: Sections A-E with surviving headings",
+    "Page 75 'Groff and/or Maxwell with a federal crime' — joint charging evaluation",
+    "Linguistic hedging predicts non-charging — novel methodology",
+    "Groff proffer agreement document EFTA01682023 — specific terms and date",
+    "Off-by-one OCR marker methodology",
+    "Graph-based structural analysis of network (betweenness, communities)"
+  ]
+}
