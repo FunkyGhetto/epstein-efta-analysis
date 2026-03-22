@@ -1,6 +1,6 @@
 # Epstein var ikke finansforvalter — Hva SDNYs eget memo sier om pengene
 
-*Alle sitater i dette dokumentet er hentet ordrett fra OCR-tekst i EFTA-dokumenter. Alle EFTA-sidetall er verifisert mot original-PDFen ved hjelp av tools/find_correct_efta.py. Den fullstendige bevisutvinningen finnes i tools/analysis_outputs/financial_evidence.txt.*
+*Alle sitater i dette dokumentet er hentet ordrett fra OCR-tekst i EFTA-dokumenter. Alle EFTA-sidetall er verifisert mot original-PDFen ved hjelp av tools/find_correct_efta.py. Den fullstendige bevisutvinningen finnes i tools/analysis_outputs/data/financial_evidence.txt.*
 
 ## Kjernefunnet
 

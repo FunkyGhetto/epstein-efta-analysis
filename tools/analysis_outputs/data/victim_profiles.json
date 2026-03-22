@@ -1,0 +1,139 @@
+{
+  "source": "analysis/victim-cross-reference-english.md",
+  "note": "All data extracted from OCR text of EFTA documents. No real names. EFTA pages verified against original PDFs.",
+  "victims": [
+    {
+      "designation": "Victim-1",
+      "memo_label": "New York and Victim-1",
+      "location": "New York City",
+      "age_recruited": 14,
+      "year_recruited": 2002,
+      "year_end": 2005,
+      "recruitment_method": "Met another teenager at a NYC club who described topless massages for a rich man",
+      "efta_pages": ["02731041", "02731042", "02731043"],
+      "named_associates": ["Leslie Groff"],
+      "role": "Victim and recruiter",
+      "unique_details": [
+        "Living alone and supporting herself at 14",
+        "Paid $300 per massage, $300 per girl recruited",
+        "Recruited dozens of girls over approximately two years",
+        "Scheduled appointments through 'Leslie' (identified as Leslie Groff)",
+        "Described Epstein's residence: artwork in massage room, stuffed dog, library like 'Beauty and the Beast'",
+        "Told Epstein her true age (14)",
+        "Epstein said he did not like dark-skinned girls",
+        "Phone message from 646 area code found in trash pull from FL residence"
+      ],
+      "corroboration": "Phone records, Individual-1 and Individual-2 interviews, residence description detail, pattern match with Victim-2",
+      "maxwell_trial_mapping": null,
+      "mapping_confidence": "NONE"
+    },
+    {
+      "designation": "Victim-2",
+      "memo_label": "Victim-2",
+      "location": "Palm Beach, Florida",
+      "age_recruited": 14,
+      "year_recruited": null,
+      "year_end": null,
+      "recruitment_method": "Recruited by a young girl at a party: could make $200 for a massage",
+      "efta_pages": ["02731043", "02731044", "02731045"],
+      "named_associates": [],
+      "role": "Victim and recruiter",
+      "unique_details": [
+        "High school dropout, living away from home",
+        "Performed 10+ sexualized massages",
+        "Recruited approximately 20-30 additional girls, ages 15-20",
+        "Initially told to say she was 18; later stopped because Epstein preferred younger",
+        "Wore braces; 'it would have been obvious that she was very young'",
+        "Told she would be 'taken care of if she didn't say anything' when FL investigations became public",
+        "Full name and phone number on message pads from search of FL residence",
+        "Stated age 15 in 2007 FBI interview but now recalls being 14"
+      ],
+      "corroboration": "Message pads from FL residence search, phone records with scheduling contact",
+      "maxwell_trial_mapping": "Possible Minor Victim-1 or Minor Victim-2",
+      "mapping_confidence": "LOW"
+    },
+    {
+      "designation": "Victim-3",
+      "memo_label": "Victim-3",
+      "location": "Palm Beach, Florida",
+      "age_recruited": 16,
+      "year_recruited": 2003,
+      "year_end": 2005,
+      "recruitment_method": "Recruited by a high school friend",
+      "efta_pages": ["02731045", "02731046"],
+      "named_associates": [],
+      "role": "Victim and recruiter (brought two 17-year-old girls)",
+      "unique_details": [
+        "Visited Epstein's FL residence approximately 20 times",
+        "Paid $200 per visit",
+        "Told Epstein she was 17; SDNY believes she may have been 16 based on bank deposits",
+        "Deposits began June 2003 (weeks past 16th birthday)",
+        "Cash payments continued through January 2005",
+        "Epstein promised travel and modeling career after she turned 18",
+        "Phone records match Epstein's flight patterns (e.g., Sept 16 2004: calls then JFK->WPB flight)",
+        "Kept notebook of bank deposits from Epstein's cash payments"
+      ],
+      "corroboration": "Bank deposit records, cell phone tolls matching flight logs",
+      "maxwell_trial_mapping": "Minor Victim-3",
+      "mapping_confidence": "HIGH",
+      "mapping_evidence": "Both Florida-based, both have phone records corroborating scheduling with co-conspirator, Minor Victim-3 key reference is EFTA02731039 p.8 (same VOL00012 series)"
+    },
+    {
+      "designation": "Victim-4",
+      "memo_label": "Victim-4 (footnote)",
+      "location": "Palm Beach, Florida",
+      "age_recruited": 17,
+      "year_recruited": null,
+      "year_end": null,
+      "recruitment_method": "Brought by a friend to Epstein's house",
+      "efta_pages": ["02731046"],
+      "named_associates": [],
+      "role": "Single-incident victim",
+      "unique_details": [
+        "Paid $200 for a massage",
+        "Epstein attempted to touch her buttocks; she refused twice",
+        "Epstein said 'you're done' and put money on the table",
+        "Left upset, no subsequent contact",
+        "Later learned high school friends had also gone to Epstein's house",
+        "Recalled being 18 in FL state investigation; now recalls being 17"
+      ],
+      "corroboration": "None described in memo",
+      "maxwell_trial_mapping": null,
+      "mapping_confidence": "NONE"
+    },
+    {
+      "designation": "Unnumbered ('lent out' victim)",
+      "memo_label": "No formal designation in memo",
+      "location": "Florida, New York, U.S. Virgin Islands",
+      "age_recruited": null,
+      "year_recruited": null,
+      "year_end": null,
+      "recruitment_method": "Recruited by Maxwell directly",
+      "efta_pages": ["02731136", "02731137", "02731138", "02731139", "02731140"],
+      "named_associates": ["Glen Dubin", "Eva Dubin", "Prince Andrew", "Harvey Weinstein", "Leon Black", "Jes Staley", "Alan Dershowitz", "Jean-Luc Brunel"],
+      "role": "Victim, recruiter, and person 'lent out' to multiple men",
+      "unique_details": [
+        "Trained by Maxwell and Epstein in sex acts during a 'training period'",
+        "Epstein paid for apartment in Florida",
+        "Maxwell gave her a cellphone",
+        "Attended massage school paid for by Epstein",
+        "Used the term 'lent out' to describe being directed to have sex with other men",
+        "'Lent out so many times that she began using drugs'",
+        "'Cannot estimate how many times she was lent out'",
+        "Never paid by the other men",
+        "Recruited other minor girls for Epstein at Palm Beach",
+        "Directed to find 'young females who looked like the girl next door'",
+        "Epstein said 'the younger the better'",
+        "Told not to say anything if approached by press"
+      ],
+      "corroboration": "Recruitment by Maxwell, abuse by Epstein, and recruiting of minors were corroborated. SDNY EXPLICITLY STATES they could NOT corroborate the 'lent out' accounts (Source: EFTA02731136).",
+      "maxwell_trial_mapping": null,
+      "mapping_confidence": "NONE",
+      "cross_volume_appearances": [
+        {"volume": "DS9", "efta": "EFTA01249021", "type": "FBI 302: lent out testimony re: Dubins"},
+        {"volume": "DS9", "efta": "EFTA00098755", "type": "Prosecution planning: Dubin listed under 'Individuals Who Have Engaged in Massages with Epstein Girls'"},
+        {"volume": "DS9", "efta": "EFTA00083800", "type": "FBI FD-302: Eva Dubin interview (Jan 2021)"}
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Epstein Was Not a Financial Manager — What SDNY's Own Memo Says About the Money
 
-*Every quote in this document is extracted verbatim from OCR text of EFTA documents. Every EFTA page number has been verified against the original PDF using tools/find_correct_efta.py. The full evidence extraction is in tools/analysis_outputs/financial_evidence.txt.*
+*Every quote in this document is extracted verbatim from OCR text of EFTA documents. Every EFTA page number has been verified against the original PDF using tools/find_correct_efta.py. The full evidence extraction is in tools/analysis_outputs/data/financial_evidence.txt.*
 
 ## The Core Finding
 

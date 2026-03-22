@@ -321,8 +321,14 @@ def check_parity():
 
     english_files = sorted(glob.glob(os.path.join(ANALYSIS_DIR, "*english*.md")))
 
+    # Files that deliberately have no Norwegian counterpart
+    no_translation_needed = {'victim-cross-reference-english.md'}
+
     for ef in english_files:
         base = os.path.basename(ef)
+        if base in no_translation_needed:
+            PASS(f"Skipped (no translation needed): {base}")
+            continue
         nf_name = base.replace('english', 'norwegian')
         nf = os.path.join(ANALYSIS_DIR, nf_name)
 

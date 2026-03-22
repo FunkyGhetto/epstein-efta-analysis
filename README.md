@@ -1,3 +1,5 @@
+> **TL;DR:** SDNY's prosecution memo says they found no evidence Epstein managed anyone else's money. Most other findings here are independently confirmed by larger projects. Full sourcing below.
+
 # Epstein Files Transparency Act — Primary Source Analysis
 
 An AI-assisted analysis of 4,251 documents released under the Epstein Files Transparency Act (H.R. 4405) in January 2026. Directed by Adrian Moen. Searching, analysis, and writing performed by Claude (Anthropic).
@@ -18,25 +20,35 @@ The prosecution memos in VOL00012 — marked "Attorney Work Product" and "Subjec
 
 Findings from SDNY prosecution memoranda, independently verified against original PDF pages. Most of these findings have also been documented by the comprehensive [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) project (165+ reports, 1,614-person registry). What this repo adds is page-level PDF verification of every citation and a reproducible method accessible to non-technical users. One finding — the absence of client accounts — appears to be genuinely new.
 
-- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731139. The victim's name is redacted. The account may be Giuffre's (who has publicly accused Dubin in civil proceedings) or a separate victim — the redaction prevents confirmation. Either way, this is SDNY's internal prosecution memo documenting the testimony as part of their case preparation. No law enforcement action followed. *(Independently confirmed by rhowardstone/Epstein-research from the same source document.)*
+- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731139. The victim's name is redacted. The account may be Giuffre's (who has publicly accused Dubin in civil proceedings) or a separate victim — the redaction prevents confirmation. Either way, this is SDNY's internal prosecution memo documenting the testimony as part of their case preparation. No law enforcement action followed. [1]
 
-- **Harvey Weinstein** — Epstein instructed a victim to massage Weinstein at the Paris residence. Weinstein ordered her to remove her shirt. She refused. Source: EFTA02731096. Not previously reported from primary EFTA documents. *(Independently confirmed.)*
+- **Harvey Weinstein** — Epstein instructed a victim to massage Weinstein at the Paris residence. Weinstein ordered her to remove her shirt. She refused. Source: EFTA02731096. Not previously reported from primary EFTA documents. [2]
 
-- **Leon Black** — Subject of an active federal human trafficking referral in June 2023 (EFTA02731477), with an identified minor victim. This goes beyond the civil lawsuits that have been publicly reported. *(Independently confirmed; their project includes additional DANY interview data.)*
+- **Leon Black** — Subject of an active federal human trafficking referral in June 2023 (EFTA02731477), with an identified minor victim. This goes beyond the civil lawsuits that have been publicly reported. [3]
 
-**Note:** SDNY's memo states they were unable to corroborate the "lent out" accounts. They confirmed the victim's recruitment by Maxwell, abuse by Epstein, and recruiting of other minors, but the specific allegations about being directed to have sex with Dubin, Black, Staley, Andrew, and Weinstein remain uncorroborated in the memo's own assessment. See `analysis/victim-cross-reference.md` for details.
+**Note:** SDNY's memo states they were unable to corroborate the "lent out" accounts. They confirmed the victim's recruitment by Maxwell, abuse by Epstein, and recruiting of other minors, but the specific allegations about being directed to have sex with Dubin, Black, Staley, Andrew, and Weinstein remain uncorroborated in the memo's own assessment. See `analysis/victim-cross-reference-english.md` for details.
 
-- **"Cooperating Defendants: None"** — SDNY's memo (EFTA02731053) explicitly states they had zero cooperating defendants and planned to use Epstein's indictment as leverage. His death eliminated this strategy. This is the structural explanation for why no co-conspirators were indicted. *(Independently confirmed from a different source document.)*
+- **"Cooperating Defendants: None"** — SDNY's memo (EFTA02731053) explicitly states they had zero cooperating defendants and planned to use Epstein's indictment as leverage. His death eliminated this strategy. This is the structural explanation for why no co-conspirators were indicted. [4]
 
-- **No cameras in bedrooms** — The memo explicitly states searches "did not reveal any cameras in any of the bedrooms or massage rooms." The blackmail narrative is not supported by the physical evidence found during the 2019 searches. Source: EFTA02731148. *(Independently confirmed from a different source: FBI CID summary EFTA00038617.)*
+- **No cameras in bedrooms** — The memo explicitly states searches "did not reveal any cameras in any of the bedrooms or massage rooms." The blackmail narrative is not supported by the physical evidence found during the 2019 searches. Source: EFTA02731148. [5]
 
 - **No client accounts** — "We have not identified any accounts that are consistent with Epstein handling or investing other people's money." The hedge fund manager myth is disproven in SDNY's own words. Source: EFTA02731148. **(Not found in any other EFTA analysis project. Appears to be a genuinely new finding.)** See `analysis/epstein-financial-deconstruction-english.md` for the full analysis connecting this finding to the Wexner proffer, Deutsche Bank review, and the absence of cameras.
 
-- **Darren Indyke** (Epstein's attorney) told a witness not to talk to police (EFTA02731123) and brought computers into prison for Epstein to have video sex (EFTA02731127). *(Independently confirmed; rhowardstone includes a congressional witness brief on Indyke.)*
+- **Darren Indyke** (Epstein's attorney) told a witness not to talk to police (EFTA02731123) and brought computers into prison for Epstein to have video sex (EFTA02731127). [6]
 
-- **David Blaine** introduced a victim to Epstein at a NYC nightclub. Source: EFTA02731111. *(Listed in their registry but with minimal analysis. Our SDNY memo context adds detail.)*
+- **David Blaine** introduced a victim to Epstein at a NYC nightclub. Source: EFTA02731111. [7]
 
-- **Leslie Groff** was still actively recruiting in December 2018, six months before Epstein's arrest, and was never indicted despite being named throughout the prosecution memo. Source: EFTA02731133. *(Partially confirmed; their focus is different. The $250K wire context appears new.)*
+- **Leslie Groff** was still actively recruiting in December 2018, six months before Epstein's arrest, and was never indicted despite being named throughout the prosecution memo. Source: EFTA02731133. [8]
+
+**Notes:**
+[1] Independently confirmed by rhowardstone/Epstein-research from the same source document.
+[2] Independently confirmed.
+[3] Independently confirmed; their project includes additional DANY interview data.
+[4] Independently confirmed from a different source document.
+[5] Independently confirmed from a different source: FBI CID summary EFTA00038617.
+[6] Independently confirmed; rhowardstone includes a congressional witness brief on Indyke.
+[7] Listed in their registry but with minimal analysis. Our SDNY memo context adds detail.
+[8] Partially confirmed; their focus is different. The $250K wire context appears new.
 
 ---
 
@@ -50,7 +62,7 @@ Findings from SDNY prosecution memoranda, independently verified against origina
 | `analysis/epstein-findings-norwegian.md` | Norwegian original of the findings report. |
 | `analysis/epstein-financial-deconstruction-english.md` | Financial deconstruction: no client accounts, Wexner proffer, Deutsche Bank review. Every claim sourced to specific EFTA pages. |
 | `analysis/epstein-financial-deconstruction-norwegian.md` | Norwegian version of the financial deconstruction. |
-| `analysis/victim-cross-reference.md` | Cross-volume victim testimony mapping: connects redacted victim designations across VOL00012 and other EFTA volumes using contextual fingerprints. No real names. |
+| `analysis/victim-cross-reference-english.md` | Cross-volume victim testimony mapping: connects redacted victim designations across VOL00012 and other EFTA volumes using contextual fingerprints. No real names. |
 
 ## Source Data
 

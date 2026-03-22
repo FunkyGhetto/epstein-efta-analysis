@@ -52,7 +52,8 @@ SpaCy-based named entity extraction across all 18 OCR files.
 6. **Single-occurrence removal** — names appearing only once are treated as noise
 
 **Output** (committed in `data/`):
-- `entities.json` — 356 unique names with every occurrence, EFTA page, and context
+- `entities.json` (2.5 MB) — 356 unique names with every occurrence, EFTA page, and full context
+- `entities_compact.json` (950 KB) — same data with context trimmed to 50 chars for faster loading
 - `cooccurrence.json` — 809 name pairs sharing EFTA pages, with page lists
 - `flagged.json` — 65 names ranked by keyword proximity score
 
@@ -68,28 +69,28 @@ SpaCy-based named entity extraction across all 18 OCR files.
 
 ---
 
-## Citation Scripts
+## Verification Scripts (`verification/`)
 
-**`find_correct_efta.py`** — Extracts text from every page of a PDF independently (not from OCR files) and searches for key phrases. Used to discover and correct the off-by-one error in OCR-derived EFTA numbers.
+**`verification/find_correct_efta.py`** — Extracts text from every page of a PDF independently (not from OCR files) and searches for key phrases. Used to discover and correct the off-by-one error in OCR-derived EFTA numbers.
 
-**`final_verify.py`** — Checks every EFTA number cited in the repo against actual PDF text. The sign-off script that confirmed all 16 key citations are correct. Output: 16/16 verified, 0 failures.
+**`verification/final_verify.py`** — Checks every EFTA number cited in the repo against actual PDF text. The sign-off script that confirmed all 16 key citations are correct. Output: 16/16 verified, 0 failures.
+
+**`verification/qa_check.py`** — Automated quality assurance script that validates the entire repo. Checks EFTA number consistency, cross-file consistency, link validation, claim consistency, Norwegian-English parity, source line completeness, and forbidden patterns. Run after any changes:
+
+    python3 tools/verification/qa_check.py
 
 ---
 
 ## Pattern Analysis (`analysis_outputs/`)
 
-Three automated analyses of the OCR text. Scripts and output files are included.
+Three automated analyses of the OCR text. Scripts are in `analysis_outputs/scripts/`, output data in `analysis_outputs/data/`.
 
-**Money Trail** (`money_trail.py`) — Extracts dollar amounts with dates, payers, and recipients from all OCR files. Found 605 financial references, 180 in prosecution memos. Key pattern: $250K wire in December 2018 (Kahn→victim via Groff, 6 months before arrest), $100K after Miami Herald coverage, and Leon Black's $158M+ in tax advisory payments to Epstein over 2012–2017. Output: `money_trail.json`, `money_trail.txt`.
+**Money Trail** (`scripts/money_trail.py`) — Extracts dollar amounts with dates, payers, and recipients from all OCR files. Found 605 financial references, 180 in prosecution memos. Key pattern: $250K wire in December 2018 (Kahn→victim via Groff, 6 months before arrest), $100K after Miami Herald coverage, and Leon Black's $158M+ in tax advisory payments to Epstein over 2012–2017. Output: `data/money_trail.json`, `data/money_trail.txt`.
 
-**Phone Patterns** (`phone_patterns.py`) — Extracts phone numbers from CDR-containing files. Found 206 unique numbers. Most are institutional (court reporting, account services). Identified LSJE LLC numbers (340-775-8100/8108, Epstein's USVI company) and Palm Beach area code concentration (561). CDR call logs did not survive OCR well enough for cross-location analysis. Output: `phone_patterns.json`, `phone_patterns.txt`.
+**Phone Patterns** (`scripts/phone_patterns.py`) — Extracts phone numbers from CDR-containing files. Found 206 unique numbers. Most are institutional (court reporting, account services). Identified LSJE LLC numbers (340-775-8100/8108, Epstein's USVI company) and Palm Beach area code concentration (561). Output: `data/phone_patterns.json`, `data/phone_patterns.txt`.
 
-**Redaction Analysis** (`redaction_analysis.py`) — Maps redaction patterns in prosecution memos. Found 2,235 redaction instances. Mapped fragments to victim identifiers: Victim-1 (35 instances, NY recruitment), Victim-2 (30 instances, FL recruitment), Victim-3 (11, paid $200/visit), Victim-4 (6, single incident). Most redacted pages: EFTA02731169 (31), EFTA02731135 (30), EFTA02731139/Dubin page (30). Output: `redaction_analysis.json`, `redaction_analysis.txt`.
+**Redaction Analysis** (`scripts/redaction_analysis.py`) — Maps redaction patterns in prosecution memos. Found 2,235 redaction instances. Mapped fragments to victim identifiers: Victim-1 (35 instances, NY recruitment), Victim-2 (30 instances, FL recruitment), Victim-3 (11, paid $200/visit), Victim-4 (6, single incident). Output: `data/redaction_analysis.json`, `data/redaction_analysis.txt`.
 
----
+**Financial Evidence** (`data/financial_evidence.txt`) — Complete evidence extraction for the financial deconstruction analysis, with OCR line numbers and EFTA markers.
 
-## QA Check (`qa_check.py`)
-
-Automated quality assurance script that validates the entire repo. Checks EFTA number consistency, cross-file consistency, link validation, claim consistency, Norwegian-English parity, source line completeness, and forbidden patterns. Run after any changes:
-
-    python3 tools/qa_check.py
+**Victim Profiles** (`data/victim_profiles.json`) — Structured victim contextual fingerprints from the cross-volume analysis.
