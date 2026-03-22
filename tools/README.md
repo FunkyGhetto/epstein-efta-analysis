@@ -73,3 +73,15 @@ SpaCy-based named entity extraction across all 18 OCR files.
 **`find_correct_efta.py`** — Extracts text from every page of a PDF independently (not from OCR files) and searches for key phrases. Used to discover and correct the off-by-one error in OCR-derived EFTA numbers.
 
 **`final_verify.py`** — Checks every EFTA number cited in the repo against actual PDF text. The sign-off script that confirmed all 16 key citations are correct. Output: 16/16 verified, 0 failures.
+
+---
+
+## Pattern Analysis (`analysis_outputs/`)
+
+Three automated analyses of the OCR text. Scripts and output files are included.
+
+**Money Trail** (`money_trail.py`) — Extracts dollar amounts with dates, payers, and recipients from all OCR files. Found 605 financial references, 180 in prosecution memos. Key pattern: $250K wire in December 2018 (Kahn→victim via Groff, 6 months before arrest), $100K after Miami Herald coverage, and Leon Black's $158M+ in tax advisory payments to Epstein over 2012–2017. Output: `money_trail.json`, `money_trail.txt`.
+
+**Phone Patterns** (`phone_patterns.py`) — Extracts phone numbers from CDR-containing files. Found 206 unique numbers. Most are institutional (court reporting, account services). Identified LSJE LLC numbers (340-775-8100/8108, Epstein's USVI company) and Palm Beach area code concentration (561). CDR call logs did not survive OCR well enough for cross-location analysis. Output: `phone_patterns.json`, `phone_patterns.txt`.
+
+**Redaction Analysis** (`redaction_analysis.py`) — Maps redaction patterns in prosecution memos. Found 2,235 redaction instances. Mapped fragments to victim identifiers: Victim-1 (35 instances, NY recruitment), Victim-2 (30 instances, FL recruitment), Victim-3 (11, paid $200/visit), Victim-4 (6, single incident). Most redacted pages: EFTA02731169 (31), EFTA02731135 (30), EFTA02731139/Dubin page (30). Output: `redaction_analysis.json`, `redaction_analysis.txt`.

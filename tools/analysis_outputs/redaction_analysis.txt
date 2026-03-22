@@ -1,0 +1,524 @@
+REDACTION PATTERN ANALYSIS
+Files analyzed: epstein_ren16.txt, epstein_ren17.txt
+Total redaction instances: 2235
+  Explicit [REDACTED]: 2
+  OCR fragments in name positions: 2233
+
+================================================================================
+TOP 30 REDACTION FRAGMENTS (OCR renders of redacted names)
+================================================================================
+
+  'she' — 425 occurrences across 123 pages
+    Co-occurs with: a, all, an, and, any, as, at, but, by, did, f, for, got, had, has, he, her, him, his, how, i, ia, if, in, it, iz, job, me, met, no, of, old, on, one, or, put, saw, sex, so, the, to, two, us, was, we, who
+    Pages: 2731001, 2731041, 2731042, 2731043, 2731044, 2731045, 2731046, 2731084, 2731085, 2731086... (+113 more)
+
+  'and' — 295 occurrences across 138 pages
+    Co-occurs with: a, all, an, any, are, as, at, but, by, did, f, far, for, got, had, has, he, her, him, his, how, i, ia, if, in, iz, job, met, no, old, on, one, or, put, saw, sex, she, so, the, to, two, us, was, we, who, why
+    Pages: 2730997, 2730998, 2730999, 2731002, 2731003, 2731008, 2731010, 2731011, 2731014, 2731019... (+128 more)
+
+  'to' — 150 occurrences across 89 pages
+    Co-occurs with: a, all, an, and, any, are, as, at, but, by, did, far, for, got, has, he, her, him, his, how, i, ia, if, in, is, job, met, no, old, on, or, sex, she, so, the, two, us, was, we, who
+    Pages: 2730998, 2731000, 2731002, 2731003, 2731005, 2731009, 2731012, 2731013, 2731017, 2731019... (+79 more)
+
+  'was' — 148 occurrences across 73 pages
+    Co-occurs with: a, and, as, did, f, far, got, had, his, i, ia, in, is, met, of, one, put, she, to, two, us, why
+    Pages: 2730976, 2730998, 2730999, 2731000, 2731003, 2731004, 2731006, 2731008, 2731009, 2731010... (+63 more)
+
+  'her' — 147 occurrences across 72 pages
+    Co-occurs with: a, all, an, and, any, has, how, i, ia, if, in, iz, met, of, old, she, to, two, us
+    Pages: 2731041, 2731042, 2731043, 2731044, 2731045, 2731084, 2731085, 2731086, 2731087, 2731088... (+62 more)
+
+  'he' — 93 occurrences across 61 pages
+    Co-occurs with: and, any, got, is, iz, job, me, old, on, she, so, to, us
+    Pages: 2730999, 2731002, 2731003, 2731007, 2731008, 2731009, 2731010, 2731012, 2731015, 2731016... (+51 more)
+
+  'for' — 72 occurrences across 49 pages
+    Co-occurs with: all, and, any, far, his, iz, she, to
+    Pages: 2730998, 2730999, 2731011, 2731014, 2731016, 2731019, 2731020, 2731021, 2731024, 2731031... (+39 more)
+
+  'it' — 71 occurrences across 49 pages
+    Co-occurs with: how, old, she
+    Pages: 2730997, 2730998, 2731003, 2731021, 2731028, 2731091, 2731096, 2731115, 2731116, 2731119... (+39 more)
+
+  'had' — 60 occurrences across 45 pages
+    Co-occurs with: and, far, is, met, no, of, old, saw, she, was, we
+    Pages: 2730997, 2730998, 2731001, 2731002, 2731003, 2731006, 2731007, 2731012, 2731013, 2731014... (+35 more)
+
+  'in' — 59 occurrences across 50 pages
+    Co-occurs with: and, are, far, has, her, his, on, she, to, us, was
+    Pages: 2731000, 2731002, 2731003, 2731011, 2731012, 2731014, 2731020, 2731031, 2731032, 2731037... (+40 more)
+
+  'i' — 59 occurrences across 42 pages
+    Co-occurs with: all, and, her, his, how, ia, one, she, to, two, was
+    Pages: 2731040, 2731090, 2731092, 2731094, 2731095, 2731096, 2731097, 2731100, 2731102, 2731103... (+32 more)
+
+  'who' — 56 occurrences across 46 pages
+    Co-occurs with: all, and, has, no, old, sex, she, to, us, why
+    Pages: 2731000, 2731005, 2731014, 2731040, 2731041, 2731043, 2731046, 2731084, 2731085, 2731091... (+36 more)
+
+  'as' — 52 occurrences across 36 pages
+    Co-occurs with: all, and, is, she, to, two, us, was
+    Pages: 2731000, 2731002, 2731003, 2731012, 2731020, 2731031, 2731036, 2731042, 2731070, 2731073... (+26 more)
+
+  'at' — 46 occurrences across 38 pages
+    Co-occurs with: all, and, iz, no, old, one, put, she, to
+    Pages: 2731001, 2731003, 2731013, 2731016, 2731045, 2731088, 2731090, 2731091, 2731094, 2731097... (+28 more)
+
+  'a' — 45 occurrences across 37 pages
+    Co-occurs with: and, her, how, ia, she, to, was, we
+    Pages: 2730998, 2730999, 2731002, 2731009, 2731019, 2731045, 2731091, 2731092, 2731094, 2731099... (+27 more)
+
+  'or' — 42 occurrences across 35 pages
+    Co-occurs with: and, are, job, sex, she, to
+    Pages: 2730997, 2730999, 2731005, 2731012, 2731017, 2731024, 2731040, 2731054, 2731088, 2731089... (+25 more)
+
+  'by' — 37 occurrences across 32 pages
+    Co-occurs with: and, any, far, she, to
+    Pages: 2731000, 2731012, 2731015, 2731019, 2731021, 2731025, 2731031, 2731037, 2731040, 2731042... (+22 more)
+
+  'but' — 27 occurrences across 25 pages
+    Co-occurs with: and, his, put, she, to
+    Pages: 2730997, 2731006, 2731019, 2731030, 2731031, 2731095, 2731104, 2731105, 2731108, 2731110... (+15 more)
+
+  'the' — 26 occurrences across 18 pages
+    Co-occurs with: and, his, sex, she, to
+    Pages: 2730999, 2731040, 2731070, 2731083, 2731093, 2731100, 2731117, 2731123, 2731132, 2731137... (+8 more)
+
+  'you' — 25 occurrences across 20 pages
+    Pages: 2731027, 2731036, 2731177, 2731352, 2731451, 2731476, 2731584, 2731589, 2731591, 2731597... (+10 more)
+
+  'him' — 19 occurrences across 17 pages
+    Co-occurs with: and, she, to
+    Pages: 2731001, 2731015, 2731043, 2731044, 2731046, 2731083, 2731086, 2731097, 2731105, 2731107... (+7 more)
+
+  'has' — 19 occurrences across 15 pages
+    Co-occurs with: and, her, in, she, to, who
+    Pages: 2731016, 2731040, 2731041, 2731042, 2731043, 2731084, 2731087, 2731132, 2731140, 2731143... (+5 more)
+
+  'if' — 19 occurrences across 13 pages
+    Co-occurs with: and, her, old, she, to
+    Pages: 2731091, 2731098, 2731099, 2731103, 2731104, 2731116, 2731117, 2731134, 2731228, 2731230... (+3 more)
+
+  'did' — 16 occurrences across 15 pages
+    Co-occurs with: and, put, she, to, two, was
+    Pages: 2731008, 2731044, 2731070, 2731090, 2731091, 2731096, 2731114, 2731127, 2731133, 2731144... (+5 more)
+
+  'ia' — 14 occurrences across 12 pages
+    Co-occurs with: a, and, her, i, she, to, two, was
+    Pages: 2731089, 2731096, 2731099, 2731100, 2731106, 2731108, 2731112, 2731114, 2731123, 2731131... (+2 more)
+
+  'me' — 14 occurrences across 8 pages
+    Co-occurs with: he, she
+    Pages: 2731255, 2731448, 2731516, 2731631, 2731642, 2731657, 2731722, 2731731
+
+  'on' — 13 occurrences across 13 pages
+    Co-occurs with: and, far, he, in, she, to
+    Pages: 2731002, 2731021, 2731031, 2731037, 2731085, 2731090, 2731093, 2731097, 2731109, 2731120... (+3 more)
+
+  'an' — 9 occurrences across 9 pages
+    Co-occurs with: and, her, she, to
+    Pages: 2731019, 2731041, 2731085, 2731107, 2731110, 2731121, 2731123, 2731211, 2731255
+
+  'far' — 7 occurrences across 6 pages
+    Co-occurs with: and, by, for, had, in, on, to, was
+    Pages: 2731012, 2731019, 2731021, 2731025, 2731031, 2731037
+
+  'met' — 7 occurrences across 6 pages
+    Co-occurs with: and, had, her, she, to, was
+    Pages: 2731092, 2731103, 2731144, 2731169, 2731187, 2731231
+
+================================================================================
+FRAGMENT GROUPS (fragments that appear on the same pages — likely same person)
+================================================================================
+
+  Group: {a, all, an, and, any, are, as, at, but, by, did, f, far, for, got, had, has, he, her, him, his, how, i, ia, if, in, iz, job, met, no, old, on, one, or, put, saw, sex, she, so, the, to, two, us, was, we, who, why}
+    Shared pages: 218
+
+  Group: {a, all, an, and, any, as, at, but, by, did, f, for, got, had, has, he, her, him, his, how, i, ia, if, in, it, iz, job, me, met, no, of, old, on, one, or, put, saw, sex, she, so, the, to, two, us, was, we, who}
+    Shared pages: 231
+
+  Group: {a, all, an, and, any, are, as, at, but, by, did, far, for, got, has, he, her, him, his, how, i, ia, if, in, is, job, met, no, old, on, or, sex, she, so, the, to, two, us, was, we, who}
+    Shared pages: 216
+
+  Group: {a, and, as, did, f, far, got, had, his, i, ia, in, is, met, of, one, put, she, to, two, us, was, why}
+    Shared pages: 200
+
+  Group: {a, all, an, and, any, has, her, how, i, ia, if, in, iz, met, of, old, she, to, two, us}
+    Shared pages: 193
+
+  Group: {and, any, got, he, is, iz, job, me, old, on, she, so, to, us}
+    Shared pages: 197
+
+  Group: {and, far, had, is, met, no, of, old, saw, she, was, we}
+    Shared pages: 194
+
+  Group: {and, are, far, has, her, his, in, on, she, to, us, was}
+    Shared pages: 198
+
+  Group: {all, and, her, his, how, i, ia, one, she, to, two, was}
+    Shared pages: 196
+
+  Group: {all, and, has, no, old, sex, she, to, us, who, why}
+    Shared pages: 194
+
+  Group: {and, at, had, he, her, if, it, old, she, to, who}
+    Shared pages: 217
+
+  Group: {and, but, for, his, i, in, she, the, to, was}
+    Shared pages: 200
+
+  Group: {and, as, he, her, in, she, to, us, was, who}
+    Shared pages: 207
+
+  Group: {and, as, did, her, i, ia, she, to, two, was}
+    Shared pages: 196
+
+  Group: {all, and, at, iz, no, old, one, put, she, to}
+    Shared pages: 188
+
+  Group: {all, and, as, at, for, her, i, she, to, who}
+    Shared pages: 200
+
+  Group: {a, and, her, how, ia, she, to, was, we}
+    Shared pages: 198
+
+  Group: {all, and, as, is, she, to, two, us, was}
+    Shared pages: 193
+
+  Group: {and, by, far, for, had, in, on, to, was}
+    Shared pages: 186
+
+  Group: {a, and, her, i, ia, she, to, two, was}
+    Shared pages: 197
+
+  Group: {all, and, any, far, for, his, iz, she, to}
+    Shared pages: 191
+
+  Group: {a, and, her, how, i, it, she, to}
+    Shared pages: 208
+
+  Group: {and, any, by, for, he, her, she, to}
+    Shared pages: 199
+
+  Group: {and, at, but, did, put, she, was}
+    Shared pages: 190
+
+  Group: {and, did, put, she, to, two, was}
+    Shared pages: 193
+
+  Group: {and, had, her, met, she, to, was}
+    Shared pages: 199
+
+  Group: {and, are, job, or, sex, she, to}
+    Shared pages: 188
+
+  Group: {and, far, he, in, on, she, to}
+    Shared pages: 196
+
+  Group: {and, at, had, no, she, to, who}
+    Shared pages: 198
+
+  Group: {and, has, her, in, she, to, who}
+    Shared pages: 197
+
+  Group: {and, or, sex, she, the, to, who}
+    Shared pages: 196
+
+  Group: {and, at, for, he, her, iz, she}
+    Shared pages: 196
+
+  Group: {as, had, he, is, to, was}
+    Shared pages: 144
+
+  Group: {and, got, he, she, to, was}
+    Shared pages: 199
+
+  Group: {and, at, i, one, she, was}
+    Shared pages: 189
+
+  Group: {and, but, his, put, she, to}
+    Shared pages: 187
+
+  Group: {and, his, sex, she, the, to}
+    Shared pages: 187
+
+  Group: {and, any, by, far, she, to}
+    Shared pages: 186
+
+  Group: {and, her, if, old, she, to}
+    Shared pages: 188
+
+  Group: {and, he, job, or, she, to}
+    Shared pages: 195
+
+  Group: {a, and, had, she, to, we}
+    Shared pages: 193
+
+  Group: {had, her, of, she, was}
+    Shared pages: 167
+
+  Group: {and, he, she, so, to}
+    Shared pages: 193
+
+  Group: {an, and, her, she, to}
+    Shared pages: 189
+
+  Group: {and, are, in, or, to}
+    Shared pages: 169
+
+  Group: {and, f, she, was}
+    Shared pages: 188
+
+  Group: {and, was, who, why}
+    Shared pages: 173
+
+  Group: {and, him, she, to}
+    Shared pages: 188
+
+  Group: {and, had, saw, she}
+    Shared pages: 183
+
+  Group: {how, it, old, she}
+    Shared pages: 147
+
+  Group: {he, me, she}
+    Shared pages: 146
+
+================================================================================
+VICTIM ↔ REDACTION MAPPING
+================================================================================
+
+  Jane Doe: 1 redaction instances
+    fragment:for: 1
+    [2731578] ...y has been hired by the defendant; happened in the Bill O'Reilly case o DWasked for the sources for ...
+
+  Victim Interview: 1 redaction instances
+    fragment:met: 1
+    [2731169] ...n she was fourteen y old and living in Several months after Maxwell and Epstein met i they began to ...
+
+  Victim Interviews: 11 redaction instances
+    fragment:she: 4
+    fragment:had: 2
+    fragment:and: 2
+    fragment:who: 1
+    fragment:at: 1
+    [2731041] ...n Manhattan during the relevant period. As described by at least one individual who was victimized i...
+    [2731169] ...them, and      tein        brought her to Epstein’s mansion in New York, where she was also abused. ...
+    [2731169] ...York, where she was also abused. As discussed in greater detail below, Maxwell had a significant rol...
+
+  Victim described: 1 redaction instances
+    fragment:and: 1
+    [2731489] ...bstance abuse problems in 1990s, preyed on by Epstein  Gave massages to Epstein and Black for money ...
+
+  Victim disc: 1 redaction instances
+    fragment:her: 1
+    [2731656] ...he gave her an envelope with 5K in cash and says | hope this helps © He called her again but she nev...
+
+  Victim disclosed: 4 redaction instances
+    fragment:a: 2
+    explicit: 1
+    fragment:her: 1
+    [2731656] ...bout phone messages unsealed in Maxwell civil cases that included messages for Leon, victim’s names ...
+    [2731656] ...lf from the Epstein scene. She said that she met  EFTA02731655  Gislane Maxwell a number of times at...
+    [2731730] ...he gave her an envelope with SK in cash and says | hope this helps. © He called her again but she ne...
+
+  Victim felt: 1 redaction instances
+    fragment:and: 1
+    [2731489] ...x toys in victim’s rectum and vagina. Victim felt severe pinching in her vagina and began bleeding f...
+
+  Victim is: 3 redaction instances
+    fragment:at: 2
+    fragment:and: 1
+    [2731656] ...n who introduced her to Epstein, described as blond and young e She met Epstein at his office in his...
+    [2731656] ...he met Epstein at his office in his townhouse and he knew that she needed money and was a single mot...
+    [2731730] ...n who introduced her to Epstein, described as blond and young - She met Epstein at his office in his...
+
+  Victim was: 3 redaction instances
+    fragment:her: 2
+    fragment:for: 1
+    [2731656] ...ct: Memo to File re Leon Black  8/17/21 Call with Jeanne Christensen  . i asked for more background ...
+    [2731656] ...ownhouse « Victim is supposed to be sending a photo of the woman who introduced her to Epstein, desc...
+    [2731730] ...ownhouse - Victim is supposed to be sending a photo of the woman who introduced her to Epstein, desc...
+
+  Victim-1: 35 redaction instances
+    fragment:she: 10
+    fragment:to: 5
+    fragment:her: 5
+    fragment:has: 3
+    fragment:in: 2
+    [2731041] ...the investigation and is represented by counsel. In several proffers, Victim-1 has described how she...
+    [2731041] ...and is represented by counsel. In several proffers, Victim-1 has described how she was recruited to ...
+    [2731041] ...d by counsel. In several proffers, Victim-1 has described how she was recruited to engage in sexual ...
+
+  Victim-2: 30 redaction instances
+    fragment:she: 12
+    fragment:her: 5
+    fragment:to: 4
+    fragment:him: 3
+    fragment:and: 2
+    [2731043] ...e also met with and interviewed two primary Florida-based victims, each of whom has described a gene...
+    [2731043] ...h their abuse, i.e., to schedule massages.     Victim-2  Victim-2 was recruited to be a victim when ...
+    [2731043] ...to schedule massages.     Victim-2  Victim-2 was recruited to be a victim when she was approximately...
+
+  Victim-3: 11 redaction instances
+    fragment:her: 4
+    fragment:she: 3
+    fragment:at: 1
+    fragment:in: 1
+    fragment:by: 1
+    [2731045] ...ceiving payments of $200 for each visit. Victim-3 recalls that she told Epstein her true age, and th...
+    [2731045] ...0 for each visit. Victim-3 recalls that she told Epstein her true age, and that she was 17 However, ...
+    [2731045] ...aken as to her age at the time, and indeed may have begun engaging with Epstein at the age of 16. Sp...
+
+  Victim-4: 6 redaction instances
+    fragment:who: 2
+    fragment:she: 2
+    fragment:him: 1
+    fragment:and: 1
+    [2731046] ...approaching these individuals until after charging  4 One additional individual who did speak to us,...
+    [2731046] ...ng  4 One additional individual who did speak to us, Victim-4, stated that when she was approximatel...
+    [2731046] ...0. During the massage, Epstein attempted to touch Victim-4’s buttocks. She told him not to touch her...
+
+  minor 1: 1 redaction instances
+    fragment:or: 1
+    [2731247] ...jury to find by a preponderance of the evidence that [the defendant] recruited or enticed the minor ...
+
+  victim DANY: 2 redaction instances
+    fragment:i: 1
+    fragment:she: 1
+    [2731690] ...2 closes a 10 them As to third victim, > open  **this is the victim DANY called i about few months a...
+    [2731690] ...it e Victim just retained Jeanne a few weeks ago  e Jeanne relayed to DANY that she was going to tal...
+
+  victim accounts: 5 redaction instances
+    fragment:her: 2
+    fragment:in: 1
+    fragment:i: 1
+    fragment:was: 1
+    [2731207] ...assage; and seoccibes UE having walked in on her performing oral sex on Epstein in a hallway in the ...
+    [2731207] ...oes not deny these victim accounts, and she  acknowledges : Epstei nat directed her to engage in sex...
+    [2731207] ...tei nat directed her to engage in sex acts and nude photo shoots  with others = i described that alt...
+
+  victim and: 3 redaction instances
+    fragment:and: 2
+    fragment:she: 1
+    [2731489] ...the name of Black, she did not participate in the Epstein case or fund  Epstein and Black used to ta...
+    [2731489] ...cipate in the Epstein case or fund  Epstein and Black used to talk about victim and described her as...
+    [2731489] ...im and described her as being 10; they knew about er  From 2001 to end of 2004, she was trafficked b...
+
+  victim did: 1 redaction instances
+    fragment:she: 1
+    [2731489] ...; brought to Manhattan townhouse  While she has always known the name of Black, she did not particip...
+
+  victim had: 1 redaction instances
+    fragment:as: 1
+    [2731489] ...viewed/participated in around two meetings with a lawyer  Victim viewed Maxwell as a mother figure b...
+
+  victim has: 8 redaction instances
+    fragment:and: 2
+    fragment:she: 1
+    fragment:has: 1
+    fragment:by: 1
+    fragment:or: 1
+    [2731140] ...number     of the men has publicly identified as people to whom she was “lent out” have vociferously...
+    [2731140] ...om she was “lent out” have vociferously denied her allegations. No other victim has described being ...
+    [2731140] ...denied her allegations. No other victim has described being expressly directed by either Maxwell or ...
+
+  victim in: 3 redaction instances
+    fragment:or: 1
+    fragment:are: 1
+    fragment:at: 1
+    [2731227] ...ws of multiple Epstein victims who previously either declined to be interviewed or had not previousl...
+    [2731227] ...ges we propose expanding and adding in a superseding indictment against Maxwell are based on the exp...
+    [2731227] ...eriences of one victim in particular named , Who was sexually abused by Epstein at his Palm Beach re...
+
+  victim now: 1 redaction instances
+    fragment:k: 1
+    [2731621] ...at she reached out  Thanks,     Subject: RE: Spinoff interview from Maxwell     k you for the update...
+
+  victim of: 10 redaction instances
+    fragment:she: 5
+    fragment:was: 2
+    fragment:and: 1
+    fragment:in: 1
+    fragment:who: 1
+    [2731129] ...in could have her deported with a single phone call to Brunel. In 2011, Epstein and Brunel refused t...
+    [2731129] ...one call to Brunel. In 2011, Epstein and Brunel refused to help renew visa, but she was able to obta...
+    [2731129] ...h her work a: ||  YY explained that for years she and both thought that Epstein was the  victim of a...
+
+  victim off: 2 redaction instances
+    fragment:and: 1
+    fragment:who: 1
+    [2731489] ...er EE  ° || had sex with men in front of victim || handed victim off to Maxwell and Epstein, victim ...
+    [2731489] ...20 and early 2021, officials were trying to interview underage girls            who had been on the ...
+
+  victim reported: 2 redaction instances
+    fragment:had: 2
+    [2731040] ...ly 2005, after the parents of a victim reported to law enforcement that Epstein had abused their dau...
+    [2731204] ...the FBI, after the parents of a victim reported to law enforcement that Epstein had abused their dau...
+
+  victim represented: 3 redaction instances
+    fragment:you: 3
+    [2731584] ...her attorney after the Maxwell trial. Based on our last conversation, | believe you had met with her...
+    [2731589] ...her attorney after the Maxwell trial. Based on our last conversation, | believe you had met with her...
+    [2731693] ...her attorney after the Maxwell trial. Based on our last conversation, | believe you had met with her...
+
+  victim testified: 2 redaction instances
+    fragment:and: 1
+    fragment:she: 1
+    [2731247] ...d by a FedEx invoice, establish by a preponderance of the evidence that Maxwell and Epstein each too...
+    [2731247] ...ficking conviction under 18 U.S.C. § 1591 where the minor victim testified that she was in SDNY when...
+
+  victim was: 2 redaction instances
+    fragment:it: 1
+    fragment:she: 1
+    [2731487] ...orted victimization by Black/GM/JE a while ago. | | looked at it but determined it was not viable fo...
+    [2731489] ...gs with a lawyer  Victim viewed Maxwell as a mother figure but describes things she did as mean; bel...
+
+  victim we: 1 redaction instances
+    fragment:you: 1
+    [2731476] ...Separately, did you end up writing anything up for the Leon Black review that you did? And/or could ...
+
+  victim who: 3 redaction instances
+    fragment:for: 2
+    fragment:who: 1
+    [2731043] ...1 also has identified several other girls she recruited, including at least one who was a victim and...
+    [2731583] ...e Epstein/Maxwell case? To be clear, we aren't suggesting investigating Maxwell for more crimes, but...
+    [2731663] ...e Epstein/Maxwell case? To be clear, we aren't suggesting investigating Maxwell for more  crimes, bu...
+
+  victim with: 1 redaction instances
+    fragment:age: 1
+    [2731182] ...ant knew that the intended sexual act would be unlawful because of the victim's age.        Intent R...
+
+  victim would: 5 redaction instances
+    fragment:she: 2
+    fragment:had: 1
+    fragment:saw: 1
+    fragment:the: 1
+    [2731243] ...supporting conscious avoidance would be strong, including the fact that Maxwell had to order taxis f...
+    [2731243] ...would be strong, including the fact that Maxwell had to order taxis for because she did not have a l...
+    [2731243] ...to order taxis for because she did not have a license and the fact that Maxwell saw fully nude when ...
+
+================================================================================
+EFTA PAGES WITH MOST REDACTIONS
+================================================================================
+
+  EFTA02731169: 31 redactions
+  EFTA02731135: 30 redactions
+  EFTA02731139: 30 redactions
+  EFTA02731096: 27 redactions
+  EFTA02731179: 27 redactions
+  EFTA02731090: 26 redactions
+  EFTA02731131: 26 redactions
+  EFTA02731134: 26 redactions
+  EFTA02731094: 24 redactions
+  EFTA02731117: 24 redactions
+  EFTA02731091: 23 redactions
+  EFTA02731114: 23 redactions
+  EFTA02731142: 23 redactions
+  EFTA02731176: 23 redactions
+  EFTA02731092: 22 redactions
+  EFTA02731170: 22 redactions
+  EFTA02731040: 21 redactions
+  EFTA02731042: 21 redactions
+  EFTA02731126: 21 redactions
+  EFTA02731177: 21 redactions
