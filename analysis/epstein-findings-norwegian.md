@@ -115,7 +115,7 @@ Memoet sier eksplisitt:
 
 > "IV. Cooperating Defendants — None currently. Following the filing of the initial indictment charging Epstein, we hope to approach other suspected and alleged co-conspirators, and to further develop evidence against such individuals through the overt investigation, with the possibility of utilizing certain such individuals as cooperating defendants."
 
-SDNYs strategi var å bruke Epsteins tiltale som brekkstang for å presse medskyldige til samarbeid. Epsteins død 10. august 2019 eliminerte denne strategien fullstendig. Maxwell ble til slutt tiltalt separat, men de andre navngitte — Groff, Dubin, Black, Staley — ble aldri formelt tilnærmet som potensielle samarbeidspartnere eller tiltalte.
+SDNYs strategi var å bruke Epsteins tiltale som brekkstang for å presse medskyldige til samarbeid. Epsteins død 10. august 2019 eliminerte denne strategien fullstendig. Maxwell ble til slutt tiltalt separat, men de andre navngitte — Groff, Dubin, Black, Staley — har ikke blitt formelt tilnærmet som potensielle samarbeidspartnere eller tiltalte, basert på det offentlige arkivet.
 
 ---
 

@@ -85,3 +85,11 @@ Three automated analyses of the OCR text. Scripts and output files are included.
 **Phone Patterns** (`phone_patterns.py`) — Extracts phone numbers from CDR-containing files. Found 206 unique numbers. Most are institutional (court reporting, account services). Identified LSJE LLC numbers (340-775-8100/8108, Epstein's USVI company) and Palm Beach area code concentration (561). CDR call logs did not survive OCR well enough for cross-location analysis. Output: `phone_patterns.json`, `phone_patterns.txt`.
 
 **Redaction Analysis** (`redaction_analysis.py`) — Maps redaction patterns in prosecution memos. Found 2,235 redaction instances. Mapped fragments to victim identifiers: Victim-1 (35 instances, NY recruitment), Victim-2 (30 instances, FL recruitment), Victim-3 (11, paid $200/visit), Victim-4 (6, single incident). Most redacted pages: EFTA02731169 (31), EFTA02731135 (30), EFTA02731139/Dubin page (30). Output: `redaction_analysis.json`, `redaction_analysis.txt`.
+
+---
+
+## QA Check (`qa_check.py`)
+
+Automated quality assurance script that validates the entire repo. Checks EFTA number consistency, cross-file consistency, link validation, claim consistency, Norwegian-English parity, source line completeness, and forbidden patterns. Run after any changes:
+
+    python3 tools/qa_check.py
