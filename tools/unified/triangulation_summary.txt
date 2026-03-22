@@ -1,0 +1,71 @@
+TRIANGULATION RESULTS
+============================================================
+
+Questions analyzed: 48
+Intersections (2+ shared data points): 51
+Cross-category intersections: 33
+Triangulation chains (strength >= 6): 50
+
+TOP 5 DENSEST INTERSECTIONS
+----------------------------------------
+
+1. [16 shared points, CROSS-CATEGORY]
+   Q1 [decision]: Why was Leslie Groff not charged? (gap: 8)
+   Q2 [financial]: What did Groff's $200K in wires pay for?
+   Shared: action:fifth_amendment, date:2018-12-01, efta:EFTA01940212, efta:EFTA02731133, date:2019-08-07
+
+2. [16 shared points, CROSS-CATEGORY]
+   Q1 [decision]: Why was Leslie Groff not charged? (gap: 8)
+   Q2 [financial]: Complete Butterfly Trust beneficiary list
+   Shared: action:fifth_amendment, date:2018-12-01, efta:EFTA01940212, efta:EFTA02731133, date:2019-08-07
+
+3. [16 shared points, CROSS-CATEGORY]
+   Q1 [decision]: Why was Leslie Groff not charged? (gap: 8)
+   Q2 [connection]: Did Groff's proffer information contribute to the Maxwell ca
+   Shared: action:fifth_amendment, date:2018-12-01, efta:EFTA01940212, efta:EFTA02731133, date:2019-08-07
+
+4. [16 shared points, CROSS-CATEGORY]
+   Q1 [financial]: What did Groff's $200K in wires pay for?
+   Q2 [connection]: Did Groff's proffer information contribute to the Maxwell ca
+   Shared: action:fifth_amendment, date:2018-12-01, efta:EFTA01940212, efta:EFTA02731133, date:2019-08-07
+
+5. [16 shared points, CROSS-CATEGORY]
+   Q1 [financial]: Complete Butterfly Trust beneficiary list
+   Q2 [connection]: Did Groff's proffer information contribute to the Maxwell ca
+   Shared: action:fifth_amendment, date:2018-12-01, efta:EFTA01940212, efta:EFTA02731133, date:2019-08-07
+
+TOP 3 TRIANGULATION CHAINS
+----------------------------------------
+
+1. Strength 38 | Categories: financial, connection, decision
+   TARGET: What did Groff's $200K in wires pay for?
+   STEP1:  Why was Leslie Groff not charged? (gap: 8)
+   STEP2:  Did Groff's proffer information contribute to the Maxwell case?
+
+2. Strength 38 | Categories: financial, connection, decision
+   TARGET: Did Groff's proffer information contribute to the Maxwell case?
+   STEP1:  Complete Butterfly Trust beneficiary list
+   STEP2:  Why was Leslie Groff not charged? (gap: 8)
+
+3. Strength 38 | Categories: financial, connection, decision
+   TARGET: Did Groff's proffer information contribute to the Maxwell case?
+   STEP1:  Why was Leslie Groff not charged? (gap: 8)
+   STEP2:  Complete Butterfly Trust beneficiary list
+
+CORPUS TEST RESULTS
+----------------------------------------
+Chain 0: NOVEL_CONNECTION (10 hits)
+  EFTA00432732: From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Ai
+Chain 1: NOVEL_CONNECTION (10 hits)
+  EFTA00432732: From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Ai
+Chain 2: NOVEL_CONNECTION (10 hits)
+  EFTA00432732: From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Ai
+Chain 3: NOVEL_CONNECTION (10 hits)
+  EFTA00432732: From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Ai
+Chain 4: NOVEL_CONNECTION (10 hits)
+  EFTA01755390: From:  Lesley Groff  Subject: Rich Kahn  Sent  Tuesday, November 5, 2013 12:10:20 PM  To:  Jefffrey 
+
+KEYSTONE ANALYSIS
+----------------------------------------
+Persons appearing in 4+ question categories are listed above.
+These are the points where answering ONE question ripples across the entire solve map.

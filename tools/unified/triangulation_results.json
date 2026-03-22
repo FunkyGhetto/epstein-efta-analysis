@@ -1,0 +1,2077 @@
+{
+  "questions_analyzed": 48,
+  "intersections_found": 51,
+  "cross_category_intersections": 33,
+  "chains_found": 50,
+  "chain_test_results": {
+    "breakthroughs": 0,
+    "novel_connections": 10,
+    "strengthening": 0,
+    "null": 0
+  },
+  "top_intersections": [
+    {
+      "q1_id": "decision_010",
+      "q1_question": "Why was Leslie Groff not charged? (gap: 8)",
+      "q1_category": "decision",
+      "q2_id": "financial_024",
+      "q2_question": "What did Groff's $200K in wires pay for?",
+      "q2_category": "financial",
+      "shared_count": 16,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "fifth_amendment"
+        },
+        {
+          "type": "date",
+          "value": "2018-12-01"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01940212"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731133"
+        },
+        {
+          "type": "date",
+          "value": "2019-08-07"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-18"
+        },
+        {
+          "type": "action",
+          "value": "schedule_massage"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01682023"
+        },
+        {
+          "type": "amount",
+          "value": "$100,000"
+        },
+        {
+          "type": "date",
+          "value": "2021-07-23"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "person",
+          "value": "Leslie Groff"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731146"
+        },
+        {
+          "type": "action",
+          "value": "email_victim"
+        },
+        {
+          "type": "amount",
+          "value": "$250,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "decision_010",
+      "q1_question": "Why was Leslie Groff not charged? (gap: 8)",
+      "q1_category": "decision",
+      "q2_id": "financial_026",
+      "q2_question": "Complete Butterfly Trust beneficiary list",
+      "q2_category": "financial",
+      "shared_count": 16,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "fifth_amendment"
+        },
+        {
+          "type": "date",
+          "value": "2018-12-01"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01940212"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731133"
+        },
+        {
+          "type": "date",
+          "value": "2019-08-07"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-18"
+        },
+        {
+          "type": "action",
+          "value": "schedule_massage"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01682023"
+        },
+        {
+          "type": "amount",
+          "value": "$100,000"
+        },
+        {
+          "type": "date",
+          "value": "2021-07-23"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "person",
+          "value": "Leslie Groff"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731146"
+        },
+        {
+          "type": "action",
+          "value": "email_victim"
+        },
+        {
+          "type": "amount",
+          "value": "$250,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "decision_010",
+      "q1_question": "Why was Leslie Groff not charged? (gap: 8)",
+      "q1_category": "decision",
+      "q2_id": "connection_046",
+      "q2_question": "Did Groff's proffer information contribute to the Maxwell ca",
+      "q2_category": "connection",
+      "shared_count": 16,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "fifth_amendment"
+        },
+        {
+          "type": "date",
+          "value": "2018-12-01"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01940212"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731133"
+        },
+        {
+          "type": "date",
+          "value": "2019-08-07"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-18"
+        },
+        {
+          "type": "action",
+          "value": "schedule_massage"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01682023"
+        },
+        {
+          "type": "amount",
+          "value": "$100,000"
+        },
+        {
+          "type": "date",
+          "value": "2021-07-23"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "person",
+          "value": "Leslie Groff"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731146"
+        },
+        {
+          "type": "action",
+          "value": "email_victim"
+        },
+        {
+          "type": "amount",
+          "value": "$250,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "financial_024",
+      "q1_question": "What did Groff's $200K in wires pay for?",
+      "q1_category": "financial",
+      "q2_id": "connection_046",
+      "q2_question": "Did Groff's proffer information contribute to the Maxwell ca",
+      "q2_category": "connection",
+      "shared_count": 16,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "fifth_amendment"
+        },
+        {
+          "type": "date",
+          "value": "2018-12-01"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01940212"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731133"
+        },
+        {
+          "type": "date",
+          "value": "2019-08-07"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-18"
+        },
+        {
+          "type": "action",
+          "value": "schedule_massage"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01682023"
+        },
+        {
+          "type": "amount",
+          "value": "$100,000"
+        },
+        {
+          "type": "date",
+          "value": "2021-07-23"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "person",
+          "value": "Leslie Groff"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731146"
+        },
+        {
+          "type": "action",
+          "value": "email_victim"
+        },
+        {
+          "type": "amount",
+          "value": "$250,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "financial_026",
+      "q1_question": "Complete Butterfly Trust beneficiary list",
+      "q1_category": "financial",
+      "q2_id": "connection_046",
+      "q2_question": "Did Groff's proffer information contribute to the Maxwell ca",
+      "q2_category": "connection",
+      "shared_count": 16,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "fifth_amendment"
+        },
+        {
+          "type": "date",
+          "value": "2018-12-01"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01940212"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731133"
+        },
+        {
+          "type": "date",
+          "value": "2019-08-07"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-18"
+        },
+        {
+          "type": "action",
+          "value": "schedule_massage"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01682023"
+        },
+        {
+          "type": "amount",
+          "value": "$100,000"
+        },
+        {
+          "type": "date",
+          "value": "2021-07-23"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "person",
+          "value": "Leslie Groff"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731146"
+        },
+        {
+          "type": "action",
+          "value": "email_victim"
+        },
+        {
+          "type": "amount",
+          "value": "$250,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "financial_024",
+      "q1_question": "What did Groff's $200K in wires pay for?",
+      "q1_category": "financial",
+      "q2_id": "financial_026",
+      "q2_question": "Complete Butterfly Trust beneficiary list",
+      "q2_category": "financial",
+      "shared_count": 16,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "fifth_amendment"
+        },
+        {
+          "type": "date",
+          "value": "2018-12-01"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01940212"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731133"
+        },
+        {
+          "type": "date",
+          "value": "2019-08-07"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-18"
+        },
+        {
+          "type": "action",
+          "value": "schedule_massage"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01682023"
+        },
+        {
+          "type": "amount",
+          "value": "$100,000"
+        },
+        {
+          "type": "date",
+          "value": "2021-07-23"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "person",
+          "value": "Leslie Groff"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731146"
+        },
+        {
+          "type": "action",
+          "value": "email_victim"
+        },
+        {
+          "type": "amount",
+          "value": "$250,000"
+        }
+      ],
+      "cross_category": false
+    },
+    {
+      "q1_id": "decision_012",
+      "q1_question": "Why was Leon Black not charged? (gap: 5)",
+      "q1_category": "decision",
+      "q2_id": "financial_022",
+      "q2_question": "Why did Black pay $158M for tax advice?",
+      "q2_category": "financial",
+      "shared_count": 14,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "payment"
+        },
+        {
+          "type": "person",
+          "value": "Leon Black"
+        },
+        {
+          "type": "action",
+          "value": "dany_investigation"
+        },
+        {
+          "type": "amount",
+          "value": "$158,000,000"
+        },
+        {
+          "type": "amount",
+          "value": "$23,500,000"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731477"
+        },
+        {
+          "type": "date",
+          "value": "2023-07-01"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731638"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731623"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02730998"
+        },
+        {
+          "type": "amount",
+          "value": "$62,500,000"
+        },
+        {
+          "type": "date",
+          "value": "2023-06-12"
+        },
+        {
+          "type": "date",
+          "value": "2013-02-15"
+        },
+        {
+          "type": "action",
+          "value": "ht_referral"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "decision_011",
+      "q1_question": "Why was Les Wexner not charged? (gap: 6)",
+      "q1_category": "decision",
+      "q2_id": "financial_020",
+      "q2_question": "Where did Wexner's stolen money go after Epstein had it?",
+      "q2_category": "financial",
+      "shared_count": 13,
+      "shared_points": [
+        {
+          "type": "date",
+          "value": "2019-07-25"
+        },
+        {
+          "type": "action",
+          "value": "proffer_attorneys"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731070"
+        },
+        {
+          "type": "amount",
+          "value": "$55-86M"
+        },
+        {
+          "type": "date",
+          "value": "1998"
+        },
+        {
+          "type": "action",
+          "value": "settlement"
+        },
+        {
+          "type": "amount",
+          "value": "$100,000,000"
+        },
+        {
+          "type": "action",
+          "value": "power_of_attorney"
+        },
+        {
+          "type": "date",
+          "value": "1991"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731147"
+        },
+        {
+          "type": "date",
+          "value": "2008-01-01"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA02731146"
+        },
+        {
+          "type": "person",
+          "value": "Les Wexner"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "decision_019",
+      "q1_question": "Why was Larry Visoski not charged? (gap: 2.0)",
+      "q1_category": "decision",
+      "q2_id": "connection_031",
+      "q2_question": "What connects Larry Visoski and Donald Trump? (184 shared pa",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "decision_019",
+      "q1_question": "Why was Larry Visoski not charged? (gap: 2.0)",
+      "q1_category": "decision",
+      "q2_id": "connection_032",
+      "q2_question": "What connects Larry Visoski and George Mitchell? (19 shared ",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "decision_019",
+      "q1_question": "Why was Larry Visoski not charged? (gap: 2.0)",
+      "q1_category": "decision",
+      "q2_id": "connection_033",
+      "q2_question": "What connects Larry Visoski and Ehud Barak? (29 shared pages",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "decision_019",
+      "q1_question": "Why was Larry Visoski not charged? (gap: 2.0)",
+      "q1_category": "decision",
+      "q2_id": "connection_034",
+      "q2_question": "What connects Larry Visoski and Bill Richardson? (14 shared ",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "decision_019",
+      "q1_question": "Why was Larry Visoski not charged? (gap: 2.0)",
+      "q1_category": "decision",
+      "q2_id": "connection_035",
+      "q2_question": "What connects Larry Visoski and Sarah Kellen? (77 shared pag",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": true
+    },
+    {
+      "q1_id": "connection_031",
+      "q1_question": "What connects Larry Visoski and Donald Trump? (184 shared pa",
+      "q1_category": "connection",
+      "q2_id": "connection_032",
+      "q2_question": "What connects Larry Visoski and George Mitchell? (19 shared ",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": false
+    },
+    {
+      "q1_id": "connection_031",
+      "q1_question": "What connects Larry Visoski and Donald Trump? (184 shared pa",
+      "q1_category": "connection",
+      "q2_id": "connection_033",
+      "q2_question": "What connects Larry Visoski and Ehud Barak? (29 shared pages",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": false
+    },
+    {
+      "q1_id": "connection_031",
+      "q1_question": "What connects Larry Visoski and Donald Trump? (184 shared pa",
+      "q1_category": "connection",
+      "q2_id": "connection_034",
+      "q2_question": "What connects Larry Visoski and Bill Richardson? (14 shared ",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": false
+    },
+    {
+      "q1_id": "connection_031",
+      "q1_question": "What connects Larry Visoski and Donald Trump? (184 shared pa",
+      "q1_category": "connection",
+      "q2_id": "connection_035",
+      "q2_question": "What connects Larry Visoski and Sarah Kellen? (77 shared pag",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": false
+    },
+    {
+      "q1_id": "connection_032",
+      "q1_question": "What connects Larry Visoski and George Mitchell? (19 shared ",
+      "q1_category": "connection",
+      "q2_id": "connection_033",
+      "q2_question": "What connects Larry Visoski and Ehud Barak? (29 shared pages",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": false
+    },
+    {
+      "q1_id": "connection_032",
+      "q1_question": "What connects Larry Visoski and George Mitchell? (19 shared ",
+      "q1_category": "connection",
+      "q2_id": "connection_034",
+      "q2_question": "What connects Larry Visoski and Bill Richardson? (14 shared ",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": false
+    },
+    {
+      "q1_id": "connection_032",
+      "q1_question": "What connects Larry Visoski and George Mitchell? (19 shared ",
+      "q1_category": "connection",
+      "q2_id": "connection_035",
+      "q2_question": "What connects Larry Visoski and Sarah Kellen? (77 shared pag",
+      "q2_category": "connection",
+      "shared_count": 10,
+      "shared_points": [
+        {
+          "type": "action",
+          "value": "flight_coordination"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01808978"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA00159723"
+        },
+        {
+          "type": "date",
+          "value": "2019-07-02"
+        },
+        {
+          "type": "person",
+          "value": "Lawrence Visoski"
+        },
+        {
+          "type": "action",
+          "value": "cbp_witness"
+        },
+        {
+          "type": "date",
+          "value": "2020-10-07"
+        },
+        {
+          "type": "efta",
+          "value": "EFTA01287035"
+        },
+        {
+          "type": "action",
+          "value": "proffer"
+        },
+        {
+          "type": "amount",
+          "value": "$225,000"
+        }
+      ],
+      "cross_category": false
+    }
+  ],
+  "top_chains": [
+    {
+      "target": {
+        "id": "financial_024",
+        "question": "What did Groff's $200K in wires pay for?",
+        "category": "financial"
+      },
+      "step1": {
+        "id": "decision_010",
+        "question": "Why was Leslie Groff not charged? (gap: 8)",
+        "category": "decision"
+      },
+      "step2": {
+        "id": "connection_046",
+        "question": "Did Groff's proffer information contribute to the Maxwell case?",
+        "category": "connection"
+      },
+      "categories_touched": [
+        "financial",
+        "connection",
+        "decision"
+      ],
+      "strength": 38,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "connection_046",
+        "question": "Did Groff's proffer information contribute to the Maxwell case?",
+        "category": "connection"
+      },
+      "step1": {
+        "id": "financial_026",
+        "question": "Complete Butterfly Trust beneficiary list",
+        "category": "financial"
+      },
+      "step2": {
+        "id": "decision_010",
+        "question": "Why was Leslie Groff not charged? (gap: 8)",
+        "category": "decision"
+      },
+      "categories_touched": [
+        "financial",
+        "connection",
+        "decision"
+      ],
+      "strength": 38,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "connection_046",
+        "question": "Did Groff's proffer information contribute to the Maxwell case?",
+        "category": "connection"
+      },
+      "step1": {
+        "id": "decision_010",
+        "question": "Why was Leslie Groff not charged? (gap: 8)",
+        "category": "decision"
+      },
+      "step2": {
+        "id": "financial_026",
+        "question": "Complete Butterfly Trust beneficiary list",
+        "category": "financial"
+      },
+      "categories_touched": [
+        "financial",
+        "connection",
+        "decision"
+      ],
+      "strength": 38,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "connection_046",
+        "question": "Did Groff's proffer information contribute to the Maxwell case?",
+        "category": "connection"
+      },
+      "step1": {
+        "id": "decision_010",
+        "question": "Why was Leslie Groff not charged? (gap: 8)",
+        "category": "decision"
+      },
+      "step2": {
+        "id": "financial_024",
+        "question": "What did Groff's $200K in wires pay for?",
+        "category": "financial"
+      },
+      "categories_touched": [
+        "financial",
+        "connection",
+        "decision"
+      ],
+      "strength": 38,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "financial_024",
+        "question": "What did Groff's $200K in wires pay for?",
+        "category": "financial"
+      },
+      "step1": {
+        "id": "financial_026",
+        "question": "Complete Butterfly Trust beneficiary list",
+        "category": "financial"
+      },
+      "step2": {
+        "id": "decision_010",
+        "question": "Why was Leslie Groff not charged? (gap: 8)",
+        "category": "decision"
+      },
+      "categories_touched": [
+        "financial",
+        "decision"
+      ],
+      "strength": 36,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "financial_024",
+        "question": "What did Groff's $200K in wires pay for?",
+        "category": "financial"
+      },
+      "step1": {
+        "id": "financial_026",
+        "question": "Complete Butterfly Trust beneficiary list",
+        "category": "financial"
+      },
+      "step2": {
+        "id": "connection_046",
+        "question": "Did Groff's proffer information contribute to the Maxwell case?",
+        "category": "connection"
+      },
+      "categories_touched": [
+        "financial",
+        "connection"
+      ],
+      "strength": 36,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "financial_024",
+        "question": "What did Groff's $200K in wires pay for?",
+        "category": "financial"
+      },
+      "step1": {
+        "id": "decision_010",
+        "question": "Why was Leslie Groff not charged? (gap: 8)",
+        "category": "decision"
+      },
+      "step2": {
+        "id": "financial_026",
+        "question": "Complete Butterfly Trust beneficiary list",
+        "category": "financial"
+      },
+      "categories_touched": [
+        "financial",
+        "decision"
+      ],
+      "strength": 36,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "connection_046",
+        "question": "Did Groff's proffer information contribute to the Maxwell case?",
+        "category": "connection"
+      },
+      "step1": {
+        "id": "financial_026",
+        "question": "Complete Butterfly Trust beneficiary list",
+        "category": "financial"
+      },
+      "step2": {
+        "id": "financial_024",
+        "question": "What did Groff's $200K in wires pay for?",
+        "category": "financial"
+      },
+      "categories_touched": [
+        "financial",
+        "connection"
+      ],
+      "strength": 36,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "financial_024",
+        "question": "What did Groff's $200K in wires pay for?",
+        "category": "financial"
+      },
+      "step1": {
+        "id": "decision_010",
+        "question": "Why was Leslie Groff not charged? (gap: 8)",
+        "category": "decision"
+      },
+      "step2": {
+        "id": "decision_016",
+        "question": "Why was Rich Kahn not charged? (gap: 3.4)",
+        "category": "decision"
+      },
+      "categories_touched": [
+        "financial",
+        "decision"
+      ],
+      "strength": 27,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:wire_transfer",
+        "date:2018-12-01",
+        "efta:EFTA02731133",
+        "person:Rich Kahn",
+        "efta:EFTA01287035",
+        "action:accountant",
+        "amount:$250,000"
+      ]
+    },
+    {
+      "target": {
+        "id": "connection_046",
+        "question": "Did Groff's proffer information contribute to the Maxwell case?",
+        "category": "connection"
+      },
+      "step1": {
+        "id": "decision_010",
+        "question": "Why was Leslie Groff not charged? (gap: 8)",
+        "category": "decision"
+      },
+      "step2": {
+        "id": "decision_016",
+        "question": "Why was Rich Kahn not charged? (gap: 3.4)",
+        "category": "decision"
+      },
+      "categories_touched": [
+        "connection",
+        "decision"
+      ],
+      "strength": 27,
+      "shared_12": [
+        "action:fifth_amendment",
+        "date:2018-12-01",
+        "efta:EFTA01940212",
+        "efta:EFTA02731133",
+        "date:2019-08-07",
+        "date:2019-07-02",
+        "date:2019-07-18",
+        "action:schedule_massage",
+        "efta:EFTA01682023",
+        "amount:$100,000",
+        "date:2021-07-23",
+        "action:proffer",
+        "person:Leslie Groff",
+        "efta:EFTA02731146",
+        "action:email_victim",
+        "amount:$250,000"
+      ],
+      "shared_23": [
+        "action:wire_transfer",
+        "date:2018-12-01",
+        "efta:EFTA02731133",
+        "person:Rich Kahn",
+        "efta:EFTA01287035",
+        "action:accountant",
+        "amount:$250,000"
+      ]
+    }
+  ],
+  "chain_corpus_results": [
+    {
+      "chain_index": 0,
+      "persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "query_persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA00432732",
+          "text": "From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Air  Date: Wed, 08 Jun 2011 19:18:31 -4)000  Attachm"
+        },
+        {
+          "efta": "EFTA01246216",
+          "text": "FD.3022 (Rev. 5\u2022&10)  50D-NY-3027571  Contumation of FD.302 of (U) Proffer of LESLEY GROFF  07/23/2021  page  2 of 9  same day; it was a normal interv"
+        },
+        {
+          "efta": "EFTA01245766",
+          "text": "\u2022  \u2022  \u2022  \u2022  \u2022  Accounting Office  Accounting Officc,conf. table  Building  Bella Klein  Cecilia Steen  Darren Indyke  Rich Kahn  Ghislaine Maxwell-no "
+        }
+      ]
+    },
+    {
+      "chain_index": 1,
+      "persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "query_persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA00432732",
+          "text": "From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Air  Date: Wed, 08 Jun 2011 19:18:31 -4)000  Attachm"
+        },
+        {
+          "efta": "EFTA01246216",
+          "text": "FD.3022 (Rev. 5\u2022&10)  50D-NY-3027571  Contumation of FD.302 of (U) Proffer of LESLEY GROFF  07/23/2021  page  2 of 9  same day; it was a normal interv"
+        },
+        {
+          "efta": "EFTA01245766",
+          "text": "\u2022  \u2022  \u2022  \u2022  \u2022  Accounting Office  Accounting Officc,conf. table  Building  Bella Klein  Cecilia Steen  Darren Indyke  Rich Kahn  Ghislaine Maxwell-no "
+        }
+      ]
+    },
+    {
+      "chain_index": 2,
+      "persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "query_persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA00432732",
+          "text": "From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Air  Date: Wed, 08 Jun 2011 19:18:31 -4)000  Attachm"
+        },
+        {
+          "efta": "EFTA01246216",
+          "text": "FD.3022 (Rev. 5\u2022&10)  50D-NY-3027571  Contumation of FD.302 of (U) Proffer of LESLEY GROFF  07/23/2021  page  2 of 9  same day; it was a normal interv"
+        },
+        {
+          "efta": "EFTA01245766",
+          "text": "\u2022  \u2022  \u2022  \u2022  \u2022  Accounting Office  Accounting Officc,conf. table  Building  Bella Klein  Cecilia Steen  Darren Indyke  Rich Kahn  Ghislaine Maxwell-no "
+        }
+      ]
+    },
+    {
+      "chain_index": 3,
+      "persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "query_persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA00432732",
+          "text": "From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Air  Date: Wed, 08 Jun 2011 19:18:31 -4)000  Attachm"
+        },
+        {
+          "efta": "EFTA01246216",
+          "text": "FD.3022 (Rev. 5\u2022&10)  50D-NY-3027571  Contumation of FD.302 of (U) Proffer of LESLEY GROFF  07/23/2021  page  2 of 9  same day; it was a normal interv"
+        },
+        {
+          "efta": "EFTA01245766",
+          "text": "\u2022  \u2022  \u2022  \u2022  \u2022  Accounting Office  Accounting Officc,conf. table  Building  Bella Klein  Cecilia Steen  Darren Indyke  Rich Kahn  Ghislaine Maxwell-no "
+        }
+      ]
+    },
+    {
+      "chain_index": 4,
+      "persons": [
+        "Groff",
+        "Kahn"
+      ],
+      "query_persons": [
+        "Groff",
+        "Kahn"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA01755390",
+          "text": "From:  Lesley Groff  Subject: Rich Kahn  Sent  Tuesday, November 5, 2013 12:10:20 PM  To:  Jefffrey Epstein leevacationegmaitcom>  Rich Kahn would lik"
+        },
+        {
+          "efta": "EFTA02098235",
+          "text": "To:  Lesley Groft  From:  Richard Kahn  Sent  Wed 9/17/2014 1:52:26 PM  Subject: Re:  she also was in new mexico when jee was there..  Richard Kahn  H"
+        },
+        {
+          "efta": "EFTA02098235",
+          "text": "Was she paying for al travel on her end or did we  put anything on our credit cards?  From: Lesley Groff  Date: Wed, 17 Sep 2014 07:56:49 -0400  To: R"
+        }
+      ]
+    },
+    {
+      "chain_index": 5,
+      "persons": [
+        "Groff",
+        "Maxwell"
+      ],
+      "query_persons": [
+        "Groff",
+        "Maxwell"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA02142411",
+          "text": "To:  From:  Sent:  Subject: Re: Slippers for JE  Wed 4/3/2013 2:42:42 PM  Title: Re: Slippers for JE Ms. M does not recall where she had the slippers "
+        },
+        {
+          "efta": "EFTA02142428",
+          "text": "see below and let me know if you  can advise. Thanks les  Sent from my iPhone  Begin forwarded message:  From: Karyna Shuliak  Date: April 3, 2013, 9:"
+        },
+        {
+          "efta": "EFTA02062851",
+          "text": "To:  From:  Lesley Groff  Sent  Fri 1/22/2016 6:00:28 PM  Subject:  Re: Amex calls Re Ghislaine's card?  great!! hope you are well too!  On Jan 22, 20"
+        }
+      ]
+    },
+    {
+      "chain_index": 6,
+      "persons": [
+        "Groff",
+        "Kahn"
+      ],
+      "query_persons": [
+        "Groff",
+        "Kahn"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA01755390",
+          "text": "From:  Lesley Groff  Subject: Rich Kahn  Sent  Tuesday, November 5, 2013 12:10:20 PM  To:  Jefffrey Epstein leevacationegmaitcom>  Rich Kahn would lik"
+        },
+        {
+          "efta": "EFTA02098235",
+          "text": "To:  Lesley Groft  From:  Richard Kahn  Sent  Wed 9/17/2014 1:52:26 PM  Subject: Re:  she also was in new mexico when jee was there..  Richard Kahn  H"
+        },
+        {
+          "efta": "EFTA02098235",
+          "text": "Was she paying for al travel on her end or did we  put anything on our credit cards?  From: Lesley Groff  Date: Wed, 17 Sep 2014 07:56:49 -0400  To: R"
+        }
+      ]
+    },
+    {
+      "chain_index": 7,
+      "persons": [
+        "Groff",
+        "Maxwell"
+      ],
+      "query_persons": [
+        "Groff",
+        "Maxwell"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA02142411",
+          "text": "To:  From:  Sent:  Subject: Re: Slippers for JE  Wed 4/3/2013 2:42:42 PM  Title: Re: Slippers for JE Ms. M does not recall where she had the slippers "
+        },
+        {
+          "efta": "EFTA02142428",
+          "text": "see below and let me know if you  can advise. Thanks les  Sent from my iPhone  Begin forwarded message:  From: Karyna Shuliak  Date: April 3, 2013, 9:"
+        },
+        {
+          "efta": "EFTA02062851",
+          "text": "To:  From:  Lesley Groff  Sent  Fri 1/22/2016 6:00:28 PM  Subject:  Re: Amex calls Re Ghislaine's card?  great!! hope you are well too!  On Jan 22, 20"
+        }
+      ]
+    },
+    {
+      "chain_index": 8,
+      "persons": [
+        "Groff",
+        "Kahn"
+      ],
+      "query_persons": [
+        "Groff",
+        "Kahn"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA01755390",
+          "text": "From:  Lesley Groff  Subject: Rich Kahn  Sent  Tuesday, November 5, 2013 12:10:20 PM  To:  Jefffrey Epstein leevacationegmaitcom>  Rich Kahn would lik"
+        },
+        {
+          "efta": "EFTA02098235",
+          "text": "To:  Lesley Groft  From:  Richard Kahn  Sent  Wed 9/17/2014 1:52:26 PM  Subject: Re:  she also was in new mexico when jee was there..  Richard Kahn  H"
+        },
+        {
+          "efta": "EFTA02098235",
+          "text": "Was she paying for al travel on her end or did we  put anything on our credit cards?  From: Lesley Groff  Date: Wed, 17 Sep 2014 07:56:49 -0400  To: R"
+        }
+      ]
+    },
+    {
+      "chain_index": 9,
+      "persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "query_persons": [
+        "Groff",
+        "Maxwell",
+        "Kahn"
+      ],
+      "hits": 10,
+      "classification": "NOVEL_CONNECTION",
+      "sample_results": [
+        {
+          "efta": "EFTA00432732",
+          "text": "From: Richard Kahn <  To: Lesley Groff  Cc: Darren Indyke  Subject: Fwd: Flight Options - Freedom Air  Date: Wed, 08 Jun 2011 19:18:31 -4)000  Attachm"
+        },
+        {
+          "efta": "EFTA01246216",
+          "text": "FD.3022 (Rev. 5\u2022&10)  50D-NY-3027571  Contumation of FD.302 of (U) Proffer of LESLEY GROFF  07/23/2021  page  2 of 9  same day; it was a normal interv"
+        },
+        {
+          "efta": "EFTA01245766",
+          "text": "\u2022  \u2022  \u2022  \u2022  \u2022  Accounting Office  Accounting Officc,conf. table  Building  Bella Klein  Cecilia Steen  Darren Indyke  Rich Kahn  Ghislaine Maxwell-no "
+        }
+      ]
+    }
+  ],
+  "keystones": "No single person appears in all 5 categories"
+}
