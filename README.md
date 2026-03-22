@@ -75,6 +75,7 @@ This project has been cross-referenced against the full 2.89M-page EFTA corpus a
 
 | File | Description |
 |------|-------------|
+| **`analysis/complete-findings-english.md`** | **The complete findings document. Start here.** Everything verified and cross-referenced, written for journalists, researchers, and congressional staff. |
 | `analysis/epstein-v4-english.md` | Complete analysis (~2,400 words). All findings integrated with four evidence levels. |
 | `analysis/epstein-findings-english.md` | Detailed findings report (~4,500 words). Full EFTA sourcing, redaction analysis, identity reconstruction. |
 | `analysis/epstein-v4-norwegian.md` | Norwegian original of v4. |
