@@ -458,7 +458,7 @@ The Acosta interview spans two days (October 2019, Washington, D.C.) and covers:
 - He was "firm on two years" but ended at 18 months — cannot explain how
 - He applied "petite policy" — not what constituted adequate punishment, but whether the state sentence was so unreasonable that federal intervention was necessary
 - He denies the intelligence connection explicitly: "I'm not aware of it" and "the answer is no, and no"
-- Groff and Brunel both invoked the Fifth Amendment and refused proffers. SDNY warned Groff they would not offer a deal without a proffer.
+- Groff initially invoked the Fifth Amendment and refused to proffer (August 2019). However, a proffer agreement dated July 23, 2021 was subsequently discovered in the corpus (EFTA01682023, DS10), indicating she did eventually proffer with SDNY under Acting U.S. Attorney Audrey Strauss. Brunel invoked the Fifth Amendment and refused to proffer. SDNY warned both they would not offer deals without proffers.
 - Wexner was the only one who provided a proffer (through attorneys)
 
 ### O. Groff Was Active Until the End

@@ -4,7 +4,7 @@
 
 ## Summary
 
-Leslie Groff worked as Epstein's primary New York-based assistant from at least 2001 through the summer of 2019 — eighteen years spanning the entire period of known abuse. She is named by virtually every victim in the SDNY prosecution memo as the person who scheduled their massages. SDNY gave her a reverse proffer two weeks after Epstein's arrest. Her attorney refused to bring her in and advised her to invoke the Fifth Amendment. She was never indicted.
+Leslie Groff worked as Epstein's primary New York-based assistant from at least 2001 through the summer of 2019 — eighteen years spanning the entire period of known abuse. She is named by virtually every victim in the SDNY prosecution memo as the person who scheduled their massages. SDNY gave her a reverse proffer two weeks after Epstein's arrest. Her attorney initially refused to bring her in and advised her to invoke the Fifth Amendment (August 2019). However, a proffer agreement discovered in the corpus (EFTA01682023, DS10) shows she did proffer with SDNY on July 23, 2021 — 21 months later. She was never indicted.
 
 This document assembles every Groff reference from the VOL00012 prosecution memos with cross-volume data from rhowardstone's analysis to reconstruct what SDNY knew and what they planned to do about it.
 
