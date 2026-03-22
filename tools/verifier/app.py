@@ -151,10 +151,15 @@ def render_pdf_page_to_png(pdf_path, page_index, dpi=200):
 
 
 def find_ocr_text(efta_num):
-    """Find the OCR text block for a given EFTA number from the ocr/ files."""
-    efta_str = f"EFTA{efta_num:08d}"
-    # Also try without leading zeros — some OCR might vary
-    efta_patterns = [efta_str, f"EFTA{efta_num}"]
+    """Find the OCR text block for a given EFTA number from the ocr/ files.
+
+    OCR markers are page footers captured AFTER the page body text.
+    So the marker EFTA02731138 appears at the end of page 02731138's text,
+    meaning the content BETWEEN marker (N-1) and marker N is the actual
+    body text of page N.  To get text for page 02731139, we find the
+    EFTA02731138 marker and return everything from there up to EFTA02731139.
+    """
+    prev_num = efta_num - 1  # the marker that precedes our page's content
 
     ocr_files = sorted(glob.glob(os.path.join(OCR_DIR, "epstein_ren*.txt")))
 
@@ -162,28 +167,22 @@ def find_ocr_text(efta_num):
         with open(ocr_path, "r", encoding="utf-8", errors="replace") as f:
             content = f.read()
 
-        for pattern in efta_patterns:
-            if pattern not in content:
-                continue
+        marker_re = re.compile(r"EFTA\d{5,8}")
+        positions = [(m.start(), m.end(), int(m.group().replace("EFTA", "")))
+                     for m in marker_re.finditer(content)]
 
-            # Find all EFTA markers in the file to extract the right section
-            # Look for the target marker and grab text until the next EFTA marker
-            marker_re = re.compile(r"EFTA\d{5,8}")
-            positions = [(m.start(), m.group()) for m in marker_re.finditer(content)]
-
-            for i, (pos, marker) in enumerate(positions):
-                marker_num = int(marker.replace("EFTA", ""))
-                if marker_num == efta_num:
-                    start = pos
-                    # Find end: next EFTA marker or +3000 chars, whichever first
-                    if i + 1 < len(positions):
-                        end = positions[i + 1][0]
-                    else:
-                        end = start + 3000
-                    # Cap at reasonable length
-                    end = min(end, start + 5000)
-                    text = content[start:end].strip()
-                    return text, os.path.basename(ocr_path)
+        for i, (pos, end_pos, marker_num) in enumerate(positions):
+            if marker_num == prev_num:
+                # Start of our page's text is right after the (N-1) marker
+                start = end_pos
+                # End is at the N marker (our EFTA number) or +5000
+                if i + 1 < len(positions):
+                    end = positions[i + 1][0]
+                else:
+                    end = start + 5000
+                end = min(end, start + 5000)
+                text = content[start:end].strip()
+                return text, os.path.basename(ocr_path)
 
     return None, None
 
