@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-03-22T10:11:29.823552",
+  "commit_count": 58,
+  "persons_tracked": 22,
+  "analysis_files": 10,
+  "citations_verified": "56/56 against corpus",
+  "proffer_count": 78,
+  "leads_total": 544,
+  "leads_high": 53,
+  "solve_percentage": 38,
+  "total_questions": 73,
+  "genuinely_new_findings": [
+    "No client accounts (EFTA02731148) \u2014 not in any other EFTA project",
+    "Groff proffer agreement (EFTA01682023) \u2014 not cited by rhowardstone",
+    "78-proffer complete mapping \u2014 not attempted by any other project",
+    "Groff corpus scheduling emails (4 EFTAs) \u2014 not in rhowardstone",
+    "18 excised pages structural skeleton \u2014 section headings and legal framework mapped",
+    "Page 75 joint charging evaluation: 'Groff and/or Maxwell with a federal crime'",
+    "Footnote 61: JP Morgan Staley messages corroborate victim account",
+    "Off-by-one OCR marker methodology",
+    "Section D confirmed missing from release (not OCR failure)",
+    "Linguistic pattern: hedging predicts non-charging across all persons"
+  ],
+  "walls": [
+    "Section D content excised",
+    "Section A identity excised",
+    "Proffer content protected",
+    "18 excised pages",
+    "AUSA names redacted",
+    "71 redacted profferors",
+    "Offshore accounts not discussed"
+  ],
+  "red_thread_top10": [
+    {
+      "name": "Leslie Groff",
+      "evidence": 7.5,
+      "action": 1,
+      "gap": 6.5
+    },
+    {
+      "name": "Leon Black",
+      "evidence": 5.5,
+      "action": 1,
+      "gap": 4.5
+    },
+    {
+      "name": "Prince Andrew",
+      "evidence": 4.8,
+      "action": 1,
+      "gap": 3.8
+    },
+    {
+      "name": "Jes Staley",
+      "evidence": 4.3,
+      "action": 1,
+      "gap": 3.3
+    },
+    {
+      "name": "Les Wexner",
+      "evidence": 4.0,
+      "action": 1,
+      "gap": 3.0
+    },
+    {
+      "name": "David Rodgers",
+      "evidence": 4.0,
+      "action": 1,
+      "gap": 3.0
+    },
+    {
+      "name": "Harvey Weinstein",
+      "evidence": 3.6,
+      "action": 1,
+      "gap": 2.6
+    },
+    {
+      "name": "Larry Visoski",
+      "evidence": 2.5,
+      "action": 0,
+      "gap": 2.5
+    },
+    {
+      "name": "Darren Indyke",
+      "evidence": 3.1,
+      "action": 1,
+      "gap": 2.1
+    },
+    {
+      "name": "Section A \u2014 Unknown",
+      "evidence": 2.0,
+      "action": 0,
+      "gap": 2.0
+    }
+  ],
+  "highest_value_next_actions": [
+    "FOIA for unredacted EFTA02731082 (would reveal Sections A-D content)",
+    "Identify AUSA 'Alex' from EFTA00106062 \u2014 cross-reference with other cases",
+    "Read Emmy Taylor interview transcript if it exists in corpus",
+    "Search for Groff documents between Aug 2019 and Jul 2021 (the silent period)",
+    "Compare corpus text vs OCR on all 86 prosecution memo pages systematically"
+  ]
+}

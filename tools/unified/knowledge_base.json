@@ -2,790 +2,535 @@
   "persons": {
     "Leslie Groff": {
       "role": "scheduler/assistant",
-      "memo_presence": {
-        "total_mentions": 53,
-        "pages_mentioned": [
-          "02731145",
-          "02731167",
-          "02731040",
-          "02731095",
-          "02731134",
-          "02731115",
-          "02731128",
-          "02731133",
-          "02731144",
-          "02731099",
-          "02731054",
-          "02731085",
-          "02731083",
-          "02731096",
-          "02731204",
-          "02731157",
-          "02731109",
-          "02731201",
-          "02731089",
-          "02731122"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 172443
-      },
+      "memo_mentions": 56,
+      "corpus_pages": 172443,
       "co_absence_ratio": 7497.5,
-      "linguistic_profile": {
-        "hedging_count": 3,
-        "strong_count": 1,
+      "linguistic": {
+        "hedging": 3,
+        "strong": 1,
         "ratio": 0.25
       },
-      "financial_connections": 5,
+      "proffer": {
+        "date": "2021-07-23",
+        "efta": "EFTA01682023"
+      },
       "victim_connections": [
-        {
-          "victim": "Victim-1",
-          "role": "named associate",
-          "efta_pages": [
-            "02731041",
-            "02731042",
-            "02731043"
-          ]
-        },
-        {
-          "victim": "Victim-1",
-          "role": "mentioned in victim account",
-          "efta_pages": [
-            "02731041",
-            "02731042",
-            "02731043"
-          ]
-        }
+        "Victim-1"
       ],
-      "temporal_events": 7,
-      "redaction_bridges": 0,
-      "open_leads": 11,
-      "high_leads": 5,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 93,
+      "leads": 11,
+      "high_leads": 5,
+      "evidence_score": 7.5,
+      "action_score": 1,
+      "gap": 6.5,
       "prosecution_outcome": "Never charged",
       "npa_covered": false,
-      "comparable_person": "Sarah Kellen (similar role, pled guilty)",
-      "evidence_score": 9,
-      "action_score": 1,
-      "gap": 8,
-      "notes_dimensional": "SDNY evaluated charging 'Leslie Groff and/or Ghislaine Maxwell with a federal crime' (page 75/EFTA02731157). Section D content excised \u2014 18 pages stripped. She was analyzed as potential co-defendant with Maxwell."
+      "joint_charging": "SDNY evaluated 'Groff and/or Maxwell with a federal crime' (EFTA02731157)"
     },
     "Leon Black": {
       "role": "associate/client",
-      "memo_presence": {
-        "total_mentions": 232,
-        "pages_mentioned": [
-          "02731648",
-          "02731477",
-          "02731651",
-          "02731585",
-          "02731524",
-          "02731716",
-          "02731626",
-          "02731625",
-          "02731591",
-          "02731674",
-          "02731018",
-          "02731690",
-          "02731673",
-          "02731692",
-          "02731584",
-          "02731515",
-          "02731025",
-          "02731597",
-          "02731657",
-          "02731490"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 10109
-      },
+      "memo_mentions": 232,
+      "corpus_pages": 10109,
       "co_absence_ratio": 5054.5,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [
-        {
-          "victim": "Unnumbered ('lent out' victim)",
-          "role": "named associate",
-          "efta_pages": [
-            "02731136",
-            "02731137",
-            "02731138",
-            "02731139",
-            "02731140"
-          ]
-        }
+        "Unnumbered ('lent out' victim)"
       ],
-      "temporal_events": 1,
-      "redaction_bridges": 0,
-      "open_leads": 16,
-      "high_leads": 2,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 103,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 6,
+      "leads": 16,
+      "high_leads": 2,
+      "evidence_score": 5.5,
       "action_score": 1,
-      "gap": 5
+      "gap": 4.5,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Glen Dubin": {
       "role": "associate",
-      "memo_presence": {
-        "total_mentions": 2,
-        "pages_mentioned": [
-          "02731139",
-          "02731173"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 9681
-      },
+      "memo_mentions": 2,
+      "corpus_pages": 9681,
       "co_absence_ratio": 9681.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [
-        {
-          "victim": "Unnumbered ('lent out' victim)",
-          "role": "named associate",
-          "efta_pages": [
-            "02731136",
-            "02731137",
-            "02731138",
-            "02731139",
-            "02731140"
-          ]
-        }
+        "Unnumbered ('lent out' victim)"
       ],
-      "temporal_events": 0,
-      "redaction_bridges": 0,
-      "open_leads": 2,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 64,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
+      "leads": 2,
+      "high_leads": 0,
       "evidence_score": 2.4,
       "action_score": 1,
-      "gap": 1.4
+      "gap": 1.4,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Jes Staley": {
       "role": "associate",
-      "memo_presence": {
-        "total_mentions": 9,
-        "pages_mentioned": [
-          "02731469",
-          "02731114",
-          "02731149",
-          "02731665",
-          "02731140"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 10622
-      },
+      "memo_mentions": 9,
+      "corpus_pages": 10622,
       "co_absence_ratio": 3540.7,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [
-        {
-          "victim": "Unnumbered ('lent out' victim)",
-          "role": "named associate",
-          "efta_pages": [
-            "02731136",
-            "02731137",
-            "02731138",
-            "02731139",
-            "02731140"
-          ]
-        }
+        "Unnumbered ('lent out' victim)"
       ],
-      "temporal_events": 0,
-      "redaction_bridges": 15,
-      "open_leads": 1,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 65,
+      "leads": 1,
+      "high_leads": 0,
+      "evidence_score": 4.3,
+      "action_score": 1,
+      "gap": 3.3,
       "prosecution_outcome": "Never charged",
       "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 5.8,
-      "action_score": 1,
-      "gap": 3.8,
-      "notes_dimensional": "Footnote 61 (page 67/EFTA02731149): JP Morgan produced Staley-Epstein messages corroborating victim's rape account temporally. SDNY had both testimony AND financial records."
+      "jp_morgan_corroboration": "Footnote 61: JP Morgan messages corroborate victim rape account temporally"
     },
     "Harvey Weinstein": {
       "role": "associate",
-      "memo_presence": {
-        "total_mentions": 6,
-        "pages_mentioned": [
-          "02731466",
-          "02731232",
-          "02731096",
-          "02731140"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 1823
-      },
+      "memo_mentions": 8,
+      "corpus_pages": 1823,
       "co_absence_ratio": 911.5,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [
-        {
-          "victim": "Unnumbered ('lent out' victim)",
-          "role": "named associate",
-          "efta_pages": [
-            "02731136",
-            "02731137",
-            "02731138",
-            "02731139",
-            "02731140"
-          ]
-        }
+        "Unnumbered ('lent out' victim)"
       ],
-      "temporal_events": 0,
-      "redaction_bridges": 18,
-      "open_leads": 0,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 45,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 4.2,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 3.6,
       "action_score": 1,
-      "gap": 3.2
+      "gap": 2.6,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Prince Andrew": {
-      "role": "associate",
-      "memo_presence": {
-        "total_mentions": 9,
-        "pages_mentioned": [
-          "02731139",
-          "02731142",
-          "02731147",
-          "02731089",
-          "02731141"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 4884
-      },
+      "role": "associate/royal",
+      "memo_mentions": 9,
+      "corpus_pages": 4884,
       "co_absence_ratio": 976.8,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [
-        {
-          "victim": "Unnumbered ('lent out' victim)",
-          "role": "named associate",
-          "efta_pages": [
-            "02731136",
-            "02731137",
-            "02731138",
-            "02731139",
-            "02731140"
-          ]
-        }
+        "Unnumbered ('lent out' victim)"
       ],
-      "temporal_events": 0,
-      "redaction_bridges": 0,
-      "open_leads": 4,
-      "high_leads": 1,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 68,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
+      "leads": 4,
+      "high_leads": 1,
       "evidence_score": 4.8,
       "action_score": 1,
-      "gap": 3.8
+      "gap": 3.8,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Darren Indyke": {
       "role": "attorney/enabler",
-      "memo_presence": {
-        "total_mentions": 3,
-        "pages_mentioned": [
-          "02731127",
-          "02731204",
-          "02731123"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 34711
-      },
+      "memo_mentions": 3,
+      "corpus_pages": 34711,
       "co_absence_ratio": 17355.5,
-      "linguistic_profile": {
-        "hedging_count": 1,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 1,
+        "strong": 0,
         "ratio": 0.0
       },
-      "financial_connections": 3,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 1,
-      "open_leads": 0,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 83,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 4.6,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 3.1,
       "action_score": 1,
-      "gap": 3.6
+      "gap": 2.1,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Les Wexner": {
       "role": "financial source",
-      "memo_presence": {
-        "total_mentions": 39,
-        "pages_mentioned": [
-          "02731147",
-          "02731070",
-          "02731040",
-          "02731146"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 2921
-      },
+      "memo_mentions": 51,
+      "corpus_pages": 2921,
       "co_absence_ratio": 1460.5,
-      "linguistic_profile": {
-        "hedging_count": 5,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 5,
+        "strong": 0,
         "ratio": 0.0
       },
-      "financial_connections": 2,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 7,
-      "redaction_bridges": 7,
-      "open_leads": 5,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 57,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 7,
+      "leads": 5,
+      "high_leads": 0,
+      "evidence_score": 4.0,
       "action_score": 1,
-      "gap": 6
+      "gap": 3.0,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "David Blaine": {
       "role": "introducer",
-      "memo_presence": {
-        "total_mentions": 0,
-        "pages_mentioned": []
-      },
-      "corpus_presence": {
-        "total_pages": 1988
-      },
+      "memo_mentions": 0,
+      "corpus_pages": 1988,
       "co_absence_ratio": 1988.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 1,
-      "open_leads": 0,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 6,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 1.0,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 0.0,
       "action_score": 0,
-      "gap": 1.0
+      "gap": 0.0,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Ghislaine Maxwell": {
       "role": "co-conspirator",
-      "memo_presence": {
-        "total_mentions": 609,
-        "pages_mentioned": [
-          "02731199",
-          "02731236",
-          "02731598",
-          "02731178",
-          "02731682",
-          "02731239",
-          "02731093",
-          "02731251",
-          "02731692",
-          "02731240",
-          "02731597",
-          "02731096",
-          "02731108",
-          "02731129",
-          "02731227",
-          "02731612",
-          "02731506",
-          "02731229",
-          "02731173",
-          "02731175"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 79697
-      },
+      "memo_mentions": 665,
+      "corpus_pages": 79697,
       "co_absence_ratio": 1626.5,
-      "linguistic_profile": {
-        "hedging_count": 22,
-        "strong_count": 22,
+      "linguistic": {
+        "hedging": 22,
+        "strong": 22,
         "ratio": 0.5
       },
-      "financial_connections": 0,
+      "proffer": {
+        "date": "2025-07-24",
+        "efta": "EFTA02847269"
+      },
       "victim_connections": [
-        {
-          "victim": "Unnumbered ('lent out' victim)",
-          "role": "mentioned in victim account",
-          "efta_pages": [
-            "02731136",
-            "02731137",
-            "02731138",
-            "02731139",
-            "02731140"
-          ]
-        }
+        "Unnumbered ('lent out' victim)"
       ],
-      "temporal_events": 7,
-      "redaction_bridges": 5,
-      "open_leads": 20,
-      "high_leads": 2,
+      "charging_analysis_pages": 32,
       "rhowardstone_reports": 137,
-      "prosecution_outcome": "Charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 8,
+      "leads": 20,
+      "high_leads": 2,
+      "evidence_score": 9.5,
       "action_score": 10,
-      "gap": -2
+      "gap": -0.5,
+      "prosecution_outcome": "Charged",
+      "npa_covered": false
     },
     "Alan Dershowitz": {
       "role": "associate/attorney",
-      "memo_presence": {
-        "total_mentions": 4,
-        "pages_mentioned": [
-          "02731141",
-          "02731139",
-          "02731142"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 8832
-      },
+      "memo_mentions": 4,
+      "corpus_pages": 8832,
       "co_absence_ratio": 2944.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [
-        {
-          "victim": "Unnumbered ('lent out' victim)",
-          "role": "named associate",
-          "efta_pages": [
-            "02731136",
-            "02731137",
-            "02731138",
-            "02731139",
-            "02731140"
-          ]
-        }
+        "Unnumbered ('lent out' victim)"
       ],
-      "temporal_events": 0,
-      "redaction_bridges": 2,
-      "open_leads": 1,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 58,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 3.8,
+      "leads": 1,
+      "high_leads": 0,
+      "evidence_score": 2.8,
       "action_score": 1,
-      "gap": 2.8
+      "gap": 1.8,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Bill Clinton": {
       "role": "associate",
-      "memo_presence": {
-        "total_mentions": 3,
-        "pages_mentioned": [
-          "02731119",
-          "02731110",
-          "02731040"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 7768
-      },
+      "memo_mentions": 3,
+      "corpus_pages": 7768,
       "co_absence_ratio": 3884.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 0,
-      "open_leads": 2,
-      "high_leads": 1,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 64,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
+      "leads": 2,
+      "high_leads": 1,
       "evidence_score": 2.6,
       "action_score": 1,
-      "gap": 1.6
+      "gap": 1.6,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Larry Visoski": {
       "role": "pilot",
-      "memo_presence": {
-        "total_mentions": 0,
-        "pages_mentioned": []
-      },
-      "corpus_presence": {
-        "total_pages": 29993
-      },
+      "memo_mentions": 0,
+      "corpus_pages": 29993,
       "co_absence_ratio": 29993.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 1,
+      "proffer": {
+        "date": "2020-10-07",
+        "efta": "EFTA00159723"
+      },
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 0,
-      "open_leads": 0,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 48,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 2.0,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 2.5,
       "action_score": 0,
-      "gap": 2.0
+      "gap": 2.5,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "George Mitchell": {
       "role": "associate/politician",
-      "memo_presence": {
-        "total_mentions": 1,
-        "pages_mentioned": [
-          "02731431"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 13885
-      },
+      "memo_mentions": 1,
+      "corpus_pages": 13885,
       "co_absence_ratio": 13885.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 0,
-      "open_leads": 0,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 42,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 1.2,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 1.7,
       "action_score": 1,
-      "gap": 0.2
+      "gap": 0.7,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Ehud Barak": {
       "role": "associate/politician",
-      "memo_presence": {
-        "total_mentions": 0,
-        "pages_mentioned": []
-      },
-      "corpus_presence": {
-        "total_pages": 7654
-      },
+      "memo_mentions": 0,
+      "corpus_pages": 7654,
       "co_absence_ratio": 7654.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 0,
-      "open_leads": 0,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 69,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
+      "leads": 0,
+      "high_leads": 0,
       "evidence_score": 1.0,
       "action_score": 0,
-      "gap": 1.0
+      "gap": 1.0,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Sarah Kellen": {
       "role": "scheduler/co-conspirator",
-      "memo_presence": {
-        "total_mentions": 0,
-        "pages_mentioned": []
-      },
-      "corpus_presence": {
-        "total_pages": 1500
-      },
+      "memo_mentions": 0,
+      "corpus_pages": 1500,
       "co_absence_ratio": 1500.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 0,
-      "open_leads": 0,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 31,
-      "prosecution_outcome": "Charged",
-      "npa_covered": true,
-      "comparable_person": "Leslie Groff (similar role, never charged)",
+      "leads": 0,
+      "high_leads": 0,
       "evidence_score": 1.0,
-      "action_score": 10,
-      "gap": -9.0
+      "action_score": 2,
+      "gap": -1.0,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": true
     },
     "Rich Kahn": {
       "role": "accountant",
-      "memo_presence": {
-        "total_mentions": 2,
-        "pages_mentioned": [
-          "02731133"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 90241
-      },
+      "memo_mentions": 2,
+      "corpus_pages": 90241,
       "co_absence_ratio": null,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 3,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 2,
-      "redaction_bridges": 16,
-      "open_leads": 0,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 78,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 4.4,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 1.9,
       "action_score": 1,
-      "gap": 3.4
+      "gap": 0.9,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "David Copperfield": {
       "role": "associate",
-      "memo_presence": {
-        "total_mentions": 2,
-        "pages_mentioned": [
-          "02731109",
-          "02731103"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 662
-      },
+      "memo_mentions": 2,
+      "corpus_pages": 662,
       "co_absence_ratio": 331.0,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 3,
-      "open_leads": 3,
-      "high_leads": 0,
+      "charging_analysis_pages": 0,
       "rhowardstone_reports": 5,
-      "prosecution_outcome": "Never charged",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 1.4,
+      "leads": 3,
+      "high_leads": 0,
+      "evidence_score": 0.4,
       "action_score": 1,
-      "gap": 0.4
+      "gap": -0.6,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
+    },
+    "Emmy Taylor": {
+      "role": "Maxwell's former assistant",
+      "memo_mentions": 0,
+      "corpus_pages": 4772,
+      "co_absence_ratio": null,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
+        "ratio": null
+      },
+      "proffer": null,
+      "victim_connections": [],
+      "charging_analysis_pages": 0,
+      "rhowardstone_reports": 2,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 0.0,
+      "action_score": 0,
+      "gap": 0.0,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
+    },
+    "David Rodgers": {
+      "role": "co-pilot",
+      "memo_mentions": 27,
+      "corpus_pages": 4510,
+      "co_absence_ratio": null,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
+        "ratio": null
+      },
+      "proffer": {
+        "date": "2020-02-07",
+        "efta": "EFTA00159178"
+      },
+      "victim_connections": [],
+      "charging_analysis_pages": 0,
+      "rhowardstone_reports": 16,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 4.0,
+      "action_score": 1,
+      "gap": 3.0,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     },
     "Section A \u2014 Unknown": {
-      "role": "unknown co-conspirator (8-page charging analysis)",
-      "memo_presence": {
-        "total_mentions": 0,
-        "pages_mentioned": [
-          "02731157",
-          "02731158",
-          "02731159",
-          "02731160",
-          "02731161",
-          "02731162",
-          "02731163",
-          "02731164"
-        ]
-      },
-      "corpus_presence": {
-        "total_pages": 0
-      },
+      "role": "unknown (8-page charging analysis)",
+      "memo_mentions": 0,
+      "corpus_pages": 0,
       "co_absence_ratio": null,
-      "linguistic_profile": {
-        "hedging_count": 0,
-        "strong_count": 0,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
         "ratio": null
       },
-      "financial_connections": 0,
+      "proffer": null,
       "victim_connections": [],
-      "temporal_events": 0,
-      "redaction_bridges": 0,
-      "open_leads": 1,
-      "high_leads": 1,
+      "charging_analysis_pages": 8,
       "rhowardstone_reports": 0,
-      "prosecution_outcome": "Never charged despite 8-page charging analysis (longest section)",
-      "npa_covered": false,
-      "comparable_person": null,
-      "evidence_score": 10,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 2.0,
       "action_score": 0,
-      "gap": 10,
-      "notes": "IDENTITY CONTESTED. Two hypotheses:\n\nHYPOTHESIS 1: Section A is about a REDACTED person listed on page 2 (\"[redacted], Leslie Groff, and Ghislaine Maxwell\"). \nThe memo explicitly names at least one additional person besides Groff and Maxwell. Sections A-C analyze this person(s).\nThe 8-page analysis with subsections on \"Knowledge of Sex Acts\" and \"Knowledge of Age\" suggests someone with \ndeep involvement in the trafficking, not just scheduling. Could be Kellen, Marcinkova, or someone else.\n\nHYPOTHESIS 2: Sections A-C are not person-sections but CHARGE-sections analyzing different charges against the SAME \nperson(s). Page 75 says \"Leslie Groff and/or Ghislaine Maxwell with a federal crime.\" But the preceding pages analyze\nthree different statutes (sex trafficking, transportation, enticement). Sections A-C might be the charging analysis \norganized by statute, with the per-person analysis in D (Groff) and E (Maxwell).\n\nEVIDENCE FOR H1: Page 2 lists \"[redacted], Leslie Groff, and Ghislaine Maxwell\" \u2014 suggesting 3+ people analyzed.\nEVIDENCE FOR H2: Section headings (\"Knowledge of Sex Acts\", \"Knowledge of Age\") map to statute elements, not persons.\nThe \"A.\" on page 75 starts \"1. Evidence That [REDACTED] Conspired to Sex Traffic Minors\" which reads more like \na person-specific analysis.\n\nAUSA email (EFTA00106062, March 2020): \"Sarah Kellen, who is the only other individual we currently are considering \ncharging\" besides Maxwell (\"our current top target subject\"). This was written 3 months AFTER the memo. Kellen was \nnot yet being considered when the memo was written (Dec 2019). The redacted person on page 2 may be someone who \nwas DROPPED from consideration between Dec 2019 and March 2020.\n\nUNSOLVABLE without: Section A content, which was excised from the release."
+      "gap": 2.0,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false,
+      "identity_status": "CONTESTED",
+      "hypotheses": [
+        "H1: Person-specific (Kellen or other co-conspirator)",
+        "H2: Charge-specific (statute analysis)"
+      ]
+    },
+    "Section B \u2014 Unknown": {
+      "role": "unknown (2-page charging analysis)",
+      "memo_mentions": 0,
+      "corpus_pages": 0,
+      "co_absence_ratio": null,
+      "linguistic": {
+        "hedging": 0,
+        "strong": 0,
+        "ratio": null
+      },
+      "proffer": null,
+      "victim_connections": [],
+      "charging_analysis_pages": 2,
+      "rhowardstone_reports": 0,
+      "leads": 0,
+      "high_leads": 0,
+      "evidence_score": 0.5,
+      "action_score": 0,
+      "gap": 0.5,
+      "prosecution_outcome": "Never charged",
+      "npa_covered": false
     }
   },
   "prosecution_decisions": {
     "charged": [
-      "Ghislaine Maxwell",
-      "Sarah Kellen"
+      "Ghislaine Maxwell"
     ],
     "investigated_not_charged": [
       "Leslie Groff",
       "Leon Black",
       "Les Wexner",
-      "Section A \u2014 Unknown"
+      "David Rodgers"
     ],
-    "named_not_investigated": [
+    "named_in_memo": [
       "Glen Dubin",
       "Jes Staley",
       "Harvey Weinstein",
@@ -801,14 +546,14 @@
       "David Blaine",
       "Larry Visoski",
       "Ehud Barak",
-      "Sarah Kellen"
+      "Sarah Kellen",
+      "Emmy Taylor"
     ]
   },
   "meta": {
-    "total_persons": 18,
-    "total_efta_citations": 66,
-    "corpus_verified": true,
+    "total_persons": 22,
+    "total_efta_citations": 80,
     "corpus_pages": 2892730,
-    "qa_status": "26/26 pass"
+    "rebuild_timestamp": "2026-03-22T10:11:29.793842"
   }
 }

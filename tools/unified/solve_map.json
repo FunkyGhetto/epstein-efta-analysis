@@ -1,627 +1,82 @@
 {
   "categories": {
     "identity": {
-      "total": 77,
-      "answered": 1,
-      "partially_answered": 50,
-      "unanswered": 3,
-      "unsolvable": 23,
-      "solved_percentage": 34,
-      "questions": [
-        {
-          "question": "Who is the redacted profferor at EFTA01247320?",
-          "date": "2019-04-24",
-          "gender": "unknown",
-          "attorney": "REDACTED",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA01682025?",
-          "date": "2019-04-24",
-          "gender": "unknown",
-          "attorney": "REDACTED",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA01247302?",
-          "date": "2019-05-02",
-          "gender": "unknown",
-          "attorney": "REDACTED",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA01247310?",
-          "date": "2019-05-08",
-          "gender": "unknown",
-          "attorney": "REDACTED",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA00090773?",
-          "date": "2019-05-17",
-          "gender": "unknown",
-          "attorney": "REDACTED",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA01247322?",
-          "date": "2019-05-23",
-          "gender": "unknown",
-          "attorney": "REDACTED",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA00024704?",
-          "date": "2019-07-12",
-          "gender": "female",
-          "attorney": "Joseph\nNascimento",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA00027643?",
-          "date": "2019-07-12",
-          "gender": "female",
-          "attorney": "Joseph\nNascimento",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA00028641?",
-          "date": "2019-07-12",
-          "gender": "unknown",
-          "attorney": "REDACTED",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        },
-        {
-          "question": "Who is the redacted profferor at EFTA00096653?",
-          "date": "2019-07-12",
-          "gender": "unknown",
-          "attorney": "REDACTED",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "identity"
-        }
-      ]
+      "total": 35,
+      "answered": 0,
+      "partial": 33,
+      "unanswered": 1,
+      "unsolvable": 1
     },
     "decision": {
-      "total": 10,
+      "total": 20,
       "answered": 0,
-      "partially_answered": 10,
-      "unanswered": 0,
-      "unsolvable": 0,
-      "solved_percentage": 50,
-      "questions": [
-        {
-          "question": "Why was Leslie Groff not charged? (gap: 8)",
-          "evidence_score": 9,
-          "action_score": 1,
-          "gap": 8,
-          "solvability": "partially_answered",
-          "significance": "high",
-          "reason_found": "From: \nLesley Groff < \nSent: \nWednesday, January 1, 2014 4:06 PM \nTo: \nJeffrey Epstein; Rich Kahn; B",
-          "corpus_hits": 5,
-          "_value": 56,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Les Wexner not charged? (gap: 6)",
-          "evidence_score": 7,
-          "action_score": 1,
-          "gap": 6,
-          "solvability": "partially_answered",
-          "significance": "high",
-          "reason_found": "Shares of The Limited, Inc. stock which are sold to the Company will not be entitled to receive the ",
-          "corpus_hits": 5,
-          "_value": 56,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Leon Black not charged? (gap: 5)",
-          "evidence_score": 6,
-          "action_score": 1,
-          "gap": 5,
-          "solvability": "partially_answered",
-          "significance": "high",
-          "reason_found": "about soon,\" Deputy Director Bongino wrote in a post on X on Tuesday. \"We're finding them and crushi",
-          "corpus_hits": 5,
-          "_value": 56,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Jes Staley not charged? (gap: 3.8)",
-          "evidence_score": 4.8,
-          "action_score": 1,
-          "gap": 3.8,
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "reason_found": "Case 1:22-cv-10904-JSR Document 309 Filed 08/25/23 Page 24 of 25\n\nof conduct. Id. But tolling requir",
-          "corpus_hits": 4,
-          "_value": 35,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Prince Andrew not charged? (gap: 3.8)",
-          "evidence_score": 4.8,
-          "action_score": 1,
-          "gap": 3.8,
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "reason_found": "U.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio!. Mell",
-          "corpus_hits": 5,
-          "_value": 35,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Darren Indyke not charged? (gap: 3.6)",
-          "evidence_score": 4.6,
-          "action_score": 1,
-          "gap": 3.6,
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "reason_found": "U.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mon",
-          "corpus_hits": 5,
-          "_value": 35,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Rich Kahn not charged? (gap: 3.4)",
-          "evidence_score": 4.4,
-          "action_score": 1,
-          "gap": 3.4,
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "reason_found": "Subject: FW: Cinq Case Number 150513 609617 *** DB force case 1394378 [C] \nFrom: Amanda Kirby a \nDat",
-          "corpus_hits": 5,
-          "_value": 35,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Harvey Weinstein not charged? (gap: 3.2)",
-          "evidence_score": 4.2,
-          "action_score": 1,
-          "gap": 3.2,
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "reason_found": "The New York Post had first reported that Ms. Bashford, of the sex crimes unit, had announced her re",
-          "corpus_hits": 5,
-          "_value": 35,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Alan Dershowitz not charged? (gap: 2.8)",
-          "evidence_score": 3.8,
-          "action_score": 1,
-          "gap": 2.8,
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "reason_found": "Alan Dershowitz \n1525 Massachusetts Avenue \nCambrid e, Massachusetts 02138 \nJoseph Recarey \nDetectiv",
-          "corpus_hits": 5,
-          "_value": 35,
-          "_category": "decision"
-        },
-        {
-          "question": "Why was Larry Visoski not charged? (gap: 2.0)",
-          "evidence_score": 2.0,
-          "action_score": 0,
-          "gap": 2.0,
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "reason_found": "\ufeffIN THE CIRCUIT COURT OF THE FIFTEENTH\nJUDICIAL CIRCUIT, IN AND FOR PALM\nBEACH COUNTY, FLORIDA\nJEFFR",
-          "corpus_hits": 3,
-          "_value": 35,
-          "_category": "decision"
-        }
-      ]
+      "partial": 14,
+      "unanswered": 5,
+      "unsolvable": 1
     },
     "financial": {
-      "total": 8,
+      "total": 7,
       "answered": 0,
-      "partially_answered": 5,
-      "unanswered": 3,
-      "unsolvable": 0,
-      "solved_percentage": 31,
-      "questions": [
-        {
-          "question": "Where did Wexner's stolen money go after Epstein had it?",
-          "solvability": "partially_answered",
-          "significance": "high",
-          "note": "Deutsche Bank review found no criminal activity, but the full flow is not traced",
-          "_value": 56,
-          "_category": "financial"
-        },
-        {
-          "question": "What was the $250K wire (Dec 2018) actually for?",
-          "solvability": "partially_answered",
-          "significance": "high",
-          "note": "Government cited as potential witness tampering. Victim says unrelated to Herald.",
-          "_value": 56,
-          "_category": "financial"
-        },
-        {
-          "question": "Why did Black pay $158M for tax advice?",
-          "solvability": "partially_answered",
-          "significance": "high",
-          "note": "Dechert report provides Black's explanation. SDNY hedges.",
-          "_value": 56,
-          "_category": "financial"
-        },
-        {
-          "question": "Who received the redacted $250K wire (Dec 3, 2018)?",
-          "solvability": "unanswered",
-          "significance": "high",
-          "note": "Rhowardstone analysis suggests Kellen or inner-circle facilitator. Name redacted.",
-          "_value": 24,
-          "_category": "financial"
-        },
-        {
-          "question": "What did Groff's $200K in wires pay for?",
-          "solvability": "unanswered",
-          "significance": "medium",
-          "note": "Routed through Butterfly Trust/Southern Trust. Purpose not documented.",
-          "_value": 15,
-          "_category": "financial"
-        },
-        {
-          "question": "Did Epstein have accounts at banks other than JP Morgan, Deutsche Bank, TD Bank?",
-          "solvability": "unanswered",
-          "significance": "high",
-          "note": "Memo only discusses three banks. Offshore accounts not mentioned.",
-          "_value": 24,
-          "_category": "financial"
-        },
-        {
-          "question": "Complete Butterfly Trust beneficiary list",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "note": "Some beneficiaries known (Marcinkova, Groff). Full list redacted.",
-          "_value": 35,
-          "_category": "financial"
-        },
-        {
-          "question": "Are there wire transfers in the corpus we haven't mapped? (11550 pages with 'wire' + 'Epstein' outside memo)",
-          "solvability": "partially_solvable",
-          "significance": "medium",
-          "_value": 30,
-          "_category": "financial"
-        }
-      ]
+      "partial": 3,
+      "unanswered": 4,
+      "unsolvable": 0
     },
     "structural": {
       "total": 6,
       "answered": 1,
-      "partially_answered": 3,
+      "partial": 2,
       "unanswered": 0,
-      "unsolvable": 2,
-      "solved_percentage": 42,
-      "questions": [
-        {
-          "question": "What is in Section D (Groff charging analysis)?",
-          "solvability": "unsolvable",
-          "significance": "critical",
-          "note": "Confirmed missing from both OCR and corpus. Not an extraction failure."
-        },
-        {
-          "question": "What is in Sections A-C of the charging analysis?",
-          "solvability": "unsolvable",
-          "significance": "high",
-          "note": "Pages 68-84 of EFTA02731082 all under 200 chars. Entire charging section empty."
-        },
-        {
-          "question": "Why are 235,490 pages in the corpus under 100 characters?",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "note": "Mix of blank pages, OCR failures, heavily redacted pages, and separator pages",
-          "_value": 35,
-          "_category": "structural"
-        },
-        {
-          "question": "EFTA range 1-2858497: 1,465,628 numbers missing from corpus of 1,392,869 present",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "note": "Many 'missing' numbers are non-document entries or unreleased pages",
-          "_value": 35,
-          "_category": "structural"
-        },
-        {
-          "question": "Were documents altered between initial release and current versions?",
-          "solvability": "answered",
-          "significance": "high",
-          "note": "Rhowardstone DOJ_DOCUMENT_ALTERATION_FORENSICS.md documents systematic alterations including Groff name changes"
-        },
-        {
-          "question": "Is there a complete page inventory of what was released vs withheld?",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "note": "Rhowardstone has DOJ audit data. Our analysis covers VOL00012 specifically.",
-          "_value": 35,
-          "_category": "structural"
-        }
-      ]
+      "unsolvable": 3
     },
     "connection": {
-      "total": 17,
+      "total": 5,
       "answered": 0,
-      "partially_answered": 15,
-      "unanswered": 2,
-      "unsolvable": 0,
-      "solved_percentage": 44,
-      "questions": [
-        {
-          "question": "What connects Larry Visoski and Donald Trump? (184 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 184,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Larry Visoski and George Mitchell? (19 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 19,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Larry Visoski and Ehud Barak? (29 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 29,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Larry Visoski and Bill Richardson? (14 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 14,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Larry Visoski and Sarah Kellen? (77 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 77,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Donald Trump and George Mitchell? (220 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 220,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Donald Trump and Ehud Barak? (100 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 100,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Donald Trump and Bill Richardson? (211 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 211,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Donald Trump and Sarah Kellen? (41 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 41,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects George Mitchell and Ehud Barak? (170 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 170,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects George Mitchell and Bill Richardson? (97 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 97,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects George Mitchell and Sarah Kellen? (2 shared pages)",
-          "solvability": "unanswered",
-          "significance": "medium",
-          "shared_pages": 2,
-          "_value": 15,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Ehud Barak and Bill Richardson? (68 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 68,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Ehud Barak and Sarah Kellen? (14 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 14,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "What connects Bill Richardson and Sarah Kellen? (22 shared pages)",
-          "solvability": "partially_answered",
-          "significance": "medium",
-          "shared_pages": 22,
-          "_value": 35,
-          "_category": "connection"
-        },
-        {
-          "question": "Did Groff's proffer information contribute to the Maxwell case?",
-          "solvability": "unanswered",
-          "significance": "high",
-          "note": "Groff proffered Jul 2021, Maxwell trial Nov 2021. Timing suggestive but unproven.",
-          "_value": 24,
-          "_category": "connection"
-        },
-        {
-          "question": "Who connects all 6 memo-absent persons?",
-          "solvability": "partially_answered",
-          "significance": "high",
-          "note": "15/15 pairs share corpus pages",
-          "_value": 56,
-          "_category": "connection"
-        }
-      ]
+      "partial": 2,
+      "unanswered": 3,
+      "unsolvable": 0
     }
   },
-  "total_questions": 118,
-  "answered": 2,
-  "partially_answered": 83,
-  "unanswered": 8,
-  "unsolvable": 25,
-  "overall_percentage": 37,
-  "highest_value_unsolved": [
+  "walls": [
     {
-      "question": "Why was Leslie Groff not charged? (gap: 8)",
-      "evidence_score": 9,
-      "action_score": 1,
-      "gap": 8,
-      "solvability": "partially_answered",
-      "significance": "high",
-      "reason_found": "From: \nLesley Groff < \nSent: \nWednesday, January 1, 2014 4:06 PM \nTo: \nJeffrey Epstein; Rich Kahn; B",
-      "corpus_hits": 5,
-      "_value": 56,
-      "_category": "decision"
+      "wall": "Section D content excised",
+      "type": "structural",
+      "what_breaks_it": "FOIA for unredacted EFTA02731082 or congressional subpoena"
     },
     {
-      "question": "Why was Les Wexner not charged? (gap: 6)",
-      "evidence_score": 7,
-      "action_score": 1,
-      "gap": 6,
-      "solvability": "partially_answered",
-      "significance": "high",
-      "reason_found": "Shares of The Limited, Inc. stock which are sold to the Company will not be entitled to receive the ",
-      "corpus_hits": 5,
-      "_value": 56,
-      "_category": "decision"
+      "wall": "Section A identity excised",
+      "type": "identity",
+      "what_breaks_it": "Same as above, or identifying the redacted person on page 2"
     },
     {
-      "question": "Why was Leon Black not charged? (gap: 5)",
-      "evidence_score": 6,
-      "action_score": 1,
-      "gap": 5,
-      "solvability": "partially_answered",
-      "significance": "high",
-      "reason_found": "about soon,\" Deputy Director Bongino wrote in a post on X on Tuesday. \"We're finding them and crushi",
-      "corpus_hits": 5,
-      "_value": 56,
-      "_category": "decision"
+      "wall": "Proffer content protected",
+      "type": "legal",
+      "what_breaks_it": "Congressional testimony or sealed agreement unsealing"
     },
     {
-      "question": "Where did Wexner's stolen money go after Epstein had it?",
-      "solvability": "partially_answered",
-      "significance": "high",
-      "note": "Deutsche Bank review found no criminal activity, but the full flow is not traced",
-      "_value": 56,
-      "_category": "financial"
+      "wall": "18 excised pages",
+      "type": "structural",
+      "what_breaks_it": "FOIA for complete prosecution memo or DOJ Inspector General investigation"
     },
     {
-      "question": "What was the $250K wire (Dec 2018) actually for?",
-      "solvability": "partially_answered",
-      "significance": "high",
-      "note": "Government cited as potential witness tampering. Victim says unrelated to Herald.",
-      "_value": 56,
-      "_category": "financial"
+      "wall": "AUSA names redacted",
+      "type": "identity",
+      "what_breaks_it": "Cross-reference signing dates with known SDNY staff lists"
     },
     {
-      "question": "Why did Black pay $158M for tax advice?",
-      "solvability": "partially_answered",
-      "significance": "high",
-      "note": "Dechert report provides Black's explanation. SDNY hedges.",
-      "_value": 56,
-      "_category": "financial"
+      "wall": "71 redacted profferors",
+      "type": "identity",
+      "what_breaks_it": "Attorney bridging, temporal analysis, or future document releases"
     },
     {
-      "question": "Who connects all 6 memo-absent persons?",
-      "solvability": "partially_answered",
-      "significance": "high",
-      "note": "15/15 pairs share corpus pages",
-      "_value": 56,
-      "_category": "connection"
-    },
-    {
-      "question": "Why was Jes Staley not charged? (gap: 3.8)",
-      "evidence_score": 4.8,
-      "action_score": 1,
-      "gap": 3.8,
-      "solvability": "partially_answered",
-      "significance": "medium",
-      "reason_found": "Case 1:22-cv-10904-JSR Document 309 Filed 08/25/23 Page 24 of 25\n\nof conduct. Id. But tolling requir",
-      "corpus_hits": 4,
-      "_value": 35,
-      "_category": "decision"
-    },
-    {
-      "question": "Why was Prince Andrew not charged? (gap: 3.8)",
-      "evidence_score": 4.8,
-      "action_score": 1,
-      "gap": 3.8,
-      "solvability": "partially_answered",
-      "significance": "medium",
-      "reason_found": "U.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio!. Mell",
-      "corpus_hits": 5,
-      "_value": 35,
-      "_category": "decision"
-    },
-    {
-      "question": "Why was Darren Indyke not charged? (gap: 3.6)",
-      "evidence_score": 4.6,
-      "action_score": 1,
-      "gap": 3.6,
-      "solvability": "partially_answered",
-      "significance": "medium",
-      "reason_found": "U.S. Department of Justice \nUnited States Attorney \nSouthern District of New York \nThe Silvio J. Mon",
-      "corpus_hits": 5,
-      "_value": 35,
-      "_category": "decision"
+      "wall": "Offshore accounts not discussed",
+      "type": "financial",
+      "what_breaks_it": "USVI AG lawsuit documents or Deutsche Bank complete production"
     }
-  ]
+  ],
+  "total_questions": 73,
+  "answered": 1,
+  "partially_answered": 54,
+  "unanswered": 13,
+  "unsolvable": 5,
+  "overall_percentage": 38
 }
