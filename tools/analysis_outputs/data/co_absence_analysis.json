@@ -1,0 +1,166 @@
+{
+  "people_checked": 23,
+  "results": [
+    {
+      "name": "Richard Kahn",
+      "memo_pages": 1,
+      "corpus_pages": 90241,
+      "ratio": 90241.0,
+      "assessment": "Extremely high corpus presence \u2014 central network figure"
+    },
+    {
+      "name": "Larry Visoski",
+      "memo_pages": 0,
+      "corpus_pages": 29993,
+      "ratio": 29993.0,
+      "assessment": "HIGH CORPUS / ABSENT FROM MEMO \u2014 potentially avoided"
+    },
+    {
+      "name": "Bella Klein",
+      "memo_pages": 1,
+      "corpus_pages": 22455,
+      "ratio": 22455.0,
+      "assessment": "Extremely high corpus presence \u2014 central network figure"
+    },
+    {
+      "name": "Darren Indyke",
+      "memo_pages": 2,
+      "corpus_pages": 34711,
+      "ratio": 17355.5,
+      "assessment": "Extremely high corpus presence \u2014 central network figure"
+    },
+    {
+      "name": "Donald Trump",
+      "memo_pages": 0,
+      "corpus_pages": 16886,
+      "ratio": 16886.0,
+      "assessment": "HIGH CORPUS / ABSENT FROM MEMO \u2014 potentially avoided"
+    },
+    {
+      "name": "George Mitchell",
+      "memo_pages": 0,
+      "corpus_pages": 13885,
+      "ratio": 13885.0,
+      "assessment": "HIGH CORPUS / ABSENT FROM MEMO \u2014 potentially avoided"
+    },
+    {
+      "name": "Glen Dubin",
+      "memo_pages": 1,
+      "corpus_pages": 9681,
+      "ratio": 9681.0,
+      "assessment": "Extremely high corpus presence \u2014 central network figure"
+    },
+    {
+      "name": "Ehud Barak",
+      "memo_pages": 0,
+      "corpus_pages": 7654,
+      "ratio": 7654.0,
+      "assessment": "HIGH CORPUS / ABSENT FROM MEMO \u2014 potentially avoided"
+    },
+    {
+      "name": "Leslie Groff",
+      "memo_pages": 23,
+      "corpus_pages": 172443,
+      "ratio": 7497.5,
+      "assessment": "Extremely high corpus presence \u2014 central network figure"
+    },
+    {
+      "name": "Leon Black",
+      "memo_pages": 2,
+      "corpus_pages": 10109,
+      "ratio": 5054.5,
+      "assessment": "Extremely high corpus presence \u2014 central network figure"
+    },
+    {
+      "name": "Bill Clinton",
+      "memo_pages": 2,
+      "corpus_pages": 7768,
+      "ratio": 3884.0,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "Jes Staley",
+      "memo_pages": 3,
+      "corpus_pages": 10622,
+      "ratio": 3540.7,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "Bill Richardson",
+      "memo_pages": 0,
+      "corpus_pages": 3132,
+      "ratio": 3132.0,
+      "assessment": "HIGH CORPUS / ABSENT FROM MEMO \u2014 potentially avoided"
+    },
+    {
+      "name": "Alan Dershowitz",
+      "memo_pages": 3,
+      "corpus_pages": 8832,
+      "ratio": 2944.0,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "David Blaine",
+      "memo_pages": 0,
+      "corpus_pages": 1988,
+      "ratio": 1988.0,
+      "assessment": "HIGH CORPUS / ABSENT FROM MEMO \u2014 potentially avoided"
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "memo_pages": 49,
+      "corpus_pages": 79697,
+      "ratio": 1626.5,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "Sarah Kellen",
+      "memo_pages": 0,
+      "corpus_pages": 1500,
+      "ratio": 1500.0,
+      "assessment": "HIGH CORPUS / ABSENT FROM MEMO \u2014 potentially avoided"
+    },
+    {
+      "name": "Les Wexner",
+      "memo_pages": 2,
+      "corpus_pages": 2921,
+      "ratio": 1460.5,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "Prince Andrew",
+      "memo_pages": 5,
+      "corpus_pages": 4884,
+      "ratio": 976.8,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "Harvey Weinstein",
+      "memo_pages": 2,
+      "corpus_pages": 1823,
+      "ratio": 911.5,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "Jean-Luc Brunel",
+      "memo_pages": 9,
+      "corpus_pages": 6807,
+      "ratio": 756.3,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "Nadia Marcinkova",
+      "memo_pages": 0,
+      "corpus_pages": 543,
+      "ratio": 543.0,
+      "assessment": "Normal ratio"
+    },
+    {
+      "name": "David Copperfield",
+      "memo_pages": 2,
+      "corpus_pages": 662,
+      "ratio": 331.0,
+      "assessment": "Normal ratio"
+    }
+  ]
+}
