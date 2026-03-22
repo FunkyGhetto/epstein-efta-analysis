@@ -8,10 +8,10 @@ Usage: python3 app.py
 
 import base64
 import glob
-import io
 import json
 import os
 import re
+import shutil
 import tempfile
 import zipfile
 
@@ -71,7 +71,7 @@ def find_pdf(target):
 
 
 # ---------------------------------------------------------------------------
-# PDF page → PNG via macOS Quartz
+# PDF page -> PNG via macOS Quartz
 # ---------------------------------------------------------------------------
 
 
@@ -158,28 +158,91 @@ def find_ocr_text(efta_num):
 
 
 # ---------------------------------------------------------------------------
+# Delta encoding / decoding
+# ---------------------------------------------------------------------------
+
+
+def delta_encode(numbers):
+    """Encode sorted EFTA numbers as base + base36 deltas. Returns string."""
+    nums = sorted(set(numbers))
+    if not nums:
+        return ""
+    parts = [str(nums[0])]
+    for i in range(1, len(nums)):
+        delta = nums[i] - nums[i - 1]
+        parts.append(base36_encode(delta))
+    return ".".join(parts)
+
+
+def delta_decode(encoded):
+    """Decode a delta-encoded string back to EFTA numbers."""
+    parts = encoded.strip().split(".")
+    if not parts or not parts[0].isdigit():
+        return []
+    nums = [int(parts[0])]
+    for p in parts[1:]:
+        p = p.strip()
+        if not p:
+            continue
+        nums.append(nums[-1] + base36_decode(p))
+    return nums
+
+
+def base36_encode(n):
+    """Encode a non-negative integer as base36."""
+    if n == 0:
+        return "0"
+    chars = ""
+    while n:
+        n, r = divmod(n, 36)
+        chars = "0123456789abcdefghijklmnopqrstuvwxyz"[r] + chars
+    return chars
+
+
+def base36_decode(s):
+    """Decode a base36 string to integer."""
+    return int(s, 36)
+
+
+def zip_filename(numbers):
+    """Generate delta-encoded ZIP filename."""
+    nums = sorted(set(numbers))
+    encoded = delta_encode(nums)
+    return f"efta-{len(nums)}p-{encoded}.zip"
+
+
+# ---------------------------------------------------------------------------
 # API class exposed to JavaScript
 # ---------------------------------------------------------------------------
 
 _results_cache = []
+_searched_numbers = []
 
 
 class Api:
     def search(self, query):
-        """Search for EFTA numbers. Returns JSON array of results."""
-        global _results_cache
+        """Search for EFTA numbers. Supports # prefix for delta-encoded input."""
+        global _results_cache, _searched_numbers
         _results_cache.clear()
+        _searched_numbers.clear()
 
-        raw = re.split(r"[,\s]+", query.strip())
-        numbers = []
-        for r in raw:
-            r = r.strip().replace("EFTA", "").replace("efta", "")
-            if r.isdigit():
-                numbers.append(int(r))
+        query = query.strip()
+
+        # Delta-decode if starts with #
+        if query.startswith("#"):
+            numbers = delta_decode(query[1:])
+        else:
+            raw = re.split(r"[,\s]+", query)
+            numbers = []
+            for r in raw:
+                r = r.strip().replace("EFTA", "").replace("efta", "")
+                if r.isdigit():
+                    numbers.append(int(r))
 
         if not numbers:
             return json.dumps([])
 
+        # Deduplicate preserving order
         seen = set()
         unique = []
         for n in numbers:
@@ -187,6 +250,7 @@ class Api:
                 seen.add(n)
                 unique.append(n)
 
+        _searched_numbers = list(unique)
         results = []
         for efta_num in unique:
             filename, page_idx, total_pages = find_pdf(efta_num)
@@ -222,29 +286,34 @@ class Api:
 
             results.append(result)
 
-        return json.dumps(results)
+        # Return delta-encoded string alongside results for the status bar
+        encoded = delta_encode(_searched_numbers)
+        return json.dumps({"results": results, "encoded": encoded})
 
     def download_zip(self):
-        """Package results as ZIP with folder-per-EFTA structure."""
+        """Package results as ZIP with folder-per-EFTA + manifest."""
         if not _results_cache:
             return json.dumps({"error": "No results to download."})
 
-        tmp = os.path.join(tempfile.gettempdir(), "efta-verification.zip")
+        encoded = delta_encode(_searched_numbers)
+        fname = zip_filename(_searched_numbers)
+
+        tmp = os.path.join(tempfile.gettempdir(), fname)
         with zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zf:
             for entry in _results_cache:
                 folder = entry["efta"]
                 zf.writestr(f"{folder}/page.png", entry["png"])
                 zf.writestr(f"{folder}/ocr.txt", entry["ocr"])
+            zf.writestr("manifest.txt", f"#{encoded}\n")
 
         window = webview.windows[0]
         dest = window.create_file_dialog(
             webview.SAVE_DIALOG,
-            save_filename="efta-verification.zip",
+            save_filename=fname,
             file_types=("ZIP files (*.zip)",),
         )
         if dest:
             save_path = dest if isinstance(dest, str) else dest[0]
-            import shutil
             shutil.copy2(tmp, save_path)
             os.unlink(tmp)
             return json.dumps({"saved": save_path})
@@ -269,27 +338,36 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 14px; padding: 24px; overflow-y: auto;
 }
-h1 { font-size: 20px; font-weight: 600; margin-bottom: 4px; color: #fff; }
-.subtitle { color: #888; font-size: 12px; margin-bottom: 20px; }
+
+.top-row { display: flex; align-items: center; margin-bottom: 20px; }
+.top-row h1 { font-size: 20px; font-weight: 600; color: #fff; flex: 1; }
+.help-btn {
+    width: 28px; height: 28px; border-radius: 50%;
+    background: #2a2a2a; border: 1px solid #444; color: #888;
+    font-size: 15px; cursor: pointer; display: flex;
+    align-items: center; justify-content: center; transition: all 0.15s;
+}
+.help-btn:hover { background: #3a3a3a; color: #fff; border-color: #666; }
 
 .search-row { display: flex; gap: 8px; margin-bottom: 16px; }
 #search-input {
     flex: 1; background: #2a2a2a; border: 1px solid #444; color: #e0e0e0;
     padding: 8px 12px; border-radius: 4px; font-size: 14px; font-family: monospace;
 }
-#search-input::placeholder { color: #666; }
+#search-input::placeholder { color: #555; }
 #search-input:focus { outline: none; border-color: #888; }
 .btn {
     background: #333; border: 1px solid #555; color: #e0e0e0;
     padding: 8px 16px; border-radius: 4px; cursor: pointer; font-size: 13px;
-    transition: all 0.15s;
+    transition: all 0.15s; white-space: nowrap;
 }
 .btn:hover { background: #444; color: #fff; }
 .btn-zip { background: #2a3a2a; border-color: #4a6a4a; }
 .btn-zip:hover { background: #3a4a3a; color: #fff; }
 .btn:disabled { opacity: 0.4; cursor: default; }
 
-#status { color: #888; font-size: 12px; margin-bottom: 16px; min-height: 16px; }
+#status { color: #888; font-size: 12px; margin-bottom: 16px; min-height: 16px;
+           font-family: monospace; }
 
 .result {
     background: #222; border: 1px solid #333; border-radius: 6px;
@@ -328,16 +406,38 @@ h1 { font-size: 20px; font-weight: 600; margin-bottom: 4px; color: #fff; }
     animation: spin 0.8s linear infinite; margin-left: 10px; vertical-align: middle;
 }
 @keyframes spin { to { transform: rotate(360deg); } }
+
+/* Help overlay */
+.overlay {
+    display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.7); z-index: 100;
+    align-items: center; justify-content: center;
+}
+.overlay.open { display: flex; }
+.overlay-box {
+    background: #222; border: 1px solid #444; border-radius: 8px;
+    padding: 24px 28px; max-width: 520px; width: 90%;
+    color: #ccc; font-size: 13px; line-height: 1.7;
+}
+.overlay-box h3 { color: #fff; font-size: 15px; margin-bottom: 12px; }
+.overlay-box code {
+    background: #1a1a1a; padding: 2px 6px; border-radius: 3px;
+    font-family: "SF Mono", "Menlo", monospace; font-size: 12px; color: #aaa;
+}
+.overlay-box p { margin-bottom: 10px; }
+.overlay-box p:last-child { margin-bottom: 0; }
 </style>
 </head>
 <body>
 
-<h1>EFTA Verifier</h1>
-<div class="subtitle">PDF page + OCR text side by side</div>
+<div class="top-row">
+    <h1>EFTA Verifier</h1>
+    <button class="help-btn" onclick="toggleHelp()" title="Help">?</button>
+</div>
 
 <div class="search-row">
     <input type="text" id="search-input"
-           placeholder="Enter EFTA numbers (e.g. 02731139, 02731096)"
+           placeholder="EFTA numbers or #delta-encoded string"
            autocomplete="off">
     <button class="btn" onclick="doSearch()">Search</button>
     <button class="btn btn-zip" id="zip-btn" onclick="doZip()" disabled>Download ZIP</button>
@@ -346,29 +446,55 @@ h1 { font-size: 20px; font-weight: 600; margin-bottom: 4px; color: #fff; }
 <div id="status"></div>
 <div id="results"></div>
 
+<div class="overlay" id="help-overlay" onclick="closeHelp(event)">
+    <div class="overlay-box" onclick="event.stopPropagation()">
+        <h3>How to use</h3>
+        <p>Type EFTA numbers separated by commas or spaces:<br>
+        <code>02731139, 02731096, 02731114</code></p>
+        <p>Or paste a delta-encoded string starting with <code>#</code> to replay a previous search:<br>
+        <code>#02731053.17.f.3.9.4.6.6.7.2.95.4h</code></p>
+        <p>Results show the PDF page image on the left and OCR text on the right for side-by-side comparison.</p>
+        <p>Download ZIP packages all results into folders with <code>page.png</code> and <code>ocr.txt</code> per EFTA number, plus a <code>manifest.txt</code> with the encoded search string.</p>
+        <p style="color:#666; font-size:11px; margin-top:14px;">Press Escape or click outside to close.</p>
+    </div>
+</div>
+
 <script>
 document.getElementById('search-input').addEventListener('keydown', (e) => {
     if (e.key === 'Enter') doSearch();
 });
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') document.getElementById('help-overlay').classList.remove('open');
+});
+
+function toggleHelp() {
+    document.getElementById('help-overlay').classList.toggle('open');
+}
+function closeHelp(e) {
+    if (e.target === document.getElementById('help-overlay'))
+        document.getElementById('help-overlay').classList.remove('open');
+}
 
 async function doSearch() {
     const input = document.getElementById('search-input').value.trim();
     if (!input) return;
 
-    const results = document.getElementById('results');
+    const resultsEl = document.getElementById('results');
     const status = document.getElementById('status');
     const zipBtn = document.getElementById('zip-btn');
 
-    results.innerHTML = '<div class="loading">Rendering PDF pages</div>';
+    resultsEl.innerHTML = '<div class="loading">Rendering PDF pages</div>';
     status.textContent = '';
     zipBtn.disabled = true;
 
     try {
         const raw = await pywebview.api.search(input);
-        const data = JSON.parse(raw);
+        const resp = JSON.parse(raw);
+        const data = resp.results;
+        const encoded = resp.encoded;
 
-        if (!data.length) {
-            results.innerHTML = '<div class="error-msg">No valid EFTA numbers found.</div>';
+        if (!data || !data.length) {
+            resultsEl.innerHTML = '<div class="error-msg">No valid EFTA numbers found.</div>';
             return;
         }
 
@@ -380,7 +506,7 @@ async function doSearch() {
             html += '<h2>' + r.efta + '</h2>';
             if (r.pdf) {
                 html += '<span class="result-meta">' + r.pdf + ' p.' + r.page + '/' + r.total_pages;
-                if (r.ocr_file) html += ' · OCR: ' + r.ocr_file;
+                if (r.ocr_file) html += ' &middot; ' + r.ocr_file;
                 html += '</span>';
             }
             html += '</div>';
@@ -406,12 +532,12 @@ async function doSearch() {
             html += '</div>';
         });
 
-        results.innerHTML = html;
-        status.textContent = data.length + ' result(s)';
+        resultsEl.innerHTML = html;
+        status.textContent = data.length + ' result(s)  #' + encoded;
         zipBtn.disabled = imageCount === 0;
 
     } catch (e) {
-        results.innerHTML = '<div class="error-msg">Error: ' + e + '</div>';
+        resultsEl.innerHTML = '<div class="error-msg">Error: ' + e + '</div>';
     }
 }
 
@@ -421,7 +547,7 @@ async function doZip() {
     try {
         const raw = await pywebview.api.download_zip();
         const data = JSON.parse(raw);
-        if (data.saved) status.textContent = 'Saved to ' + data.saved;
+        if (data.saved) status.textContent = 'Saved: ' + data.saved;
         else if (data.cancelled) status.textContent = 'Cancelled.';
         else if (data.error) status.textContent = data.error;
     } catch (e) {
