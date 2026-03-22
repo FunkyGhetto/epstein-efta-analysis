@@ -25,17 +25,16 @@ from pypdf import PdfReader
 # Paths
 # ---------------------------------------------------------------------------
 
-PDF_DIR = os.path.expanduser(
-    "~/Documents/Epstein Files Transparency Act (H.R.4405)/"
-    "PDF-dokumenter/VOL00012/IMAGES/0001/"
+PDF_BASE = os.path.expanduser(
+    "~/Documents/Epstein Files Transparency Act (H.R.4405)/PDF-dokumenter/"
 )
 OCR_DIR = os.path.expanduser("~/Documents/epstein-efta-analysis/ocr/")
 
 # ---------------------------------------------------------------------------
-# PDF index — built once
+# PDF index — built once, scans ALL volumes
 # ---------------------------------------------------------------------------
 
-_pdf_index = None
+_pdf_index = None  # list of (efta_num, full_path)
 
 
 def get_pdf_index():
@@ -43,31 +42,32 @@ def get_pdf_index():
     if _pdf_index is not None:
         return _pdf_index
     entries = []
-    for f in os.listdir(PDF_DIR):
-        if f.startswith("EFTA") and f.endswith(".pdf"):
-            num = int(f.replace("EFTA", "").replace(".pdf", ""))
-            entries.append((num, f))
+    for vol_dir in glob.glob(os.path.join(PDF_BASE, "VOL*/IMAGES/0001")):
+        for f in os.listdir(vol_dir):
+            if f.startswith("EFTA") and f.endswith(".pdf"):
+                num = int(f.replace("EFTA", "").replace(".pdf", ""))
+                entries.append((num, os.path.join(vol_dir, f)))
     _pdf_index = sorted(entries)
     return _pdf_index
 
 
 def find_pdf(target):
-    """Return (filename, page_0indexed, total_pages) or (None, None, None)."""
+    """Return (filename, full_path, page_0indexed, total_pages) or 4x None."""
     index = get_pdf_index()
     match = None
-    for efta_num, filename in index:
+    for efta_num, full_path in index:
         if efta_num <= target:
-            match = (efta_num, filename)
+            match = (efta_num, full_path)
         else:
             break
     if match is None:
-        return None, None, None
-    efta_num, filename = match
+        return None, None, None, None
+    efta_num, full_path = match
     page = target - efta_num
-    reader = PdfReader(os.path.join(PDF_DIR, filename))
+    reader = PdfReader(full_path)
     if page < 0 or page >= len(reader.pages):
-        return None, None, None
-    return filename, page, len(reader.pages)
+        return None, None, None, None
+    return os.path.basename(full_path), full_path, page, len(reader.pages)
 
 
 # ---------------------------------------------------------------------------
@@ -253,7 +253,7 @@ class Api:
         _searched_numbers = list(unique)
         results = []
         for efta_num in unique:
-            filename, page_idx, total_pages = find_pdf(efta_num)
+            filename, pdf_path, page_idx, total_pages = find_pdf(efta_num)
             ocr_text, ocr_file = find_ocr_text(efta_num)
 
             result = {
@@ -272,8 +272,6 @@ class Api:
                 result["error"] = "EFTA number not found in any PDF."
                 results.append(result)
                 continue
-
-            pdf_path = os.path.join(PDF_DIR, filename)
             png_bytes = render_pdf_page_to_png(pdf_path, page_idx, dpi=200)
             if png_bytes:
                 b64 = base64.b64encode(png_bytes).decode("ascii")
