@@ -98,3 +98,22 @@ Three automated analyses of the OCR text. Scripts are in `analysis_outputs/scrip
 **Lead Finder** (`scripts/find_leads.py`) — Systematically identifies unresolved threads, contradictions, unexplored people, uncited financial transactions, cross-reference gaps with rhowardstone, and uncovered victim sections. Found 537 leads: 48 high, 124 medium, 365 low priority. Output: `data/leads.json`, `data/leads.txt`. Note: unexplored person results include false positives from the massage textbook OCR; the high-priority victim and financial leads are the most actionable.
 
     python3 tools/analysis_outputs/scripts/find_leads.py
+
+---
+
+## Unified Knowledge Base (`unified/`)
+
+Consolidates every data source — entity network, financial trail, linguistic patterns, co-absence, temporal proximity, redaction bridges, victim connections, leads, rhowardstone cross-reference — into one queryable knowledge base per person.
+
+**`unified/build_knowledge_base.py`** — Builds `knowledge_base.json` from all analysis outputs. Requires the full-text corpus database for corpus counts.
+
+**`unified/query.py`** — Command-line query tool:
+
+    python3 tools/unified/query.py --person "Leslie Groff"    # Everything about one person
+    python3 tools/unified/query.py --compare "Leslie Groff" "Sarah Kellen"  # Side by side
+    python3 tools/unified/query.py --pattern hedging           # Linguistic patterns
+    python3 tools/unified/query.py --absent                    # Absent from memo
+    python3 tools/unified/query.py --uncharged                 # Evidence but no charges
+    python3 tools/unified/query.py --red-thread                # The full narrative
+
+**`unified/knowledge_base.json`** — 18 persons with evidence scores, action scores, and gap analysis. The red thread query ranks people by the discrepancy between evidence strength and prosecution action.
