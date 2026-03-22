@@ -1,0 +1,134 @@
+{
+  "payments_with_dates": 26,
+  "key_payments_checked": 8,
+  "correlations_found": 14,
+  "herald_cluster": 3,
+  "correlations": [
+    {
+      "payment_date": "2018/11/28",
+      "payment_amount": "$100,000",
+      "payment_desc": "Marcinkova/Aviloop wire (day of Miami Herald)",
+      "corpus_efta": "EFTA01363703",
+      "corpus_page": 0,
+      "corpus_text": "Deutsche Bank  Wealth Management  Today's Date:  Transfer Date:  Sender:  Jeffrey Epstein  Confirmation Code:  Date Available:  Transfer Amount  Transfer Fees  Total  Exchange Rate:  Regulation E Disc",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2018/12/03",
+      "payment_amount": "$250,000",
+      "payment_desc": "Redacted co-conspirator wire",
+      "corpus_efta": "EFTA01263024",
+      "corpus_page": 7,
+      "corpus_text": "in this investigation, I have learned that bank records obtained by the Government appear to show  that just days later, on or about December 3, 2018, the defendant wired $250,000 from a trust  accoun",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2018/12/03",
+      "payment_amount": "$250,000",
+      "payment_desc": "Redacted co-conspirator wire",
+      "corpus_efta": "EFTA01262965",
+      "corpus_page": 4,
+      "corpus_text": "that just days later, on or about December 3, 2018, the defendant wired $250,000 from a trust  account to MM.  This course of action, and in particular its timing, suggests that EPSTEIN  was attemptin",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2017/01/03",
+      "payment_amount": "$100,000",
+      "payment_desc": "Wire to Groff",
+      "corpus_efta": "EFTA01418809",
+      "corpus_page": 4,
+      "corpus_text": "Begin forwarded message:  From: Cynthia Rodriguez  Subject: RE: Butterfly Trust  Date: January 3, 2017 at 4:50:56 PM EST  To: Richard Kahn  , Stewart Oldfield  Hi Rich,  Hope you had a wonderful holid",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2017/01/03",
+      "payment_amount": "$100,000",
+      "payment_desc": "Wire to Groff",
+      "corpus_efta": "EFTA01366096",
+      "corpus_page": 0,
+      "corpus_text": "JEFFREY E. EPSTEIN  MEMORANDUM  To  Marjorie Flash  From:  Darren K. Indyke ICtUtz,,,k1  Value Date:  January 3, 2017  Debit Account ti :  ****************** ***** ***  * ***** ***********************",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2017/01/03",
+      "payment_amount": "$100,000",
+      "payment_desc": "Wire to Groff",
+      "corpus_efta": "EFTA01366097",
+      "corpus_page": 0,
+      "corpus_text": "JEFFREY E. EPSTEIN  MEMORANDUM  To  Marjorie Flash  From:  Darren K Indyke  ()_,,(JJ2yk_vr .  Value Date:  January 3, 2017  Debit Account # :  ********************** ***** ****************************",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2017/01/03",
+      "payment_amount": "$100,000",
+      "payment_desc": "Wire to Groff",
+      "corpus_efta": "EFTA01368958",
+      "corpus_page": 0,
+      "corpus_text": "Darren Indyke  Karyna Shuliak  Richard Kahn  Bebe Avdiu  Legal Assistant  DARREN K. INDYKE, PLLC  575 Lexington Avenue, 4th Floor  New York, New York 10022  \"Eck )lum e:  *************  Begin forwarde",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2017/12/19",
+      "payment_amount": "$100,000",
+      "payment_desc": "Wire to Groff",
+      "corpus_efta": "EFTA01670187",
+      "corpus_page": 421,
+      "corpus_text": "Current Date:  February 25, 2020  First Bank  SOUTHERN TRUST COMPANY INC  6100 RED HOOK QTRS STE B-3  ST THOMAS VI  00802-1348  1  First  Bank  Virgin islands  Account Number:  Capture Date:  Item Num",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2013/02/15",
+      "payment_amount": "$15,000,000",
+      "payment_desc": "Black first payment to Southern Trust",
+      "corpus_efta": "EFTA01590018",
+      "corpus_page": 0,
+      "corpus_text": "Incoming call back from Harry Beller on 2/15/13  1:55 p.m. by Janet Young  From: Richard Kahn [mailto:  Sent: Friday, February 15, 2013 1:48 PM  To: PB-Service1318  Cc: Harry Beller  Subject: re: wire",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2013/02/15",
+      "payment_amount": "$15,000,000",
+      "payment_desc": "Black first payment to Southern Trust",
+      "corpus_efta": "EFTA01802853",
+      "corpus_page": 0,
+      "corpus_text": "From:  Richard Merkin  Sent:  Friday, February 15, 2013 7:37 PM  To:  'Jeffrey Epstein'  Subject:  RE:  In what?<=:p>  </=>  From: Jeffrey Epstein Imailto:jeevacation@gma=l.com]  Sent: Friday, Februar",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2013/02/15",
+      "payment_amount": "$15,000,000",
+      "payment_desc": "Black first payment to Southern Trust",
+      "corpus_efta": "EFTA01802819",
+      "corpus_page": 0,
+      "corpus_text": "From:  Richard Merkin <  Sent:  Friday, February 15, 2013 7:38 PM  To:  'Jeffrey Epstein'  Subject:  RE: Re:  Just bein= my friend is joyful  From: Jeffrey Epstein kailto:jeevacation@gmail.comj  Sent:",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2013/02/15",
+      "payment_amount": "$15,000,000",
+      "payment_desc": "Black first payment to Southern Trust",
+      "corpus_efta": "EFTA01905487",
+      "corpus_page": 0,
+      "corpus_text": "To:  Larry Visoski l  From:  Jeffrey Epstein  Sent  Fri 2/15/2013 1:50:27 PM  Subject Re: sea level flight JE charter request  no, forget it  On Fri, Feb 15, 2013 at 8:33 AM, Larry Visoski c=a  wrote:",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2008/01",
+      "payment_amount": "$100,000,000",
+      "payment_desc": "Wexner settlement return",
+      "corpus_efta": "EFTA01484992",
+      "corpus_page": 0,
+      "corpus_text": "JPMorgan 0  Private Bank  JEFFREY EPSTEIN  Account Number  Upcoming Changes To Your Brokerage Account  Beginning January 2008, J.P. Morgan Securities Inc. will  no longer mail clients individual trade",
+      "correlation_type": "payment_near_event"
+    },
+    {
+      "payment_date": "2008/01",
+      "payment_amount": "$100,000,000",
+      "payment_desc": "Wexner settlement return",
+      "corpus_efta": "EFTA01484998",
+      "corpus_page": 0,
+      "corpus_text": "JPMorgan 0  Private Bank  JEFFREY EPSTEIN  Account Number. \u2022  Upcoming Changes To Your Brokerage Account  Beginning January 2008, J.P. Morgan Securities Inc. will  no longer mail clients individual tr",
+      "correlation_type": "payment_near_event"
+    }
+  ]
+}
