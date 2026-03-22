@@ -1,0 +1,263 @@
+{
+  "Maxwell": {
+    "hedging": {
+      "appears to": 6,
+      "may have": 4,
+      "we believe": 7,
+      "consistent with": 4,
+      "we note that": 1
+    },
+    "strong": {
+      "confirmed": 9,
+      "corroborated": 9,
+      "proves": 4
+    },
+    "hedging_total": 22,
+    "strong_total": 22,
+    "examples": [
+      {
+        "type": "hedging",
+        "label": "appears to",
+        "snippet": "roked her arm, but he did not appear to be trying to hide this contact from Maxwell. Thir"
+      },
+      {
+        "type": "hedging",
+        "label": "appears to",
+        "snippet": "roked her arm, but he did not appear to be trying to hide this contact from Maxwell. Thir"
+      },
+      {
+        "type": "hedging",
+        "label": "appears to",
+        "snippet": "roked her arm, but he did not appear to be trying to hide this contact from Maxwell. Thir"
+      },
+      {
+        "type": "strong",
+        "label": "confirmed",
+        "snippet": "orida investigation, with She confirmed that she wrote one message for Epstein from Jean "
+      },
+      {
+        "type": "strong",
+        "label": "confirmed",
+        "snippet": "for about two years. She also confirmed that she was paid a total of nearly $200,000 for "
+      }
+    ],
+    "confidence_ratio": 0.5
+  },
+  "Groff": {
+    "hedging": {
+      "appears to": 2,
+      "consistent with": 1
+    },
+    "strong": {
+      "confirmed": 1
+    },
+    "hedging_total": 3,
+    "strong_total": 1,
+    "examples": [
+      {
+        "type": "hedging",
+        "label": "appears to",
+        "snippet": "ring the relevant period, but appears to"
+      },
+      {
+        "type": "strong",
+        "label": "confirmed",
+        "snippet": "ring that these massages were confirmed when Epstein was in Palm Beach. Leslie Groff was "
+      },
+      {
+        "type": "hedging",
+        "label": "appears to",
+        "snippet": "t to Epstein . Groff does not appear to have ever been present when victims arrived for m"
+      }
+    ],
+    "confidence_ratio": 0.25
+  },
+  "Indyke": {
+    "hedging": {
+      "consistent with": 1
+    },
+    "strong": {},
+    "hedging_total": 1,
+    "strong_total": 0,
+    "examples": [
+      {
+        "type": "hedging",
+        "label": "consistent with",
+        "snippet": " effect, a shakedown. This is consistent with what Epstein also told Groff and} at the time, an"
+      }
+    ],
+    "confidence_ratio": 0.0
+  },
+  "Kahn": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  },
+  "Black": {
+    "hedging": {
+      "may have": 10,
+      "appears to": 35,
+      "consistent with": 7
+    },
+    "strong": {
+      "confirmed": 15,
+      "proves": 5
+    },
+    "hedging_total": 52,
+    "strong_total": 20,
+    "examples": [
+      {
+        "type": "hedging",
+        "label": "may have",
+        "snippet": "r recollection of events that may have been relevant to Dechert\u2019s investigation. With on"
+      },
+      {
+        "type": "hedging",
+        "label": "appears to",
+        "snippet": "nior executives at Apollo and appears to have relied on Black to help him make those intro"
+      },
+      {
+        "type": "hedging",
+        "label": "consistent with",
+        "snippet": "versity. This appointment was consistent with Black\u2019s understanding that Epstein was"
+      },
+      {
+        "type": "strong",
+        "label": "confirmed",
+        "snippet": "a, Black viewed Epstein as a confirmed bachelor with eclectic tastes, who often employed"
+      },
+      {
+        "type": "strong",
+        "label": "confirmed",
+        "snippet": " Black viewed Epstein as a confirmed bachelor with eclectic tastes, who often employed"
+      }
+    ],
+    "confidence_ratio": 0.28
+  },
+  "Dubin": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  },
+  "Weinstein": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  },
+  "Staley": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  },
+  "Andrew": {
+    "hedging": {},
+    "strong": {
+      "confirmed": 1
+    },
+    "hedging_total": 0,
+    "strong_total": 1,
+    "examples": [
+      {
+        "type": "strong",
+        "label": "confirmed",
+        "snippet": "for about two years. She also confirmed that she was paid a total of nearly $200,000 for "
+      }
+    ],
+    "confidence_ratio": 1.0
+  },
+  "Dershowitz": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  },
+  "Brunel": {
+    "hedging": {},
+    "strong": {
+      "confirmed": 1
+    },
+    "hedging_total": 0,
+    "strong_total": 1,
+    "examples": [
+      {
+        "type": "strong",
+        "label": "confirmed",
+        "snippet": "orida investigation, with She confirmed that she wrote one message for Epstein from Jean "
+      }
+    ],
+    "confidence_ratio": 1.0
+  },
+  "Blaine": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  },
+  "Wexner": {
+    "hedging": {
+      "we believe": 2,
+      "appears to": 3
+    },
+    "strong": {},
+    "hedging_total": 5,
+    "strong_total": 0,
+    "examples": [
+      {
+        "type": "hedging",
+        "label": "we believe",
+        "snippet": "e to Epstein for $20 million. We believe the change of ownership occurred through a transf"
+      },
+      {
+        "type": "hedging",
+        "label": "we believe",
+        "snippet": "e to Epstein for $20 million. We believe the change of ownership occurred through a transf"
+      },
+      {
+        "type": "hedging",
+        "label": "appears to",
+        "snippet": "f for his services to Wexner, appears to account for virtually all of"
+      }
+    ],
+    "confidence_ratio": 0.0
+  },
+  "Marcinkova": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  },
+  "Kellen": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  },
+  "Copperfield": {
+    "hedging": {},
+    "strong": {},
+    "hedging_total": 0,
+    "strong_total": 0,
+    "examples": [],
+    "confidence_ratio": null
+  }
+}
