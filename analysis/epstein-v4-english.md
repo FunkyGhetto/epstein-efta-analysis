@@ -50,7 +50,7 @@ v3 described this in fragments. SDNY's prosecution memo provides a coherent pict
 
 **Confirmed:** One victim describes being "lent out so many times that she began using drugs" and "cannot estimate how many times." Maxwell and Epstein took turns directing her. She was never paid by the other men. The following individuals are named in a single SDNY memo:
 
-**Glen and Eva Dubin** — Maxwell explicitly instructed the victim to massage Glen Dubin and to "do to Glen what she did for Epstein," which the victim understood as performing sexual acts. Glen Dubin is a billionaire hedge fund manager. Dubin was previously named in Giuffre's civil claims, but this is a separate victim's testimony in SDNY's internal prosecution memo — a second, independent account. The memo itself notes: "No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men." No law enforcement action has followed.
+**Glen and Eva Dubin** — Maxwell explicitly instructed the victim to massage Glen Dubin and to "do to Glen what she did for Epstein," which the victim understood as performing sexual acts. Glen Dubin is a billionaire hedge fund manager. The victim's name is redacted. The account may be Giuffre's (who has publicly accused Dubin in civil proceedings) or a separate victim — the redaction prevents confirmation. The memo itself notes: "No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men." Either way, this is SDNY's internal prosecution memo documenting the testimony as part of their case preparation. No law enforcement action followed.
 
 **Prince Andrew** — Maxwell told the victim she would meet a prince and should "make him happy and do the exact same things for him that she did for Epstein because the prince was a good friend of Maxwell's." SDNY noted they were attempting to obtain contact information for the Prince, who gave "zero cooperation."
 
@@ -171,7 +171,7 @@ Updated from v3:
 
 6. **Why was Leslie Groff never indicted?** The memo documents her role in detail, and she was active through December 2018.
 
-7. **Why has no law enforcement action followed on Glen Dubin?** He is named by a second, independent victim in SDNY's own prosecution memo — separate from the Giuffre civil claims.
+7. **Why has no law enforcement action followed on Glen Dubin?** He is named in SDNY's own prosecution memo in testimony documenting Maxwell's direct instruction to a victim. The victim's name is redacted, so it is unclear whether this is Giuffre or a different person.
 
 8. **What happened to Darren Indyke's potential obstruction liability?** He instructed witnesses not to speak with police and facilitated sexual activity in prison.
 

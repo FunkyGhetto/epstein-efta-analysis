@@ -15,7 +15,7 @@ All findings derive from publicly released documents under the Epstein Files Tra
 1. **The "lending out" system was far larger than v3 describes** — one victim was "lent out so many times that she began using drugs" and cannot estimate the number. Glen Dubin, Harvey Weinstein, Leon Black, Jes Staley, Prince Andrew, and Alan Dershowitz are all named in the same prosecution memo.
 2. **Leon Black was the subject of an active federal human trafficking investigation in 2023** — not just civil lawsuits.
 3. **Harvey Weinstein is directly linked to Epstein's victim network** — a finding absent from v3.
-4. **Glen and Eva Dubin — second independent account** — A separate victim (not Giuffre) testifies in SDNY's own files that Maxwell instructed her to have sex with Glen Dubin.
+4. **Glen and Eva Dubin** — A redacted victim testifies in SDNY's own prosecution memo that Maxwell instructed her to have sex with Glen Dubin. The victim may be Giuffre or a separate person — the redaction prevents confirmation.
 5. **SDNY had zero cooperating defendants** when Epstein died — the entire strategy of using the indictment as leverage against co-conspirators was eliminated.
 6. **Acosta denies the intelligence connection under oath** — directly and unequivocally.
 7. **Victoria's Secret was used as a recruitment tool** against at least three separate victims.
@@ -30,7 +30,7 @@ Maxwell and Epstein alternated in instructing the victim to provide sexual servi
 
 Named men in the memo, from this single victim:
 
-**Glen and Eva Dubin** — Maxwell explicitly instructed the victim to massage Glen Dubin and "do to Glen what she did for Epstein," which the victim understood as performing sexual acts. Glen Dubin is a billionaire hedge fund manager. Dubin was previously named in Giuffre's civil claims, but this is a separate victim's testimony in SDNY's internal prosecution memo — a second, independent account. The memo itself notes: "No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men." No law enforcement action has followed despite SDNY having this testimony.
+**Glen and Eva Dubin** — Maxwell explicitly instructed the victim to massage Glen Dubin and "do to Glen what she did for Epstein," which the victim understood as performing sexual acts. Glen Dubin is a billionaire hedge fund manager. The victim's name is redacted. The account may be Giuffre's (who has publicly accused Dubin in civil proceedings) or a separate victim — the redaction prevents confirmation. The memo itself notes: "No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men." Either way, this is SDNY's internal prosecution memo documenting the testimony as part of their case preparation. No law enforcement action followed.
 
 **Prince Andrew** — Maxwell told the victim she would meet a prince and should "make him happy and do the exact same things for him that she did for Epstein because the prince was a good friend of Maxwell's."
 
