@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-03-22",
+  "key_findings": {
+    "michael_bachner": {
+      "status": "PUBLIC — named as Groff attorney in multiple sources",
+      "key_quote": "After Lesley voluntarily spoke with prosecutors, and answered each and every question asked of her, she was told that she was not being prosecuted.",
+      "also_said": "Lesley Groff has never seen this document and was unaware of it. Neither Lesley nor her counsel were ever notified that she was considered a co-conspirator.",
+      "congressional": "Declined to comment on House committee summons for Groff",
+      "sources": ["CNN 2026/02/10", "Yahoo News", "PRWeb statement"]
+    },
+    "prosecution_memo_december_2019": {
+      "status": "PUBLICLY IDENTIFIED — Rep. Mace demanded unredacted version",
+      "key_finding": "Rep. Nancy Mace sent formal letter Feb 16 2026 demanding unredacted version of the EXACT memo we analyzed: 'Investigation into Potential Co-Conspirators of Jeffrey Epstein' dated December 19, 2019",
+      "problem": "DOJ claims SDNY applied redactions before transmission — they don't HAVE the unredacted version",
+      "implication": "The 18 excised pages we identified may be what Mace is looking for. She visited DOJ and found it 'remained heavily redacted.'",
+      "sources": ["mace.house.gov press release", "NBC News", "CNN"]
+    },
+    "audrey_strauss": {
+      "status": "PUBLIC — well documented as Acting USAO June 2020-Oct 2021",
+      "key_context": "Succeeded Berman (who was fired). Grand jury subpoenas under her authority cite sex trafficking statutes. Investigation concluded Dec 2021 without charging Groff.",
+      "sources": ["Wikipedia", "PBS", "ABC News"]
+    },
+    "deutsche_bank_analysis": {
+      "status": "PARTIALLY PUBLIC — document EFTA01681865 referenced but 50-page characterization not in public reporting",
+      "context": "22 women named as 'ostensible foreign models' receiving hundreds of thousands. 76 bank accounts across 10+ institutions. Accounts in Russia, Poland, Ukraine, Uzbekistan, Baltics.",
+      "our_unique_angle": "The prosecution memo's characterization of the meeting — 'extremely thorough, including a 50-page summary' — and the specific conclusion 'no immediate indication of financial criminal activity' are from our OCR extraction, not from public DB reporting.",
+      "sources": ["Fortune", "Daily Beast", "Epstein Exposed"]
+    },
+    "southern_trust": {
+      "status": "EXTENSIVELY PUBLIC — court filings, USVI settlement",
+      "key_facts": "$391.3M assets by 2017. $656M aggregate income 2013-2017. $73.6M in avoided taxes. USVI settled for $105M. Company 'did not perform the informatics business represented to the EDC.'",
+      "our_angle": "Its specific role in the 'no client accounts' finding — all Epstein bank accounts including Southern Trust ones were for 'holding his own money' — connects the public corporate fraud story to our financial deconstruction.",
+      "sources": ["USVI DOJ", "St Thomas Source", "justice.gov"]
+    },
+    "groff_150k_mentions": {
+      "status": "PUBLIC — widely reported",
+      "key_fact": "Groff mentioned 150,000 times in EFTA files — second most after Epstein himself.",
+      "sources": ["Sportskeeda", "Yahoo News"]
+    },
+    "congressional_action_march_2026": {
+      "status": "ACTIVE — ongoing dispute",
+      "key_developments": [
+        "Rep. Mace demanded unredacted Dec 2019 prosecution memo (Feb 16)",
+        "Rep. Friedman found 'hundreds' of pages still redacted despite 'unredacted' label (Mar 6)",
+        "Lawmakers allowed to view files in DOJ reading room starting Feb 9",
+        "DOJ says SDNY applied redactions before transmission",
+        "Three FBI memos about Trump allegation were unredacted after congressional pressure",
+        "Groff called to testify before Congress"
+      ],
+      "implication": "Our analysis of the 18 excised pages and the charging section structure could be DIRECTLY RELEVANT to what Mace and Friedman are looking for. They're trying to see what we've already mapped from the public release."
+    }
+  },
+  "updated_genuinely_new": {
+    "CONFIRMED_NEW": [
+      "No client accounts — SDNY's specific conclusion not in public reporting",
+      "78 proffer complete mapping — no other count exists",
+      "18 excised pages structural skeleton with section headings A-E",
+      "Joint charging 'Groff and/or Maxwell' — not in public reporting",
+      "Linguistic hedging predicts non-charging — novel methodology"
+    ],
+    "PARTIALLY_NEW": [
+      "Groff proffer document EFTA01682023 — cooperation known, formal doc not cited",
+      "Deutsche Bank 50-page characterization from prosecution memo"
+    ],
+    "NOT_NEW": [
+      "Southern Trust — extensively documented in public court filings",
+      "Groff 150K mentions — widely reported",
+      "Tayler most critical — known from EFTA coverage"
+    ]
+  }
+}
