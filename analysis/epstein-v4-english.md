@@ -4,6 +4,8 @@
 
 *Analysis directed by Adrian Moen. Searching, analysis, and writing performed by Claude (Anthropic).*
 
+*Note: References to "v3" refer to an earlier version of this analysis that was produced before the systematic OCR text search. The v3 analysis was based on manual reading and 814-source cross-referencing. This document (v4) includes findings from systematic text analysis that v3 missed.*
+
 ---
 
 ## About This Version

@@ -51,6 +51,12 @@ Findings from SDNY prosecution memoranda that have not appeared in mainstream me
 
 The raw OCR text files are included in the `ocr/` folder (~6.8 MB, 18 files). You can verify any finding by grepping for the EFTA document number in the OCR files. See `ocr/README.md` for how EFTA page markers work in the OCR output.
 
+Example:
+
+    grep -A 20 'EFTA02731138' ocr/epstein_ren16.txt
+
+This returns the content of page EFTA02731139 (the Dubin page). See `ocr/README.md` for why you grep for the number one below.
+
 No need to download 4,251 PDFs or run OCR yourself.
 
 ## Tools
@@ -73,7 +79,7 @@ Two tools were built during this analysis and are included in `tools/`. Neither 
 
 ## How to Verify
 
-1. Access the EFTA documents from the public release
+1. Access the EFTA documents from the public release at https://www.justice.gov/epstein/
 2. Look up any EFTA number cited in the analysis
 3. Read the document
 4. Decide for yourself

@@ -2,6 +2,8 @@
 
 *Analyse styrt av Adrian Moen. Søk, kryss-referering og skriving utført av Claude (Anthropic).*
 
+*Merknad: Referanser til «v3» viser til en tidligere versjon av denne analysen som ble produsert før det systematiske OCR-tekstsøket. V3-analysen var basert på manuell lesning og kryssreferering mot 814 kilder. Dette dokumentet (v4) inkluderer funn fra systematisk tekstanalyse som v3 ikke fanget opp.*
+
 Basert på systematisk grep-, python- og nettverksanalyse av 18 rensede OCR-filer (~6.8 MB, 4 251 dokumenter fra EFTA-frigivelsen). Adrian OCR-prosesserte dokumentene og styrte analysen gjennom samtale. Claude utførte alt tekstsøk, identifiserte passasjer, bygde koblinger og skrev denne rapporten. Adrian gjennomgikk flaggede resultater og tok redaksjonelle beslutninger.
 
 Alle funn er fra offentlig frigitte dokumenter under Epstein Files Transparency Act (H.R. 4405). Hvert funn siterer et spesifikt EFTA-dokumentnummer som kan verifiseres uavhengig.
@@ -39,6 +41,8 @@ Navngitte menn i memoet, fra dette ene offeret:
 **Leon Black** — Epstein instruerte offeret om å massere Black ved NYC-residensen. Black initierte seksuell kontakt, offeret løp ut av rommet. Epstein lo det bort. En annen kvinne (navn sladdet) ble også dirigert til Black — denne kvinnen fortalte offeret at hun hadde utført oralsex på Black under massasjen.
 
 **Jes Staley** — Epstein instruerte offeret om å massere Staley ved NYC-residensen. Staley tvang henne til å berøre kjønnsorganene hans, deretter voldtok han henne. Memoet bruker eksplisitt ordet "raped." Da offeret klaget, sa Epstein at "he left it to [her] and Staley to decide whether to engage in sex."
+
+**Kilde: EFTA02731139 (Dubin, Prince Andrew), EFTA02731096 (Weinstein), EFTA02731114 (Staley, Black), EFTA02731111 (Blaine)**
 
 **Alan Dershowitz** — offeret "mentioned Alan Dershowitz, but we did not fully explore the details of her interactions with him." SDNY kjente altså til påstander men valgte å ikke forfølge dem i dette memoet.
 
@@ -348,9 +352,9 @@ Følgende navn fremstår usladdet i påtalememoene, i kontekster der de tydelig 
 
 To avslørende passasjer om Indyke:
 
-1. **"Don't talk to the police"** — Et offer/vitne beskriver at hun ble bedt om å samle telefonkataloger fra Epsteins Virgin Islands-residens, sjekke "every building on Epstein's island," bringe dem til Maxwells hus i New York, gi dem til [sladdet], som deretter instruerte henne om å makulere dem i Maxwells hus. Hun husket også at Darren Indyke møtte henne og sa at "if she ever needed help she should not talk to the police."
+1. **"Don't talk to the police"** — Et offer/vitne beskriver at hun ble bedt om å samle telefonkataloger fra Epsteins Virgin Islands-residens, sjekke "every building on Epstein's island," bringe dem til Maxwells hus i New York, gi dem til [sladdet], som deretter instruerte henne om å makulere dem i Maxwells hus. Hun husket også at Darren Indyke møtte henne og sa at "if she ever needed help she should not talk to the police." **Kilde: EFTA02731123**
 
-2. **Datamaskiner i fengselet** — Da Epstein var fengslet, ville Indyke og en advokatassistent "bring him a computer, which he used to have video sex with [redacted]." Epsteins egen advokat tilrettela altså for seksuell aktivitet mens Epstein sonet.
+2. **Datamaskiner i fengselet** — Da Epstein var fengslet, ville Indyke og en advokatassistent "bring him a computer, which he used to have video sex with [redacted]." Epsteins egen advokat tilrettela altså for seksuell aktivitet mens Epstein sonet. **Kilde: EFTA02731127**
 
 ### C. Rollebasert identitetsrekonstruksjon
 

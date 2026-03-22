@@ -4,6 +4,8 @@
 
 *Analyse styrt av Adrian Moen. Søk, analyse og skriving utført av Claude (Anthropic).*
 
+*Merknad: Referanser til «v3» viser til en tidligere versjon av denne analysen som ble produsert før det systematiske OCR-tekstsøket. V3-analysen var basert på manuell lesning og kryssreferering mot 814 kilder. Dette dokumentet (v4) inkluderer funn fra systematisk tekstanalyse som v3 ikke fanget opp.*
+
 ---
 
 ## Om denne versjonen

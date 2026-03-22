@@ -2,6 +2,8 @@
 
 *Analysis directed by Adrian Moen. Searching, cross-referencing, and writing performed by Claude (Anthropic).*
 
+*Note: References to "v3" refer to an earlier version of this analysis that was produced before the systematic OCR text search. The v3 analysis was based on manual reading and 814-source cross-referencing. This document (v4) includes findings from systematic text analysis that v3 missed.*
+
 Based on systematic grep, Python, and network analysis of 18 cleaned OCR files (~6.8 MB, 4,251 documents from the EFTA release). Adrian OCR-processed the documents and directed the analysis through conversation. Claude performed all text searching, identified passages, built connections, and wrote this report. Adrian reviewed the flagged results and made editorial decisions.
 
 All findings derive from publicly released documents under the Epstein Files Transparency Act (H.R. 4405). Every claim cites a specific EFTA document number that can be independently verified.
@@ -37,6 +39,8 @@ Named men in the memo, from this single victim:
 **Leon Black** — Epstein instructed the victim to massage Black at the NYC residence. Black initiated sexual contact; the victim ran out. Epstein "laughed it off as a funny incident." A *different* woman (name redacted) was also directed to massage Black — this woman told the victim she had performed oral sex on Black during the massage.
 
 **Jes Staley** — The memo uses the word "raped" — not "sexual contact." When the victim complained, Epstein said "he left it to [her] and Staley to decide whether to engage in sex." The victim was not paid for the massages with Black or Staley. Epstein was paying for the victim's massage school, "so she felt indebted to him."
+
+**Source: EFTA02731139 (Dubin, Prince Andrew), EFTA02731096 (Weinstein), EFTA02731114 (Staley, Black), EFTA02731111 (Blaine)**
 
 **Context from the memo:** "No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men." The memo is marked "Privileged — Attorney Work Product / Deliberative Process" and "Subject to Fed. R. Crim. P. 6(e)" (grand jury secrecy).
 
@@ -324,9 +328,9 @@ The following names appear unredacted in the prosecution memos in contexts where
 
 Two revealing passages about Indyke:
 
-1. **"Don't talk to the police"** — A victim/witness describes being asked to collect phone directories from Epstein's Virgin Islands residence, check "every building on Epstein's island," bring them to Maxwell's house in New York, hand them to [redacted], who then instructed her to shred them in Maxwell's house. She also recalled that Darren Indyke met with her and said that "if she ever needed help she should not talk to the police."
+1. **"Don't talk to the police"** — A victim/witness describes being asked to collect phone directories from Epstein's Virgin Islands residence, check "every building on Epstein's island," bring them to Maxwell's house in New York, hand them to [redacted], who then instructed her to shred them in Maxwell's house. She also recalled that Darren Indyke met with her and said that "if she ever needed help she should not talk to the police." **Source: EFTA02731123**
 
-2. **Computers in prison** — While Epstein was incarcerated, Indyke and a paralegal would "bring him a computer, which he used to have video sex with [redacted]." Epstein's own attorney thus facilitated sexual activity while Epstein was serving his sentence.
+2. **Computers in prison** — While Epstein was incarcerated, Indyke and a paralegal would "bring him a computer, which he used to have video sex with [redacted]." Epstein's own attorney thus facilitated sexual activity while Epstein was serving his sentence. **Source: EFTA02731127**
 
 ### C. Role-Based Identity Reconstruction
 
