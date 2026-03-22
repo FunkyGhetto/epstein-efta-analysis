@@ -79,7 +79,7 @@ The memo documents a pattern where Epstein paid victims in connection with negat
 
 ## 4. Leslie Groff — Complete Prosecution Memo and Continued Active Role Through December 2018
 
-**Source:** epstein_ren16.txt (VOL00012)
+**Source:** EFTA02731133 (epstein_ren16.txt, VOL00012)
 
 SDNY prosecution memo analyzes evidence against Groff specifically:
 - Coordinated massage appointments by phone
@@ -430,11 +430,15 @@ The FBI evidence log contains:
 
 ### L. No Cameras in Bedrooms — But DVR Systems Were Seized
 
+**Source:** EFTA02731148 (epstein_ren16.txt, VOL00012)
+
 The memo states explicitly: "contrary to some news reports, these searches did not reveal any cameras in any of the bedrooms or massage rooms." This contradicts the popular narrative that Epstein filmed guests in compromising situations as blackmail material.
 
 *However* — FBI seized two complete DVR surveillance systems with 16+ hard drives. These presumably covered common areas and entrances. The fact that no cameras were found in bedrooms does not mean cameras were never there — only that they were not present when the search was conducted in July 2019, more than a decade after evidence destruction is documented.
 
 ### M. No Client Accounts — The Hedge Fund Manager Myth Is Confirmed Dead
+
+**Source:** EFTA02731148 (epstein_ren16.txt, VOL00012)
 
 The memo states: "We have not identified any accounts that are consistent with Epstein handling or investing other people's money."
 

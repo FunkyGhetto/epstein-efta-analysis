@@ -89,7 +89,7 @@ Memoet dokumenterer et mønster der Epstein betalte ofre i forbindelse med negat
 
 ## 4. Leslie Groff — komplett påtalememo og fortsatt aktiv rolle i desember 2018
 
-**Kilde:** epstein_ren16.txt (VOL00012)
+**Kilde:** EFTA02731133 (epstein_ren16.txt, VOL00012)
 
 SDNY-påtalememo analyserer bevis mot Groff:
 - Koordinerte massasjeavtaler per telefon
@@ -454,11 +454,15 @@ FBI-bevisloggen inneholder:
 
 ### L. Ingen kameraer i soverom — men DVR-systemer ble beslaglagt
 
+**Kilde:** EFTA02731148 (epstein_ren16.txt, VOL00012)
+
 Memoet sier eksplisitt: "contrary to some news reports, these searches did not reveal any cameras in any of the bedrooms or massage rooms." Dette motsier det folkelige narrativet om at Epstein filmet gjester i kompromitterende situasjoner som utpresningsmateriell.
 
 *Men* — FBI beslagla to komplette DVR-overvåkingssystemer med 16+ harddisker. Disse dekket antakelig fellesarealer og inngangspartier. Det at ingen kameraer ble funnet i soverom betyr ikke at det aldri fantes kameraer der — bare at de ikke var der da ransakelsen ble gjennomført i juli 2019, over 10 år etter at bevismakulering er dokumentert.
 
 ### M. Ingen klientkontoer — myten om hedgefondforvalteren er bekreftet død
+
+**Kilde:** EFTA02731148 (epstein_ren16.txt, VOL00012)
 
 Memoet fastslår: "We have not identified any accounts that are consistent with Epstein handling or investing other people's money."
 
