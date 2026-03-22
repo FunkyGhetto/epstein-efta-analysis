@@ -1,0 +1,3 @@
+
+# Entity extraction output (regenerable, ~8MB)
+tools/entity_network/*.json
