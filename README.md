@@ -24,6 +24,8 @@ Findings from SDNY prosecution memoranda, independently verified against origina
 
 - **Leon Black** — Subject of an active federal human trafficking referral in June 2023 (EFTA02731477), with an identified minor victim. This goes beyond the civil lawsuits that have been publicly reported. *(Independently confirmed; their project includes additional DANY interview data.)*
 
+**Note:** SDNY's memo states they were unable to corroborate the "lent out" accounts. They confirmed the victim's recruitment by Maxwell, abuse by Epstein, and recruiting of other minors, but the specific allegations about being directed to have sex with Dubin, Black, Staley, Andrew, and Weinstein remain uncorroborated in the memo's own assessment. See `analysis/victim-cross-reference.md` for details.
+
 - **"Cooperating Defendants: None"** — SDNY's memo (EFTA02731053) explicitly states they had zero cooperating defendants and planned to use Epstein's indictment as leverage. His death eliminated this strategy. This is the structural explanation for why no co-conspirators were indicted. *(Independently confirmed from a different source document.)*
 
 - **No cameras in bedrooms** — The memo explicitly states searches "did not reveal any cameras in any of the bedrooms or massage rooms." The blackmail narrative is not supported by the physical evidence found during the 2019 searches. Source: EFTA02731148. *(Independently confirmed from a different source: FBI CID summary EFTA00038617.)*

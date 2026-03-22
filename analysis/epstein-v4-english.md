@@ -50,6 +50,8 @@ v3 described this in fragments. SDNY's prosecution memo provides a coherent pict
 
 **Confirmed:** One victim describes being "lent out so many times that she began using drugs" and "cannot estimate how many times." Maxwell and Epstein took turns directing her. She was never paid by the other men. The following individuals are named in a single SDNY memo:
 
+**Corroboration caveat:** SDNY's memo explicitly states they were unable to corroborate the "lent out" accounts. They confirmed the victim's recruitment by Maxwell, abuse by Epstein, and recruiting of other minors, but the specific allegations about being directed to have sex with the individuals below remain uncorroborated in the memo's own assessment (Source: EFTA02731136).
+
 **Glen and Eva Dubin** — Maxwell explicitly instructed the victim to massage Glen Dubin and to "do to Glen what she did for Epstein," which the victim understood as performing sexual acts. Glen Dubin is a billionaire hedge fund manager. The victim's name is redacted. The account may be Giuffre's (who has publicly accused Dubin in civil proceedings) or a separate victim — the redaction prevents confirmation. The memo itself notes: "No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men." Either way, this is SDNY's internal prosecution memo documenting the testimony as part of their case preparation. No law enforcement action followed.
 
 **Prince Andrew** — Maxwell told the victim she would meet a prince and should "make him happy and do the exact same things for him that she did for Epstein because the prince was a good friend of Maxwell's." SDNY noted they were attempting to obtain contact information for the Prince, who gave "zero cooperation."

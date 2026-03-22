@@ -13,6 +13,8 @@ Alle funn er fra offentlig frigitte dokumenter under Epstein Files Transparency 
 ## Oppsummering av de viktigste funnene
 
 1. **"Utlåns"-systemet var langt større enn v3 beskriver** — ett offer ble "lent out so many times that she began using drugs" og kan ikke estimere antallet. Glen Dubin, Harvey Weinstein, Leon Black, Jes Staley, Prince Andrew og Alan Dershowitz er alle navngitt i samme påtalememo.
+**Bekreftelsesforbehold:** SDNYs memo sier eksplisitt at de ikke kunne bekrefte «utlåns»-forklaringene. De bekreftet offerets rekruttering av Maxwell, overgrep fra Epstein, og rekruttering av andre mindreårige, men de spesifikke anklagene om å bli instruert til å ha sex med Dubin, Black, Staley, Andrew og Weinstein forblir ubekreftet i memoets egen vurdering (Kilde: EFTA02731136).
+
 2. **Leon Black var gjenstand for aktiv føderal menneskehandelsetterforskning i 2023** — ikke bare sivile søksmål.
 3. **Harvey Weinstein er direkte koblet til Epsteins offernettverk** — et funn som ikke finnes i v3.
 4. **Glen og Eva Dubin** — Et sladdet offer vitner i SDNYs eget påtalememo om at Maxwell instruerte henne om å ha sex med Glen Dubin. Offeret kan være Giuffre eller en annen person — sladdingen forhindrer bekreftelse.

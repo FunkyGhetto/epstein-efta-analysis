@@ -13,6 +13,8 @@ All findings derive from publicly released documents under the Epstein Files Tra
 ## Summary of Key Findings
 
 1. **The "lending out" system was far larger than v3 describes** — one victim was "lent out so many times that she began using drugs" and cannot estimate the number. Glen Dubin, Harvey Weinstein, Leon Black, Jes Staley, Prince Andrew, and Alan Dershowitz are all named in the same prosecution memo.
+**Corroboration caveat:** SDNY's memo explicitly states they were unable to corroborate the "lent out" accounts. They confirmed the victim's recruitment by Maxwell, abuse by Epstein, and recruiting of other minors, but the specific allegations about being directed to have sex with Dubin, Black, Staley, Andrew, and Weinstein remain uncorroborated in the memo's own assessment (Source: EFTA02731136).
+
 2. **Leon Black was the subject of an active federal human trafficking investigation in 2023** — not just civil lawsuits.
 3. **Harvey Weinstein is directly linked to Epstein's victim network** — a finding absent from v3.
 4. **Glen and Eva Dubin** — A redacted victim testifies in SDNY's own prosecution memo that Maxwell instructed her to have sex with Glen Dubin. The victim may be Giuffre or a separate person — the redaction prevents confirmation.

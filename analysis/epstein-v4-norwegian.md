@@ -54,6 +54,8 @@ v3 beskrev dette fragmentarisk. SDNYs påtalememo gir et sammenhengende bilde so
 
 **Bekreftet:** Ett offer beskriver at hun ble «lent out so many times that she began using drugs» og «cannot estimate how many times.» Maxwell og Epstein vekslet på å instruere henne. Hun ble aldri betalt av de andre mennene. Følgende er navngitt i ett enkelt SDNY-memo:
 
+**Bekreftelsesforbehold:** SDNYs memo sier eksplisitt at de ikke kunne bekrefte «utlåns»-forklaringene. De bekreftet offerets rekruttering av Maxwell, overgrep fra Epstein, og rekruttering av andre mindreårige, men de spesifikke anklagene om å bli instruert til å ha sex med personene nedenfor forblir ubekreftet i memoets egen vurdering (Kilde: EFTA02731136).
+
 **Glen og Eva Dubin** — Maxwell instruerte offeret eksplisitt om å massere Glen Dubin og «do to Glen what she did for Epstein,» som offeret forstod som å utføre seksuelle handlinger. Glen Dubin er milliardær hedgefondforvalter. Offerets navn er sladdet. Det kan være Giuffre (som offentlig har anklaget Dubin i sivile søksmål) eller et annet offer — sladdingen forhindrer bekreftelse. Memoet selv bemerker: «No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men.» Uansett er dette SDNYs interne påtalememo som dokumenterer vitnemålet som del av deres saksforberedelse. Ingen rettshåndhevelse fulgte.
 
 **Prince Andrew** — Maxwell sa til offeret at hun skulle møte en prins og «make him happy and do the exact same things for him that she did for Epstein because the prince was a good friend of Maxwell's.» SDNY noterte at de forsøkte å skaffe kontaktinformasjon for Prinsen, som ga «zero cooperation.»
