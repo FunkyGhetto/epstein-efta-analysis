@@ -94,3 +94,7 @@ Three automated analyses of the OCR text. Scripts are in `analysis_outputs/scrip
 **Financial Evidence** (`data/financial_evidence.txt`) — Complete evidence extraction for the financial deconstruction analysis, with OCR line numbers and EFTA markers.
 
 **Victim Profiles** (`data/victim_profiles.json`) — Structured victim contextual fingerprints from the cross-volume analysis.
+
+**Lead Finder** (`scripts/find_leads.py`) — Systematically identifies unresolved threads, contradictions, unexplored people, uncited financial transactions, cross-reference gaps with rhowardstone, and uncovered victim sections. Found 537 leads: 48 high, 124 medium, 365 low priority. Output: `data/leads.json`, `data/leads.txt`. Note: unexplored person results include false positives from the massage textbook OCR; the high-priority victim and financial leads are the most actionable.
+
+    python3 tools/analysis_outputs/scripts/find_leads.py
