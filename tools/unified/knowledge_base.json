@@ -67,7 +67,8 @@
       "comparable_person": "Sarah Kellen (similar role, pled guilty)",
       "evidence_score": 9,
       "action_score": 1,
-      "gap": 8
+      "gap": 8,
+      "notes_dimensional": "SDNY evaluated charging 'Leslie Groff and/or Ghislaine Maxwell with a federal crime' (page 75/EFTA02731157). Section D content excised \u2014 18 pages stripped. She was analyzed as potential co-defendant with Maxwell."
     },
     "Leon Black": {
       "role": "associate/client",
@@ -218,9 +219,10 @@
       "prosecution_outcome": "Never charged",
       "npa_covered": false,
       "comparable_person": null,
-      "evidence_score": 4.8,
+      "evidence_score": 5.8,
       "action_score": 1,
-      "gap": 3.8
+      "gap": 3.8,
+      "notes_dimensional": "Footnote 61 (page 67/EFTA02731149): JP Morgan produced Staley-Epstein messages corroborating victim's rape account temporally. SDNY had both testimony AND financial records."
     },
     "Harvey Weinstein": {
       "role": "associate",
@@ -731,6 +733,45 @@
       "evidence_score": 1.4,
       "action_score": 1,
       "gap": 0.4
+    },
+    "Section A \u2014 Unknown": {
+      "role": "unknown co-conspirator (8-page charging analysis)",
+      "memo_presence": {
+        "total_mentions": 0,
+        "pages_mentioned": [
+          "02731157",
+          "02731158",
+          "02731159",
+          "02731160",
+          "02731161",
+          "02731162",
+          "02731163",
+          "02731164"
+        ]
+      },
+      "corpus_presence": {
+        "total_pages": 0
+      },
+      "co_absence_ratio": null,
+      "linguistic_profile": {
+        "hedging_count": 0,
+        "strong_count": 0,
+        "ratio": null
+      },
+      "financial_connections": 0,
+      "victim_connections": [],
+      "temporal_events": 0,
+      "redaction_bridges": 0,
+      "open_leads": 1,
+      "high_leads": 1,
+      "rhowardstone_reports": 0,
+      "prosecution_outcome": "Never charged despite 8-page charging analysis (longest section)",
+      "npa_covered": false,
+      "comparable_person": null,
+      "evidence_score": 10,
+      "action_score": 0,
+      "gap": 10,
+      "notes": "Identity excised from pages 75-82. Subsections: 'Knowledge of Sex Acts' and 'Knowledge of Age'. Analyzed for 18 USC 1591 conspiracy. Candidates: Kellen (SDNY considered charging her per EFTA00106062) or Marcinkova."
     }
   },
   "prosecution_decisions": {
@@ -741,7 +782,8 @@
     "investigated_not_charged": [
       "Leslie Groff",
       "Leon Black",
-      "Les Wexner"
+      "Les Wexner",
+      "Section A \u2014 Unknown"
     ],
     "named_not_investigated": [
       "Glen Dubin",
