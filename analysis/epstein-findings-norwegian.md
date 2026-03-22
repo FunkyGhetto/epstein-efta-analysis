@@ -32,7 +32,7 @@ Maxwell og Epstein vekslet på å instruere offeret om å ha seksuelle tjenester
 
 Navngitte menn i memoet, fra dette ene offeret:
 
-**Glen og Eva Dubin** — Maxwell instruerte offeret eksplisitt om å massere Glen Dubin og "do to Glen what she did for Epstein," som offeret forstod som å utføre seksuelle handlinger. Glen Dubin er milliardær hedgefondforvalter. Offerets navn er sladdet. Det kan være Giuffre (som offentlig har anklaget Dubin i sivile søksmål) eller et annet offer — sladdingen forhindrer bekreftelse. Memoet selv bemerker: «No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men.» Uansett er dette SDNYs interne påtalememo som dokumenterer vitnemålet som del av deres saksforberedelse. Ingen rettshåndhevelse fulgte.
+**Glen og Eva Dubin** — Maxwell instruerte offeret eksplisitt om å massere Glen Dubin og "do to Glen what she did for Epstein," som offeret forstod som å utføre seksuelle handlinger. Glen Dubin er milliardær hedgefondforvalter. Offerets navn er sladdet. Det kan være Giuffre (som offentlig har anklaget Dubin i sivile søksmål) eller et annet offer — sladdingen forhindrer bekreftelse. Memoet selv bemerker: «No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men.» Uansett er dette SDNYs interne påtalememo som dokumenterer vitnemålet som del av deres saksforberedelse. Ingen rettshåndhevelse fulgte. Kilde: EFTA02731139.
 
 **Prince Andrew** — Maxwell sa til offeret at hun skulle møte en prins og "make him happy and do the exact same things for him that she did for Epstein because the prince was a good friend of Maxwell's."
 
@@ -338,7 +338,7 @@ Begrensninger: OCR-kvaliteten varierer sterkt. VOL00001 er primært fotografier 
 
 Følgende navn fremstår usladdet i påtalememoene, i kontekster der de tydelig burde vært sladdet for konsistens:
 
-**David Blaine** (tryllekunstner) — introduserte et offer (ca. 18 år) for Epstein på en nattklubb i New York. Blaine tok henne med til Epsteins NYC-residens for en middagsselskap. Offeret ble deretter invitert til Epsteins øy, reiste med ham i omtrent ett år til Virgin Islands og Palm Beach, og ble utsatt for gjentatte seksuelle overgrep under massasjer. **Ikke kjent fra offentlig rapportering som aktiv introdusent.**
+**David Blaine** (tryllekunstner) — introduserte et offer (ca. 18 år) for Epstein på en nattklubb i New York. Blaine tok henne med til Epsteins NYC-residens for en middagsselskap. Offeret ble deretter invitert til Epsteins øy, reiste med ham i omtrent ett år til Virgin Islands og Palm Beach, og ble utsatt for gjentatte seksuelle overgrep under massasjer. **Ikke kjent fra offentlig rapportering som aktiv introdusent.** Kilde: EFTA02731111.
 
 **Joseph Alvarez** (a/k/a [sladdet]) — introduserte en 17-årig jente for Epstein og "taught both sisters how to give massages to Epstein." Han lærte altså aktivt mindreårige teknikken de skulle bruke. Offeret begynte deretter å reise med Epstein.
 

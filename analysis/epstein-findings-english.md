@@ -30,7 +30,7 @@ Maxwell and Epstein alternated in instructing the victim to provide sexual servi
 
 Named men in the memo, from this single victim:
 
-**Glen and Eva Dubin** — Maxwell explicitly instructed the victim to massage Glen Dubin and "do to Glen what she did for Epstein," which the victim understood as performing sexual acts. Glen Dubin is a billionaire hedge fund manager. The victim's name is redacted. The account may be Giuffre's (who has publicly accused Dubin in civil proceedings) or a separate victim — the redaction prevents confirmation. The memo itself notes: "No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men." Either way, this is SDNY's internal prosecution memo documenting the testimony as part of their case preparation. No law enforcement action followed.
+**Glen and Eva Dubin** — Maxwell explicitly instructed the victim to massage Glen Dubin and "do to Glen what she did for Epstein," which the victim understood as performing sexual acts. Glen Dubin is a billionaire hedge fund manager. The victim's name is redacted. The account may be Giuffre's (who has publicly accused Dubin in civil proceedings) or a separate victim — the redaction prevents confirmation. The memo itself notes: "No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men." Either way, this is SDNY's internal prosecution memo documenting the testimony as part of their case preparation. No law enforcement action followed. Source: EFTA02731139.
 
 **Prince Andrew** — Maxwell told the victim she would meet a prince and should "make him happy and do the exact same things for him that she did for Epstein because the prince was a good friend of Maxwell's."
 
@@ -105,7 +105,7 @@ The memo states explicitly:
 
 > "IV. Cooperating Defendants — None currently. Following the filing of the initial indictment charging Epstein, we hope to approach other suspected and alleged co-conspirators, and to further develop evidence against such individuals through the overt investigation, with the possibility of utilizing certain such individuals as cooperating defendants."
 
-SDNY's strategy was to use Epstein's indictment as leverage to press co-conspirators into cooperation. Epstein's death on August 10, 2019 eliminated this strategy entirely. Maxwell was eventually indicted separately, but the other named individuals — Groff, Dubin, Black, Staley — were never formally approached as potential cooperating parties or defendants.
+SDNY's strategy was to use Epstein's indictment as leverage to press co-conspirators into cooperation. Epstein's death on August 10, 2019 eliminated this strategy entirely. Maxwell was eventually indicted separately, but the other named individuals — Groff, Dubin, Black, Staley — have not been formally approached as potential cooperating parties or defendants as of the public record.
 
 ---
 
@@ -314,7 +314,7 @@ LSJE, LLC (Little Saint James Enterprises) operated from Red Hook Quarters Suite
 
 The following names appear unredacted in the prosecution memos in contexts where they should clearly have been redacted for consistency:
 
-**David Blaine** (magician) — introduced a victim (approximately 18 years old) to Epstein at a New York nightclub. Blaine brought her to Epstein's NYC residence for a dinner party. The victim was subsequently invited to Epstein's island, traveled with him for approximately a year, and was subjected to repeated sexual abuse during massages. **Not known from public reporting as an active introducer.**
+**David Blaine** (magician) — introduced a victim (approximately 18 years old) to Epstein at a New York nightclub. Blaine brought her to Epstein's NYC residence for a dinner party. The victim was subsequently invited to Epstein's island, traveled with him for approximately a year, and was subjected to repeated sexual abuse during massages. **Not known from public reporting as an active introducer.** Source: EFTA02731111.
 
 **Joseph Alvarez** (a/k/a [redacted]) — introduced a 17-year-old girl to Epstein and "taught both sisters how to give massages to Epstein." He actively taught minors the techniques they would use. The victim subsequently began traveling with Epstein.
 
