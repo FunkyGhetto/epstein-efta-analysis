@@ -437,7 +437,7 @@ body {
 
 <div class="search-row">
     <input type="text" id="search-input"
-           placeholder="EFTA numbers or #delta-encoded string"
+           placeholder="EFTA numbers (e.g. 02731139) or paste a share code starting with #"
            autocomplete="off">
     <button class="btn" onclick="doSearch()">Search</button>
     <button class="btn btn-zip" id="zip-btn" onclick="doZip()" disabled>Download ZIP</button>
@@ -449,12 +449,11 @@ body {
 <div class="overlay" id="help-overlay" onclick="closeHelp(event)">
     <div class="overlay-box" onclick="event.stopPropagation()">
         <h3>How to use</h3>
-        <p>Type EFTA numbers separated by commas or spaces:<br>
-        <code>02731139, 02731096, 02731114</code></p>
-        <p>Or paste a delta-encoded string starting with <code>#</code> to replay a previous search:<br>
-        <code>#02731053.17.f.3.9.4.6.6.7.2.95.4h</code></p>
-        <p>Results show the PDF page image on the left and OCR text on the right for side-by-side comparison.</p>
-        <p>Download ZIP packages all results into folders with <code>page.png</code> and <code>ocr.txt</code> per EFTA number, plus a <code>manifest.txt</code> with the encoded search string.</p>
+        <p><strong>Search:</strong> Type one or more EFTA document numbers, separated by commas or spaces:<br>
+        <code>02731139, 02731096, 02731114</code><br>
+        Each number pulls up the original scanned PDF page alongside the OCR text so you can compare them.</p>
+        <p><strong>Share codes:</strong> After each search, a short code appears in the status bar (e.g. <code>#02731053.17.f...</code>). This code is a compact way of storing your exact search. Copy it and send it to someone else &mdash; they paste it into the search box and get the same pages instantly. No need to type out all the EFTA numbers again.</p>
+        <p><strong>Download ZIP:</strong> Saves all currently displayed pages as a ZIP file. Each EFTA number gets its own folder with the page image and OCR text. The ZIP also contains the share code so the search can be replayed later.</p>
         <p style="color:#666; font-size:11px; margin-top:14px;">Press Escape or click outside to close.</p>
     </div>
 </div>
@@ -533,7 +532,7 @@ async function doSearch() {
         });
 
         resultsEl.innerHTML = html;
-        status.textContent = data.length + ' result(s)  #' + encoded;
+        status.textContent = data.length + ' result(s)  \u2014  Share code: #' + encoded;
         zipBtn.disabled = imageCount === 0;
 
     } catch (e) {
