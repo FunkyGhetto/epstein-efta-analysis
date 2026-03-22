@@ -8,7 +8,7 @@ I (Adrian) OCR-processed 4,251 PDF files from the EFTA release using Tesseract. 
 
 This is not an analysis I wrote with AI assistance. It is an analysis AI performed at my direction. The distinction matters because I'd rather you judge the work on whether it's correct than on who — or what — produced it.
 
-**What you can verify right now:** Every finding cites specific EFTA document numbers. The documents are public. You can look them up. If the analysis says EFTA02731096 contains a victim's testimony about being directed to massage Glen Dubin, you can check whether EFTA02731096 says that. If it doesn't, the analysis is wrong. If it does, then the question of what tool produced it is irrelevant.
+**What you can verify right now:** Every finding cites specific EFTA document numbers. The documents are public. You can look them up. If the analysis says EFTA02731139 contains Maxwell instructing a victim to perform sexual acts on Glen Dubin, you can check whether EFTA02731139 says that. If it doesn't, the analysis is wrong. If it does, then the question of what tool produced it is irrelevant.
 
 The prosecution memos in VOL00012 — marked "Attorney Work Product" and "Subject to Fed. R. Crim. P. 6(e)" — are the most substantive documents in the entire release. They are also the ones almost nobody has read, because reading 18 files of OCR output is not something journalists on deadline do.
 
@@ -51,7 +51,9 @@ Findings from SDNY prosecution memoranda that have not appeared in mainstream me
 
 The raw OCR text files are included in the `ocr/` folder (~6.8 MB, 18 files). You can verify any finding by grepping for the EFTA document number:
 
-    grep -A 20 'EFTA02731114' ocr/epstein_ren16.txt
+    grep -A 20 'EFTA02731113' ocr/epstein_ren16.txt
+
+This shows the content of page EFTA02731114 (the marker before the page's text is one number lower — see `ocr/README.md` for details).
 
 No need to download 4,251 PDFs or run OCR yourself.
 
