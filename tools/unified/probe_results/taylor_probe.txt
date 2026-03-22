@@ -1,0 +1,62 @@
+EMMY TAYLER PROBE RESULTS
+===========================
+Note: Name is "Emmy Tayler" (with E), not "Emmy Taylor" — the AUSA misspelled it.
+
+CORPUS PRESENCE:
+22 distinct EFTA documents mention Tayler
+Datasets: DS9 (legal/investigation), DS10 (emails), DOJ-OGR (House Oversight)
+NOT in DS10/DS11 email datasets where Groff/Kahn/Indyke dominate
+→ This explains the ghost connection: different dataset layers, same network.
+
+WHO SHE IS:
+- Maxwell's assistant, started ~1997 (deposition, EFTA00068582 page 110)
+- When she left, replaced by Sarah Kellen (AUSA email, EFTA00106062)
+- UK-based as of 2020 (London interview planned)
+- 8 flights with the Dubins 1997-2000 (rhowardstone)
+- 185 corpus pages connecting her to Epstein (rhowardstone knowledge graph)
+- Pseudonym registry maps "Emmy Tayler" → "Emmy Taylor" as alternate spelling
+
+AUSA ASSESSMENT (EFTA00106062, March 5, 2020):
+"Other than the sole statutory victim, Taylor is potentially the most
+critical person in the case"
+- Former assistant to Maxwell, "our current top target subject"
+- Replaced by Kellen "the only other individual we currently are
+  considering charging"
+- "Present during instances of sexual abuse"
+- "Could make Taylor the only witness to that conduct other than the victim"
+- "Potentially including instances when Maxwell was present"
+- "Worked for Maxwell for years during the key period we are hoping to charge"
+- "Could be of exceptional, unique importance to the case"
+
+THE LONDON TRIP (March 2020):
+- AUSA requested March 19, 2020 London interview
+- COVID lockdowns began that exact week — almost certainly cancelled
+- EFTA00037448: FBI described trip as "vital to the indictment of another
+  co-conspirator" expected to go to grand jury "within a few weeks"
+- Maxwell was arrested July 2, 2020 — 3.5 months later
+- Whether interview happened by video is not documented
+
+DEPOSITION TESTIMONY (EFTA00068582):
+"Q. She was one of Ghislaine's assistants, wasn't she?"
+"A. Yes, she was."
+"Q. She started working for Ghislaine in around 1997 or so?"
+Witness confirmed Tayler flew on Epstein's planes.
+
+PROFFER STATUS: NO proffer agreement found for Emmy Tayler.
+This is the person the AUSA called "the most critical" — and there's
+no evidence she ever formally proffered with SDNY.
+
+GHOST CONNECTION EXPLANATION:
+Emmy Tayler is in DS9 (investigation docs) and DOJ-OGR (court filings).
+Groff, Kahn, Indyke are in DS10/DS11 (email correspondence).
+The two groups operated in the same network but their DOCUMENT TRACES
+are in different datasets. Tayler's paper trail is legal; theirs is operational.
+The graph correctly identified them as structurally connected (10 mutual
+neighbors) despite zero direct co-occurrence.
+
+RHOWARDSTONE STATUS:
+- Partially covered: flight records, pseudonym mapping, knowledge graph
+- The AUSA "most critical person" assessment is in their CONGRESSIONAL_SUBPOENA_GUIDE
+- The COVID-cancelled London trip context is in their PROSECUTION_FAILURES_ANALYSIS
+- They have NOT done a dedicated Taylor investigation document
+- They have NOT connected the ghost connection pattern (our finding)
