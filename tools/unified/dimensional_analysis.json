@@ -1,0 +1,399 @@
+{
+  "redaction_shapes": {
+    "fragment_patterns": 1573,
+    "total_memo_pages": 86,
+    "empty_pages": 13,
+    "sparse_pages": 4,
+    "avg_content_page_length": 2636,
+    "ocr_vs_corpus_comparison": [
+      {
+        "page": 54,
+        "efta": "EFTA2731136",
+        "corpus_chars": 2584,
+        "ocr_chars": 0,
+        "difference": 2584,
+        "corpus_has_more": true
+      },
+      {
+        "page": 55,
+        "efta": "EFTA2731137",
+        "corpus_chars": 3201,
+        "ocr_chars": 0,
+        "difference": 3201,
+        "corpus_has_more": true
+      },
+      {
+        "page": 56,
+        "efta": "EFTA2731138",
+        "corpus_chars": 3084,
+        "ocr_chars": 0,
+        "difference": 3084,
+        "corpus_has_more": true
+      },
+      {
+        "page": 57,
+        "efta": "EFTA2731139",
+        "corpus_chars": 3244,
+        "ocr_chars": 0,
+        "difference": 3244,
+        "corpus_has_more": true
+      },
+      {
+        "page": 58,
+        "efta": "EFTA2731140",
+        "corpus_chars": 2149,
+        "ocr_chars": 0,
+        "difference": 2149,
+        "corpus_has_more": true
+      }
+    ],
+    "finding": "Pages 68-85 (charging sections) average 146 chars vs 2636 for content pages. Corpus extraction matches OCR \u2014 both show the same empty pages."
+  },
+  "filing_topology": {
+    "groff_proffer_neighbors": [
+      {
+        "efta": "EFTA01682013",
+        "first_line": "7-a(a.ev-4- L. nitc.Ce-Ym4.4.( 44\" 75899  CANFIDfxrriCit- 1,66AL MAN_  LAS VEGAS"
+      },
+      {
+        "efta": "EFTA01682015",
+        "first_line": "This case is being handled by the Office's Public Corruption Unit. Assistant U.S"
+      },
+      {
+        "efta": "EFTA01682017",
+        "first_line": "EFTA01682017 "
+      },
+      {
+        "efta": "EFTA01682021",
+        "first_line": "4-C.0 h4dAir  A. r..  noun 64411.- tescirr  On. fie  3--ant.v. Lit It *win_  CrO"
+      },
+      {
+        "efta": "EFTA01682023",
+        "first_line": "PROFFER AGREEMENT  With respect to the meeting of Lesley Groff \"Client\" and her "
+      },
+      {
+        "efta": "EFTA01682025",
+        "first_line": "PROFFER AGREEMENT  '  espect to the meeting of  with Assistant United States Att"
+      },
+      {
+        "efta": "EFTA01682027",
+        "first_line": "luANA  i 2r-k9  % C..A...\u00b1kYOiittbaS  Pitt  _  \\  ,_N1-  \\ V CP  _4c) A.-stfra0-"
+      }
+    ],
+    "andrew_proffer_neighbors": [
+      {
+        "efta": "EFTA00101290",
+        "first_line": "Prom: BOBBI C STERNHEIM  To:  Cc:  Subject: URGENT REQUEST FOR VTCs-OHISLAINE MA"
+      },
+      {
+        "efta": "EFTA00101291",
+        "first_line": "From: \"a\"  alMIE>  To: \"-I , Cc: 'S\"  aNIMIE>  Subject: Records authentication  "
+      },
+      {
+        "efta": "EFTA00101292",
+        "first_line": "From:  \" To: mbrendan.quigley@bakerbotts.comm <brendan.quigley\u00aebakerbotts.com>  "
+      },
+      {
+        "efta": "EFTA00101293",
+        "first_line": "63O U S GOVERNMENT PRINTING Of ;ICE 2019409.314  FD-597 (Rev. 4-13-2015)  Page_f"
+      },
+      {
+        "efta": "EFTA00101294",
+        "first_line": "From: \"a\"  alMIE>  To: \"testimony@att.com\" <testimony@att.com>  Cc:  \" aNIMIE>  "
+      },
+      {
+        "efta": "EFTA00101295",
+        "first_line": "Court Subpoena  pal-irk:States Alistrid arillfirt  SOUTHERN DISTRICT OF NEW YORK"
+      },
+      {
+        "efta": "EFTA00101296",
+        "first_line": "Court Subpoena  pal-irk:States istrid araurt  SOUTHERN DISTRICT OF NEW YORK  TO:"
+      },
+      {
+        "efta": "EFTA00101297",
+        "first_line": "Declaration of Custodian of Records  Pursuant to 28 U.S.C. \u00a7 1746, I, the unders"
+      },
+      {
+        "efta": "EFTA00101298",
+        "first_line": "From: '  1 To: \"I  )11 Subject: FW: Fwd: Epstein packet  Date: Tue, 23 Jun 2020 "
+      },
+      {
+        "efta": "EFTA00101300",
+        "first_line": "Tab 2 -- Maxwell  1.  Maxwell 1  2.  Maxwell 2  EFTA00101300 "
+      },
+      {
+        "efta": "EFTA00101303",
+        "first_line": "From:  (USANYS)\" ci  To: '1.11.11/S2\"    Subject: RE: GM indictment  Date: Fri, "
+      },
+      {
+        "efta": "EFTA00101304",
+        "first_line": "From: '  To: '  1\" cl  Cc:  >,  Subject: RE: MCC discovery  Date: Fri, 26 Jun 20"
+      },
+      {
+        "efta": "EFTA00101306",
+        "first_line": "From: '  (USANYS)\" I  To: '  (USANYS)\" cj  Subject: RE: Press remarks  Date: Fri"
+      },
+      {
+        "efta": "EFTA00101307",
+        "first_line": "PROFFER AGREEMENT  With respect to the meeting of H.R.H. Prince Andrew Albert Ch"
+      },
+      {
+        "efta": "EFTA00101309",
+        "first_line": "Charged Cases  \u2022  United States v. Ghislaine Maxwell, 20 Cr. 330 (MN)  o Subject"
+      },
+      {
+        "efta": "EFTA00101310",
+        "first_line": "From:  To:  Subject: p  m  u  Date: Thu, 07 May 2020 16:01:21 +0000  Hope all is"
+      },
+      {
+        "efta": "EFTA00101311",
+        "first_line": "From: Jill Greenfield   To:  Cc:  (FBI  , \"Louise Scott\"  Subject: Re: Epstein i"
+      },
+      {
+        "efta": "EFTA00101314",
+        "first_line": "From: '  )\"    To: \"Duncan, Michele (USANYS)\"     \"Alleyne, Darlene (USANYS)\"  <"
+      },
+      {
+        "efta": "EFTA00101319",
+        "first_line": "From  FBI)\" <AMINIME>  To:'  \"  Cc:  (NY) (FBI)\"  Subject: RE  nterview  Date: T"
+      },
+      {
+        "efta": "EFTA00101320",
+        "first_line": "Date: 7/13/06  IL BEACH POLICE DEPARTMEN'.  Page:  57  Time: 9:27:55  Incident R"
+      }
+    ],
+    "proffer_clustering": {
+      "total_proffers_with_numeric_efta": 78,
+      "clustered_pairs": 35,
+      "scattered_pairs": 29,
+      "finding": "Proffers are SCATTERED \u2014 filed as they arrived, not organized as a collection"
+    }
+  },
+  "temporal_rhythm": {
+    "total_timeline_events": 43,
+    "total_intervals": 42,
+    "biggest_gaps": [
+      {
+        "from": "2022-06-28",
+        "to": "2025-07-24",
+        "days": 1122,
+        "from_event": "Maxwell sentenced to 20 years",
+        "to_event": "Proffer: Ghislaine Maxwell"
+      },
+      {
+        "from": "2021-12-29",
+        "to": "2022-06-28",
+        "days": 181,
+        "from_event": "Maxwell convicted",
+        "to_event": "Maxwell sentenced to 20 years"
+      },
+      {
+        "from": "2020-02-07",
+        "to": "2020-07-02",
+        "days": 146,
+        "from_event": "Proffer: David Rodgers",
+        "to_event": "Maxwell arrested"
+      },
+      {
+        "from": "2020-10-07",
+        "to": "2021-01-27",
+        "days": 112,
+        "from_event": "Proffer: Lawrence Visoski",
+        "to_event": "Proffer: REDACTED (male)"
+      },
+      {
+        "from": "2021-08-20",
+        "to": "2021-11-29",
+        "days": 101,
+        "from_event": "Proffer: REDACTED (unknown)",
+        "to_event": "Maxwell trial begins"
+      }
+    ],
+    "groff_21month_gap_corpus_hits": 20,
+    "groff_gap_samples": [
+      {
+        "efta": "EFTA02020187",
+        "text": "To:  jeevacation\u00a9 mail.com  From:  Lesley Groff  Subject: David Stern  Sent:  h  h  Richard Bamett  "
+      },
+      {
+        "efta": "EFTA02020272",
+        "text": "To:  From:  Sent:  Th  d  I 19  1  :36:53 PM  Cc:  Lesley Groff  \" '  \u2022  o:  e rey ps em ieeyacation"
+      },
+      {
+        "efta": "EFTA02021208",
+        "text": "To:  jeevacationftmail.com[jeevacation@gmail.com]; JeffreleevacationegmaiLcomj  From:  Lesley Groff "
+      },
+      {
+        "efta": "EFTA02021202",
+        "text": "To:  jeevacation&maitcom[jeeyacation@gmail.com]; Jefffrey Epsteinueevacation@gmail.com]  From:  Lesl"
+      },
+      {
+        "efta": "EFTA02020446",
+        "text": "To:  jeeyacationftmail.com[jeeyacation@gmail.com]; Jefffrey Epstein[jeevacation@gmail com]  From:  L"
+      }
+    ],
+    "finding": ""
+  },
+  "linguistic_fingerprint": {
+    "limited_interactions_corpus_hits": 3,
+    "limited_interactions_samples": [
+      {
+        "efta": "EFTA02731082",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS  CONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e)  meeting. they "
+      },
+      {
+        "efta": "EFTA02731200",
+        "text": "Page 4  Following her travel to the island,  worked as an unpaid assistant for several  months, during which Epstein esc"
+      },
+      {
+        "efta": "EFTA00154903",
+        "text": "From:  To: irsimm-,  Subject: FW: Epstein/Maxwell Discovery Request  Date: Mon, 13 Sep 2021 19:21:29 +0000  Importance: "
+      }
+    ],
+    "spent_little_time_corpus_hits": 1,
+    "groff_proffer_ausa": "REDACTED in proffer agreement",
+    "finding": "'limited interactions' appears in 3 corpus pages. If concentrated in documents by the same AUSA, it's a fingerprint of that prosecutor's style."
+  },
+  "negative_space": {
+    "post_proffer_followup": {
+      "Groff": {
+        "proffer_efta": "EFTA01682023",
+        "follow_up_documents": 4484,
+        "finding": "PAPER TRAIL EXISTS"
+      },
+      "Visoski": {
+        "proffer_efta": "EFTA00159723",
+        "follow_up_documents": 1233,
+        "finding": "PAPER TRAIL EXISTS"
+      },
+      "Andrew": {
+        "proffer_efta": "EFTA00101307",
+        "follow_up_documents": 3504,
+        "finding": "PAPER TRAIL EXISTS"
+      }
+    },
+    "empty_section_content": [
+      {
+        "page": 67,
+        "efta": "EFTA2731149",
+        "text": "PRIVILEGED - ATTORNEY WORK' PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nWe are continuing to receive additional documents from JP Morgan.61 and the FBI is \ncontinuin"
+      },
+      {
+        "page": 68,
+        "efta": "EFTA2731150",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \n69 \nEFTA 00022529 \nEFTA02731150"
+      },
+      {
+        "page": 69,
+        "efta": "EFTA2731151",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nI\u20221 \n70 \nEFTA_00022530 \nEFTA02731151"
+      },
+      {
+        "page": 70,
+        "efta": "EFTA2731152",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nB. \nTransportation of Minors \nTitle 18, United States Code, Section 2423 makes it a crime to t"
+      },
+      {
+        "page": 71,
+        "efta": "EFTA2731153",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nactivity for which any person can be charged with a criminal offense, shall be \nfined under th"
+      },
+      {
+        "page": 72,
+        "efta": "EFTA2731154",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nC. \nEnticement of Minors \nWe have also considered Title IS, United States Code, Section 2422(b"
+      },
+      {
+        "page": 73,
+        "efta": "EFTA2731155",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \n74 \nEFTA_00022534 \nEFTA02731155"
+      },
+      {
+        "page": 74,
+        "efta": "EFTA2731156",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nIV. Analysis \nIn light of the evidence gathered during our investigation, as well as the\n tool"
+      },
+      {
+        "page": 75,
+        "efta": "EFTA2731157",
+        "text": "PRIVILEGED - ATTORNEY WORK' PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nLeslie Groff and/or Ghislaine Maxwell with a federal crime \nand, if so. whether such charges "
+      },
+      {
+        "page": 76,
+        "efta": "EFTA2731158",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \na. \nKnowledge of Sex Acts \n77 \nEFTA 00022537 \nEFTA02731158"
+      },
+      {
+        "page": 77,
+        "efta": "EFTA2731159",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \n78 \nEFTA 00022538 \nEFTA02731159"
+      },
+      {
+        "page": 78,
+        "efta": "EFTA2731160",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nb. \nKnowledge of Age \n79 \nEFTA 00022539 \nEFTA02731160"
+      },
+      {
+        "page": 79,
+        "efta": "EFTA2731161",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \n80 \nEFTA_00022540 \nEFTA02731161"
+      },
+      {
+        "page": 80,
+        "efta": "EFTA2731162",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \n81 \nEFTA_00022541 \nEFTA02731162"
+      },
+      {
+        "page": 81,
+        "efta": "EFTA2731163",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \n82 \nEFTA 00022542 \nEFTA02731163"
+      },
+      {
+        "page": 82,
+        "efta": "EFTA2731164",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \n83 \nEFTA_00022543 \nEFTA02731164"
+      },
+      {
+        "page": 83,
+        "efta": "EFTA2731165",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nB. \n\u2022 \n84 \n=_00022544 \nEFTA02731165"
+      },
+      {
+        "page": 84,
+        "efta": "EFTA2731166",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \n85 \nEFTA_00022545 \nEFTA02731166"
+      },
+      {
+        "page": 85,
+        "efta": "EFTA2731167",
+        "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS \nCONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e) \nD. \nLeslie Groff \nE. \nGhislaine Maxwell \n86 \nEFTA_00022546 \nEFTA02731167"
+      }
+    ],
+    "missing_documents_per_person": {
+      "Groff": [
+        "Section D content",
+        "proffer follow-up/302",
+        "charging decision memo",
+        "any post-proffer SDNY communication"
+      ],
+      "Andrew": [
+        "proffer content/302",
+        "MLAT completion",
+        "any post-proffer action"
+      ],
+      "Visoski": [
+        "prosecution memo mention (0 of 86 pages)",
+        "any charging consideration"
+      ],
+      "Wexner": [
+        "independent verification of attorney proffer claims",
+        "any follow-up on '$100M return'"
+      ],
+      "Black": [
+        "SDNY declination memo",
+        "DANY case disposition"
+      ]
+    },
+    "finding": ""
+  }
+}

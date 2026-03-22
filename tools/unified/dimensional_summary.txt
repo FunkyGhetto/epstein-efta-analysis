@@ -1,0 +1,39 @@
+DIMENSIONAL ANALYSIS — 5 NEW DIMENSIONS
+============================================================
+
+DIMENSION 3: REDACTION SHAPES
+----------------------------------------
+Empty memo pages (charging sections): 13
+Average content page: 2636 chars
+OCR vs corpus on lent-out pages: both extractions match — same redactions visible to both pipelines
+SURPRISE: Corpus has MORE text than OCR on some pages — their extraction captured text our OCR missed
+
+DIMENSION 4: FILING TOPOLOGY
+----------------------------------------
+Proffers are SCATTERED across datasets, not clustered
+Groff proffer (EFTA01682023) filed near Maxwell trial documents
+Andrew proffer (EFTA00101307) filed in DS9 near FBI operational docs
+
+DIMENSION 5: TEMPORAL RHYTHM
+----------------------------------------
+Biggest gap in timeline: shown above
+Groff 21-month gap: 20 corpus docs mention Groff in 2020-2021
+SURPRISE: Groff appears in documents during her 'silent period' — she didn't disappear from the operational record
+
+DIMENSION 6: LINGUISTIC FINGERPRINTING
+----------------------------------------
+'limited interactions' appears in 3 corpus pages
+AUSA on Groff proffer: redacted in agreement
+
+DIMENSION 7: NEGATIVE SPACE MAP
+----------------------------------------
+Groff: PAPER TRAIL EXISTS (4484 docs)
+Visoski: PAPER TRAIL EXISTS (1233 docs)
+Andrew: PAPER TRAIL EXISTS (3504 docs)
+
+Missing documents per person:
+  Groff: Section D content, proffer follow-up/302, charging decision memo, any post-proffer SDNY communication
+  Andrew: proffer content/302, MLAT completion, any post-proffer action
+  Visoski: prosecution memo mention (0 of 86 pages), any charging consideration
+  Wexner: independent verification of attorney proffer claims, any follow-up on '$100M return'
+  Black: SDNY declination memo, DANY case disposition
