@@ -1,0 +1,99 @@
+IMPLICIT CONNECTIONS SUMMARY
+============================
+Five analysis methods applied to prosecution memos + 2.89M-page corpus.
+
+METHOD 1 — TEMPORAL PROXIMITY
+  33 specific dates extracted, 55 significant cross-document matches.
+  KEY: July 2, 2019 (indictment day) — Groff emailed Rich Kahn at 12:39 AM.
+  She was active hours before the indictment was unsealed.
+  STRENGTH: Medium. Shows Groff's operational role but doesn't prove
+  she knew about the indictment.
+
+METHOD 2 — REDACTION BRIDGING
+  102 bridges across 10 event signatures.
+  KEY: FBI 302s exist for the "coffee shop" victim (EFTA00086883), the
+  "massage school" victim (EFTA01246406), and the "lent out" victim
+  (EFTA01249021). These FBI interview records may contain fewer
+  redactions than the prosecution memo.
+  KEY: SDNY internal review (EFTA01649143) describes the "lent out"
+  testimony as "the closest account" — suggesting they considered it
+  the strongest evidence of third-party abuse but still could not
+  corroborate it.
+  STRENGTH: High. The FBI 302 bridge documents are the most actionable
+  finding — they are the primary source records for the victim testimony
+  summarized in the prosecution memo.
+
+METHOD 3 — PAYMENT-EVENT CORRELATION
+  14 cross-document financial matches.
+  KEY: Groff's $100K wires (Jan 2017, Dec 2017) routed through Butterfly
+  Trust and Southern Trust — the SAME trust infrastructure used for
+  Marcinkova's $100K and the redacted $250K co-conspirator payment
+  after the Miami Herald. This puts Groff in the same financial
+  architecture as the known co-conspirators.
+  STRENGTH: High. Documented bank records and wire memoranda.
+
+METHOD 4 — CO-ABSENCE ANALYSIS
+  6 people with HIGH corpus presence but ZERO memo pages:
+  - Larry Visoski (pilot): 29,993 corpus pages
+  - Donald Trump: 16,886 corpus pages
+  - George Mitchell: 13,885 corpus pages
+  - Ehud Barak: 7,654 corpus pages
+  - Bill Richardson: 3,132 corpus pages
+  - Sarah Kellen: 1,500 corpus pages
+
+  These are people the documents discuss extensively but the prosecution
+  memo avoids entirely. The most striking is Visoski — the chief pilot
+  who flew every documented flight — never appearing in the prosecution
+  analysis of the trafficking operation that depended on those flights.
+  STRENGTH: Medium-High. The pattern is real, but absence from one memo
+  doesn't mean absence from investigation. Some may appear in other
+  prosecution documents we haven't analyzed.
+
+METHOD 5 — LINGUISTIC PATTERN ANALYSIS
+  People SDNY ultimately charged get confident language.
+  People never charged get hedging language.
+
+  Charged (strong): Maxwell (50%), Andrew (100%), Brunel (100%)
+  Never charged (hedged): Wexner (0%), Black (28%), Groff (25%), Indyke (0%)
+
+  The most significant: Wexner's wealth explanation — "appears to account
+  for virtually all of Epstein's wealth" — uses hedging language. SDNY
+  presents its own theory about where the money came from with caution,
+  not certainty.
+  STRENGTH: Medium. Linguistic patterns correlate with charging decisions
+  but don't prove causation. Prosecutors may hedge for legal reasons
+  even when privately confident.
+
+================================================================================
+COMBINED ASSESSMENT: WHAT THE IMPLICIT METHODS FOUND THAT EXPLICIT DIDN'T
+================================================================================
+
+1. GROFF'S FINANCIAL INFRASTRUCTURE CONNECTION (Methods 1+3)
+   The explicit evidence shows Groff scheduling massages. The implicit
+   evidence shows her payments routed through the same trust entities as
+   other co-conspirator payments. Combined with her 12:39 AM email on
+   indictment day, this paints a picture of someone far more integrated
+   into the operation than the prosecution memo's "limited interactions"
+   characterization suggests.
+
+2. THE PROSECUTION MEMO AS A SELECTIVE NARRATIVE (Methods 4+5)
+   The co-absence analysis shows the memo omits extensively documented
+   people. The linguistic analysis shows the memo uses hedging for people
+   it didn't charge. Together: the prosecution memo is not a comprehensive
+   record of what SDNY knew. It is a selective narrative that avoids
+   certain names and hedges on others.
+
+3. THE FBI 302 BRIDGE DOCUMENTS (Method 2)
+   The most actionable implicit finding: FBI interview records exist for
+   multiple victims whose testimony is summarized (with heavy redaction)
+   in the prosecution memo. These 302s may contain fewer redactions and
+   more detail. They are identified by specific EFTA numbers and could
+   be requested or FOIA'd individually.
+
+4. THE WEXNER WEALTH THEORY IS HEDGED (Method 5)
+   SDNY presents "Epstein's wealth came from Wexner" as their theory,
+   but uses cautious language throughout. Combined with the "no client
+   accounts" finding: SDNY found no evidence of OTHER money sources
+   but also doesn't state with confidence that Wexner was the ONLY
+   source. The gap between "we haven't found other sources" and "there
+   are no other sources" is significant.
