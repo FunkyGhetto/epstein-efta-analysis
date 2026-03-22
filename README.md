@@ -83,6 +83,7 @@ This project has been cross-referenced against the full 2.89M-page EFTA corpus a
 | `analysis/epstein-financial-deconstruction-norwegian.md` | Norwegian version of the financial deconstruction. |
 | `analysis/victim-cross-reference-english.md` | Cross-volume victim testimony mapping: connects redacted victim designations across VOL00012 and other EFTA volumes using contextual fingerprints. No real names. |
 | `analysis/groff-investigation-english.md` | Leslie Groff investigation: 50 mentions across the prosecution memo, reverse proffer, Fifth Amendment invocation, December 2018 email, and why she was never indicted. |
+| `analysis/groff-prosecution-gap-english.md` | The prosecution gap: four explanations for why Groff was never charged, tested against corpus data. Includes discovery of EFTA01682023 — her proffer agreement with SDNY (July 2021). |
 
 ## Source Data
 

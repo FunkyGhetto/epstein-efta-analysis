@@ -322,7 +322,7 @@ def check_parity():
     english_files = sorted(glob.glob(os.path.join(ANALYSIS_DIR, "*english*.md")))
 
     # Files that deliberately have no Norwegian counterpart
-    no_translation_needed = {'victim-cross-reference-english.md', 'groff-investigation-english.md'}
+    no_translation_needed = {'victim-cross-reference-english.md', 'groff-investigation-english.md', 'groff-prosecution-gap-english.md'}
 
     for ef in english_files:
         base = os.path.basename(ef)
