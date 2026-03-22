@@ -57,9 +57,9 @@ A linguistic analysis of the prosecution memo reveals a consistent pattern: SDNY
 
 **The Kellen comparison:** Sarah Kellen performed a comparable scheduling role. She had NPA protection (Groff did not). SDNY considered charging Kellen — an AUSA email states she was "the only other individual we currently are considering charging" besides Maxwell. (Source: EFTA00106062) Plea negotiations were drafted but collapsed. Neither was ultimately charged. But Groff had more documented evidence (53 memo mentions vs. 0 for Kellen in the same memo), no NPA immunity, and no charging consideration documented.
 
-## 5. The Excised Pages
+## 5. The Redacted Pages
 
-Pages 68 through 85 of the prosecution memo (EFTA02731082) contain only the classified header. No content. This is not redaction — black bars over text — but excision: the content was removed before the document was released.
+Pages 68 through 85 of the prosecution memo (EFTA02731082) are covered by massive redaction bars. The text exists beneath the redactions in the PDF's text layer — the rhowardstone corpus extraction pipeline read through the redaction overlay, while our Tesseract OCR could not. The content is hidden, not removed.
 
 The structural skeleton survives. The legal framework on pages 67-74 is fully visible: three federal statutes analyzed (sex trafficking of minors, transportation of minors, enticement of minors), their elements listed, statute of limitations calculated. Then:
 
@@ -68,15 +68,17 @@ The structural skeleton survives. The legal framework on pages 67-74 is fully vi
 **Page 75:** "Leslie Groff **and/or** Ghislaine Maxwell with a federal crime and, if so, whether such charges would be in the interests of justice." (Source: EFTA02731157)
 
 This is followed by five sections:
-- **Section A** (pages 75-82, 8 pages): "[Redacted] — Evidence That [Redacted] Conspired to Sex Traffic Minors" with subsections "Knowledge of Sex Acts" and "Knowledge of Age." The longest and most detailed charging analysis — identity excised.
-- **Section B** (pages 83-84): Name fully excised.
-- **Section C**: No heading visible — either fully excised or absorbed.
+- **Section A** (pages 75-82, 8 pages): "[Redacted] — Evidence That [Redacted] Conspired to Sex Traffic Minors" with subsections "Knowledge of Sex Acts" and "Knowledge of Age." The longest and most detailed charging analysis — identity redacted.
+- **Section B** (pages 83-84): Name fully redacted.
+- **Section C**: No heading visible — either fully redacted or absorbed.
 - **Section D** (page 85): "Leslie Groff" — heading only, no content.
 - **Section E** (page 85): "Ghislaine Maxwell" — released as a separate 32-page PDF (EFTA02731168).
 
 Rep. Nancy Mace demanded the unredacted version of this exact memo on February 16, 2026. The DOJ told her SDNY applied the redactions before transmission — the department claims not to have the unredacted version. Rep. Laura Friedman found "hundreds" of pages still redacted despite the "unredacted" label.
 
-This structural mapping of the excised pages has not been published elsewhere.
+This structural mapping of the redacted pages has not been published elsewhere.
+
+**Visual verification (March 22, 2026):** The original PDF at justice.gov was opened and text was selected. The text beneath the redaction bars was captured, confirming that the content exists in the PDF text layer. The "Groff and/or Maxwell" text on page 75 and the section headings A through E are all present beneath redaction overlays. The rhowardstone corpus extracted this text layer; our Tesseract OCR processed the visual image and saw only black bars.
 
 **Footnote 61** (page 67) reveals that JP Morgan produced Staley-Epstein messages to SDNY that temporally corroborate a victim's account of being raped by Jes Staley at Epstein's New York residence. SDNY had both victim testimony and financial institution records for this allegation. (Source: EFTA02731149)
 
@@ -96,10 +98,10 @@ Emmy Tayler — Maxwell's former assistant from 1997, described by an AUSA as "p
 
 73 specific questions were extracted from the files themselves. 38% are answered or partially answered. Seven walls define the hard limits of what this dataset can reveal:
 
-1. **Section D content** — Groff's charging analysis, excised from the release
-2. **Section A identity** — 8-page analysis for an unnamed person, excised
+1. **Section D content** — Groff's charging analysis, covered by redaction bars
+2. **Section A identity** — 8-page analysis for an unnamed person, redacted
 3. **Proffer content** — what Groff, Visoski, Andrew told SDNY is legally protected
-4. **18 excised pages** — the entire charging section stripped from the document
+4. **18 redacted pages** — the entire charging section covered by redaction bars
 5. **AUSA names** — redacted throughout, preventing author attribution
 6. **71 redacted profferors** — identity and content both unknown
 7. **Offshore accounts** — SDNY's memo discusses three banks; USVI banking not mentioned
@@ -113,7 +115,7 @@ After cross-referencing against rhowardstone (165 reports, 1,614-person registry
 **Confirmed new (zero internet/rhowardstone results):**
 1. SDNY found no client accounts — the specific conclusion on EFTA02731148
 2. 78 proffer agreements mapped — no complete count exists elsewhere
-3. 18 excised pages structural skeleton — section headings A through E mapped
+3. 18 redacted pages structural skeleton — section headings A through E mapped
 4. "Groff and/or Maxwell with a federal crime" — joint charging evaluation on page 75
 5. Linguistic hedging predicts non-charging — pattern analysis methodology
 
@@ -139,7 +141,7 @@ After cross-referencing against rhowardstone (165 reports, 1,614-person registry
 2. **Proffer count includes potential duplicates.** The same agreement filed in multiple datasets produces multiple hits. 78 total likely represents 40-50 unique sessions.
 3. **Linguistic analysis identifies patterns, not intent.** Hedging language correlates with non-charging but does not prove the decisions were made for improper reasons.
 4. **Graph metrics depend on LIKE queries** against the corpus, which may include false positives (common last names like "Mitchell" matching non-Epstein contexts).
-5. **Section A identity is contested.** Two hypotheses (person-specific vs. charge-specific organization) are both consistent with the surviving headings. Neither is provable without the excised content.
+5. **Section A identity is contested.** Two hypotheses (person-specific vs. charge-specific organization) are both consistent with the surviving headings. Neither is provable without the redacted content.
 6. **"Genuinely new" is verified as of March 22, 2026.** Independent researchers may have published the same findings without our knowledge.
 7. **This analysis documents the gap between evidence and prosecution.** It cannot determine WHY only Maxwell was charged. The gap is a fact. The cause is behind the walls.
 

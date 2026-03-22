@@ -286,12 +286,12 @@
   ],
   "wall_proximity": [
     {
-      "wall": "Section D content excised",
+      "wall": "Section D content redacted",
       "edges_to_person": 2,
       "nearest_distance": 1
     },
     {
-      "wall": "Section A identity excised",
+      "wall": "Section A identity redacted",
       "edges_to_person": 2,
       "nearest_distance": 1
     },
@@ -301,7 +301,7 @@
       "nearest_distance": 1
     },
     {
-      "wall": "18 excised pages",
+      "wall": "18 redacted pages",
       "edges_to_person": 3,
       "nearest_distance": 1
     },

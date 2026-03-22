@@ -38,12 +38,12 @@
   },
   "walls": [
     {
-      "wall": "Section D content excised",
+      "wall": "Section D content redacted",
       "type": "structural",
       "what_breaks_it": "FOIA for unredacted EFTA02731082 or congressional subpoena"
     },
     {
-      "wall": "Section A identity excised",
+      "wall": "Section A identity redacted",
       "type": "identity",
       "what_breaks_it": "Same as above, or identifying the redacted person on page 2"
     },
@@ -53,7 +53,7 @@
       "what_breaks_it": "Congressional testimony or sealed agreement unsealing"
     },
     {
-      "wall": "18 excised pages",
+      "wall": "18 redacted pages",
       "type": "structural",
       "what_breaks_it": "FOIA for complete prosecution memo or DOJ Inspector General investigation"
     },

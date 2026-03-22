@@ -35,7 +35,7 @@
         "section_c_missing"
       ],
       "types": [
-        "excised"
+        "redacted"
       ]
     },
     {
@@ -113,7 +113,7 @@
       "id": 11,
       "size": 1,
       "ids": [
-        "wall_18_excised"
+        "wall_18_redacted"
       ],
       "types": [
         "wall"
@@ -172,7 +172,7 @@
   ],
   "longest_chain": [
     "section_a_content",
-    "wall_18_excised",
+    "wall_18_redacted",
     "groff_wire_purpose",
     "ghost_tayler_groff",
     "ghost_tayler_indyke",

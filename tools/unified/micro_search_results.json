@@ -12,7 +12,7 @@
       "status": "PUBLICLY IDENTIFIED — Rep. Mace demanded unredacted version",
       "key_finding": "Rep. Nancy Mace sent formal letter Feb 16 2026 demanding unredacted version of the EXACT memo we analyzed: 'Investigation into Potential Co-Conspirators of Jeffrey Epstein' dated December 19, 2019",
       "problem": "DOJ claims SDNY applied redactions before transmission — they don't HAVE the unredacted version",
-      "implication": "The 18 excised pages we identified may be what Mace is looking for. She visited DOJ and found it 'remained heavily redacted.'",
+      "implication": "The 18 redacted pages we identified may be what Mace is looking for. She visited DOJ and found it 'remained heavily redacted.'",
       "sources": ["mace.house.gov press release", "NBC News", "CNN"]
     },
     "audrey_strauss": {
@@ -47,14 +47,14 @@
         "Three FBI memos about Trump allegation were unredacted after congressional pressure",
         "Groff called to testify before Congress"
       ],
-      "implication": "Our analysis of the 18 excised pages and the charging section structure could be DIRECTLY RELEVANT to what Mace and Friedman are looking for. They're trying to see what we've already mapped from the public release."
+      "implication": "Our analysis of the 18 redacted pages and the charging section structure could be DIRECTLY RELEVANT to what Mace and Friedman are looking for. They're trying to see what we've already mapped from the public release."
     }
   },
   "updated_genuinely_new": {
     "CONFIRMED_NEW": [
       "No client accounts — SDNY's specific conclusion not in public reporting",
       "78 proffer complete mapping — no other count exists",
-      "18 excised pages structural skeleton with section headings A-E",
+      "18 redacted pages structural skeleton with section headings A-E",
       "Joint charging 'Groff and/or Maxwell' — not in public reporting",
       "Linguistic hedging predicts non-charging — novel methodology"
     ],

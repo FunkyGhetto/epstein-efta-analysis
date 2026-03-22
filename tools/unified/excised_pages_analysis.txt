@@ -1,9 +1,15 @@
-EXCISED PAGES ANALYSIS — EFTA02731082 Pages 67-85
+CORRECTION (March 22, 2026): These pages are REDACTED, not excised. 
+The text exists in the PDF text layer beneath black redaction bars. 
+The rhowardstone corpus extraction read through the overlay; our Tesseract 
+OCR processed the visual image and saw only black. Visual verification 
+confirmed text is selectable in the original PDF at justice.gov.
+
+REDACTED PAGES ANALYSIS — EFTA02731082 Pages 67-85
 ====================================================
 
 The 18 "empty" pages of the prosecution memo are NOT empty. The full-text
 corpus reveals the structural skeleton of the charging analysis. Content
-was excised but section headings and legal framework survive.
+was redacted but section headings and legal framework survive.
 
 COMPLETE PAGE MAP:
 
@@ -18,7 +24,7 @@ Page 67 (EFTA02731149): FULL CONTENT
     being [REDACTED] by Staley during [REDACTED] at Epstein's New York
     residence." <-- STALEY MESSAGES EXIST IN JP MORGAN PRODUCTION
 
-Page 68 (EFTA02731150): HEADER ONLY — content excised
+Page 68 (EFTA02731150): HEADER ONLY — content redacted
 
 Page 69 (EFTA02731151): HEADER + fragment "I•1"
 
@@ -63,10 +69,10 @@ Page 77 (EFTA02731159): HEADER ONLY
 Page 78 (EFTA02731160): HEADING ONLY
   b. Knowledge of Age
 
-Pages 79-82 (EFTA02731161-02731164): HEADER ONLY — 4 pages of analysis excised
+Pages 79-82 (EFTA02731161-02731164): HEADER ONLY — 4 pages of analysis redacted
 
 Page 83 (EFTA02731165): HEADING ONLY
-  B. • (dot visible, name excised)
+  B. • (dot visible, name redacted)
 
 Page 84 (EFTA02731166): HEADER ONLY
 
@@ -84,7 +90,7 @@ Section A = [REDACTED] — 8 pages (75-82)
 Section B = [REDACTED, dot visible] — 2 pages (83-84)
   Shorter analysis
 
-Section C = NOT VISIBLE — either fully excised or absorbed into another section
+Section C = NOT VISIBLE — either fully redacted or absorbed into another section
   Note: The page numbering jumps from B (page 83) to D (page 85)
   with only one intervening page (84). Section C may not exist,
   or it may have been a single paragraph within page 84.

@@ -1,0 +1,563 @@
+[
+  {
+    "name": "Jeffrey Epstein",
+    "total_score": 2091,
+    "keyword_breakdown": {
+      "massage": 859,
+      "underage": 54,
+      "minor": 433,
+      "sexual": 425,
+      "abuse": 190,
+      "recruit": 31,
+      "wire": 14,
+      "payment": 42,
+      "raped": 29,
+      "rape": 9,
+      "lent out": 5
+    },
+    "occurrence_count": 3750
+  },
+  {
+    "name": "Ghislaine Maxwell",
+    "total_score": 97,
+    "keyword_breakdown": {
+      "massage": 52,
+      "minor": 24,
+      "sexual": 13,
+      "underage": 3,
+      "recruit": 2,
+      "abuse": 3
+    },
+    "occurrence_count": 277
+  },
+  {
+    "name": "Jeffrey Epstein’s",
+    "total_score": 24,
+    "keyword_breakdown": {
+      "abuse": 4,
+      "minor": 10,
+      "recruit": 2,
+      "sexual": 6,
+      "underage": 2
+    },
+    "occurrence_count": 9
+  },
+  {
+    "name": "Harvey Weinstein",
+    "total_score": 18,
+    "keyword_breakdown": {
+      "massage": 14,
+      "sexual": 4
+    },
+    "occurrence_count": 9
+  },
+  {
+    "name": "Jes Staley",
+    "total_score": 13,
+    "keyword_breakdown": {
+      "massage": 8,
+      "raped": 4,
+      "sexual": 1
+    },
+    "occurrence_count": 7
+  },
+  {
+    "name": "Ruth Westheimer",
+    "total_score": 11,
+    "keyword_breakdown": {
+      "massage": 11
+    },
+    "occurrence_count": 9
+  },
+  {
+    "name": "Jeanne Christensen",
+    "total_score": 10,
+    "keyword_breakdown": {
+      "minor": 8,
+      "wire": 1,
+      "rape": 1
+    },
+    "occurrence_count": 172
+  },
+  {
+    "name": "Maria Alessi",
+    "total_score": 8,
+    "keyword_breakdown": {
+      "massage": 5,
+      "minor": 1,
+      "payment": 2
+    },
+    "occurrence_count": 36
+  },
+  {
+    "name": "Leslie Groff",
+    "total_score": 7,
+    "keyword_breakdown": {
+      "sexual": 2,
+      "abuse": 2,
+      "massage": 3
+    },
+    "occurrence_count": 34
+  },
+  {
+    "name": "Prince Andrew",
+    "total_score": 6,
+    "keyword_breakdown": {
+      "minor": 2,
+      "sexual": 2,
+      "lent out": 2
+    },
+    "occurrence_count": 6
+  },
+  {
+    "name": "Paul Weiss",
+    "total_score": 6,
+    "keyword_breakdown": {
+      "payment": 1,
+      "massage": 5
+    },
+    "occurrence_count": 16
+  },
+  {
+    "name": "Michel Van Welden",
+    "total_score": 5,
+    "keyword_breakdown": {
+      "massage": 5
+    },
+    "occurrence_count": 6
+  },
+  {
+    "name": "Dechert",
+    "total_score": 5,
+    "keyword_breakdown": {
+      "payment": 3,
+      "abuse": 1,
+      "underage": 1
+    },
+    "occurrence_count": 47
+  },
+  {
+    "name": "P.O. Box 382724",
+    "total_score": 4,
+    "keyword_breakdown": {
+      "massage": 4
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "AUDREY STRAUSS",
+    "total_score": 4,
+    "keyword_breakdown": {
+      "minor": 2,
+      "massage": 2
+    },
+    "occurrence_count": 3
+  },
+  {
+    "name": "Dechert LLP",
+    "total_score": 4,
+    "keyword_breakdown": {
+      "abuse": 2,
+      "underage": 2
+    },
+    "occurrence_count": 7
+  },
+  {
+    "name": "Rich Kahn",
+    "total_score": 4,
+    "keyword_breakdown": {
+      "wire": 2,
+      "payment": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Juan Alessi",
+    "total_score": 4,
+    "keyword_breakdown": {
+      "massage": 4
+    },
+    "occurrence_count": 10
+  },
+  {
+    "name": "Naisbitt",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 3
+    },
+    "occurrence_count": 3
+  },
+  {
+    "name": "Shirley",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 3
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Chagnon",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 3
+    },
+    "occurrence_count": 4
+  },
+  {
+    "name": "Michael Thomas",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 3
+    },
+    "occurrence_count": 13
+  },
+  {
+    "name": "Achilles",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 3
+    },
+    "occurrence_count": 6
+  },
+  {
+    "name": "Nelson",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 3
+    },
+    "occurrence_count": 3
+  },
+  {
+    "name": "Michael",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 3
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Ashcroft",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "minor": 3
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Jean-Luc Brunel",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 2,
+      "sexual": 1
+    },
+    "occurrence_count": 7
+  },
+  {
+    "name": "Bernard Burt",
+    "total_score": 3,
+    "keyword_breakdown": {
+      "massage": 3
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Child",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 5
+  },
+  {
+    "name": "Monica",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Blanchard",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Steve Chagnon",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Alexander Technique",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "F.N.C.M",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 3
+  },
+  {
+    "name": "Fitzgerald",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 3
+  },
+  {
+    "name": "Miller",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 3
+  },
+  {
+    "name": "Benson",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Bertrand",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Saint Francis",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Leslie Fagin",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "recruit": 1,
+      "underage": 1
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Marra",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "sexual": 1,
+      "underage": 1
+    },
+    "occurrence_count": 3
+  },
+  {
+    "name": "Jean Luc",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 20
+  },
+  {
+    "name": "Alan Dershowitz",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "lent out": 1,
+      "sexual": 1
+    },
+    "occurrence_count": 21
+  },
+  {
+    "name": "John Luc Brunel",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Horowitz",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 4
+  },
+  {
+    "name": "JEFFREY EPSTEIN",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "underage": 1,
+      "sexual": 1
+    },
+    "occurrence_count": 48
+  },
+  {
+    "name": "John Gray",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Capellini",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Van Welden",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 3
+  },
+  {
+    "name": "Sean",
+    "total_score": 2,
+    "keyword_breakdown": {
+      "massage": 2
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "José",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "massage": 1
+    },
+    "occurrence_count": 6
+  },
+  {
+    "name": "Tom Myers",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "massage": 1
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Ashley Montagu",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "massage": 1
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Sparky",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "massage": 1
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Jin Shin Jyutsu",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "massage": 1
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Gislaine Maxwell",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "rape": 1
+    },
+    "occurrence_count": 6
+  },
+  {
+    "name": "David Copperfield",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "massage": 1
+    },
+    "occurrence_count": 5
+  },
+  {
+    "name": "Ghislaine",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "raped": 1
+    },
+    "occurrence_count": 14
+  },
+  {
+    "name": "Bill Clinton",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "sexual": 1
+    },
+    "occurrence_count": 131
+  },
+  {
+    "name": "Leon Black’s",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "payment": 1
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Judge Rakoff",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "payment": 1
+    },
+    "occurrence_count": 8
+  },
+  {
+    "name": "Douglas Wigdor",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "rape": 1
+    },
+    "occurrence_count": 16
+  },
+  {
+    "name": "ASA Lana Belohlavek",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "sexual": 1
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Carol Susan Roth",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "massage": 1
+    },
+    "occurrence_count": 2
+  },
+  {
+    "name": "Lorraine",
+    "total_score": 1,
+    "keyword_breakdown": {
+      "massage": 1
+    },
+    "occurrence_count": 4
+  }
+]

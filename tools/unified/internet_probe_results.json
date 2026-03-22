@@ -32,7 +32,7 @@
       "78_proffer_count": {"status": "CONFIRMED NEW — zero internet results", "genuinely_new": true},
       "groff_proffer_document": {"status": "PARTIALLY NEW — cooperation known, EFTA01682023 not cited", "genuinely_new": "partial"},
       "tayler_most_critical": {"status": "NOT NEW — known from EFTA release coverage", "genuinely_new": false},
-      "18_excised_pages_skeleton": {"status": "CONFIRMED NEW — zero internet results for section structure", "genuinely_new": true},
+      "18_redacted_pages_skeleton": {"status": "CONFIRMED NEW — zero internet results for section structure", "genuinely_new": true},
       "linguistic_hedging_analysis": {"status": "CONFIRMED NEW — zero internet results", "genuinely_new": true},
       "joint_charging_groff_maxwell": {"status": "CONFIRMED NEW — 'and/or' evaluation not reported", "genuinely_new": true},
       "groff_2m_will": {"status": "NOT NEW — already public", "genuinely_new": false}
@@ -41,7 +41,7 @@
   "updated_genuinely_new_list": [
     "SDNY found no client accounts (EFTA02731148) — zero internet results",
     "78 proffer agreements mapped across corpus — no other count exists",
-    "18 excised pages structural skeleton: Sections A-E with surviving headings",
+    "18 redacted pages structural skeleton: Sections A-E with surviving headings",
     "Page 75 'Groff and/or Maxwell with a federal crime' — joint charging evaluation",
     "Linguistic hedging predicts non-charging — novel methodology",
     "Groff proffer agreement document EFTA01682023 — specific terms and date",
