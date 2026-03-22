@@ -48,6 +48,7 @@ Findings from SDNY prosecution memoranda, independently verified against origina
 | `analysis/epstein-findings-norwegian.md` | Norwegian original of the findings report. |
 | `analysis/epstein-financial-deconstruction-english.md` | Financial deconstruction: no client accounts, Wexner proffer, Deutsche Bank review. Every claim sourced to specific EFTA pages. |
 | `analysis/epstein-financial-deconstruction-norwegian.md` | Norwegian version of the financial deconstruction. |
+| `analysis/victim-cross-reference.md` | Cross-volume victim testimony mapping: connects redacted victim designations across VOL00012 and other EFTA volumes using contextual fingerprints. No real names. |
 
 ## Source Data
 
