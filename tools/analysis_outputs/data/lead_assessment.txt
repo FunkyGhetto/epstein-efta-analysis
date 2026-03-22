@@ -1,0 +1,137 @@
+LEAD ASSESSMENT — Phase 2 Complete
+================================================================================
+
+Assessed: 28 leads and loose threads
+Genuinely new: 7
+Already covered by rhowardstone: 7
+False positives (textbook OCR): 11
+Inconclusive: 3
+
+GENUINELY NEW FINDINGS
+----------------------------------------
+EFTA01940212: Groff scheduling massage PB
+  NOT in rhowardstone
+
+EFTA01941335: Epstein instructs Groff massage
+  NOT in rhowardstone
+
+EFTA02043921: Groff Thai Massage workshops
+  NOT in rhowardstone
+
+EFTA02206177: Groff Deepak Chopra massages
+  NOT in rhowardstone
+
+EFTA02731115: Uncovered victim interview
+  Corpus: PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS  CONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e)  to Maxwell at  | rhowardstone: 0 files
+
+EFTA02731117: Uncovered victim interviews (x2)
+  Corpus: PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS  CONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e)  12.  On Octobe | rhowardstone: 0 files
+
+EFTA02731110: Bill Clinton Africa trip with victim
+  Corpus: PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS  CONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e)  does not recal | rhowardstone: 0 files
+
+
+ALREADY COVERED BY RHOWARDSTONE
+----------------------------------------
+EFTA02731604-650: SDNY-DANY Black correspondence
+  COVERED by rhowardstone (18 EFTA citations, 4+ victims)
+
+EFTA02731146: Groff proffer (already analyzed)
+  In our Groff analysis. rhowardstone also covers.
+
+EFTA02731605: Black victim second attorney
+  COVERED by rhowardstone Black report
+
+EFTA02731019: Dechert LLP Apollo investigation
+  rhowardstone: 13 files mentioning Dechert
+
+EFTA02731665: Horowitz + Black massage/biting
+  Corpus: NOT FOUND | rhowardstone covers Black investigation extensively
+
+EFTA02731756: Douglas Wigdor correspondence
+  rhowardstone: 24 files mentioning Wigdor
+
+EFTA02731109: David Copperfield + 15yo victim
+  Corpus: PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS  CONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e)  Epstein subseq | rhowardstone: 5 files
+
+
+FALSE POSITIVES
+----------------------------------------
+EFTA8394: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8373: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8150: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8089: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8172: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8387: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8275: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8075: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8078: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8391: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+EFTA8380: TEXTBOOK FALSE POSITIVE (massage textbook OCR)
+
+
+INCONCLUSIVE
+----------------------------------------
+EFTA02731169: Most redacted page (31 redactions)
+  Corpus: Page 2  dog and said hello. Jeffrey Epstein followed behind and introduced himself as a donor,  ho gave scholarships to  | rhowardstone: 0 files
+
+EFTA02731167: Groff Section D (confirmed missing from release)
+  Both OCR and corpus show heading only. rhowardstone: 0 files cite it
+
+EFTAvarious: Epstein's 'other clients' identity
+  Corpus hits: 10 pages mentioning other clients+Epstein+Wexner
+
+
+================================================================================
+PHASE 3 — THE STORY
+================================================================================
+
+Q: What is the single most significant finding NOT in rhowardstone?
+A: The 'no client accounts' finding (EFTA02731148) remains genuinely unique.
+   SDNY reviewed JP Morgan, Deutsche Bank, and TD Bank and found zero evidence
+   of Epstein managing anyone else's money. This is not in any other EFTA project.
+
+Q: What is the strongest collection of related findings?
+A: The financial deconstruction: no client accounts + Wexner proffer + Deutsche Bank
+   review + no cameras = the hedge fund manager and blackmail narratives both
+   unsupported by SDNY's own evidence. This story is coherent and verifiable.
+
+Q: What would be most defensible to publish next?
+A: The financial deconstruction is already published. The Groff corpus emails
+   (scheduling massages by email, contradicting 'limited interactions') are genuinely
+   new evidence from the corpus that strengthen the existing Groff analysis.
+   The methodology (OCR + off-by-one discovery + visual verification) is unique.
+
+Q: Which loose threads were dead ends?
+A: - Black DANY correspondence: comprehensively covered by rhowardstone
+   - Textbook false positives (11 leads): massage instruction book OCR noise
+   - Copperfield, Dechert, Wigdor, Horowitz: all covered by rhowardstone
+   - 'Other clients' identity: no resolution in corpus
+
+Q: Which loose threads connected unexpectedly?
+A: - Groff scheduling emails connect to the 'limited interactions' contradiction
+     in a way the prosecution memo alone couldn't show
+   - Section D (EFTA02731167) being missing from the release itself — not an
+     extraction failure — raises questions about what was deliberately withheld
+   - The off-by-one OCR marker pattern, once understood, applies to ALL 18 files
+     and every EFTA project that uses Tesseract on these documents
+
+HONEST ASSESSMENT:
+Our repo's unique contributions are narrow but real:
+1. 'No client accounts' — genuinely new, not in any other project
+2. Groff corpus scheduling emails — new evidence from our corpus queries
+3. Off-by-one OCR methodology — useful for anyone working with these files
+4. Section D confirmed missing from release — new factual finding
+5. Page-level PDF verification of every citation — unique methodology
+Everything else is confirmation of rhowardstone's work, which is fine.
+Confirmation from independent analysis has value.
