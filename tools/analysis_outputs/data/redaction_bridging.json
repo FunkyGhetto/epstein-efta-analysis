@@ -1,0 +1,924 @@
+{
+  "total_events_searched": 10,
+  "bridges_found": 102,
+  "bridges": [
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "EFTA00094519",
+      "corpus_page": 19,
+      "corpus_text": "Another defense witness,  is a manager at old building. He said a doorman is on duty 24 hours a  day. Prosecutors have suggeste Weinstein paid one off to get upstairs unannounced, or went upstairs unnoticed. \"I don't  think they could be bribed,\"  sa",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "EFTA00094540",
+      "corpus_page": 25,
+      "corpus_text": "SDNY News Clips, Wednesday, February 12, 2020  \"There was a knock on the door,\" she testified, telling jurors she had already changed into a white nightgown,  I opened the door to see who it was thinking it was a neighbor or the doorman.\"  Weinstein ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "EFTA00104913",
+      "corpus_page": 25,
+      "corpus_text": "SDNY News Clips, Wednesday, February 12, 2020  \"There was a knock on the door,\" she testified, telling jurors she had already changed into a white nightgown  I opened the door to see who it was thinking it was a neighbor or the doorman.\"  Weinstein \"",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_012135",
+      "corpus_page": 0,
+      "corpus_text": "CONFIDENTIAL SUBMISSION TO  THE OFFICE OF THE DEPUTY  ATTORNEY GENERAL  RE J. EPSTEIN  HOUSE OVERSIGHT 012135  KIRKLAND & ELLIS LLP  AND AFFILIATED PARTNERSHIPS  Kenneth W. Starr  To Call Writer Directly: Facsimile:  777 South Figueroa Street  Los An",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "EFTA01245684",
+      "corpus_page": 2,
+      "corpus_text": "FD-302a (Rev. 54-10)  31E\u2014NY-3027571  Continuation of FD-302 of (U)  Interview  first  \u2018O, 08/27/2019 ,page  3 of 4  met  in Florida when she had just gotten back from  tells  that she first met EPSTEIN at a dinner in New  York.  speaks with him over",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_011908",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffEl IN THE CIRCUIT COURT OF THE ELEVENTH JUDICIAL CIRCUIT IN AND FOR MIAMI-DADE COUNTY, FLORIDA. \u000bIII IN THE COUNTY COURT IN AND FOR MIAMI-DADE COUNTY, FLORIDA.  DIVISION \u000b2 CIVIL \u000bIN DISTRICTS \u000b\u2022 OTHER \tCIVIL ACTION SUMMONS \u000b(b) Form for Personal Se",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_013796",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffPRAISE FOR The 4-Hour Workweek \u201cIt\u2019s about time this book was written. It is a long-overdue manifesto for the mobile lifestyle, and Tim Ferriss is the ideal ambassador. This will be huge.\u201d \u2014JACK CANFIELD, cocreator of Chicken Soup for the Soul\u00ae, 100",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_015032",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff     60 Years of Investigative Satire:            The Best of Paul Krassner              Introduction by Andy Borowitz  Blurb by Art Spiegelman         Click on this for a High Res Photo.  What They Say About the Author        \t\u201cPaul\u2019s own writing, ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_015529",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff10/5/2015 Jeffrey Epstein 'sex slave' Virginia Roberts was a 'money\u00adhungry sex kitten', ex friends claim | Daily Mail Online 'millionaire's house' for a day or two, before returning with cash. He did say that she tried to get out of the sex business",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_018872",
+      "corpus_page": 0,
+      "corpus_text": "FEDERAL BUREAU OF INVESTIGATION  FOI/PA  DELETED PAGE INFORMATION SHEET  FOI/PA# 1203982-1  Total Deleted Page(s) = 152  Page 43 - b6; b7C;  Page 44 - b6; b7C;  Page 45 - b6; b7C;  Page 46 b6; b7C;  Page 47 b6; b7C;  Page 48 - b6; b7C;  Page 49 - b6;",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_021145",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffThe Billionaire' s Playboy Club By Virginia Roberts To my true love Robbie who believes in me every step of the way and to all of my children, you are all my very inspirations! Chapterl Every single person in this shared world together has a unique ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_021569",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffFEDERAL BUREAU OF INVESTIGATION  FOI/PA  DELETED PAGE INFORMATION SHEET  FOI/PA# 1203982-1  Total Deleted Page(s) 44  Page 75 b6; b7C;  Page 76 - b6; b7C;  Page 77 - b6; b7C;  Page 78 - b6; b7C;  Page 79 - b6; b7C;  Page 80 - b6; b7C;  Page 81 - b6;",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_021958",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffJAMES PATTERSON  * * *  Whatever the reasons for his resignation, Epstein still gets his  annual bonus of around $100,000 (roughly $275,000 in today's  dollars). The SEC never brings charges against him or any other  Bear Stearns employee. And so th",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "weinstein_paris",
+      "event_desc": "Massage Weinstein at Paris residence, ordered to remove shirt",
+      "memo_efta": "02731096",
+      "corpus_efta": "HOUSE_OVERSIGHT_022058",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffCHAPTER 20  Jeffrey Epstein: 1953-1969  Jeffrey Epstein's mother, Paula, was the daughter of Max and  Lena Stolofsky, who arrived in the United States as Lithua- nian refugees. Relatives on that side of the family who remained  in the old country wo",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "coffee_shop_blonde",
+      "event_desc": "Recruited at coffee shop by blonde Eastern European woman",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA00173834",
+      "corpus_page": 0,
+      "corpus_text": "Present for the interview was  attorney. Also present for the interview was  was born in San Antonio, Texas in 1984.  mother was a teacher and her father  served in the military for 22 years at Fort Hood, Berlin, and near Munich.  went to DOD  school",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "coffee_shop_blonde",
+      "event_desc": "Recruited at coffee shop by blonde Eastern European woman",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA00086883",
+      "corpus_page": 1,
+      "corpus_text": "FD-302a (Rev. 5-8-10)  SOD-NY-3027571  continuation of FD-302 of (U) Interview of  ,o, 08/26/2019 ,page  2 of 3  let go, to Williamsburg. Around 2004,  had an interview and earned  a job at a coffee shop in Union Square.  In the summer of 2004,  met ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "coffee_shop_blonde",
+      "event_desc": "Recruited at coffee shop by blonde Eastern European woman",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01245554",
+      "corpus_page": 1,
+      "corpus_text": "FD-302a (Rev. 54-10)  50D-NY-3027571  Continuation of FD-302 of (U) Interview of  m\u201e 08/26/2019 ,page 2 of 3  let go, to Williamsburg. Around 2004,  had an interview and earned  a job at a coffee shop in  In the summer of  met JEFFREY EPSTEIN.  was 1",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "coffee_shop_blonde",
+      "event_desc": "Recruited at coffee shop by blonde Eastern European woman",
+      "memo_efta": "02731114",
+      "corpus_efta": "HOUSE_OVERSIGHT_011170",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffBrexit Statistics Data Retrieved: 23 rd June, 2016 Data Source: Twitter From: 12 AM CEST TO: 11 PM CEST Total No of Tweets: 302,1130 No of Tweets with Positive Sentiment: 157,075 No of Tweets with Negative Sentiment: 93,305 No of Tweets with Neutral",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "coffee_shop_blonde",
+      "event_desc": "Recruited at coffee shop by blonde Eastern European woman",
+      "memo_efta": "02731114",
+      "corpus_efta": "HOUSE_OVERSIGHT_011472",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffNight Flight They say that you can read a person\u2019s feelings on his face. But if so, either I\u2019m a very good actor \u2013 the opposite of what anyone who has worked closely with me would tell you \u2013 or the journalists clustered in front of me weren\u2019t very g",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "coffee_shop_blonde",
+      "event_desc": "Recruited at coffee shop by blonde Eastern European woman",
+      "memo_efta": "02731114",
+      "corpus_efta": "HOUSE_OVERSIGHT_015032",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff     60 Years of Investigative Satire:            The Best of Paul Krassner              Introduction by Andy Borowitz  Blurb by Art Spiegelman         Click on this for a High Res Photo.  What They Say About the Author        \t\u201cPaul\u2019s own writing, ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "coffee_shop_blonde",
+      "event_desc": "Recruited at coffee shop by blonde Eastern European woman",
+      "memo_efta": "02731114",
+      "corpus_efta": "HOUSE_OVERSIGHT_027849",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffNight Flight They say that you can read a person\u2019s feelings on his face. But if so, either I\u2019m a very good actor \u2013 the opposite of what anyone who has worked closely with me would tell you \u2013 or the journalists clustered in front of me weren\u2019t very g",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01971601",
+      "corpus_page": 0,
+      "corpus_text": "To:  From:  Jeffrey Epstein  Sent  Sun 5/26/2013 10:14:52 AM  Subject: Re:  you can go again and have the boy  On Sat, May 25, 2013 at 7:13 PM,  wrote:  The spa , massage was amazing !-had massage from asian boy ! so so lucky ! It was  funny the woma",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00019609",
+      "corpus_page": 2,
+      "corpus_text": "The last time she saw him was sometime in August of 2003, and she first saw him in May of  2002.  She said Epstein gave her a book called Massage for Dummies.  He said he would pay for massage school for her. She decided to go. She did tell him she w",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA02731226",
+      "corpus_page": 5,
+      "corpus_text": "Page 6  responded that she was 14 years old and her mother would not allow her to travel.  reca s additional conversations when Epstein and/or Maxwell would again bring up nat.  suggesting the travel could be for massage school. Ultimately,  never tr",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA02441443",
+      "corpus_page": 1,
+      "corpus_text": "I am sending you this note for a quick update on what I have doing lately.  Last week I saw some spaces which were not quite what I expected so decided to  start to approach literally all the different estate agencies in the area where I am  confiden",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00086855",
+      "corpus_page": 0,
+      "corpus_text": "FD-302 (Rev. 5-8-10)  -1 of 3- FEDERAL BUREAU OF INVESTIGATION  ,  DOB  Plaza, New York, New York. Present for the interview was  attorneys  interview was AUSA  . After  individuals and the nature of the interview,  Omer. Moon.  Date of entry    04/2",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00961100",
+      "corpus_page": 0,
+      "corpus_text": "From: Jeffrey Epstein <jeevacation\u00aegmail.com>  To:  Subject: e:  Date: Sun, 26 May 2013 10:14:52 +0000  you can go again and have the boy  On Sat, May 25, 2013 at 7:13 PM,  wrote:  The spa , massage was amazing ! Julia had massage from asian boy ! so",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01245432",
+      "corpus_page": 0,
+      "corpus_text": "FD-302 (Rev. 54-10)  -1 of 3 - FEDERAL BUREAU OF INVESTIGATION  Dateetentry   04/23/2020 ,  DOB 1/17/1974, was interviewed at One Saint Andrews  Plaza, New York, New York.  attorneys  interview was AUSA  . After being  individuals and the nature  fol",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01245656",
+      "corpus_page": 1,
+      "corpus_text": "FD-302a (Rev. 5\u2022&10)  31E-NY-3027571 Serial 315  31E-NY-3027571  Continuation of FD-302 of an  Interview  ,O, 08/27/2019 \" age 2 of 2  showed  to her room.  then became sick.  Hours later,  explored the house and went to find something to  eat. There",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01246406",
+      "corpus_page": 0,
+      "corpus_text": "FD-302(icv.5-8-10)  -1 of 4 - OFFICIAL RECORD  FEDERAL BUREAU OF INVESTIGATION  DOB  New York, New York. Present  along with AUSA  , and Special Agent \u2022  of the above listed individuals  , was interviewed at  for the interview was  , AUSA  . After be",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00739838",
+      "corpus_page": 0,
+      "corpus_text": "From: Jeffrey Epstein <jeevacation@gmail.com> To  Subject: Re: Hiya!  Date: Wed, 23 Sep 2009 13:07:39 +0000  what do you mean 1 day off\u201e do you mean with pay\u201e can you take off with no pay, I'll pay.. Slavery ended in  1865. -- the massage question is",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01721197",
+      "corpus_page": 36,
+      "corpus_text": "O Part II: The Art of Receiving Massage   Overcoming the heebie jeebies  Leven:after trying some of the suggestions in  this chapter, you're still,harboring a tiny bit of  fear and loathing about massage somewhere in  your subconscious mind; that's a",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00682314",
+      "corpus_page": 2,
+      "corpus_text": "year of heightened supervision. for soliciting a minor for prostitution and soliciting prostitution.  The sensationalized reference in a handful of media ,to calls from school girls or school children is blatantly  misleading. The calls from school g",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00905884",
+      "corpus_page": 1,
+      "corpus_text": "The sensationalized reference in a handful of media to calls from school girls or school children is blatantly  misleading. As far as we can tell, the calls that are being referenced came from college students in their 20s and a  22 year old who was ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00905860",
+      "corpus_page": 1,
+      "corpus_text": "I would also end the par on the pi lawyers with moment of fame  The rest invites even more mudslinging  Is there is an example we can attribute to a specific pi atty?  Sent from my Verizon Wireless BlackBerry  From: Jeffrey Epstein <jeevacation@gmail",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01250052",
+      "corpus_page": 0,
+      "corpus_text": "FD.302 (Rev. 5440)  -1 of 8 - FEDERAL BUREAU OF INVESTIGATION  OINCIAL RECORD  Mmofemn,    04/23/2020 , date of birth  was interviewed at One Saint  Andrews Plaza, New York, New York. Present for the interview was  legal team, including attorneys  Al",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "massage_school",
+      "event_desc": "Epstein paid for massage school, creating dependency",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA02785261",
+      "corpus_page": 16,
+      "corpus_text": "Case 1:15-cv-07433-LAP  Document 1201-10  Filed 01/27/21  Page 16 of 27  Court's Order counsel for Ms. Maxwell sought guidance form the Court, which was not available. Notwithstanding that the examination was repetitive, Ms. Maxwell responded to ques",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01780083",
+      "corpus_page": 0,
+      "corpus_text": "From:  Rich Kahn  Sent:  Tuesday, January 12, 2010 6:04 PM  To:  Jeffrey Epstein  Subject:  re: Darren bonus from DKI PLLC  Is it ok to pay Darren 250,000 =onus?  Rich Kahn  HBRK Associates Inc.  PO Box 400  New York, NY 10150  tel  fax  cell  1  EFT",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01579339",
+      "corpus_page": 0,
+      "corpus_text": "10/15/2008 14:25 FAX 212 750 2408  NYSG LLC  lit005/005  JEFFREY E. EPSTEIN  Memorandum  To:  From:  Date:  Re:  Francisco, JP Morgan  Darren Indyke  sbc4\"---  October 15, 2008  Jeffrey Epstein  Account # 739-110438  Please wire Two Hundred Fifty Tho",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01579116",
+      "corpus_page": 0,
+      "corpus_text": "Apr-17-2012 11:01 AM JPMorgan Chase  31\u20ac  JEFFREY E. EPSTEIN  Memorandum  To:  Janet, JP Morgan  From:  Harry Beller ti v? 4 17\\  Date:  April 17, 2012  Re:  Jeffrey  stein  Account  ** ************ 4\u20ac*************** ***** ****\u2022*** ********* \u20b9  *****",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01579135",
+      "corpus_page": 0,
+      "corpus_text": "JPN FINANCIAL SPONSORS  Nay 16 2009 15:04  P.01  JEFFREY E. EPSTEIN  Mertuwandum It,:  ham JP Mervin  From:  I luny Beller  Date:  March 30,  Re:  Jcfircy Epstein  Account gi  Please wire Two Hundred Thousand Fifty Dollars (S250,000) from the above  ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01578751",
+      "corpus_page": 0,
+      "corpus_text": "JPM FINANCIAL SPONSORS  Jan 12 2010  14:58  P.06  JEFFREY E. EPSTEIN  Memorandum  \u2022 To:  Janet, JP Morgan  _  .Harry Beller /  _Patel  .January 12, 2010  Re: .  Jeffrey Epstein  Account \"  **************O*M********************S***********************",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01579120",
+      "corpus_page": 0,
+      "corpus_text": "a INIIHUIfIL JrVilaViib j  l' aX.R 102002183  Jun  1 2009 15:24  P. 01  JEFFREY E. EPSTEIN  \u2022  Merrorentlam  (q:  Janet. JP *rgan  From:  Darien Ind5;lie    =  Date:  . . .June 1.2009  Re:  ..litifrey Epstein  \u2022  Account  k %   j.  \u2022  I  j\\ a \u201e,e, \u2022 ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01579006",
+      "corpus_page": 0,
+      "corpus_text": "JPN FINANCIAL SPONSORS  Aug 20 2009 15:25  P.01  JEFFREY E. EPSTEIN  memorandtm To:  Janet, JP Morgan  From:  Harry Beller  Date.:.., ,  August 20,  9  Re:  Jeffrey Epstein  Account  4**************************************************************.***",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01755327",
+      "corpus_page": 0,
+      "corpus_text": "From:  Richard Kahn  Subject: Re:  Sent  Tuesday, December 3, 2013 3:47:14 PM  To:  Jeffrey Epstein <jeevacation\u00a9gmail.com>  ok  Richard Kahn  HBRK Associates Inc.  575 Lexington Avenue, 4th Floor,  New York, New York 10022  On Dec 3, 2013, at 10:46 ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01579533",
+      "corpus_page": 0,
+      "corpus_text": "VUIVIILUVO IL.CV FAA  NYSE LLC  001 /001  JEFFREY E. EPSTEIN  Memorandum  To:  Francisco, JP Morgan  From:  Barry Beller ft)  L- 1  0 11 Date:  May 7, 2008 \u2022  Re:  Jeffrey Epstein  Account1MM  ********** tie ******** ******************* ******* *** *",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01579444",
+      "corpus_page": 0,
+      "corpus_text": "07/15/2008 14:42 FAX 212 750 2408  NYSG LLC  Vicloi/001  JEFFREY E. EPSTEIN  Memorandum  To:  Francisco, J  From:  Harry Belle  Date:  July 15, 20 8  Re:  Jeffrey Epstein  Account #  ****************** *******###ii******************  ***** 21 ,0Piti ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00151545",
+      "corpus_page": 5,
+      "corpus_text": "FinCEN I Financial Crimes Enforcement Network  UMW Scats Deptmalt of the Treasury  BSAR Transcript  BSA: 31 0001 5041 6250 and DCN:  Narrative  This SAR is being filed by The Charles Schwab Corporation on behalf of Charles Schwab & Co., Inc. (*Schwab",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "HOUSE_OVERSIGHT_016111",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffGEMs Paper #26 Saudi Arabia: beyond oil but not so fast 30 June 2016 Corrected Unauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com Transforming Saudi Arabia, but challenges abound The Saudi Natio",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "HOUSE_OVERSIGHT_020447",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffChineseInfluence& AmericanInterests PROMOTING CONSTRUCTIVEVIGILANCE Report of the Working Group on Chinese Influence Activities in the United States Co-Chairs Larry Diamond Senior Fellow The Hoover Institution Stanford University Orville Schell Arth",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "HOUSE_OVERSIGHT_023069",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffEquity Strategy Focus Point Death and tax reform Quantitative Analysis 29 January 2017 Corrected Unauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com Deep dive on corporate tax reform OK, maybe it",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "HOUSE_OVERSIGHT_023208",
+      "corpus_page": 0,
+      "corpus_text": "Date: Mon, Oct 26, 2015 at 8:37 PM  Subject:  To: Brad Wechsler < >, Melanie Spinella <  x  \u2014 x .  gain at 20 % not 28. . so total , 35.8%. tax rate. same for boat. and plane each around 10 m so total 7  m savings if both sold  Date: Tue, Oct 27, 201",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "250k_wire",
+      "event_desc": "$250,000 wire via Rich Kahn in December 2018",
+      "memo_efta": "02731133",
+      "corpus_efta": "HOUSE_OVERSIGHT_023291",
+      "corpus_page": 0,
+      "corpus_text": "From: jeffrey E. [jeeyacation@gmail.com]  Sent: 4/8/2018 4:20:18 PM  To: jeffrey epstein [jeeyacation@gmail.com]  Importance: High  Date: Mon, Oct 26, 2015 at 8:37 PM  Subject:  To: Brad Wechsler_____________________________Melanie SpineIla__________",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01648946",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  Subject:  Date: Thu, 24 Jul 2025 13:53:09 +0000  Importance: Normal  Included  Trump \u2014  \u2022  stated Epstein introduced her to Trump who subsequently forced her head down to  his exposed penis which is subsequently bite. In response, Tr",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01660622",
+      "corpus_page": 17,
+      "corpus_text": "UNCLASSIFIED  PROMINENT NAMES  Trump :  1.  '* stated Epstein introduced her to Trump  who subsequently forced her head down to his  exposed penis which she subsequently bit. In  response, Trump punched her in the head and kicked  her out. (date rang",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA00029358",
+      "corpus_page": 0,
+      "corpus_text": "From:  (USANYS)\" <MIMIMIN>  To:  (USANYS)\" alMIE>  Subject:  Date: Sat, 14 Dec 2019 02:51:42 +0000  Don't know if you caught this but one of the non/minor Epstein victims alleges that Jes Staley (reads in memo as  \"Jess Daily\") raped her during a mas",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA00164939",
+      "corpus_page": 17,
+      "corpus_text": "PROMINENT NAMES  Trump :  1.  stated Epstein introduced her to Trump  who subsequently forced her head down to his  exposed penis which is subsequently bite. In  response, Trump punched her in the head and kicked  her out.  2.  remember Epstein intro",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01649143",
+      "corpus_page": 4,
+      "corpus_text": "o The closest account was when one victim (==)  described Epstein asking  her to massage Harvey Weinstein and during the massage Weinstein asked her to  remove her shirt. She refused and left, and Epstein apologized and did not ask her  to massage an",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA00162121",
+      "corpus_page": 57,
+      "corpus_text": "Case 1:22-cv-10019-JSR Document 36 Filed 01/13/23 Page 58 of 130  to comply with the subpoena, making it abundantly clear whose side JP Morgan was  on.  224. JP Morgan never timely filed required SARs about Epstein's suspicious  transactions, includi",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA00172113",
+      "corpus_page": 4,
+      "corpus_text": "o The closest account was when one victim (==)  described Epstein asking  her to massage Harvey Weinstein and during the massage Weinstein asked her to  remove her shirt. She refused and left, and Epstein apologized and did not ask her  to massage an",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA00154692",
+      "corpus_page": 4,
+      "corpus_text": "o The closest account was when one victim (==)  described Epstein asking  her to massage Harvey Weinstein and during the massage Weinstein asked her to  remove her shirt. She refused and left, and Epstein apologized and did not ask her  to massage an",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA00174356",
+      "corpus_page": 4,
+      "corpus_text": "o The closest account was when one victim (==)  described Epstein asking  her to massage Harvey Weinstein and during the massage Weinstein asked her to  remove her shirt. She refused and left, and Epstein apologized and did not ask her  to massage an",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01250052",
+      "corpus_page": 5,
+      "corpus_text": "FD\u2022303a (Rev. 5.8.10)  500-NY-3027571  conliiwmionoiFD\u2022303o1' WI Interview of  O,  10/24/2019  pag,  6 of 8  before.  went into the massage room and BLACK was naked. He started  becoming sexual and  ran out of the room.  told EPSTEIN and he  laughed ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA02806395",
+      "corpus_page": 59,
+      "corpus_text": "absee1222euviD90119.3.4BW alsoameetiggE2 Flilee1102108233  60.B31  to comply with the subpoena, making it abundantly clear whose side JP  was  on. 224. JP  never timely filed required SARs about Epstein's suspicious  transactions, including large cas",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "staley_rape",
+      "event_desc": "Staley raped victim during massage at Epstein NY residence",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA02807336",
+      "corpus_page": 21,
+      "corpus_text": "Case 1:22-cv-10904-JSR Document 140 Filed 05/08/23 Page 21of 32  JPMC from seeking indemnity at this stage. Whether JPMC is liable because of Staley's actions, how Staley influenced others, or otherwise are questions to be resolved as the litigation ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "HOUSE_OVERSIGHT_017526",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffINTELLECTUAL JAZZ DAVID AGUS DAN ARIELY KEITH BLACK DAVID BLAINE MIKE BLOCK ADAM B LY SCOTT BOLTON DAVID BROOKS MARK CUBAN ANTONIO DAMASIO JACK DANGERMOND DAVE GALLO FRANK GEHRY MATT GROENING HERBIE HANCOCK DANNY HILLIS BJARKE INGELS QUINCY JONES MA",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01621586",
+      "corpus_page": 5,
+      "corpus_text": "jeeitunes@gmail.com  Skype ?  09:47:44 pm  2015/05/25  Sent an attachment  Filename: IMG_6569.JPG.jpeg  Path: IMG_6569JPG.jpeg  Type: image/jpeg  10:05:52 ani  I got him!!!! He was walking down the road  10:05:52 am  beauty and the beasts  07:07:44 p",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01385426",
+      "corpus_page": 0,
+      "corpus_text": "3 January 2018  HY Corporate Credit  HY Multi Sector,Media, Cable & Satellite  Theater&  Our long-standing belief is that the performance of the theater exhibitors is  linked more closely to the quality and appeal of the film release slate than the  ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01837944",
+      "corpus_page": 0,
+      "corpus_text": "To:  From:  Sent  Subject:  Jeffrey Epstein  Mon 3/21/2011 6:32:08 AM  Re: Fastback...  no splits in the window. , not great..   we can paint the red one. ? i prefere smaller engine,  or go back to vette.  On Sun, Mar 20, 2011 at 10:44 PM,  wrote:  -",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA02039071",
+      "corpus_page": 21,
+      "corpus_text": "JEFFREY KATZENBERG  Jeffrey Katzcnberg (born December zi, 1950) is an American  film producer and CEO of DreamWorks Animation. He  is perhaps most known for his period as chairman of The  Walt Disney Studios when Disney produced some of its  biggest ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01300651",
+      "corpus_page": 0,
+      "corpus_text": "From:  Jes Staley <M I > To:  .jeevacation@gmail.corre <jeeyacationegmail.com>  Sent:  7/10/2010 3:17:34 PM  Subject:  Re:  Beauty and the Beast  From: Jeffrey Epstein  To: Jes Staley  Sent: Fri Jul 09 21:02:03 2010  Subject: Re:  what character woul",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01300652",
+      "corpus_page": 0,
+      "corpus_text": "From:  Jeffrey Epstein <* evacatio  maitcom>  To:  Jes Staley <  Sent:  7/10/2010 3:27:04 PM  Subject:  Re:  well one side is availble  On Sat, Jul 10. 2010 at 10:17 AM, Jes Staley a  wrote:  Beauty and the Beast  From: Jeffrey Epstein <jeevacationaa",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01813818",
+      "corpus_page": 0,
+      "corpus_text": "To:  Jes Stale  From:  Jeffrey Epstein  Sent  Sat 7/10/2010 2:27:04 PM  Subject: Re:  well one side is availble  On Sat, Jul 10, 2010 at 10:17 AM, Jes Staley  wrote:  Beauty and the Beast  From: Jeffrey Epstein <jeevacation@gmail.com> To: Jes Staley ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01942885",
+      "corpus_page": 0,
+      "corpus_text": "To:  From:  Jeffrey Epstein  Sent  Sun 1/19/2014 11:38:45 AM  with you as sex naive. and me , its like beauty and the beast.  ***********************************************************  The information contained in this communication is  confidentia",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01937045",
+      "corpus_page": 0,
+      "corpus_text": "To:  Jeffrey Epsteinpeevacation@gmail.coml  From:  Sent  Sun 1/19/2014 1:10:04 PM  Subject Re:  This is so funny... :D  Wyslane z iPada  Dnia Jan 19, 2014 o godz. 12:38 PM Jeffrey Epstein <jeevacation@,gmail.com> napisalla):  with you as sex naive. a",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "beauty_beast_library",
+      "event_desc": "Victim described library like Beauty and the Beast",
+      "memo_efta": "02731042",
+      "corpus_efta": "EFTA01709600",
+      "corpus_page": 51,
+      "corpus_text": "Notes  So many movies! So much success! Yet Walt Disney had even  more ideas. He created Mary Poppins, a movie with cartoons and  people. His comp.any today employs many people and continues to  make imaginative movies like Beauty and the Beast and T",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00022133",
+      "corpus_page": 7,
+      "corpus_text": "Name  \u2022 Accusation  Location  Source(s)  \u2022 \"By the time I was 16, I had probably brought him 70 to 80 girls who  were all 14 and 15 years old. He was involved in my life for years.\"  \"He told me he wanted them as young as I could find them\" \"If I had",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA02731200",
+      "corpus_page": 11,
+      "corpus_text": "Page 12  \u2022  I.  met with us several times, and informed us that she visited the Florida Residence  dozens of times, includin recruiting approximately 20 to 30 other women and girls ranging from  15 to 20 years of age.  primaril coordinated the a u. \u2022",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA01245503",
+      "corpus_page": 1,
+      "corpus_text": "FD-302a (Rev. 54-10)  50D-NY-3027571  Continuation of FD-302 of (U) Interview of  .On 09/18/2019 .pue  2 of 4  had seen her photos and wanted her to meet with him and  sister.  gets invited to a DAVID COPPERFIELD show in Las Vegas. At this time  beli",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00089603",
+      "corpus_page": 4,
+      "corpus_text": "FD-302a (Rev. 5-8-10)  50D-NY-3027571  Comimmthmormacof (U) Interview of  a  02/05/2020 mg, 5 of 6  at her house in West Palm Beach. MAXWELL asked if  could fly with  them to New Mexico.  told her no.  was then upset about this  and cried.  The secon",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00090594",
+      "corpus_page": 1,
+      "corpus_text": "FD-302a (Rev. 5-8-10)  50D-NY-3027571  Comthwdion of FD-302 of (U) Interview of  a  09/18/2019 .Page 2 of 4  had seen her photos and wanted her to meet with him and  sister.  gets invited to a DAVID COPPERFIELD show in Las Vegas. At this time  believ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00263107",
+      "corpus_page": 13,
+      "corpus_text": ". 5/22/22, 1:31 PM  Jeffrey Epstein. Wikipedia  Three women (Katlyn Doe, Lisa Doe and Priscilla Doe) sued the estate of Jeffrey Epstein on August  20, 2019. Two of the women were 17 and one was 20 when they met Epstein. The women allege  they were re",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00174338",
+      "corpus_page": 2,
+      "corpus_text": "UNCLASSIFIED// LAW ENFORCEMENT SENSITIVE  FBI INTERNAL USE ONLY-DO NOT DISSEMINATE EXTERNALLY  parties, the pills usually consisted of sleeping pills and ecstasy. Nygard sexually  assaulted these girls and paid them between $300 to $1000 dollars.3 \u2022 ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00173841",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  et 1=INE>  Subject: Request for concurrence --- UNCLASSIFIED//LES  Date: Wed, 22 Sep 2021 12:17:50 +0000  Importance: Normal  Classification: UNCLASSIFIED//LES  (U) LAW ENFORCEMENT SENSITIVE: The information marked (U//LES) in this docume",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00153918",
+      "corpus_page": 1,
+      "corpus_text": "FD-302a (Rev. 5-8-10)  50D-NY-3027571  Comthwdion of FD-302 of (U) Interview of  a  09/18/2019 .Page 2 of 4  had seen her photos and wanted her to meet with him and  sister.  gets invited to a DAVID COPPERFIELD show in Las Vegas. At this time  believ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00158500",
+      "corpus_page": 5,
+      "corpus_text": "FD-302a (Rev. 54.10)  SOD\u2014NY-3027571  c ominuaii\u201e  FD,302  (U) Interview of  02/27/2020 .Pag,\u2022  6 of 14  talked about regarding MAXWELL.  described  as being a model,  who was older than  and knew EPSTEIN and MAXWELL before she did.  The first time  ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00158482",
+      "corpus_page": 3,
+      "corpus_text": "FD-302a (Rev. 54.10)  SOD\u2014NY-3027571  ConlinuationolFD-302 or (U) Interview of  12/17/2019  .0, 12/17/2019 Jae.,  4 of 8  EPSTEIN had a god complex.  feels as though his victims had a  class system.  was involved in the abuse.  MAXWELL was still part",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "HOUSE_OVERSIGHT_017935",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffCase 1:19-cv-03377 Document 1 Filed 04/16/19 Page 1 of 28 United States District Court Southern District of New York VIRGINIA L. GIUFFRE, Plaintiff, CASE NO: v. ALAN DERSHOWITZ, Defendant. ________________________ / COMPLAINT Boies Schiller Flexner ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "HOUSE_OVERSIGHT_018872",
+      "corpus_page": 0,
+      "corpus_text": "FEDERAL BUREAU OF INVESTIGATION  FOI/PA  DELETED PAGE INFORMATION SHEET  FOI/PA# 1203982-1  Total Deleted Page(s) = 152  Page 43 - b6; b7C;  Page 44 - b6; b7C;  Page 45 - b6; b7C;  Page 46 b6; b7C;  Page 47 b6; b7C;  Page 48 - b6; b7C;  Page 49 - b6;",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "HOUSE_OVERSIGHT_021958",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffJAMES PATTERSON  * * *  Whatever the reasons for his resignation, Epstein still gets his  annual bonus of around $100,000 (roughly $275,000 in today's  dollars). The SEC never brings charges against him or any other  Bear Stearns employee. And so th",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "15yo_new_mexico",
+      "event_desc": "15-year-old flown to New Mexico, photographed in VS underwear",
+      "memo_efta": "02731109",
+      "corpus_efta": "HOUSE_OVERSIGHT_022058",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffCHAPTER 20  Jeffrey Epstein: 1953-1969  Jeffrey Epstein's mother, Paula, was the daughter of Max and  Lena Stolofsky, who arrived in the United States as Lithua- nian refugees. Relatives on that side of the family who remained  in the old country wo",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "lent_out_drugs",
+      "event_desc": "Victim 'lent out' so many times she began using drugs",
+      "memo_efta": "02731139",
+      "corpus_efta": "EFTA01249021",
+      "corpus_page": 6,
+      "corpus_text": "FD-302a (Rev. 5$10)  50D-NY-3027571  Conunwmion of FD402 of 1U) Interview of  well.  .On 09/09/2019 _page  7 of B  (East coast). EPSTEIN stated she would get girls for him as  was there more often than other girls.  -SHERATON LNU was there more often",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "lent_out_drugs",
+      "event_desc": "Victim 'lent out' so many times she began using drugs",
+      "memo_efta": "02731139",
+      "corpus_efta": "HOUSE_OVERSIGHT_011304",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff                                                                 1       H3VOGIU1     1   UNITED STATES DISTRICT COURT       SOUTHERN DISTRICT OF NEW YORK   2   ------------------------------x     3   VIRGINIA L. GIUFFRE,     4                  Plai",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "lent_out_drugs",
+      "event_desc": "Victim 'lent out' so many times she began using drugs",
+      "memo_efta": "02731139",
+      "corpus_efta": "HOUSE_OVERSIGHT_017935",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffCase 1:19-cv-03377 Document 1 Filed 04/16/19 Page 1 of 28 United States District Court Southern District of New York VIRGINIA L. GIUFFRE, Plaintiff, CASE NO: v. ALAN DERSHOWITZ, Defendant. ________________________ / COMPLAINT Boies Schiller Flexner ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "lent_out_drugs",
+      "event_desc": "Victim 'lent out' so many times she began using drugs",
+      "memo_efta": "02731139",
+      "corpus_efta": "HOUSE_OVERSIGHT_022118",
+      "corpus_page": 0,
+      "corpus_text": "\ufeffIATTERSON  de girls whom he believed were  ).f. his former employer's home,  ler was engaging in sexual con- and had viewed pornographic  n computers in his employer's  eleased from custody for further  ez had attempted to sell to the  viewed by an ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "100m_settlement",
+      "event_desc": "Wexner settled for $100M return in January 2008",
+      "memo_efta": "02731147",
+      "corpus_efta": "HOUSE_OVERSIGHT_022707",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff\tIt\u2019s an absurdly vast house, among the largest in Manhattan, but the dining room is windowless, creating a hermetic or stop-time sense, broken only by the household help ferrying in time-of-day-appropriate foods and beverages.       In sweatshirt, ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "100m_settlement",
+      "event_desc": "Wexner settled for $100M return in January 2008",
+      "memo_efta": "02731147",
+      "corpus_efta": "HOUSE_OVERSIGHT_022727",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff\tIt\u2019s an absurdly vast house, among the largest in Manhattan, but the dining room is windowless, creating a hermetic or stop-time sense, broken only by the household help ferrying in time-of-day-appropriate foods and beverages.       In sweatshirt, ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "100m_settlement",
+      "event_desc": "Wexner settled for $100M return in January 2008",
+      "memo_efta": "02731147",
+      "corpus_efta": "HOUSE_OVERSIGHT_022746",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff\tIt\u2019s an absurdly vast house, among the largest in Manhattan, but the dining room is windowless, creating a hermetic or stop-time sense, broken only by the household help ferrying in time-of-day-appropriate foods and beverages.       In sweatshirt, ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "100m_settlement",
+      "event_desc": "Wexner settled for $100M return in January 2008",
+      "memo_efta": "02731147",
+      "corpus_efta": "HOUSE_OVERSIGHT_022844",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff     \tIt\u2019s an absurdly vast house, among the largest in Manhattan, but the dining room is windowless, creating a hermetic or stop-time sense, broken only by the household help ferrying in time-of-day-appropriate foods and beverages.  In sweatshirt, ",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "100m_settlement",
+      "event_desc": "Wexner settled for $100M return in January 2008",
+      "memo_efta": "02731147",
+      "corpus_efta": "HOUSE_OVERSIGHT_022863",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff\tIt\u2019s an absurdly vast house, among the largest in Manhattan, but the dining room is windowless, creating a hermetic or stop-time sense, broken only by the household staff ferrying in time-of-day-appropriate foods and beverages.       In sweatshirt,",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "100m_settlement",
+      "event_desc": "Wexner settled for $100M return in January 2008",
+      "memo_efta": "02731147",
+      "corpus_efta": "HOUSE_OVERSIGHT_022894",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff\tIt\u2019s an absurdly vast house, among the largest in Manhattan, but the dining room is windowless, creating a hermetic or stop-time sense, broken only by the household staff ferrying in time-of-day-appropriate foods and beverages.       In sweatshirt,",
+      "bridge_type": "same_event_different_document"
+    },
+    {
+      "event_id": "100m_settlement",
+      "event_desc": "Wexner settled for $100M return in January 2008",
+      "memo_efta": "02731147",
+      "corpus_efta": "HOUSE_OVERSIGHT_022952",
+      "corpus_page": 0,
+      "corpus_text": "\ufeff\tIt\u2019s an absurdly vast house, among the largest in Manhattan, but the dining room is windowless, creating a hermetic or stop-time sense, broken only by the household help ferrying in time-of-day-appropriate foods and beverages.       In sweatshirt, ",
+      "bridge_type": "same_event_different_document"
+    }
+  ]
+}
