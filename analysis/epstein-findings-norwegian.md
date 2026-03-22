@@ -46,7 +46,7 @@ Navngitte menn i memoet, fra dette ene offeret:
 
 **Kilde: EFTA02731139 (Dubin, Prince Andrew), EFTA02731096 (Weinstein), EFTA02731114 (Staley, Black), EFTA02731111 (Blaine)**
 
-**Alan Dershowitz** — offeret "mentioned Alan Dershowitz, but we did not fully explore the details of her interactions with him." SDNY kjente altså til påstander men valgte å ikke forfølge dem i dette memoet.
+**Alan Dershowitz** — offeret "mentioned Alan Dershowitz, but we did not fully explore the details of her interactions with him." SDNY kjente altså til påstander men valgte å ikke forfølge dem i dette memoet. Kilde: EFTA02731139.
 
 **Jean Luc Brunel** — offeret masserte Brunel, men ingen seksuell kontakt fant sted.
 

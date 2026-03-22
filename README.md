@@ -63,6 +63,7 @@ Findings from SDNY prosecution memoranda, independently verified against origina
 | `analysis/epstein-financial-deconstruction-english.md` | Financial deconstruction: no client accounts, Wexner proffer, Deutsche Bank review. Every claim sourced to specific EFTA pages. |
 | `analysis/epstein-financial-deconstruction-norwegian.md` | Norwegian version of the financial deconstruction. |
 | `analysis/victim-cross-reference-english.md` | Cross-volume victim testimony mapping: connects redacted victim designations across VOL00012 and other EFTA volumes using contextual fingerprints. No real names. |
+| `analysis/groff-investigation-english.md` | Leslie Groff investigation: 50 mentions across the prosecution memo, reverse proffer, Fifth Amendment invocation, December 2018 email, and why she was never indicted. |
 
 ## Source Data
 
