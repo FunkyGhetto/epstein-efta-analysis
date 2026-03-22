@@ -1,0 +1,273 @@
+{
+  "person": "Les Wexner",
+  "queries_run": 5,
+  "new_efta_pages_found": [
+    "EFTA02731069",
+    "EFTA00040941",
+    "EFTA01987273",
+    "EFTA01582816",
+    "EFTA01654937",
+    "EFTA01356244",
+    "EFTA01351152",
+    "EFTA01797954",
+    "EFTA01656173",
+    "EFTA01582813",
+    "EFTA01681842",
+    "EFTA01356688",
+    "EFTA01463151",
+    "EFTA01356220",
+    "EFTA01990036",
+    "EFTA01415304",
+    "EFTA01417404",
+    "EFTA00123213",
+    "EFTA01340307",
+    "EFTA01365971",
+    "EFTA01404299",
+    "EFTA01582860",
+    "EFTA02731082",
+    "EFTA00121398",
+    "EFTA01511185",
+    "EFTA01656198",
+    "EFTA01355715",
+    "EFTA01368194",
+    "EFTA01417160",
+    "EFTA01511229",
+    "EFTA01699268",
+    "EFTA01987172",
+    "EFTA01582900",
+    "EFTA01421293",
+    "EFTA01661603",
+    "EFTA01416828",
+    "EFTA01417492",
+    "EFTA02029556",
+    "EFTA01656152"
+  ],
+  "total_new_results": 100,
+  "findings": [
+    {
+      "query": "Wexner + power of attorney",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Wexner%' AND text_content LIKE '%power of attorney%' LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01654937",
+        "EFTA01661603",
+        "EFTA01340307",
+        "EFTA02731082",
+        "EFTA02731082",
+        "EFTA02731069",
+        "EFTA01699268",
+        "EFTA00121398",
+        "EFTA00123213",
+        "EFTA00040941"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01654937",
+          "text": "Victoria's Secret Mogul May Have to Explain His Epstein Ties  Indyke's name is also on corporation filings for the anonymous company that  owned Maxwell's East 65th Street townhouse. In 2000, Epstein's friend Lynn  Forester sold the residence to the ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01661603",
+          "text": "Case of Jeffrey Epstein - Billionaire Financier (New York, NY; Palm Beach, FL; Santa F... Page 7 of 32  His firm would be different, too. He was not here just to offer investment advice; he saw himself as the  financial architect of every aspect of h",
+          "new": true
+        },
+        {
+          "efta": "EFTA01340307",
+          "text": "...  .  The Morgan Account  Durable Power of Attorney  .  ..  1. PiPivi \u2014organ Private Bank  MORGAN USE ONLY  US942 ic ,-..  Title  SPN  Primary CAS  A CURABLE POWER or ATTORNEY IS AN IMPORTANT LEGAL DOCUMENT. BY  (CHING THIS OURAITLE POWER OF ATTORN",
+          "new": true
+        },
+        {
+          "efta": "EFTA02731082",
+          "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS  CONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e)  On July 18, 2019, we gave a reverse proffer to Leslie Groff, during which we explained  that numerous victims had indicated that she was respons",
+          "new": true
+        },
+        {
+          "efta": "EFTA02731082",
+          "text": "PRIVILEGED - ATTORNEY WORK PRODUCT/DELIBERATIVE PROCESS  CONFIDENTIAL - SUBJECT TO FED. R. CRIM. P. 6(e)  belonged to Wexner, but the Wexners had moved out of it in 1995. Epstein also sold himself a  private plane that previously belonged to Wexner a",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Wexner + $100M return/settlement",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Wexner%' AND (text_content LIKE '%100 million%' OR text_content LIKE '%returned%' OR text_content LIKE '%settlemen",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01582900",
+        "EFTA01582860",
+        "EFTA01368194",
+        "EFTA01351152",
+        "EFTA01681842",
+        "EFTA01463151",
+        "EFTA01511229",
+        "EFTA01511185",
+        "EFTA02029556",
+        "EFTA01404299"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01582900",
+          "text": "Copyright 2003 Forbes, Inc.  Forbes  April 28, 2003  SECTION: BUSINESS; Pg. 56  LENGTH: 246 words  HEADLINE: Limited Viewing  BYLINE: Mark Tatge  HIGHLIGHT:  Passing on a portrait.  BODY:  \"Send it back!\" Thats a complaint you sometimes hear at a res",
+          "new": true
+        },
+        {
+          "efta": "EFTA01582860",
+          "text": "press articles,  we have n0  reason to  believe that she  had any direct  influence on or  participation In  the situations in  which her  brothers were  involved. She is  a high profile  client given her  family  background and  media coverage  surr",
+          "new": true
+        },
+        {
+          "efta": "EFTA01368194",
+          "text": "Page 21 of 32  FOCUS i 1 7 of 19 Documents  The New York Tines  December 13, 2015 Sunday  Late Edition - Final  Dershowitz on the Defense  BYLINE: By BARRY MEIER  SECTION: Section BU: Column 0; Money and Business/Financial Desk. Pg. 1  LENGTH: 2607 w",
+          "new": true
+        },
+        {
+          "efta": "EFTA01351152",
+          "text": "J.E. BACKGROUND  NET WORTH/ASSETS  Estimated 52 billion  Personal Property:  Owns (estimated) largest townhouse in Manhattan (9 E 71st St.), villa in Palm Beach, Florida, apartm  ent in Paris, ranch in New Mexico, and others  Owns a Boeing 727, other",
+          "new": true
+        },
+        {
+          "efta": "EFTA01681842",
+          "text": "RECEIVED 09/30/2816 02:45'M  0 09/30/2016 11:48 NI  12026009520  4 12127591216  O 1  Affidavit of Alan Dershowitz Regarding Potential Extortion Conspiracy  Involving  and Various Members of Her Legal Team  From t e day I was falsely accused of having",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Wexner + client/manage/invest outside memo",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Wexner%' AND (text_content LIKE '%client%' OR text_content LIKE '%manag%money%' OR text_content LIKE '%invest%') A",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01582860",
+        "EFTA01582816",
+        "EFTA01582813",
+        "EFTA01421293",
+        "EFTA01416828",
+        "EFTA01990036",
+        "EFTA01415304",
+        "EFTA01356244",
+        "EFTA01356688",
+        "EFTA01356220"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01582860",
+          "text": "press articles,  we have n0  reason to  believe that she  had any direct  influence on or  participation In  the situations in  which her  brothers were  involved. She is  a high profile  client given her  family  background and  media coverage  surr",
+          "new": true
+        },
+        {
+          "efta": "EFTA01582816",
+          "text": "Was any unusual or potentially suspicious transaction activity detected?  No  Additional Comments  CLIENT EXITED THE BANK ON REQUEST OF RISK COMMITTEE AND THE LAST ACCOUNTS CLOSED JUNE 8. 2014  Business Case  Summary of Risk Attributes  Reputational ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01582813",
+          "text": "Notes  Email  Home  Identification & Tax Info  Tax  Type of Tax ID  Social Security Number  Identification  Form of Government ID  NONE  Why are you asking for an exception to the policy. and what actions are being taken to mitigate risk') Attached f",
+          "new": true
+        },
+        {
+          "efta": "EFTA01421293",
+          "text": "Manhattan from 1973 to 1975. Among his students was a son of Alan C.  Greenberg, chairman of Bear Stearns.  In 1976, Epstein started work as an options trader at Bear Stearns  where he worked in the special products division, advising high-net-worth ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01416828",
+          "text": "Subject: Google Alert - leon black  From: Google Alerts <googlealerts-noreply@google.com>  Date: Mon, 15 Jul 2019 14:02:35 -0400  To:  {Google}  leon black Daily update \u2022 July 15, 2019  NEWS  Jeffrey Epstein and the utility of fake billions Axios  ..",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Wexner + contact after 2008",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Wexner%' AND (text_content LIKE '%2009%' OR text_content LIKE '%2010%' OR text_content LIKE '%2011%' OR text_conte",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01582816",
+        "EFTA01990036",
+        "EFTA01415304",
+        "EFTA01987172",
+        "EFTA01987273",
+        "EFTA01356244",
+        "EFTA01417404",
+        "EFTA01797954",
+        "EFTA01417492",
+        "EFTA01417160"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01582816",
+          "text": "Was any unusual or potentially suspicious transaction activity detected?  No  Additional Comments  CLIENT EXITED THE BANK ON REQUEST OF RISK COMMITTEE AND THE LAST ACCOUNTS CLOSED JUNE 8. 2014  Business Case  Summary of Risk Attributes  Reputational ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01990036",
+          "text": "To:  jeeyacationtagmail.com[jeeyacation@gmail.com]; Jeffrey Epsteinueevacation@gmail.com]  From:  Boris Nikolic  Sent:  Fri 8/5/2011 7:22:56 PM  Subject: RE: Talk  Can you find who is Angela a women from Hong Kong who is married for binder? Some Engl",
+          "new": true
+        },
+        {
+          "efta": "EFTA01415304",
+          "text": "in Switzerland and worldwide. In November 2011, she played a decisive role  in the New York sale of Abstraction-Figuration, an exceptional private  collection of abstract works by Gerhard Richter and Max Ernst which realized  a world auction record f",
+          "new": true
+        },
+        {
+          "efta": "EFTA01987172",
+          "text": "To:  jeevacationttrgmail.com[jeevaeation@gmail.com]; Jeffrey Epsteinueeyacation@gmail.com]  From:  Boris Nikolic  Sent:  Fri 8/5/2011 7:41:24 PM  Subject: RE: Talk  Can you send me her pits.  This Angela is a friend w prince Charles and knows Andrew ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01987273",
+          "text": "To:  jeevacation@gmail.comneevacation@gmaitcom];  jeevacation@gmail.com[jeevacation@gmail.com]  From:  R. Couri Hay  Sent:  Fri 3/4/2011 7:03:11 PM  Subject: Re:  Good morning Jeffery,  The Newsweek story is being written without your input as you re",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Wexner + Victoria's Secret / recruitment",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Wexner%' AND (text_content LIKE '%Victoria%' OR text_content LIKE '%L Brands%' OR text_content LIKE '%model%') LIM",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01355715",
+        "EFTA01365971",
+        "EFTA01368194",
+        "EFTA01681842",
+        "EFTA01681842",
+        "EFTA01681842",
+        "EFTA01656198",
+        "EFTA01656152",
+        "EFTA01654937",
+        "EFTA01656173"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01355715",
+          "text": "LI Current Classification: (click here for help) Internal  Jeffrey Epstein Source of Wealth [I]  Setdon Clarke to: MO C1P  09/30/2013 01:56 PM  titslory.  This message has been replied to.  Sender  Date  Subject  SeWon Clarke  Fran M Wickman  09/30/2",
+          "new": true
+        },
+        {
+          "efta": "EFTA01365971",
+          "text": "Mr. Wexner, an up-and-coming retail magnate from Ohio, became his key client. Mr. Wexner's company  controlled the chains Abercrombie & Fitch , The Limited, Express and Victoria's Secret, and his wealth  would eventually grow to more than $7 billion,",
+          "new": true
+        },
+        {
+          "efta": "EFTA01368194",
+          "text": "Page 21 of 32  FOCUS i 1 7 of 19 Documents  The New York Tines  December 13, 2015 Sunday  Late Edition - Final  Dershowitz on the Defense  BYLINE: By BARRY MEIER  SECTION: Section BU: Column 0; Money and Business/Financial Desk. Pg. 1  LENGTH: 2607 w",
+          "new": true
+        },
+        {
+          "efta": "EFTA01681842",
+          "text": "RECEIVED 09/30/2816 02:45'M  0 09/30/2016 11:48 NI  12026009520  4 12127591216  O 1  Affidavit of Alan Dershowitz Regarding Potential Extortion Conspiracy  Involving  and Various Members of Her Legal Team  From t e day I was falsely accused of having",
+          "new": true
+        },
+        {
+          "efta": "EFTA01681842",
+          "text": "RECEIVED 09/30/2016 02:45PM  0 09/30/2016 11:48 AM  12026009520  i 12127591216  O 4  Alan M. Dershowitz: I appreciate that Thank you. If you can think of anything else,  just please, please let me know because um this is very, very important  Tape Q ",
+          "new": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "person": "Leon Black",
+  "queries_run": 5,
+  "new_efta_pages_found": [
+    "EFTA01368246",
+    "EFTA02006792",
+    "EFTA02202313",
+    "EFTA02023751",
+    "EFTA01362677",
+    "EFTA02731689",
+    "EFTA00017819",
+    "EFTA01899726",
+    "EFTA02024106",
+    "EFTA01658539",
+    "EFTA01362751",
+    "EFTA01899783",
+    "EFTA02731660",
+    "EFTA02731662",
+    "EFTA02731638",
+    "EFTA02097802",
+    "EFTA02731771",
+    "EFTA01426318",
+    "EFTA01430368",
+    "EFTA01356345",
+    "EFTA02024113",
+    "EFTA02731023",
+    "EFTA02098821",
+    "EFTA02007292",
+    "EFTA01356913",
+    "EFTA00032738",
+    "EFTA02032009",
+    "EFTA01419529",
+    "EFTA01649143",
+    "EFTA02023772",
+    "EFTA01649149",
+    "EFTA01421146",
+    "EFTA02024594",
+    "EFTA00029606",
+    "EFTA02023727",
+    "EFTA02731736",
+    "EFTA01928018",
+    "EFTA00032732",
+    "EFTA00025231",
+    "EFTA02731737",
+    "EFTA01422028",
+    "EFTA02731485",
+    "EFTA01895935",
+    "EFTA01368175",
+    "EFTA02097514"
+  ],
+  "total_new_results": 98,
+  "findings": [
+    {
+      "query": "Black + victim + DANY",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Black%' AND text_content LIKE '%victim%' AND text_content LIKE '%DANY%' LIMIT 20",
+      "total": 19,
+      "new_count": 18,
+      "new_efta": [
+        "EFTA02731737",
+        "EFTA02731737",
+        "EFTA02731485",
+        "EFTA02731662",
+        "EFTA02731662",
+        "EFTA02731638",
+        "EFTA02731689",
+        "EFTA02731771",
+        "EFTA02731660",
+        "EFTA02731736"
+      ],
+      "results": [
+        {
+          "efta": "EFTA02731737",
+          "text": "From:  Sent:  Frida lune 30 2023 4:05 PM  To:  Cc:  2  Subject  FW: Memo to i e re DANY call on Leon Black/  Hi  Do you have time for a call to discuss a victim who recently came to our attention with connections to the  Epstein/Maxwell case? To be c",
+          "new": true
+        },
+        {
+          "efta": "EFTA02731737",
+          "text": "-  In follow-up interviews and in records, DANY has found  0  DANY do not doubt her allegations against JE and LB  o  They believe she was also abused by Staley  o  They have not found any independent corroboration  She has twitter account where she ",
+          "new": true
+        },
+        {
+          "efta": "EFTA02731485",
+          "text": "From:  Sent:  Monda June 12 2023 1:53 PM  To:  Subject:  Leon Black/Additional HT Subject Referral -- Update  Attachments:  #NOTES - Trafficking 2023.06.12 Call w/Jeanne Christensen.msg; #NOTES - Trafficking 2023.05.26  Leon Black Call w/Jeanne Chris",
+          "new": true
+        },
+        {
+          "efta": "EFTA02731662",
+          "text": "From:  To:  Subject:  Date:  Re: Memo to Ole re DANY UII on Leon B  Tuesday, July 4, 2023 8:12:21 PM  How about 2pm on 7/11? We are also trill  schedule GJ with  on another case but if  it's Tuesday, it will be in the morning.  , does that work for y",
+          "new": true
+        },
+        {
+          "efta": "EFTA02731662",
+          "text": "Also records from OB-GYN 2019  O 2011 record notes that she has  from sexual assault  o Complains of  o April 2021 note mentions she has  who  abused and drugged her  o Seems like news reports about JE/ GM prompted--  corroborated in  records but onl",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Black + Southern Trust",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Black%' AND text_content LIKE '%Southern Trust%' LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01356345",
+        "EFTA01356913",
+        "EFTA01419529",
+        "EFTA01362751",
+        "EFTA01362677",
+        "EFTA01421146",
+        "EFTA01368175",
+        "EFTA01368246",
+        "EFTA01426318",
+        "EFTA01430368"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01356345",
+          "text": "Financial LLC  Gallivan  activities.  Oldfield  Southern Trust  Company, Inc.  Andrew  Gallivan  3/16/2017  Southern Trust  Company has not  changed its nature  of business within  the past year. it is  still a private  investment  company and has  n",
+          "new": true
+        },
+        {
+          "efta": "EFTA01356913",
+          "text": "From:  Sent:  4/4/2016 11:38:39 AM  To:  CC:  Subject:  Banking Officer change [lj  Classification: For Internal use only  Hi Paul,  Please review this list of accounts on which _His currently listed as the banking officer (whose name and phone numbe",
+          "new": true
+        },
+        {
+          "efta": "EFTA01419529",
+          "text": "Cynthia Rodriguez  Assistant Vice President  Deutsche Bank Trust Company Americas  Deutsche Bank Wealth Management  345 Park Avenue, 24th Fl 10154-0004 New York, NY, USA  Tel.  Fax Emai  From: Richard Kahn [mailto:  Sent: Tuesday, April 11, 2017 5:23",
+          "new": true
+        },
+        {
+          "efta": "EFTA01362751",
+          "text": "Subject: RE: Southern Financial LLC - KYC and credit derivatives/convertible bonds onboarding [C] [I]  Thanks everyone, we are looking to extend relationship to OTC Credit Derivatives and GED (OTC Equity  Derivatives). We have trades to execute when ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01362677",
+          "text": "From: Zack Bunimovich   Date: Friday. Mar 30, 2018, 11:26  To: Liam Osullivan <   Nina Tona . 5(sivier Avil  Martin Zeman  Rita Shteynbe  Cc: Mathew Negus  lastair  ac m av  Davide-A Sferrazza  ony  num  Subject: RE: Southcm Financial LLC - KYC and c",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Black + Apollo",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Leon Black%' AND text_content LIKE '%Apollo%' LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA02032009",
+        "EFTA02098821",
+        "EFTA02097802",
+        "EFTA02007292",
+        "EFTA01928018",
+        "EFTA02097514",
+        "EFTA02006792",
+        "EFTA01899783",
+        "EFTA01422028",
+        "EFTA01899726"
+      ],
+      "results": [
+        {
+          "efta": "EFTA02032009",
+          "text": "To:  jeevacationggmail.con[jeevacation@gmail.com]; JEFFREY  EPSTEIN(jeeproject@yahoo.com)  From:  Tommy  Sent:  Mon 8/1/2011 3:06:31 PM  Subject:  <no subject>  Jeffrey,  As per our conversation re your talk with Leon Black-- He just purchased CKX In",
+          "new": true
+        },
+        {
+          "efta": "EFTA02098821",
+          "text": "To:  Jeffre E steinBeevacation\u00a9gmail.com]  From:  Sent:  Tue 9/2/2014 5:11:16 PM  Subject:  Leon Black (?)  Please see below and advise (?)  Begin forwarded message:  From: Melanie Spinella  Date: Se tember 2 2014 at 1:08:32 PM EDT  To:  Leon is comi",
+          "new": true
+        },
+        {
+          "efta": "EFTA02097802",
+          "text": "To:  n CCueevacation\u00a9gmail.comi  From:  Sent  Wed 9/3/2014 11:23:25 AM  Subject Reminder: Leon black  Reminder: Please see below. Did I need to let Melanie know you can't meet Leon at your house  this Friday at 8:30am?  Sent from my iPhone  Begin for",
+          "new": true
+        },
+        {
+          "efta": "EFTA02007292",
+          "text": "To:  jeevacation@gmail.com[jeevacation@gmail.com]; Jeffrey Epsteinueevacation@gmail.com)  From:  Boris Nikolic  Sent:  Sat 3/31/2012 2:26:25 AM  Subject: RE: Re:  Great.  Let's discuss either Saturday or Sunday.  B  From: Jeffrey Epstein [mailto:jeev",
+          "new": true
+        },
+        {
+          "efta": "EFTA01928018",
+          "text": "To:  Epstein Jeffreyfleevacation\u00a9gmail.com]  From:  Joi Ito  Sent:  Mon 4/28/2014 12:02:25 AM  Subject:  Re:  sianature.asc  Will do. Thanks!  - Joi  On Apr 27, 2014, at 17:01 , Jeffrey Epstein <jeevacation@gmail.com> wrote:  > if you get a chance in",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Leon Black + 2023/2024",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Leon Black%' AND (text_content LIKE '%2023%' OR text_content LIKE '%2024%') LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA02023751",
+        "EFTA02023727",
+        "EFTA02023772",
+        "EFTA01895935",
+        "EFTA02024113",
+        "EFTA02024594",
+        "EFTA02024106",
+        "EFTA01649149",
+        "EFTA01649143",
+        "EFTA02202313"
+      ],
+      "results": [
+        {
+          "efta": "EFTA02023751",
+          "text": "To:  jeevacation@gmail.com[jeeyacation\u00a9gmail.com]; Jeffrey Epstein  CCfieeyacation(ggmail.com]  Fran:  Lesley Groff  Sent  Wed 5/30/2012 2:13:58 PM  Subject: Matt Menchel  Below from Matt Menchel...you are taking Karyna and gang to Del Posto at 7:30 ",
+          "new": true
+        },
+        {
+          "efta": "EFTA02023727",
+          "text": "To:  jeevacation\u00a9gmail.comfjeevacation@gmail.com]; Jeffrey Epstein  CCueevecationegmail.com]  From:  Lesley Groff  Sent  Fri 6/1/2012 8:59:44 PM  Subject: NY People To See List  PEOPLE TO SEE:  Matt Menchel  FRIDA  Unik (a)  Barbro's girl,  ( )DONE  ",
+          "new": true
+        },
+        {
+          "efta": "EFTA02023772",
+          "text": "To:  'eevacation  maitcom[jeevacation@gmail.com]; Epstein Jeffrey[jeevacation@gmail.com]  From:  Sent:  Tue 12/18/2012 6:07:09 PM  Subject:  Call Leon Black!! 212 515 3205  Begin forwarded message:  From: Melanie Spinella  Date: December 18. 2012 1:0",
+          "new": true
+        },
+        {
+          "efta": "EFTA01895935",
+          "text": "FamilyTrust  Black Family Partners  Apollo 4Q BFP  %Interest  CoInv Interest  VI  Apollo  CoInv BRH  n piv  SWF  addl  BRH  pay  4Q10  Total  12/31/12  2006 Trust/LBF  Holdings  70.3330%  S-  $-  $-  S-  $-  S-  S- 2006 Trust  1.8390%  S-  $-  $-  $-",
+          "new": true
+        },
+        {
+          "efta": "EFTA02024113",
+          "text": "To:  jeevacation@gmail.com[jeevacation\u00a9gmail.com]; Jeffrey Epstein  CC[jeevacation  mail.com  Cc:  ]; Lyn and Jo .\u00b0 fontanilla  j; Jojo  fontanilla  Rich Barnett(  From:  Lesley Groff  Sent:  Wed 1/4/2012 10:00:15 PM  Subject: Priveleged and Confiden",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Black + Dechert",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Black%' AND text_content LIKE '%Dechert%' LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01658539",
+        "EFTA00032738",
+        "EFTA00032738",
+        "EFTA00032732",
+        "EFTA00032732",
+        "EFTA00029606",
+        "EFTA00017819",
+        "EFTA00025231",
+        "EFTA02731023",
+        "EFTA02731023"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01658539",
+          "text": "Lawsuit Alleges Indian Hackers Leaked Businessman's Emails.  Reuters (10/19) reports, \"Iranian-American businessman Farhad Azima has accused a pair of  Indian companies of stealing his emails and publishing them to the web, according to a lawsuit  fi",
+          "new": true
+        },
+        {
+          "efta": "EFTA00032738",
+          "text": "From: New York Law360 <news-alt(ciflaw360.com>  To: <  Subject: Greenberg Traurig's NY Bill May Aid Russian Oligarch Client  Date: Thu, 17 Jun 2021 09:02:15 +0000  ti_aw360 New York  NEW YORK  Thursday, June 17, 2021  GiFollow Law360  TOP NEWS  Green",
+          "new": true
+        },
+        {
+          "efta": "EFTA00032738",
+          "text": "Cravath Swaine & Moore LLP announced on Tuesday it will donate $6 million  it earned in attorney fees in pro bono work to five national and local Alabama  organizations supporting civil rights and diversity efforts.  Read full article \u00bb  Dechert Hit ",
+          "new": true
+        },
+        {
+          "efta": "EFTA00032732",
+          "text": "From: White Collar Law360 <news@law360.com>  To: Subject: 5 Ways Companies Can Prep For Biden's Anti-Corruption Push  Date: Thu, 17 Jun 2021 07:35:33 +0000  tlaw360 White  Collar  WHITE COLLAR  Thursday, June 17, 2021  GiFollow Law360  TOP NEWS  Anal",
+          "new": true
+        },
+        {
+          "efta": "EFTA00032732",
+          "text": "A former billing manager at Dechert LLP said her supervisor created a hostile  work environment and set impossibly high standards for her because she  was Black, according to a racial discrimination lawsuit she filed against the  firm in Pennsylvania",
+          "new": true
+        }
+      ]
+    }
+  ]
+}

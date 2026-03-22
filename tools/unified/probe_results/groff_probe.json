@@ -1,0 +1,551 @@
+{
+  "person": "Leslie Groff",
+  "queries_run": 10,
+  "new_efta_pages_found": [
+    "EFTA01387848",
+    "EFTA01927858",
+    "EFTA02074596",
+    "EFTA02045267",
+    "EFTA01364303",
+    "EFTA01356038",
+    "EFTA01927868",
+    "EFTA02097705",
+    "EFTA02074706",
+    "EFTA01387841",
+    "EFTA01764591",
+    "EFTA02130720",
+    "EFTA01376935",
+    "EFTA02021042",
+    "EFTA02021208",
+    "EFTA01364079",
+    "EFTA01754431",
+    "EFTA02097620",
+    "EFTA02097850",
+    "EFTA01747099",
+    "EFTA01423947",
+    "EFTA01928449",
+    "EFTA02006972",
+    "EFTA02097909",
+    "EFTA02098235",
+    "EFTA02044024",
+    "EFTA02074640",
+    "EFTA01416042",
+    "EFTA01356081",
+    "EFTA02098015",
+    "EFTA01755270",
+    "EFTA02044794",
+    "EFTA02204164",
+    "EFTA01739515",
+    "EFTA02020272",
+    "EFTA02006913",
+    "EFTA01964032",
+    "EFTA02074789",
+    "EFTA02043964",
+    "EFTA01387842",
+    "EFTA01356200",
+    "EFTA01842848",
+    "EFTA01934080",
+    "EFTA01941284",
+    "EFTA01754406",
+    "EFTA01368243",
+    "EFTA02020446",
+    "EFTA01364267",
+    "EFTA01746773",
+    "EFTA01363919",
+    "EFTA02074990",
+    "EFTA01746979",
+    "EFTA01387846",
+    "EFTA01754438",
+    "EFTA02021202",
+    "EFTA01387843",
+    "EFTA02188590",
+    "EFTA02045338",
+    "EFTA01852729",
+    "EFTA01387275",
+    "EFTA01843474",
+    "EFTA02045098",
+    "EFTA02074901",
+    "EFTA02098591",
+    "EFTA01927938",
+    "EFTA01933878",
+    "EFTA01428501",
+    "EFTA02021023",
+    "EFTA01755390",
+    "EFTA02043921",
+    "EFTA01941335",
+    "EFTA02020187",
+    "EFTA02131440",
+    "EFTA02075534",
+    "EFTA01424842",
+    "EFTA01852368",
+    "EFTA02074151",
+    "EFTA02098204",
+    "EFTA01382045",
+    "EFTA02131672",
+    "EFTA02206177",
+    "EFTA02020318",
+    "EFTA02154236",
+    "EFTA01927244",
+    "EFTA02098372",
+    "EFTA01927569",
+    "EFTA01844801",
+    "EFTA01940212",
+    "EFTA02020123",
+    "EFTA01387281",
+    "EFTA02097693",
+    "EFTA02098502"
+  ],
+  "total_new_results": 240,
+  "findings": [
+    {
+      "query": "Groff + Butterfly Trust",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND text_content LIKE '%Butterfly%' LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01423947",
+        "EFTA01387275",
+        "EFTA01387281",
+        "EFTA01428501",
+        "EFTA01376935",
+        "EFTA01363919",
+        "EFTA01382045",
+        "EFTA01364303",
+        "EFTA01364079",
+        "EFTA01364267"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01423947",
+          "text": "The 2017 Caterpillar Trust  6100 Red Hook Quarters B3  St Thomas VI 00802  MEMORANDUM  To  Brigid  Liam  From;  Lesley Groff  Value Dale: March \\Z, 2019  42-969987 and 77-004659  Account,:  v***********************************************************",
+          "new": true
+        },
+        {
+          "efta": "EFTA01387275",
+          "text": "One sheet must be established for each account to be opened  2. Account Ownership Summary  Account Name  The 2017 Caterpillar Trust - Deposit  Acct. Number (r7 available):  Account Manager:  stewed oldfield  What is the purpose of the account (e.g. p",
+          "new": true
+        },
+        {
+          "efta": "EFTA01387281",
+          "text": "Further Describe Source of Wealth /Detail the history of wealth for each of the sources. (e.g. For trusts, how did settlor accumulate  wealth? For inheritance. h w did family accumulate wealth?For business owners. how long in business, how many emplo",
+          "new": true
+        },
+        {
+          "efta": "EFTA01428501",
+          "text": "The 2017 Caterpillar Trust  6100 Red Hook Quarters B3  St Thomas VI 00802  MEMORANDUIVr  To  Brigid  Liam  From:  Groff  Value Date: March 18.2019  Account # :  42-969987 and 77-004659  Please transfer the accrued interest to the account below and af",
+          "new": true
+        },
+        {
+          "efta": "EFTA01376935",
+          "text": "The 2017 Caterpillar Trust  6100 Red Hook Quarters B3  St Thomas VI 00802  MEMORANDUM  To  Brigid  Liam  From:  Lesley Groff  Value Date:  March IS, 2019  Account # :  Please minister the accrued interest to the account below and after close the abov",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Groff + Kahn around arrest (July 2-5 2019)",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND text_content LIKE '%Kahn%' AND (text_content LIKE '%July 2%' OR text_content LIKE '%July 3%' OR text_c",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01852368",
+        "EFTA01852729",
+        "EFTA02131672",
+        "EFTA02074990",
+        "EFTA02131440",
+        "EFTA02074901",
+        "EFTA02074596",
+        "EFTA02074640",
+        "EFTA02075534",
+        "EFTA01964032"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01852368",
+          "text": "To:  Cc:  Jeffrey Epstein[jeevacation\u00a9gmail.com]  Janusz Banasiak  menvin dela  cruz  From:  Lesley Groff  Sent  Tue 7/29/2014 11:34:58 AM  Subject\u2022 Schedule July 29th  Tues. July 29. 2014 NY  Reminder: Lyn and Jojo depart for the Philippines today  ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01852729",
+          "text": "Janusz Banasiak  Lesley Groff  .1111.28  PM  will come see you at 1pm today  Tues. July 29. 2014 NY  9:00am Breakfast w/Leon Black ( )  11:00am Appt w/Mariette DiChristina ( 1  12:00pm LUNCH w/Larty Summers ( )  1:00pm Appftv  (S)  ; merwin dela  1:3",
+          "new": true
+        },
+        {
+          "efta": "EFTA02131672",
+          "text": "To:  From:  Sent  ue  : 9:01 PM  SubJect Re: next invoice thank you  Ycs on Saturday  Sent from my iPhone  On Jul 30, 2013, at 9:29 AM, Lesley Groff  wrote:  Please confirm...thanlcs!  Begin forwarded message:  From: Richard Kahn .4 MIE>  Subject: Fw",
+          "new": true
+        },
+        {
+          "efta": "EFTA02074990",
+          "text": "To:  Rich Kahnfrichardkahn12\u00a9gmailcomi  From:  Lesley Groff  Sent  Well15  4:03:04 PM  Subject Re:  I sec no hotel info...did we need something specific? Or I can just reserve a centrally located  hotel for now? (that is within cancellation period so",
+          "new": true
+        },
+        {
+          "efta": "EFTA02131440",
+          "text": "To:  Cc:  Rich Kahn  From:  Redfern, Sean  AAG  Sent:  Wed 7/31/2013 3:42:26 PM  Subject:  RE: [External] Jeffrey Epstein  Hi Larry,  ; GP SIK AAG Flight Op l  Can you just refresh my memory, why did we extend a 10% discount to you? I know  we discus",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Groff + flight scheduling",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND (text_content LIKE '%Teterboro%' OR text_content LIKE '%wheels up%' OR text_content LIKE '%flight%') L",
+      "total": 30,
+      "new_count": 30,
+      "new_efta": [
+        "EFTA01927569",
+        "EFTA01927569",
+        "EFTA01755390",
+        "EFTA01754438",
+        "EFTA02097850",
+        "EFTA02098235",
+        "EFTA01927244",
+        "EFTA01928449",
+        "EFTA01927868",
+        "EFTA01927858"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01927569",
+          "text": "To:  Jeffrey EpsteinueevacationagmaiLcom]  From:  Lesley Groff  Sent  Fri 4/25/2014 8:01:45 PM  Subject: Justine  Please advise what to tell her.  Sent from my iPhone  Begin forwarded message:  From:  Date: April 2 ,  DT  To: Lesley Groff  Subject: R",
+          "new": true
+        },
+        {
+          "efta": "EFTA01927569",
+          "text": "> Thanks. Will look into this today. I need your birthday also. Please specify month  day and year (written out please : example oct 14, 1987  > Thanks  > Sent from my iPhone  > On Apr 22, 2014, at 8:14 PM,  wrote:  > > If you need any additional inf",
+          "new": true
+        },
+        {
+          "efta": "EFTA01755390",
+          "text": "From:  Lesley Groff  Subject: Rich Kahn  Sent  Tuesday, November 5, 2013 12:10:20 PM  To:  Jefffrey Epstein leevacationegmaitcom>  Rich Kahn would like to see you while you are here...ok to schedule him in? (Darren is leaving  for PB today)  Tues. No",
+          "new": true
+        },
+        {
+          "efta": "EFTA01754438",
+          "text": "Subject: Fwd: Travel arran ements for JEFFREY E EPSTEIN traveling on 10/26/2013  From:  Karyna Shuliak  Sent  Friday, October 18, 2013 5:57:10 PM  Cc:  Bella Klein  To:  Lesley Groff  Jeffrey Epstein <jeevacation\u00a9gmail.com>  Sent from my iPhone  Begi",
+          "new": true
+        },
+        {
+          "efta": "EFTA02097850",
+          "text": "To:  From:  Sent  Fri 9/12/2014 Sali m Subject Re: new email  Lesley Groff  sorry!! Sept. 14 is date of travel to island!  On Sep 12, 2014, at 1:12 PM,  Ok, thank you!  IIIITHHUa, 12 cexTm6pm 2014 r. 1110.11b30BaTeJlb Lesley Groff Hal1HCall:  wrote: ",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Groff + charging/indictment outside memo",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND (text_content LIKE '%charg%' OR text_content LIKE '%indict%' OR text_content LIKE '%prosecut%' OR text",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA02097620",
+        "EFTA02097693",
+        "EFTA02098591",
+        "EFTA02098372",
+        "EFTA01941284",
+        "EFTA02021208",
+        "EFTA02020123",
+        "EFTA02045267",
+        "EFTA02043964",
+        "EFTA02045098"
+      ],
+      "results": [
+        {
+          "efta": "EFTA02097620",
+          "text": "To:  fontanilla  From:  Sent  Thur 9/11/2014 9:46:16 PM  Subject Re: Reminders...  aryna Shullak  I; Lyn  Agreed . Thank you Lesley and Karyna ! :)  On Thursday, September 11, 2014, Lesley Groff \u2039 > wrote:  Agree. Thanks:)  Sent from my iPhone  On Se",
+          "new": true
+        },
+        {
+          "efta": "EFTA02097693",
+          "text": "To:  Stephen Han  Cc:  Claire Cagn  From:  Lesley Groff  Sent:  Tue 9/16/2014 7:46:28 PM  Subject: Re: Placement International - J1 Program  Thank you for the introduction Steve! We will take it from here for now.  Sent from my iPhone  On Sep 16, 201",
+          "new": true
+        },
+        {
+          "efta": "EFTA02098591",
+          "text": "To:  Tropical Hotel[tropicalhotel@wanadoo.fr]  From:  Lesley Groff  Sent:  Tue 9/2/2014 4:11:39 PM  Subject: Re: Reservation Application for  Dec. 28-Jan. 7  Hello Again!  and  would like to rent a car for their entire stay...The Hyundai will be  per",
+          "new": true
+        },
+        {
+          "efta": "EFTA02098372",
+          "text": "To:  James C  Cc:  James Cli Bella Kiel  Fran:  Lesley Groff  Sent  Sun 9/14/2014 2:16:34 PM  Subject: Re: Citicar  unbelievable...and not what you need after a long trip home and late at night. Bella, speak to  Lillian on Tuesday...she handles dispu",
+          "new": true
+        },
+        {
+          "efta": "EFTA01941284",
+          "text": "To:  Jeffrey Epsteinueevacation\u00a9gmail.comj  From:  Lesley Groff  Sent  Tue 1/28/2014 1:38:23 AM  Subject Ari Glass Phone Date 9:10am tomorrow  Phone date with Ari Glass is confirmed for tomorrow at 9:10am. YOu are to call him at his  office:  Tues. J",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Fifth Amendment invocations (all persons)",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE (text_content LIKE '%Fifth Amendment%' AND text_content LIKE '%privilege%') LIMIT 30",
+      "total": 30,
+      "new_count": 30,
+      "new_efta": [
+        "EFTA01356038",
+        "EFTA01356200",
+        "EFTA01356081",
+        "EFTA01416042",
+        "EFTA01368243",
+        "EFTA01387841",
+        "EFTA01387846",
+        "EFTA01387848",
+        "EFTA01387843",
+        "EFTA01387842"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01356038",
+          "text": "rdc  DB12000P - Deutsche Bank Private Bank  Alert  Batch Date:  2/22/2018  Alert Date:  2/22/2018  Added to Monitoring:  02/22/2018  Organization: Southern Financial LLC  Address:  ok,i.wity VIRGIN ISLANDS. U.S.  Tracking ID:  GCIS 00000483882  Repor",
+          "new": true
+        },
+        {
+          "efta": "EFTA01356200",
+          "text": "rdc  DB12000P - Deutsche Bank Private Bank  Alert  Batch Date:  2/22/2018  Alert Date:  2/22/2018  Added to Monitoring:  02/22/2018  Organization: Southern Financial LLC  Address:  ok,i.wity VIRGIN ISLANDS. U.S.  Tracking ID:  GCIS 00000483882  Repor",
+          "new": true
+        },
+        {
+          "efta": "EFTA01356081",
+          "text": "rdc  DB12000P - Deutsche Bank Private Bank  Alert  Batch Date:  2/22/2018  Alert Date:  2/22/2018  Added to Monitoring:  02/22/2018  Organization: Southern Financial LLC  Address:  ok,i.wity VIRGIN ISLANDS. U.S.  Tracking ID:  GCIS 00000483882  Repor",
+          "new": true
+        },
+        {
+          "efta": "EFTA01416042",
+          "text": "Carolina adjudged Elfindepan,  S.A., Southern Financial Group and Tracy Calvin Dunlap, Jr. to be in civil  contempt of court based on their  refusal to obey court orders requiring them to produce documents, and  account for and repatriate investor  f",
+          "new": true
+        },
+        {
+          "efta": "EFTA01368243",
+          "text": "rdc  DB27000P - Deutsche Bank - CAR Integration  Alert  Batch Date:  Added to Monitoring:  03/15/2018  3/15/2018  Alert Date:  3/1612018  Organization: Southern Financial  Address:  Tracking ID:  Reporting ID:  Alerted Entity #: 1 of 3  Risk Priority",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Groff + massage outside memo",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND text_content LIKE '%massage%' AND efta_number NOT LIKE 'EFTA027310%' AND efta_number NOT LIKE 'EFTA027",
+      "total": 30,
+      "new_count": 30,
+      "new_efta": [
+        "EFTA01941335",
+        "EFTA02043921",
+        "EFTA01940212",
+        "EFTA01940212",
+        "EFTA02154236",
+        "EFTA02206177",
+        "EFTA02206177",
+        "EFTA02204164",
+        "EFTA01933878",
+        "EFTA01934080"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01941335",
+          "text": "To:  Lesley Gro  From:  Jeffrey Epstein  Sent  Sat 1/4/2014 4:06:24 PM  Subject: Re: Skype name  call  see if she has time to do massage this afternoon. thanks  On Sat, Jan 4, 2014 at 8:44 AM, Lesley Groff  wrote:  Sent from my iPhone  *******  *****",
+          "new": true
+        },
+        {
+          "efta": "EFTA02043921",
+          "text": "To:  From:  Sent:  Subject:  FYI...  I  I  Lesley Groff  Tue 9/13/2016 10:54:12 AM  Fwd: Thai Massage Sacred Bodywork Upcoming Workshops  Begin forwarded message:  From: Thai Massa e Sacred Bod  ork  Subject: Thai Massage Sacred Bodywork Upcoming Wor",
+          "new": true
+        },
+        {
+          "efta": "EFTA01940212",
+          "text": "To:  Jeffrey Epsteinijeevacation@vmailcom]  From:  Lesley Groff  Sent  0:15:05 PM  Subject:  Please sec below. Would you like  to come along as well?  Sent from my iPhonc  Begin forwarded message:  From:  Date: January 4, 2014 4:44:37 PM EST  To: Les",
+          "new": true
+        },
+        {
+          "efta": "EFTA01940212",
+          "text": "Sent from  i Phone  On Jan 4, 2014, at 11:43 AM, Lesley Groff  wrote:  Hello  and happy new year. Jeffrey is  back in PB and asking if you might be  available for a massage later this afternoon.  Can you let me know as soon as possible?  Thanks, Lesl",
+          "new": true
+        },
+        {
+          "efta": "EFTA02154236",
+          "text": "To:  Lesley Grof  From:  Google  Sent:  Mon 11/19/2012 11:19:56 AM  Subject: Reminder.  what time today? 6:00 is good for her, she has a... i  Mon Nov 19 6:30am -  7am  more details t\u2022  wh at time today? 6:00 is good for her, she has a massage at 9pm",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Groff + Indyke",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND text_content LIKE '%Indyke%' LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA02098204",
+        "EFTA02097909",
+        "EFTA01843474",
+        "EFTA01424842",
+        "EFTA02045338",
+        "EFTA01764591",
+        "EFTA02130720",
+        "EFTA02074706",
+        "EFTA02074151",
+        "EFTA02074789"
+      ],
+      "results": [
+        {
+          "efta": "EFTA02098204",
+          "text": "To:  Bebe Avdiu  From:  Lesley Groff  Sent  Tue 9/9/2014 1:54:44 PM  Subject: Re: Confirmed! Create & Go received your order. Estimated Delivery: 30 - 45 minutes  Correct!  Sent from my iPhone  On Sep 9, 2014, at 9:43 AM, Bebe Avdiu  Haha! Thanks Les",
+          "new": true
+        },
+        {
+          "efta": "EFTA02097909",
+          "text": "To:  From:  Bebe Avdiu  Sent:  Tue 9/9/2014 1:43:45 PM  Subject: Re: Confirmed! Create & Go received your order. Estimated Delivery: 30 - 45 minutes  Haha! Thanks  So just to eon rm, 12:00 pm at the house today?  Bebe Avdiu  Legal Assistant  DARREN K",
+          "new": true
+        },
+        {
+          "efta": "EFTA01843474",
+          "text": "To:  Cc:  Darren Indykel  J Epsteinueevacation@gmail.com)  From:  Sent:  Subject: Fwd: LSJ  LSJ Letter.docx  LSJ Change Order tile (#11).doc  Sent from my iPhonc  Begin forwarded message:  Lesley Groffi i;  From: Wendy Lockman  Date: January 3, 2012 ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01424842",
+          "text": "Authorized Signer  Darren K. Indyke  Authorized Signer  Jeffrey E. Epstein  The 2017 Caterpillar Trust  Authorized Signer  Harry Beller  Authorized Signer  Daphne Wallace  Jeepers, Inc  Authorized Signer  Darren K. Indyke  Authorized Signer  Lesley G",
+          "new": true
+        },
+        {
+          "efta": "EFTA02045338",
+          "text": "To:  Bebe Avdiu  From:  Lesley Gro  Sent  Tue 8/23/2016 8:58:40 PM  Subject: Re: Wednesday, August 24 10:00am conference call  thanks  On Aug 23, 2016, at 4:33 PM, Bebe Avdiu  wrote:  Sure thing - will def keep you posted!  Bebe Avdiu  Legal Assistan",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Groff + Dubin",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND text_content LIKE '%Dubin%' LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA02098015",
+        "EFTA02006913",
+        "EFTA01842848",
+        "EFTA02006972",
+        "EFTA02044794",
+        "EFTA02044024",
+        "EFTA01844801",
+        "EFTA02188590",
+        "EFTA01739515",
+        "EFTA01739515"
+      ],
+      "results": [
+        {
+          "efta": "EFTA02098015",
+          "text": "To:  Kane: Rebecca  From:  Lesley Groff  Sent:  Tue 9/16/2014 12:51:08 PM  Subject: Re: Dubin Breast Center Luncheon 9/29  HI Rebecca...  Jeffrey has not responded back to me re his table guests...just checking to see if he may have  contacted Eva or",
+          "new": true
+        },
+        {
+          "efta": "EFTA02006913",
+          "text": "To:  jeevacation@gmail.com[jeevacation@gmail.com]; Jeffrey Epstein  CCUeeyacation@gmail.comj  From:  Lesley Groff  Sent:  Wed 11/30/2011 7:03:22 PM  Subject:  Jojo not in the city  Jojo and Lyn took off today and tomorrow, they will be back in the ci",
+          "new": true
+        },
+        {
+          "efta": "EFTA01842848",
+          "text": "To:  Lesley Groff[11111.1.0.11IIIIIMI  From:  Jeffrey Epstein  Sent  Fri 2/17/2012 1:44:37 PM  Subject: Re: Eva use Jojo 9:30-10:30am today?  when he comes back from dropping karyna in willamsburg  On Fri, Feb 17, 2012 at 7:34 AM, Lesley Groff c > wr",
+          "new": true
+        },
+        {
+          "efta": "EFTA02006972",
+          "text": "To:  jeeyacation\u00a9gmail.com[jeeyacation\u00a9gmaitcom] Jeffrey Epstein[jeeyacation\u00a9gmail.com]  From:  Lesley Groff  Sent:  Tue 9/11/2012 4:26:35 PM  Subject: Re: What web site did you find resume on?  thanks  On Sep 11, 2012, at 12:25 PM, Jeffrey Epstein w",
+          "new": true
+        },
+        {
+          "efta": "EFTA02044794",
+          "text": "To:  From:  Sent:  ue  16 4:08:29 PM  Subject: Re: Contact  anytime!  Dubin's Office Assistants Feierstein  On Aug 30, 2016, at 12:07 PM, Amanda D'Cruz  wrote:  Thank you!!!  From: Lesley Groff  Sent: Tuesday, August 30, 2016 11:35 AM  To: Amanda D'C",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Groff + Mitchell",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND text_content LIKE '%Mitchell%' LIMIT 20",
+      "total": 20,
+      "new_count": 20,
+      "new_efta": [
+        "EFTA01755390",
+        "EFTA02097705",
+        "EFTA01927938",
+        "EFTA01755270",
+        "EFTA01754406",
+        "EFTA01754431",
+        "EFTA02098502",
+        "EFTA01746773",
+        "EFTA01746979",
+        "EFTA01747099"
+      ],
+      "results": [
+        {
+          "efta": "EFTA01755390",
+          "text": "From:  Lesley Groff  Subject: Rich Kahn  Sent  Tuesday, November 5, 2013 12:10:20 PM  To:  Jefffrey Epstein leevacationegmaitcom>  Rich Kahn would like to see you while you are here...ok to schedule him in? (Darren is leaving  for PB today)  Tues. No",
+          "new": true
+        },
+        {
+          "efta": "EFTA02097705",
+          "text": "\u2022  '  \u2022  '  nil  ;  \u2022  ; merwin dela  Cruz  From:  Lesley Groff  Sent:  Thur 9/11/2014 10:14:17 PM  Subject: David Mitchell  David Mitchell will now come at 11:30 tomorrow instead of 8:15  Sent from my iPhone  EFTA_R1_00701305  EFTA02097705 ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01927938",
+          "text": "To:  Jeffrey Epsteinfleevacation\u00a9gmail.com]  From:  Lesley Groff  Sent:  Thur 4/10/2014 5:03:01 PM  Subject: David Mitchell  David Mitchell is on a conference call...he will call back when he is off...  EFTA_R1_00375906  EFTA01927938 ",
+          "new": true
+        },
+        {
+          "efta": "EFTA01755270",
+          "text": "From:  Lesley Groff  Subject: Dangene andJennie  Sent  Wednesday, October 30, 2013 2:44:16 PM  To:  Epstein Jeffrey <jeevacationegmail.com>  Dangene and Jennie are back! After going over our schedules, Jennie and Dangene can see you at  9am on Wed. N",
+          "new": true
+        },
+        {
+          "efta": "EFTA01754406",
+          "text": "From:  Lesley Groff <  Subject: David Blain  Sent  Monday, Novemb  4 2013  9:5 PM  Fe -n'  <  To:  Jefffrey Epstein leevacationegmail.com>  > Mark  >, Jojo fon  Tollison <  Richard Bamett  David Blaine says he WILL have tickets for you for Nov. 6th t",
+          "new": true
+        }
+      ]
+    },
+    {
+      "query": "Groff after Epstein death (post Aug 2019)",
+      "sql": "SELECT efta_number, substr(text_content, 1, 300) FROM pages WHERE text_content LIKE '%Groff%' AND (text_content LIKE '%August 2019%' OR text_content LIKE '%September 2019%' OR text_content LIKE '%Octo",
+      "total": 30,
+      "new_count": 30,
+      "new_efta": [
+        "EFTA02020187",
+        "EFTA02020272",
+        "EFTA02021208",
+        "EFTA02021202",
+        "EFTA02020446",
+        "EFTA02020446",
+        "EFTA02020446",
+        "EFTA02020318",
+        "EFTA02021023",
+        "EFTA02021042"
+      ],
+      "results": [
+        {
+          "efta": "EFTA02020187",
+          "text": "To:  jeevacation\u00a9 mail.com  From:  Lesley Groff  Subject: David Stern  Sent:  h  h  Richard Bamett  o:  e rey  pstein  9eevacation\u00a9gmail.com>  EFTA_R1_00525142  EFTA02020187 ",
+          "new": true
+        },
+        {
+          "efta": "EFTA02020272",
+          "text": "To:  From:  Sent:  Th  d  I 19  1  :36:53 PM  Cc:  Lesley Groff  \" '  \u2022  o:  e rey ps em ieeyacation\u00a9gmail.com>  EFTA_R1_00525265  EFTA02020272 ",
+          "new": true
+        },
+        {
+          "efta": "EFTA02021208",
+          "text": "To:  jeevacationftmail.com[jeevacation@gmail.com]; JeffreleevacationegmaiLcomj  From:  Lesley Groff  Sent  Mon 5/7/2012 4:24:47 PM  Subject: Re: Eva (#2)  I will organic  On May 7, 2012, at 12:25 PM, Jeffrey wrote:  Yes  Sorry for all the typos .Sent",
+          "new": true
+        },
+        {
+          "efta": "EFTA02021202",
+          "text": "To:  jeevacation&maitcom[jeeyacation@gmail.com]; Jefffrey Epsteinueevacation@gmail.com]  From:  Lesley Groff  Sent:  Tue 3/22/2011 8:36:34 PM  Subject:  Jes Staley  Please call Jes Staley  EFTA_R1_00526867  EFTA02021202 ",
+          "new": true
+        },
+        {
+          "efta": "EFTA02020446",
+          "text": "To:  jeeyacationftmail.com[jeeyacation@gmail.com]; Jefffrey Epstein[jeevacation@gmail com]  From:  Lesley Groff  Sent  Wed 9/21/2011 1:12:30 AM  Subject  Please advise what to say!  Sent from my iPhone  Begin forwarded message:  From: \"Nina K.  Date:",
+          "new": true
+        }
+      ]
+    }
+  ]
+}
