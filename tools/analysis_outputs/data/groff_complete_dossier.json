@@ -1,0 +1,369 @@
+{
+  "name": "Leslie Groff",
+  "aliases": [
+    "Lesley Groff",
+    "Lesley Jee",
+    "lesleyjee@gmail.com"
+  ],
+  "total_corpus_pages": 174984,
+  "appearances_by_dataset": {
+    "DS10": 52753,
+    "DS11": 49628,
+    "DS9": 71679,
+    "DS12 (VOL12)": 29,
+    "DS8 (VOL8)": 75,
+    "other": 73,
+    "DS_other": 738,
+    "DS1-4 (VOL1-4)": 8,
+    "DS5-7 (VOL5-7)": 1
+  },
+  "key_efta_pages": [
+    {
+      "efta": "EFTA02731041",
+      "description": "Victim-1 identifies 'Leslie' as scheduling contact",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731045",
+      "description": "Victim-3 phone records corroborate scheduling",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731068",
+      "description": "NPA did not cover Groff",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731084",
+      "description": "Named in charging discussion",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731085",
+      "description": "Victim names Groff as travel booker",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731089",
+      "description": "Victim describes scheduling contact",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731108",
+      "description": "Victim saw Groff outside closed door",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731110",
+      "description": "Groff's office inside Epstein's NY residence",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731117",
+      "description": "Victim says Groff 'ruined her life'",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731133",
+      "description": "December 2018 email + $250K wire",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731146",
+      "description": "Reverse proffer, Fifth Amendment, SDNY pushback",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA02731167",
+      "description": "Section D heading (content not in release)",
+      "source_type": "prosecution_memo"
+    },
+    {
+      "efta": "EFTA01940212",
+      "description": "Groff scheduling massage in Palm Beach: 'Jeffrey is back in PB'",
+      "source_type": "corpus_email"
+    },
+    {
+      "efta": "EFTA01941335",
+      "description": "Epstein instructs Groff: 'call [her] see if she has time to do massage'",
+      "source_type": "corpus_email"
+    },
+    {
+      "efta": "EFTA02043921",
+      "description": "Groff forwards 'Thai Massage Sacred Bodywork' workshops (Sep 2016)",
+      "source_type": "corpus_email"
+    },
+    {
+      "efta": "EFTA02206177",
+      "description": "Groff coordinates Deepak Chopra visit for massages (Feb 2017)",
+      "source_type": "corpus_email"
+    },
+    {
+      "efta": "EFTA01755390",
+      "description": "Groff scheduling Rich Kahn visit (Nov 2013)",
+      "source_type": "corpus_email"
+    },
+    {
+      "efta": "EFTA01928684",
+      "description": "Groff travel scheduling for Epstein (Mar 2014)",
+      "source_type": "corpus_email"
+    },
+    {
+      "efta": "EFTA01927417",
+      "description": "Eva Dubin apartment request through Groff (May 2014)",
+      "source_type": "corpus_email"
+    },
+    {
+      "efta": "EFTA02522767",
+      "description": "Groff called US State Department for Senator Mitchell (Jul 2012)",
+      "source_type": "corpus_email"
+    },
+    {
+      "efta": "EFTA01755254",
+      "description": "Groff sending call list to Epstein (Nov 2013)",
+      "source_type": "corpus_email"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "~2001",
+      "event": "Started as Epstein's primary NY-based assistant",
+      "source": "EFTA02731146"
+    },
+    {
+      "date": "2001-2019",
+      "event": "Scheduled massages at NY residence continuously",
+      "source": "EFTA02731146"
+    },
+    {
+      "date": "Jul 2012",
+      "event": "Called US State Department searching for Senator George Mitchell",
+      "source": "EFTA02522767 (rhowardstone)"
+    },
+    {
+      "date": "Nov 2013",
+      "event": "Scheduling Rich Kahn visits, sending call lists to Epstein",
+      "source": "EFTA01755390, EFTA01755254"
+    },
+    {
+      "date": "Jan 2014",
+      "event": "Email: Epstein instructs Groff to arrange massage",
+      "source": "EFTA01941335"
+    },
+    {
+      "date": "Jan 2014",
+      "event": "Email: Groff scheduling massage in Palm Beach \u2014 'Jeffrey is back in PB'",
+      "source": "EFTA01940212"
+    },
+    {
+      "date": "Mar-May 2014",
+      "event": "Travel scheduling, Eva Dubin apartment requests",
+      "source": "EFTA01928684, EFTA01927417"
+    },
+    {
+      "date": "Sep 2016",
+      "event": "Forwarding 'Thai Massage Sacred Bodywork' workshops to Epstein",
+      "source": "EFTA02043921"
+    },
+    {
+      "date": "Jan 2017",
+      "event": "$100K wire from Epstein to Groff",
+      "source": "rhowardstone INVESTIGATION_4"
+    },
+    {
+      "date": "Feb 2017",
+      "event": "Coordinating Deepak Chopra visit for massages",
+      "source": "EFTA02206177"
+    },
+    {
+      "date": "Dec 2017",
+      "event": "$100K wire from Epstein to Groff",
+      "source": "rhowardstone INVESTIGATION_4"
+    },
+    {
+      "date": "Nov 28, 2018",
+      "event": "Miami Herald series published",
+      "source": "public record"
+    },
+    {
+      "date": "Early Dec 2018",
+      "event": "Groff emails victim inviting her to visit Epstein",
+      "source": "EFTA02731133"
+    },
+    {
+      "date": "Dec 2018",
+      "event": "Victim visits Epstein, receives $250K wire via Kahn",
+      "source": "EFTA02731133"
+    },
+    {
+      "date": "May 2019",
+      "event": "Groff coordinating 3BIS architecture meetings \u2014 6 weeks before arrest",
+      "source": "rhowardstone PLIST data"
+    },
+    {
+      "date": "Jul 5, 2019",
+      "event": "Epstein arrested, indictment unsealed",
+      "source": "public record"
+    },
+    {
+      "date": "Jul 18, 2019",
+      "event": "SDNY gives Groff reverse proffer",
+      "source": "EFTA02731146"
+    },
+    {
+      "date": "Aug 7, 2019",
+      "event": "Groff's attorney refuses proffer, advises Fifth Amendment",
+      "source": "EFTA02731146"
+    },
+    {
+      "date": "Aug 10, 2019",
+      "event": "Epstein dies in custody",
+      "source": "public record"
+    },
+    {
+      "date": "Sep-Oct 2019",
+      "event": "SDNY reaches back out \u2014 warns no agreement without proffer",
+      "source": "EFTA02731146"
+    },
+    {
+      "date": "Never",
+      "event": "Groff is never indicted",
+      "source": "public record"
+    }
+  ],
+  "connections": {
+    "Maxwell": 744,
+    "Kahn": 7835,
+    "Indyke": 5228,
+    "Brunel": 225,
+    "Klein": 6398,
+    "Visoski": 4761,
+    "Eva Dubin": 389,
+    "Chopra": 489,
+    "Mitchell": 2021
+  },
+  "rhowardstone_reports_mentioning": [
+    "FRENCH_CONNECTION_INVESTIGATION.md",
+    "README.md",
+    "SINGAPORE_INVESTIGATION.md",
+    "art/ART_INVESTIGATION_COMPLETE.md",
+    "art/ART_INVESTIGATION_REDACTIONS.md",
+    "art/ART_INVESTIGATION_WEB_RESEARCH.md",
+    "audits/FACTUAL_ACCURACY_AUDIT.md",
+    "congressional/CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md",
+    "congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md",
+    "congressional/CONGRESS_RAW_EFTA_LIST.md",
+    "congressional/WITNESS_BRIEF_INDYKE.md",
+    "evidence/BLACKOUT_PERIOD_INVESTIGATION.md",
+    "evidence/EFTA00004800_DEEP_DIVE.md",
+    "evidence/EVIDENCE_COMPILATION.md",
+    "evidence/GABRIELLA_RICO_JIMENEZ_INVESTIGATION.md",
+    "evidence/PHONE_RECORDS_INVESTIGATION.md",
+    "evidence/PLIST_FORENSIC_SEARCH.md",
+    "evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md",
+    "evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md",
+    "financial/CRYPTO_NETWORK_INVESTIGATION.md",
+    "financial/FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md",
+    "financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md",
+    "financial/FORENSIC_ACCT_5_CALENDAR_CORRELATION.md",
+    "financial/INVESTIGATION_4_2018_WIRE_RECIPIENTS.md",
+    "financial/INVESTIGATION_7_BARRETT_REPORTS.md",
+    "financial/SHELL_ENTITY_MAP.md",
+    "financial/WECHSLER_BLACK_TRUST_INVESTIGATION.md",
+    "financial/WOW_GOLD_IGE_BANNON_SEARCH.md",
+    "government-officials/EXECUTIVE_BRANCH.md",
+    "individuals/ALEXANDER_WANDTKE_NSALEM_INVESTIGATION.md",
+    "individuals/BILL_CLINTON_INVESTIGATION.md",
+    "individuals/DUBAI_SULAYEM_INVESTIGATION.md",
+    "individuals/EMAD_HANNA_HBRK_INVESTIGATION.md",
+    "individuals/INVESTIGATION_8_UNEXPLORED_NAMES.md",
+    "individuals/JACQUI_SAFRA_INVESTIGATION.md",
+    "individuals/JUNKERMANN_MC2_INVESTIGATION.md",
+    "individuals/KARYNA_SHULIAK_INVESTIGATION.md",
+    "individuals/KHANNA_SIX_NAMES_INVESTIGATION.md",
+    "individuals/LUTNICK_DUBIN_INVESTIGATION.md",
+    "individuals/MARCINKOVA_INVESTIGATION.md",
+    "individuals/MEDICAL_PROFESSIONALS_INVESTIGATION.md",
+    "individuals/MICHAEL_WOLFF_INVESTIGATION.md",
+    "individuals/MITCHELL_CASCADE_INVESTIGATION.md",
+    "individuals/OHIO_NODE_INVESTIGATION.md",
+    "individuals/PSEUDONYM_CODENAME_REGISTRY.md",
+    "individuals/ROBERT_TRIVERS_INVESTIGATION.md",
+    "individuals/RUEMMLER_DEEP_DIVE.md",
+    "individuals/SENATOR_MITCHELL_INVESTIGATION.md",
+    "individuals/UNNAMED_PERSONS_INVESTIGATION.md",
+    "individuals/WILLIAM_BARR_INVESTIGATION.md",
+    "institutional/CBP_CORRUPTION_INVESTIGATION.md",
+    "institutional/CBP_RUEMMLER_REMAINING_LEADS.md",
+    "institutional/DEA_OCDETF_INVESTIGATION.md",
+    "institutional/DOJ_DOCUMENT_ALTERATION_FORENSICS.md",
+    "institutional/DS12_EXPANSION_ANALYSIS.md",
+    "institutional/EPSTEIN_STORAGE_UNITS_INVESTIGATION.md",
+    "institutional/FBI_302_MISSING_SERIALS_DOSSIER.md",
+    "institutional/GERMAN_FINANCIAL_NETWORK.md",
+    "institutional/ITALIAN_CONNECTIONS_INVESTIGATION.md",
+    "institutional/LAWYERS_LITIGATION_INDEX.md",
+    "institutional/SECONDARY_BATES_STAMP_ANALYSIS.md",
+    "institutional/USVI_FINANCIAL_SERVICES_LEGISLATION.md",
+    "intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md",
+    "intelligence/ISRAEL_DEEP_DIVE_V2.md",
+    "intelligence/POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md",
+    "internet-theories/CONSPIRACY_THEORY_SEARCH_MISC.md",
+    "internet-theories/CONSPIRACY_THEORY_SEARCH_PIZZAGATE.md",
+    "methodology/EVIDENCE_RELIABILITY_AUDIT.md",
+    "methodology/REDACTION_ASYMMETRY_ANALYSIS.md",
+    "overview/ANALYSIS_SUMMARY.md",
+    "overview/FINAL_INVESTIGATION_REPORT.md",
+    "overview/INSTITUTIONAL_FAILURE_NARRATIVE.md",
+    "overview/MASTER_REPORT.md",
+    "overview/PHASE1_GAP_DETECTION.md",
+    "overview/PHASE2_LEVER_TRACEBACK.md",
+    "overview/PHASE3_HIDDEN_DOMAINS.md",
+    "overview/SESSION9_MASTER_FINDINGS.md",
+    "pqg_lines_of_investigation/07_INDIVIDUAL_SUBPOENAS.md",
+    "raw-dataset-analysis/DS10_COMPLETE_FINDINGS.md",
+    "raw-dataset-analysis/DS10_COMPREHENSIVE_NAME_SEARCH.md",
+    "raw-dataset-analysis/DS10_ENTITY_EXTRACTION_REPORT.md",
+    "raw-dataset-analysis/DS10_RECONSTRUCTED_PAGES.md",
+    "scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md",
+    "scientists/DAVID_SHAW_INVESTIGATION.md",
+    "scientists/SCIENCE_NETWORK_COMPREHENSIVE_AUDIT.md",
+    "social-networks/GEFFEN_INVESTIGATION.md",
+    "social-networks/KOTICK_ACTIVISION.md",
+    "social-networks/PEGGY_SIEGAL_PIPELINE.md",
+    "social-networks/PIGOZZI_EDGE_FOUNDATION.md",
+    "social-networks/ST_BARTHS_2010_GUEST_LIST.md",
+    "victims/ALLRED_VICTIM_INTERVIEW.md",
+    "victims/TRAFFICKING_ROUTES_INVESTIGATION.md",
+    "victims/VICTIM_CENSUS.md"
+  ],
+  "financial": {
+    "wire_jan_2017": "$100,000 from Epstein",
+    "wire_dec_2017": "$100,000 from Epstein",
+    "banking": "Bankwell/E*Trade (distinct from Butterfly Trust co-conspirator accounts)",
+    "source": "rhowardstone INVESTIGATION_4_2018_WIRE_RECIPIENTS.md"
+  },
+  "legal_status": {
+    "npa_coverage": "NOT covered by 2007 NPA (unlike Kellen, Marcinkova, Ross)",
+    "reverse_proffer": "July 18, 2019",
+    "fifth_amendment": "Attorney advised invocation on August 7, 2019",
+    "indictment": "Never indicted",
+    "section_d_content": "EFTA02731167 \u2014 heading only in both OCR and corpus. Substantive charging analysis not in public release."
+  },
+  "corpus_email_evidence": {
+    "direct_massage_scheduling": [
+      "EFTA01940212",
+      "EFTA01941335"
+    ],
+    "massage_workshop_forwarding": [
+      "EFTA02043921"
+    ],
+    "celebrity_massage_coordination": [
+      "EFTA02206177"
+    ],
+    "state_department_contact": [
+      "EFTA02522767"
+    ],
+    "total_plist_documents": "40+ (per rhowardstone)"
+  }
+}

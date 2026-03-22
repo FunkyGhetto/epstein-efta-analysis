@@ -1,6 +1,51 @@
 {
-  "total": 537,
+  "total": 544,
   "leads": [
+    {
+      "category": "corpus_discovery",
+      "text": "SDNY-DANY email chain about Leon Black. 'Spinoff interview from Maxwell' \u2014 victim came forward during Maxwell trial. SDNY interviewed victim May 2021. Second victim represented by same attorney. DANY actively investigating Black for sexual assault. SDNY declined to pursue: 'we are not likely to open another investigation.' Coordination continued through Feb 2023.",
+      "efta_page": "02731604-02731650",
+      "ocr_file": "full_text_corpus.db",
+      "line": 0,
+      "priority": "high",
+      "note": "MAJOR: Prosecutors discussed and declined Leon Black investigation with identified victims. 20+ pages of SDNY-DANY correspondence."
+    },
+    {
+      "category": "corpus_discovery",
+      "text": "Groff directly scheduling massage for Epstein in Palm Beach: 'Jeffrey is back in PB and asking if you might be available for a massage later this afternoon.'",
+      "efta_page": "01940212",
+      "ocr_file": "full_text_corpus.db (DS10)",
+      "line": 0,
+      "priority": "high",
+      "note": "Groff actively scheduling massages by email \u2014 contradicts 'limited interactions' characterization in prosecution memo"
+    },
+    {
+      "category": "corpus_discovery",
+      "text": "Groff scheduling massage via Epstein directive: 'call [redacted] see if she has time to do massage this afternoon. thanks'",
+      "efta_page": "01941335",
+      "ocr_file": "full_text_corpus.db (DS10)",
+      "line": 0,
+      "priority": "high",
+      "note": "Epstein directly instructing Groff to arrange massage \u2014 shows chain of command"
+    },
+    {
+      "category": "corpus_discovery",
+      "text": "Groff forwarding 'Thai Massage Sacred Bodywork Upcoming Workshops' to Epstein, September 2016 \u2014 years after his 2008 conviction",
+      "efta_page": "02043921",
+      "ocr_file": "full_text_corpus.db (DS10)",
+      "line": 0,
+      "priority": "high",
+      "note": "Groff still actively involved in massage logistics 8 years post-conviction"
+    },
+    {
+      "category": "corpus_discovery",
+      "text": "Groff coordinating Deepak Chopra visit for massages, Feb 2017: '...massages?...Jeffrey will be in NY the week of March 13th....thank you!! Lesley'",
+      "efta_page": "02206177",
+      "ocr_file": "full_text_corpus.db (DS11)",
+      "line": 0,
+      "priority": "high",
+      "note": "Groff scheduling massages through celebrity contacts \u2014 operational role continued through 2017"
+    },
     {
       "category": "uncovered_victim",
       "text": ". On August 28, 2019, i was interviewed in New York. | reported being sexually abused by an adult explained that she previously did not recall who recruited her, but i helped her remember that it was a woman named I who was i woman with long dark ha...",
@@ -477,6 +522,24 @@
       "line": 9433,
       "priority": "medium",
       "note": "Public denial of allegation"
+    },
+    {
+      "category": "corpus_discovery",
+      "text": "Eva Dubin intimate correspondence with Epstein post-conviction: pet names ('little turtle'), dinner with 'Woody and Soon Yi', medical referrals, using Groff as intermediary. Active 2011-2014+.",
+      "efta_page": "01927283",
+      "ocr_file": "full_text_corpus.db (DS10)",
+      "line": 0,
+      "priority": "medium",
+      "note": "Eva Dubin maintained close personal relationship with Epstein years after conviction. Relevant to 'lent out' victim's testimony about Dubin."
+    },
+    {
+      "category": "corpus_discovery",
+      "text": "Eva Dubin requesting apartment for her friend through Groff: 'Eva is asking again if we have an apt her friend could stay in'",
+      "efta_page": "01927417",
+      "ocr_file": "full_text_corpus.db (DS10)",
+      "line": 0,
+      "priority": "medium",
+      "note": "Eva Dubin using Epstein's property network \u2014 relevant to broader Dubin-Epstein relationship context"
     },
     {
       "category": "rhowardstone_gap",

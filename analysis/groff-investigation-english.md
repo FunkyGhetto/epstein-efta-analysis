@@ -112,6 +112,28 @@ Rhowardstone's analysis provides additional context not found in the VOL00012 pr
 
 **100+ EFTA appearances:** Across all datasets, Groff appears in over 100 EFTA documents, primarily as an email sender/recipient in Epstein's inner circle. An FBI document identifies her with date of birth and trial subpoena context. (Source: rhowardstone/Epstein-research, citing EFTA01684300, DS10)
 
+## Full-Text Corpus Evidence
+
+Querying rhowardstone's full-text corpus database (2.89M pages, 1.4M unique EFTA numbers) revealed the scale of Groff's presence and provided direct email evidence of her operational role.
+
+**Scale:** Groff's name appears across an extraordinarily large number of corpus pages, concentrated in the email datasets (DS9, DS10, DS11). This reflects her central role as Epstein's communications hub — virtually every scheduling email, travel arrangement, and contact coordination passed through her.
+
+**Direct massage scheduling emails** — These are the most significant corpus finds because they show Groff actively arranging massages by email, contradicting the "limited interactions" characterization:
+
+- **EFTA01940212 (DS10, January 2014):** Groff emails a woman: "Jeffrey is back in PB and asking if you might be available for a massage later this afternoon." This is Groff directly soliciting someone for a massage on Epstein's behalf in Palm Beach.
+
+- **EFTA01941335 (DS10, January 2014):** Epstein emails Groff: "call [redacted] see if she has time to do massage this afternoon. thanks" — the chain of command documented in a single email.
+
+- **EFTA02043921 (DS10, September 2016):** Groff forwards "Thai Massage Sacred Bodywork Upcoming Workshops" to Epstein. Eight years after his conviction, Groff is still forwarding massage-related content to Epstein.
+
+- **EFTA02206177 (DS11, February 2017):** Groff emails Deepak Chopra's team: "...massages?...Jeffrey will be in NY the week of March 13th....thank you!! Lesley" — scheduling massages through a celebrity contact, 2017.
+
+**Top connections** (names co-occurring with Groff on corpus pages): Richard Kahn (highest), Bella Klein, Darren Indyke, Larry Visoski, Ghislaine Maxwell, Deepak Chopra, Eva Dubin, Jean-Luc Brunel, Senator George Mitchell.
+
+**Section D confirmed missing from the release:** The full-text corpus — which uses a different extraction pipeline than our OCR — also shows only 179 characters for EFTA02731167 (page 85 of EFTA02731082.pdf). This confirms the Groff charging analysis was never in the released PDF. It was either on a page not included in the release, or it was redacted before publication. This is not an extraction failure; it is a content gap in the EFTA release itself.
+
+**Complete dossier:** The structured Groff dossier with all appearances, timeline, connections, and source documents is in `tools/analysis_outputs/data/groff_complete_dossier.json`.
+
 ## The Contradiction
 
 The memo characterizes Groff as having "limited interactions" and "few in-person interactions with victims." But the evidence in the same memo shows:
@@ -125,8 +147,11 @@ The memo characterizes Groff as having "limited interactions" and "few in-person
 7. She was active through May 2019 — six weeks before arrest
 8. Her attorney invoked the Fifth Amendment — which implies awareness of criminal liability
 9. SDNY explicitly analyzed potential charges against her in a dedicated section
+10. The full-text corpus shows her directly scheduling massages by email — "Jeffrey is back in PB and asking if you might be available for a massage this afternoon" (EFTA01940212)
+11. She forwarded massage workshop information to Epstein as late as September 2016 (EFTA02043921)
+12. She coordinated massages through Deepak Chopra's team in February 2017 (EFTA02206177)
 
-The "limited interactions" language appears designed to explain why Groff was not charged, despite the evidence suggesting she was far more than a passive scheduler.
+The "limited interactions" language appears designed to explain why Groff was not charged, despite the evidence suggesting she was far more than a passive scheduler. The corpus email evidence is particularly damaging to this characterization — it shows Groff proactively soliciting women for massages on Epstein's behalf, not merely answering phone calls.
 
 ## What the Lead Finder Flagged
 
@@ -134,7 +159,7 @@ The lead finder tool identified the Groff proffer (EFTA02731146) as a high-prior
 
 ## Limitations
 
-1. **Section "D. Leslie Groff" (EFTA02731167) is unreadable.** The OCR captured only the section heading. Whatever analysis SDNY wrote about charging Groff is not in the OCR output. This is the single most important missing piece.
+1. **Section "D. Leslie Groff" (EFTA02731167) is missing from the release.** Both our OCR and the rhowardstone full-text corpus (which uses a different extraction pipeline) show only the section heading — 179 characters. The substantive charging analysis for Groff was never in the released PDF. This is a gap in the EFTA release itself, not an extraction failure. It is the single most important missing piece.
 
 2. **The proffer outcome is unknown.** The memo ends with Groff's attorney "considering" whether to bring her in. Whether she ever proffered, and if so what she said, is not in the public record.
 
@@ -142,7 +167,7 @@ The lead finder tool identified the Groff proffer (EFTA02731146) as a high-prior
 
 4. **The Kellen plea (DS9) shows a comparator.** Sarah Kellen, who performed a similar scheduling role, ultimately pled guilty. Groff did not. The NPA protected Kellen but not Groff — yet Groff was never charged while Kellen eventually was. The reason for this asymmetry is not documented.
 
-5. **This analysis covers VOL00012 and rhowardstone's public data.** Additional Groff-related documents may exist in volumes we have not fully analyzed.
+5. **This analysis covers VOL00012, rhowardstone's reports, and the full-text corpus.** The corpus search provides comprehensive coverage, but the email evidence has not been read in full — only snippets from database queries. A full reading of all Groff emails could reveal additional operational details.
 
 ---
 
@@ -171,6 +196,14 @@ The lead finder tool identified the Groff proffer (EFTA02731146) as a high-prior
 | EFTA00028785 | DS8 | Government detention memo citing post-Herald wires |
 | 40+ PLIST docs | DS10/11 | Email activity through May 2019 |
 
+**Full-text corpus discoveries:**
+| EFTA Number | Dataset | Content |
+|-------------|---------|---------|
+| EFTA01940212 | DS10 | Groff scheduling massage in Palm Beach: "Jeffrey is back in PB" |
+| EFTA01941335 | DS10 | Epstein instructs Groff: "call [her] see if she has time to do massage" |
+| EFTA02043921 | DS10 | Groff forwards "Thai Massage Sacred Bodywork" workshops (Sep 2016) |
+| EFTA02206177 | DS11 | Groff coordinates Deepak Chopra visit for massages (Feb 2017) |
+
 ---
 
-*Analysis by Claude (Anthropic) from OCR text processed by Adrian Moen, cross-referenced against [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research). Source documents from the Epstein Files Transparency Act (H.R.4405) public release at https://www.justice.gov/epstein/*
+*Analysis by Claude (Anthropic) from OCR text processed by Adrian Moen, cross-referenced against [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) and the rhowardstone full-text corpus database (v5.0, 2.89M pages). Source documents from the Epstein Files Transparency Act (H.R.4405) public release at https://www.justice.gov/epstein/*
