@@ -1,0 +1,71 @@
+GRAPH ANALYSIS
+============================================================
+
+Graph: 46 nodes, 211 edges
+  Person nodes: 22
+  Entity nodes: 12
+
+TOP 10 BETWEENNESS CENTRALITY (structural keystone)
+----------------------------------------
+   1. David Copperfield            centrality=0.4770  gap=-0.6
+   2. David Blaine                 centrality=0.2571  gap=0.0
+   3. Leon Black                   centrality=0.2444  gap=4.5
+   4. Emmy Taylor                  centrality=0.1619  gap=0.0
+   5. David Rodgers                centrality=0.1429  gap=3.0
+   6. Sarah Kellen                 centrality=0.1246  gap=-1.0
+   7. Harvey Weinstein             centrality=0.0429  gap=2.6
+   8. Larry Visoski                centrality=0.0095  gap=2.5
+   9. Ehud Barak                   centrality=0.0000  gap=1.0
+  10. Ghislaine Maxwell            centrality=0.0000  gap=-0.5
+
+TOP 10 EIGENVECTOR CENTRALITY (connected to the connected)
+----------------------------------------
+   1. Rich Kahn                    centrality=0.5701
+   2. Leslie Groff                 centrality=0.5421
+   3. Darren Indyke                centrality=0.4864
+   4. Larry Visoski                centrality=0.3158
+   5. Leon Black                   centrality=0.1180
+   6. George Mitchell              centrality=0.1058
+   7. Ghislaine Maxwell            centrality=0.0849
+   8. Ehud Barak                   centrality=0.0557
+   9. Jes Staley                   centrality=0.0485
+  10. David Rodgers                centrality=0.0479
+
+COMMUNITIES DETECTED: 5
+----------------------------------------
+  Community 0: Alan Dershowitz, Bill Clinton, David Copperfield, Emmy Taylor, Ghislaine Maxwell, Glen Dubin, Harvey Weinstein, Les Wexner, Prince Andrew, Sarah Kellen
+  Community 1: Darren Indyke, David Rodgers, George Mitchell, Larry Visoski, Leon Black, Leslie Groff, Rich Kahn
+  Community 2: David Blaine, Ehud Barak, Jes Staley
+  Community 3: Section B — Unknown
+  Community 4: Section A — Unknown
+
+TOP 10 CO-OCCURRENCE (shared corpus pages)
+----------------------------------------
+  Darren Indyke ↔ Rich Kahn: 8,607 pages
+  Leslie Groff ↔ Rich Kahn: 7,835 pages
+  Leslie Groff ↔ Darren Indyke: 5,228 pages
+  Leslie Groff ↔ Larry Visoski: 4,761 pages
+  Larry Visoski ↔ Rich Kahn: 3,507 pages
+  Leslie Groff ↔ Leon Black: 2,793 pages
+  Leslie Groff ↔ George Mitchell: 2,021 pages
+  Prince Andrew ↔ Ghislaine Maxwell: 1,714 pages
+  Ghislaine Maxwell ↔ Alan Dershowitz: 1,670 pages
+  Darren Indyke ↔ Larry Visoski: 1,529 pages
+
+TOP 5 GHOST CONNECTIONS (should exist but don't)
+----------------------------------------
+  David Blaine ↔ David Rodgers: 17 mutual neighbors, no direct edge
+  David Copperfield ↔ Ehud Barak: 17 mutual neighbors, no direct edge
+  Darren Indyke ↔ Emmy Taylor: 10 mutual neighbors, no direct edge
+  Emmy Taylor ↔ Leslie Groff: 10 mutual neighbors, no direct edge
+  Emmy Taylor ↔ Leon Black: 10 mutual neighbors, no direct edge
+
+WALL PROXIMITY
+----------------------------------------
+  Section D content excised: 2 connected persons
+  Section A identity excised: 2 connected persons
+  Proffer content protected: 3 connected persons
+  18 excised pages: 3 connected persons
+  AUSA names redacted: 1 connected persons
+  71 redacted profferors: 2 connected persons
+  Offshore accounts not discussed: 2 connected persons

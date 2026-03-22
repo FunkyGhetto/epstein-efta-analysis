@@ -1,0 +1,324 @@
+{
+  "graph_stats": {
+    "nodes": 46,
+    "edges": 211,
+    "person_nodes": 22,
+    "entity_nodes": 12,
+    "event_nodes": 6,
+    "wall_nodes": 7
+  },
+  "betweenness_centrality": [
+    {
+      "person": "David Copperfield",
+      "centrality": 0.477
+    },
+    {
+      "person": "David Blaine",
+      "centrality": 0.2571
+    },
+    {
+      "person": "Leon Black",
+      "centrality": 0.2444
+    },
+    {
+      "person": "Emmy Taylor",
+      "centrality": 0.1619
+    },
+    {
+      "person": "David Rodgers",
+      "centrality": 0.1429
+    },
+    {
+      "person": "Sarah Kellen",
+      "centrality": 0.1246
+    },
+    {
+      "person": "Harvey Weinstein",
+      "centrality": 0.0429
+    },
+    {
+      "person": "Larry Visoski",
+      "centrality": 0.0095
+    },
+    {
+      "person": "Ehud Barak",
+      "centrality": 0.0
+    },
+    {
+      "person": "Ghislaine Maxwell",
+      "centrality": 0.0
+    },
+    {
+      "person": "Section B \u2014 Unknown",
+      "centrality": 0.0
+    },
+    {
+      "person": "Glen Dubin",
+      "centrality": 0.0
+    },
+    {
+      "person": "Darren Indyke",
+      "centrality": 0.0
+    },
+    {
+      "person": "Section A \u2014 Unknown",
+      "centrality": 0.0
+    },
+    {
+      "person": "George Mitchell",
+      "centrality": 0.0
+    }
+  ],
+  "eigenvector_centrality": [
+    {
+      "person": "Rich Kahn",
+      "centrality": 0.5701
+    },
+    {
+      "person": "Leslie Groff",
+      "centrality": 0.5421
+    },
+    {
+      "person": "Darren Indyke",
+      "centrality": 0.4864
+    },
+    {
+      "person": "Larry Visoski",
+      "centrality": 0.3158
+    },
+    {
+      "person": "Leon Black",
+      "centrality": 0.118
+    },
+    {
+      "person": "George Mitchell",
+      "centrality": 0.1058
+    },
+    {
+      "person": "Ghislaine Maxwell",
+      "centrality": 0.0849
+    },
+    {
+      "person": "Ehud Barak",
+      "centrality": 0.0557
+    },
+    {
+      "person": "Jes Staley",
+      "centrality": 0.0485
+    },
+    {
+      "person": "David Rodgers",
+      "centrality": 0.0479
+    },
+    {
+      "person": "Glen Dubin",
+      "centrality": 0.0452
+    },
+    {
+      "person": "Alan Dershowitz",
+      "centrality": 0.0281
+    },
+    {
+      "person": "Bill Clinton",
+      "centrality": 0.0251
+    },
+    {
+      "person": "Les Wexner",
+      "centrality": 0.0196
+    },
+    {
+      "person": "David Blaine",
+      "centrality": 0.0194
+    }
+  ],
+  "communities": [
+    {
+      "id": 0,
+      "members": [
+        "Alan Dershowitz",
+        "Bill Clinton",
+        "David Copperfield",
+        "Emmy Taylor",
+        "Ghislaine Maxwell",
+        "Glen Dubin",
+        "Harvey Weinstein",
+        "Les Wexner",
+        "Prince Andrew",
+        "Sarah Kellen"
+      ]
+    },
+    {
+      "id": 1,
+      "members": [
+        "Darren Indyke",
+        "David Rodgers",
+        "George Mitchell",
+        "Larry Visoski",
+        "Leon Black",
+        "Leslie Groff",
+        "Rich Kahn"
+      ]
+    },
+    {
+      "id": 2,
+      "members": [
+        "David Blaine",
+        "Ehud Barak",
+        "Jes Staley"
+      ]
+    },
+    {
+      "id": 3,
+      "members": [
+        "Section B \u2014 Unknown"
+      ]
+    },
+    {
+      "id": 4,
+      "members": [
+        "Section A \u2014 Unknown"
+      ]
+    }
+  ],
+  "top_cooccurrence": [
+    {
+      "pair": "Darren Indyke \u2194 Rich Kahn",
+      "shared_pages": 8607
+    },
+    {
+      "pair": "Leslie Groff \u2194 Rich Kahn",
+      "shared_pages": 7835
+    },
+    {
+      "pair": "Leslie Groff \u2194 Darren Indyke",
+      "shared_pages": 5228
+    },
+    {
+      "pair": "Leslie Groff \u2194 Larry Visoski",
+      "shared_pages": 4761
+    },
+    {
+      "pair": "Larry Visoski \u2194 Rich Kahn",
+      "shared_pages": 3507
+    },
+    {
+      "pair": "Leslie Groff \u2194 Leon Black",
+      "shared_pages": 2793
+    },
+    {
+      "pair": "Leslie Groff \u2194 George Mitchell",
+      "shared_pages": 2021
+    },
+    {
+      "pair": "Prince Andrew \u2194 Ghislaine Maxwell",
+      "shared_pages": 1714
+    },
+    {
+      "pair": "Ghislaine Maxwell \u2194 Alan Dershowitz",
+      "shared_pages": 1670
+    },
+    {
+      "pair": "Darren Indyke \u2194 Larry Visoski",
+      "shared_pages": 1529
+    },
+    {
+      "pair": "Ghislaine Maxwell \u2194 Bill Clinton",
+      "shared_pages": 1252
+    },
+    {
+      "pair": "Leslie Groff \u2194 Ehud Barak",
+      "shared_pages": 1248
+    },
+    {
+      "pair": "Leslie Groff \u2194 Jes Staley",
+      "shared_pages": 1186
+    },
+    {
+      "pair": "Larry Visoski \u2194 David Rodgers",
+      "shared_pages": 1160
+    },
+    {
+      "pair": "George Mitchell \u2194 Rich Kahn",
+      "shared_pages": 978
+    }
+  ],
+  "ghost_connections": [
+    {
+      "pair": "David Blaine \u2194 David Rodgers",
+      "mutual_neighbors": 17
+    },
+    {
+      "pair": "David Copperfield \u2194 Ehud Barak",
+      "mutual_neighbors": 17
+    },
+    {
+      "pair": "Darren Indyke \u2194 Emmy Taylor",
+      "mutual_neighbors": 10
+    },
+    {
+      "pair": "Emmy Taylor \u2194 Leslie Groff",
+      "mutual_neighbors": 10
+    },
+    {
+      "pair": "Emmy Taylor \u2194 Leon Black",
+      "mutual_neighbors": 10
+    },
+    {
+      "pair": "Emmy Taylor \u2194 Jes Staley",
+      "mutual_neighbors": 10
+    },
+    {
+      "pair": "Emmy Taylor \u2194 Harvey Weinstein",
+      "mutual_neighbors": 10
+    },
+    {
+      "pair": "Emmy Taylor \u2194 George Mitchell",
+      "mutual_neighbors": 10
+    },
+    {
+      "pair": "Emmy Taylor \u2194 Rich Kahn",
+      "mutual_neighbors": 10
+    },
+    {
+      "pair": "David Blaine \u2194 Emmy Taylor",
+      "mutual_neighbors": 9
+    }
+  ],
+  "wall_proximity": [
+    {
+      "wall": "Section D content excised",
+      "edges_to_person": 2,
+      "nearest_distance": 1
+    },
+    {
+      "wall": "Section A identity excised",
+      "edges_to_person": 2,
+      "nearest_distance": 1
+    },
+    {
+      "wall": "Proffer content protected",
+      "edges_to_person": 3,
+      "nearest_distance": 1
+    },
+    {
+      "wall": "18 excised pages",
+      "edges_to_person": 3,
+      "nearest_distance": 1
+    },
+    {
+      "wall": "AUSA names redacted",
+      "edges_to_person": 1,
+      "nearest_distance": Infinity
+    },
+    {
+      "wall": "71 redacted profferors",
+      "edges_to_person": 2,
+      "nearest_distance": Infinity
+    },
+    {
+      "wall": "Offshore accounts not discussed",
+      "edges_to_person": 2,
+      "nearest_distance": Infinity
+    }
+  ]
+}
