@@ -52,6 +52,25 @@ Findings from SDNY prosecution memoranda, independently verified against origina
 
 ---
 
+## Current Status
+
+This project has been cross-referenced against the full 2.89M-page EFTA corpus and [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) (165+ reports). 56/56 EFTA citations verified against independent corpus with zero errors.
+
+**Genuinely new findings (not found in any other EFTA project):**
+- SDNY found no evidence of client accounts (EFTA02731148) — see financial deconstruction
+- Four Groff scheduling emails from the corpus showing active massage recruitment (EFTA01940212, EFTA01941335, EFTA02043921, EFTA02206177)
+- Two uncovered victim interviews not cited by any other project (EFTA02731115, EFTA02731117)
+- Bill Clinton Africa trip page not cited elsewhere (EFTA02731110)
+- Groff Section D (EFTA02731167) confirmed missing from the EFTA release itself — not an OCR error
+- Off-by-one OCR marker methodology applicable to all EFTA OCR work
+
+**Confirmed covered by rhowardstone (not duplicated):**
+- SDNY-DANY Leon Black correspondence, Copperfield, Dechert LLP, Wigdor, Horowitz
+
+**Open leads:** 544 identified, 53 high priority. Lead data in `tools/analysis_outputs/data/leads.json`.
+
+---
+
 ## Documents
 
 | File | Description |
