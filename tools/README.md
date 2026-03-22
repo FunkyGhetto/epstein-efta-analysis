@@ -38,6 +38,36 @@ Extracts text from every page of a PDF independently (not from OCR files) and se
 
 Checks every EFTA number cited in the repo against actual PDF text. The sign-off script that confirmed all 16 key citations are correct. Output: 16/16 verified, 0 failures.
 
+## Entity Network (`entity_network/`)
+
+SpaCy-based named entity extraction across all 18 OCR files.
+
+**`extract.py`** processes ~6.8 MB of OCR text with the `en_core_web_lg` model and applies 6 noise filters:
+
+1. **EFTA proximity** — only counts names within 1,000 characters of an EFTA page marker, eliminating seized textbooks, typing manuals, and other non-document content
+2. **OCR artifact removal** — discards fragments like "ia", "iz", "stein" that SpaCy misidentifies as person names
+3. **Header/footer removal** — discards text that repeats identically more than 20 times across files
+4. **Legal citation removal** — excludes names appearing after "v." (case citations like *United States v. Vargas-Cordon*)
+5. **Alias deduplication** — merges name variants (e.g. "Maxwell", "MAXWELL", "A. Maxwell's" → "Ghislaine Maxwell") with auto-merge for short names that co-occur on 60%+ of pages with a full name
+6. **Single-occurrence removal** — names appearing only once are treated as noise
+
+**Output** (in `data/`):
+- `entities.json` — 356 unique names with every occurrence, EFTA page, and context
+- `cooccurrence.json` — 809 name pairs that share EFTA pages, with page lists
+- `flagged.json` — 65 names ranked by proximity to keywords: massage, minor, sexual, abuse, recruit, payment, rape
+
+**`viewer.py`** is a native desktop app (pywebview) for browsing the results — searchable name list, connections panel, keyword flags, dossier export.
+
+**Requirements:**
+- Python 3 with: `spacy`, `pywebview`
+- SpaCy model: `python3 -m spacy download en_core_web_lg`
+- Local OCR files in `ocr/` (included in this repo)
+
+**Run extraction:** `python3 tools/entity_network/extract.py`
+**Run viewer:** `python3 tools/entity_network/viewer.py`
+
+The JSON data files are committed in `data/` so the results can be examined without running the extraction.
+
 ## Why these tools are included
 
 These tools are not meant to work out of the box. They are included in the repo to document the verification process. Every EFTA number in the analysis was checked against the original PDF pages using these scripts — not just trusted from OCR output.

@@ -57,6 +57,12 @@ This shows the content of page EFTA02731114 (the marker before the page's text i
 
 No need to download 4,251 PDFs or run OCR yourself.
 
+## Entity Network
+
+A SpaCy-based named entity extraction tool identified 356 unique person names across the OCR files, with 809 co-occurrence pairs (names appearing on the same EFTA page) and 65 names flagged by proximity to keywords like "massage", "minor", "sexual", "abuse", "recruit", "payment", and "rape".
+
+The entity network confirms the manual analysis findings — Maxwell↔Epstein is the strongest connection (141 shared pages), followed by Epstein↔Black (47 pages) and Epstein↔Groff (26 pages). The tool and filtered JSON data are in `tools/entity_network/`.
+
 ## Method
 
 **Phase 1 — OCR:** Adrian processed 4,251 PDF files with Tesseract 4.1.1 (200 DPI, English). Output: ~6.8 MB cleaned text, 18 files.

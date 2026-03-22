@@ -22,7 +22,10 @@ DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def load_json(name):
+    # Check root dir first, then data/ subfolder
     path = os.path.join(DATA_DIR, name)
+    if not os.path.exists(path):
+        path = os.path.join(DATA_DIR, "data", name)
     if not os.path.exists(path):
         return {}
     with open(path) as f:
