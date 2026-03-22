@@ -28,7 +28,7 @@ Findings from SDNY prosecution memoranda, independently verified against origina
 
 - **No cameras in bedrooms** — The memo explicitly states searches "did not reveal any cameras in any of the bedrooms or massage rooms." The blackmail narrative is not supported by the physical evidence found during the 2019 searches. Source: EFTA02731148. *(Independently confirmed from a different source: FBI CID summary EFTA00038617.)*
 
-- **No client accounts** — "We have not identified any accounts that are consistent with Epstein handling or investing other people's money." The hedge fund manager myth is disproven in SDNY's own words. Source: EFTA02731148. **(Not found in any other EFTA analysis project. Appears to be a genuinely new finding.)**
+- **No client accounts** — "We have not identified any accounts that are consistent with Epstein handling or investing other people's money." The hedge fund manager myth is disproven in SDNY's own words. Source: EFTA02731148. **(Not found in any other EFTA analysis project. Appears to be a genuinely new finding.)** See `analysis/epstein-financial-deconstruction-english.md` for the full analysis connecting this finding to the Wexner proffer, Deutsche Bank review, and the absence of cameras.
 
 - **Darren Indyke** (Epstein's attorney) told a witness not to talk to police (EFTA02731123) and brought computers into prison for Epstein to have video sex (EFTA02731127). *(Independently confirmed; rhowardstone includes a congressional witness brief on Indyke.)*
 
@@ -46,6 +46,8 @@ Findings from SDNY prosecution memoranda, independently verified against origina
 | `analysis/epstein-findings-english.md` | Detailed findings report (~4,500 words). Full EFTA sourcing, redaction analysis, identity reconstruction. |
 | `analysis/epstein-v4-norwegian.md` | Norwegian original of v4. |
 | `analysis/epstein-findings-norwegian.md` | Norwegian original of the findings report. |
+| `analysis/epstein-financial-deconstruction-english.md` | Financial deconstruction: no client accounts, Wexner proffer, Deutsche Bank review. Every claim sourced to specific EFTA pages. |
+| `analysis/epstein-financial-deconstruction-norwegian.md` | Norwegian version of the financial deconstruction. |
 
 ## Source Data
 
