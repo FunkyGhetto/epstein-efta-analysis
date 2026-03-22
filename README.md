@@ -16,25 +16,25 @@ The prosecution memos in VOL00012 — marked "Attorney Work Product" and "Subjec
 
 ## What This Found
 
-Findings from SDNY prosecution memoranda that have not appeared in mainstream media coverage:
+Findings from SDNY prosecution memoranda, independently verified against original PDF pages. Most of these findings have also been documented by the comprehensive [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) project (165+ reports, 1,614-person registry). What this repo adds is page-level PDF verification of every citation and a reproducible method accessible to non-technical users. One finding — the absence of client accounts — appears to be genuinely new.
 
-- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731139. Previously named in Giuffre civil claims, but this is a separate victim's testimony in SDNY's own prosecution files — a second, independent account. No law enforcement action has followed despite SDNY having this testimony.
+- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731139. Previously named in Giuffre civil claims, but this is a separate victim's testimony in SDNY's own prosecution files — a second, independent account. No law enforcement action has followed despite SDNY having this testimony. *(Independently confirmed by rhowardstone/Epstein-research from the same source document.)*
 
-- **Harvey Weinstein** — Epstein instructed a victim to massage Weinstein at the Paris residence. Weinstein ordered her to remove her shirt. She refused. Source: EFTA02731096. Not previously reported from primary EFTA documents.
+- **Harvey Weinstein** — Epstein instructed a victim to massage Weinstein at the Paris residence. Weinstein ordered her to remove her shirt. She refused. Source: EFTA02731096. Not previously reported from primary EFTA documents. *(Independently confirmed.)*
 
-- **Leon Black** — Subject of an active federal human trafficking referral in June 2023 (EFTA02731477), with an identified minor victim. This goes beyond the civil lawsuits that have been publicly reported.
+- **Leon Black** — Subject of an active federal human trafficking referral in June 2023 (EFTA02731477), with an identified minor victim. This goes beyond the civil lawsuits that have been publicly reported. *(Independently confirmed; their project includes additional DANY interview data.)*
 
-- **"Cooperating Defendants: None"** — SDNY's memo (EFTA02731053) explicitly states they had zero cooperating defendants and planned to use Epstein's indictment as leverage. His death eliminated this strategy. This is the structural explanation for why no co-conspirators were indicted.
+- **"Cooperating Defendants: None"** — SDNY's memo (EFTA02731053) explicitly states they had zero cooperating defendants and planned to use Epstein's indictment as leverage. His death eliminated this strategy. This is the structural explanation for why no co-conspirators were indicted. *(Independently confirmed from a different source document.)*
 
-- **No cameras in bedrooms** — The memo explicitly states searches "did not reveal any cameras in any of the bedrooms or massage rooms." The blackmail narrative is not supported by the physical evidence found during the 2019 searches. Source: EFTA02731148.
+- **No cameras in bedrooms** — The memo explicitly states searches "did not reveal any cameras in any of the bedrooms or massage rooms." The blackmail narrative is not supported by the physical evidence found during the 2019 searches. Source: EFTA02731148. *(Independently confirmed from a different source: FBI CID summary EFTA00038617.)*
 
-- **No client accounts** — "We have not identified any accounts that are consistent with Epstein handling or investing other people's money." The hedge fund manager myth is disproven in SDNY's own words. Source: EFTA02731148.
+- **No client accounts** — "We have not identified any accounts that are consistent with Epstein handling or investing other people's money." The hedge fund manager myth is disproven in SDNY's own words. Source: EFTA02731148. **(Not found in any other EFTA analysis project. Appears to be a genuinely new finding.)**
 
-- **Darren Indyke** (Epstein's attorney) told a witness not to talk to police (EFTA02731123) and brought computers into prison for Epstein to have video sex (EFTA02731127).
+- **Darren Indyke** (Epstein's attorney) told a witness not to talk to police (EFTA02731123) and brought computers into prison for Epstein to have video sex (EFTA02731127). *(Independently confirmed; rhowardstone includes a congressional witness brief on Indyke.)*
 
-- **David Blaine** introduced a victim to Epstein at a NYC nightclub. Source: EFTA02731111.
+- **David Blaine** introduced a victim to Epstein at a NYC nightclub. Source: EFTA02731111. *(Listed in their registry but with minimal analysis. Our SDNY memo context adds detail.)*
 
-- **Leslie Groff** was still actively recruiting in December 2018, six months before Epstein's arrest, and was never indicted despite being named throughout the prosecution memo. Source: EFTA02731133.
+- **Leslie Groff** was still actively recruiting in December 2018, six months before Epstein's arrest, and was never indicted despite being named throughout the prosecution memo. Source: EFTA02731133. *(Partially confirmed; their focus is different. The $250K wire context appears new.)*
 
 ---
 
@@ -85,6 +85,18 @@ Two tools were built during this analysis and are included in `tools/`. Neither 
 4. Decide for yourself
 
 If you find an error, open an issue. If you find something missed, open a pull request.
+
+## Related Work
+
+This analysis exists alongside significantly larger projects analyzing the same documents:
+
+- **[rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research)** — 165+ forensic reports, 1,614-person entity registry, 273 pseudonym identifications, congressional witness briefs. The most comprehensive EFTA analysis available. Most of our findings are independently confirmed there.
+- **[rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data)** — Companion data repo: persons registry, knowledge graph, phone number enrichment, DOJ document removal audit.
+
+What this repo contributes that the above do not:
+1. **"No client accounts"** — The finding that SDNY found no evidence of Epstein handling other people's money (EFTA02731148) does not appear in any of the above projects.
+2. **Page-level PDF verification** — Every EFTA citation was verified by rendering the original PDF page and comparing it to OCR text. The off-by-one OCR marker issue was discovered and corrected during this process.
+3. **Accessible method** — OCR + AI-directed search + visual verification, documented end-to-end, reproducible by anyone with Tesseract and a chat interface.
 
 ## Author
 

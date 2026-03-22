@@ -6,6 +6,8 @@
 
 *Note: References to "v3" refer to an earlier version of this analysis that was produced before the systematic OCR text search. The v3 analysis was based on manual reading and 814-source cross-referencing. This document (v4) includes findings from systematic text analysis that v3 missed.*
 
+*Note: After publication, we discovered that [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) had independently documented most of these findings across 165+ reports. The findings below have been cross-referenced and marked where independently confirmed. The "no client accounts" finding and the page-level PDF verification methodology appear to be unique contributions of this project.*
+
 ---
 
 ## About This Version

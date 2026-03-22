@@ -6,6 +6,8 @@
 
 *Merknad: Referanser til «v3» viser til en tidligere versjon av denne analysen som ble produsert før det systematiske OCR-tekstsøket. V3-analysen var basert på manuell lesning og kryssreferering mot 814 kilder. Dette dokumentet (v4) inkluderer funn fra systematisk tekstanalyse som v3 ikke fanget opp.*
 
+*Merknad: Etter publisering oppdaget vi at [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) uavhengig hadde dokumentert de fleste av disse funnene i 165+ rapporter. Funnene nedenfor er kryssreferert og merket der de er uavhengig bekreftet. Funnet om «no client accounts» og metoden med sidenivå PDF-verifisering ser ut til å være unike bidrag fra dette prosjektet.*
+
 ---
 
 ## Om denne versjonen
