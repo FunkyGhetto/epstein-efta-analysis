@@ -13,7 +13,7 @@ Alle funn er fra offentlig frigitte dokumenter under Epstein Files Transparency 
 1. **"Utlåns"-systemet var langt større enn v3 beskriver** — ett offer ble "lent out so many times that she began using drugs" og kan ikke estimere antallet. Glen Dubin, Harvey Weinstein, Leon Black, Jes Staley, Prince Andrew og Alan Dershowitz er alle navngitt i samme påtalememo.
 2. **Leon Black var gjenstand for aktiv føderal menneskehandelsetterforskning i 2023** — ikke bare sivile søksmål.
 3. **Harvey Weinstein er direkte koblet til Epsteins offernettverk** — et funn som ikke finnes i v3.
-4. **Glen og Eva Dubin er navngitt** — Maxwell instruerte eksplisitt et offer om å ha sex med Glen Dubin.
+4. **Glen og Eva Dubin — annen uavhengig kilde** — Et separat offer (ikke Giuffre) vitner i SDNYs egne filer om at Maxwell instruerte henne om å ha sex med Glen Dubin.
 5. **SDNY hadde null samarbeidende medtiltalte** da Epstein døde — hele strategien med å bruke tiltalen som brekkstang mot medskyldige ble eliminert.
 6. **Acosta benekter intelligence-koblingen under ed** — direkte og utvetydig.
 7. **Victoria's Secret ble brukt som rekrutteringsverktøy** overfor minst tre separate ofre.
@@ -30,7 +30,7 @@ Maxwell og Epstein vekslet på å instruere offeret om å ha seksuelle tjenester
 
 Navngitte menn i memoet, fra dette ene offeret:
 
-**Glen og Eva Dubin** — Maxwell instruerte offeret eksplisitt om å massere Glen Dubin og "do to Glen what she did for Epstein," som offeret forstod som å utføre seksuelle handlinger. Glen Dubin er milliardær hedgefondforvalter. **Ikke nevnt i v3.**
+**Glen og Eva Dubin** — Maxwell instruerte offeret eksplisitt om å massere Glen Dubin og "do to Glen what she did for Epstein," som offeret forstod som å utføre seksuelle handlinger. Glen Dubin er milliardær hedgefondforvalter. Tidligere navngitt i Giuffres sivile søksmål, men dette er et separat offers vitnemål i SDNYs egne påtalefiler — en annen, uavhengig kilde. Memoet selv bemerker: «No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men.» Ingen rettshåndhevelse har fulgt til tross for at SDNY hadde dette vitnemålet.
 
 **Prince Andrew** — Maxwell sa til offeret at hun skulle møte en prins og "make him happy and do the exact same things for him that she did for Epstein because the prince was a good friend of Maxwell's."
 

@@ -50,7 +50,7 @@ v3 beskrev dette fragmentarisk. SDNYs påtalememo gir et sammenhengende bilde so
 
 **Bekreftet:** Ett offer beskriver at hun ble «lent out so many times that she began using drugs» og «cannot estimate how many times.» Maxwell og Epstein vekslet på å instruere henne. Hun ble aldri betalt av de andre mennene. Følgende er navngitt i ett enkelt SDNY-memo:
 
-**Glen og Eva Dubin** — Maxwell instruerte offeret eksplisitt om å massere Glen Dubin og «do to Glen what she did for Epstein,» som offeret forstod som å utføre seksuelle handlinger. Glen Dubin er milliardær hedgefondforvalter. *Ikke omtalt i v3 eller i hovedstrøms mediedekning.*
+**Glen og Eva Dubin** — Maxwell instruerte offeret eksplisitt om å massere Glen Dubin og «do to Glen what she did for Epstein,» som offeret forstod som å utføre seksuelle handlinger. Glen Dubin er milliardær hedgefondforvalter. Tidligere navngitt i Giuffres sivile søksmål, men dette er et separat offers vitnemål i SDNYs egne påtalefiler — en annen, uavhengig kilde. Memoet selv bemerker: «No other victim has described being expressly directed by either Maxwell or Epstein to engage in sexual activity with any other men.» Ingen rettshåndhevelse har fulgt til tross for at SDNY hadde dette vitnemålet.
 
 **Prince Andrew** — Maxwell sa til offeret at hun skulle møte en prins og «make him happy and do the exact same things for him that she did for Epstein because the prince was a good friend of Maxwell's.» SDNY noterte at de forsøkte å skaffe kontaktinformasjon for Prinsen, som ga «zero cooperation.»
 
@@ -171,7 +171,7 @@ Fra v3, oppdatert med v4-funn:
 
 6. **Hvorfor ble Leslie Groff aldri tiltalt?** Memoet dokumenterer hennes rolle detaljert, og hun var aktiv til desember 2018.
 
-7. **Hvorfor ble Glen Dubin aldri etterforsket?** Han er eksplisitt navngitt i et SDNY-memo med direkte offervitnemål.
+7. **Hvorfor har ingen rettshåndhevelse fulgt opp Glen Dubin?** Han er navngitt av et annet, uavhengig offer i SDNYs eget påtalememo — separat fra Giuffres sivile krav.
 
 8. **Hva skjedde med Darren Indykes potensielle obstruksjonsansvar?** Han instruerte vitner om å ikke snakke med politiet og tilrettela for seksuell aktivitet i fengsel.
 
