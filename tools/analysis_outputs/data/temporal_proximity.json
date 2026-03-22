@@ -1,0 +1,1624 @@
+{
+  "total_dates_extracted": 72,
+  "specific_dates": 33,
+  "temporal_matches": 150,
+  "significant_matches": 55,
+  "dates": [
+    {
+      "date": "2019/02/21",
+      "type": "interview_date",
+      "context": "\"! On February 21, 2019, following litigation initiated in 2008 by certain of the Victims, a court in the Southern District of Florida found that the SDFL violated the Crime Victims\u2019 Rights Act in",
+      "efta_page": "02731054",
+      "file": "epstein_ren16.txt",
+      "line": 4392
+    },
+    {
+      "date": "2019/07/02",
+      "type": "interview_date",
+      "context": "On July 2, 2019, a federal grand jury in the Southern District of New York retumed an indictment (the \u201cIndictment\u201d) charging Jeffrey Epstein with one count of sex trafficking of minors,",
+      "efta_page": "02731070",
+      "file": "epstein_ren16.txt",
+      "line": 4730
+    },
+    {
+      "date": "2019/07/02",
+      "type": "interview_date",
+      "context": "On July 2, 2019, a federal grand jury in the Souther District of New York returned a sealed indictment (the \u201cIndictment\u201d) charging Jeffrey Epstein with one count of sex trafficking",
+      "efta_page": "02731082",
+      "file": "epstein_ren16.txt",
+      "line": 4929
+    },
+    {
+      "date": "2019/08/27",
+      "type": "interview_date",
+      "context": "On August 27, 2019, we met with\u2019 in New York",
+      "efta_page": "02731087",
+      "file": "epstein_ren16.txt",
+      "line": 5240
+    },
+    {
+      "date": "2019/08/27",
+      "type": "interview_date",
+      "context": "On August 27, 2019, we met with\u2019 in New York",
+      "efta_page": "02731088",
+      "file": "epstein_ren16.txt",
+      "line": 5307
+    },
+    {
+      "date": "2019/09/28",
+      "type": "interview_date",
+      "context": "a On September 28, 2019, i was interviewed in New York. || explained",
+      "efta_page": "02731092",
+      "file": "epstein_ren16.txt",
+      "line": 5659
+    },
+    {
+      "date": "2019/09/10",
+      "type": "interview_date",
+      "context": "On September 10, 2019, we met",
+      "efta_page": "02731098",
+      "file": "epstein_ren16.txt",
+      "line": 6101
+    },
+    {
+      "date": "2019/11/04",
+      "type": "interview_date",
+      "context": "On November 4, 2019, we interviewed i in In or around . when was approximately 16 years old, a friend of hers named asked if",
+      "efta_page": "02731098",
+      "file": "epstein_ren16.txt",
+      "line": 6105
+    },
+    {
+      "date": "2019/09/18",
+      "type": "interview_date",
+      "context": "On September 18, 2019 || was interviewed in When fi was either 16 or 17 years old, fa friend of hers named f wold she",
+      "efta_page": "02731102",
+      "file": "epstein_ren16.txt",
+      "line": 6391
+    },
+    {
+      "date": "2019/10/15",
+      "type": "interview_date",
+      "context": "On October 15, 2019, i was interviewed in| when was approximately 16 years old and living in Palm Beach, her friend",
+      "efta_page": "02731103",
+      "file": "epstein_ren16.txt",
+      "line": 6430
+    },
+    {
+      "date": "2019/10/16",
+      "type": "interview_date",
+      "context": "On October 16, 2019, i was interviewed in When was about 15 or 16 years old and living in Florida, a girl from her high school named",
+      "efta_page": "02731103",
+      "file": "epstein_ren16.txt",
+      "line": 6469
+    },
+    {
+      "date": "2019/10/16",
+      "type": "interview_date",
+      "context": "On October 16, 2019, was interviewed in When was about 15 years old , her friends and",
+      "efta_page": "unknown",
+      "file": "epstein_ren16.txt",
+      "line": 6503
+    },
+    {
+      "date": "2019/09/18",
+      "type": "interview_date",
+      "context": "On September 18, 2019, a was re-interviewed addition to confirming the information she provided during her prior inte",
+      "efta_page": "02731107",
+      "file": "epstein_ren16.txt",
+      "line": 6816
+    },
+    {
+      "date": "2019/09/18",
+      "type": "interview_date",
+      "context": "| On September 18, 2019, was interviewed in m When was",
+      "efta_page": "02731109",
+      "file": "epstein_ren16.txt",
+      "line": 6977
+    },
+    {
+      "date": "2019/09/18",
+      "type": "interview_date",
+      "context": "On September 18, 2019. i was interviewed mm | reported being sexually abused by Epstein as an adult. When was about 18 years old in or around",
+      "efta_page": "02731111",
+      "file": "epstein_ren16.txt",
+      "line": 7116
+    },
+    {
+      "date": "2019/10/24",
+      "type": "interview_date",
+      "context": "\u2018 On October 24, 2019, i was interviewed in New York. ml reported",
+      "efta_page": "02731112",
+      "file": "epstein_ren16.txt",
+      "line": 7230
+    },
+    {
+      "date": "2019/08/26",
+      "type": "interview_date",
+      "context": "On August 26, 2019, i was interviewed in New York. | | reported being sexually abused by Epstein as an adult. When was 19 years old in",
+      "efta_page": "02731114",
+      "file": "epstein_ren16.txt",
+      "line": 7400
+    },
+    {
+      "date": "2019/08/28",
+      "type": "interview_date",
+      "context": "On August 28, 2019. | | was interviewed in New York. reported being sexually abused by Epstein n adult. In approximately [i when was about 22 years",
+      "efta_page": "02731114",
+      "file": "epstein_ren16.txt",
+      "line": 7416
+    },
+    {
+      "date": "2019/08/28",
+      "type": "interview_date",
+      "context": ". On August 28, 2019, i was interviewed in New York. |",
+      "efta_page": "02731115",
+      "file": "epstein_ren16.txt",
+      "line": 7464
+    },
+    {
+      "date": "2019/10/23",
+      "type": "interview_date",
+      "context": "On October 23, 2019, i was interviewed in New York. || reported being sexually abused by Epstein as an adult. na when was 27 years old and",
+      "efta_page": "02731116",
+      "file": "epstein_ren16.txt",
+      "line": 7573
+    },
+    {
+      "date": "2019/10/23",
+      "type": "interview_date",
+      "context": "2 On October 23, 2019, || i was interviewed in New York i reported being",
+      "efta_page": "unknown",
+      "file": "epstein_ren16.txt",
+      "line": 7592
+    },
+    {
+      "date": "2019/10/23",
+      "type": "interview_date",
+      "context": "On October 23, 2019, i was interviewed in New York",
+      "efta_page": "02731117",
+      "file": "epstein_ren16.txt",
+      "line": 7605
+    },
+    {
+      "date": "2019/09/10",
+      "type": "interview_date",
+      "context": "On September 10, 2019, we met in with a and her attorney for a",
+      "efta_page": "02731122",
+      "file": "epstein_ren16.txt",
+      "line": 7982
+    },
+    {
+      "date": "2019/10/07",
+      "type": "interview_date",
+      "context": "On October 7, 2019. attomeys provided us with an attorney proffer, during which they explained how met Epstein and how Epstein abused her over several",
+      "efta_page": "02731124",
+      "file": "epstein_ren16.txt",
+      "line": 8110
+    },
+    {
+      "date": "2019/11/26",
+      "type": "interview_date",
+      "context": "On November 26, 2019, we interviewed in New York",
+      "efta_page": "02731130",
+      "file": "epstein_ren16.txt",
+      "line": 8594
+    },
+    {
+      "date": "2019/12/04",
+      "type": "interview_date",
+      "context": "On December 4, 2019, we conducted a second proffer with in New York. This proffer focused on the $250,000 payment she received from Epstein in late 2018 and on the",
+      "efta_page": "02731133",
+      "file": "epstein_ren16.txt",
+      "line": 8773
+    },
+    {
+      "date": "2019/09/09",
+      "type": "interview_date",
+      "context": "On September 9, 2019, we interviewed",
+      "efta_page": "02731136",
+      "file": "epstein_ren16.txt",
+      "line": 8977
+    },
+    {
+      "date": "2019/10/08",
+      "type": "interview_date",
+      "context": "On October 8, 2019, Maxwell's attorneys provided us with an attomey proffer. During the meeting, her attorneys described Maxwell\u2019s background and upbringing. She was bom in",
+      "efta_page": "02731143",
+      "file": "epstein_ren16.txt",
+      "line": 9466
+    },
+    {
+      "date": "2019/07/18",
+      "type": "interview_date",
+      "context": "On July 18, 2019, we gave a reverse proffer to Leslie Groff, during which we explained that numerous victims had indicated that she was responsible for scheduling massages during",
+      "efta_page": "02731146",
+      "file": "epstein_ren16.txt",
+      "line": 9628
+    },
+    {
+      "date": "2019/07/25",
+      "type": "interview_date",
+      "context": "On July 25, 2019, counsel for Wexner provided us with an attorney proffer. Wexner is the billionaire founder and CEO of L Brands (formerly Limited Brands) corporation, which",
+      "efta_page": "02731146",
+      "file": "epstein_ren16.txt",
+      "line": 9648
+    },
+    {
+      "date": "2019/09/12",
+      "type": "interview_date",
+      "context": "On September 12, 2019, we met for several hours with counsel for Deutsche Bank, which held the majority of Epstein\u2019s finances from 2013 through 2019. Their presentation was",
+      "efta_page": "02731148",
+      "file": "epstein_ren16.txt",
+      "line": 9759
+    },
+    {
+      "date": "2021/05/18",
+      "type": "interview_date",
+      "context": "On May 18, 2021 9:35 A, yo",
+      "efta_page": "02731552",
+      "file": "epstein_ren17.txt",
+      "line": 11168
+    },
+    {
+      "date": "2021/05/18",
+      "type": "interview_date",
+      "context": "On May 18, 2021 9:35 A, i:",
+      "efta_page": "02731700",
+      "file": "epstein_ren17.txt",
+      "line": 16646
+    }
+  ],
+  "matches": [
+    {
+      "memo_date": "2019/02/21",
+      "memo_context": "\"! On February 21, 2019, following litigation initiated in 2008 by certain of the Victims, a court i",
+      "memo_efta": "02731054",
+      "corpus_efta": "EFTA01356784",
+      "corpus_page": 0,
+      "corpus_text": "From:  Funda Bozkurt  Sent:  2/27/2019 11:04:41 AM  To:  lan Salters  CC:  Kimberly Hart  Subject:  FW: Combined KYC list and priorities [I]  Attachme",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/02/21",
+      "memo_context": "\"! On February 21, 2019, following litigation initiated in 2008 by certain of the Victims, a court i",
+      "memo_efta": "02731054",
+      "corpus_efta": "EFTA01265180",
+      "corpus_page": 26,
+      "corpus_text": "BankofAmericae-I  P.O. Box 15284  Wilmington. DE 19850  =m.  Your Rewards Savings  for February 21, 2019 to March 21, 2019  Account number:  Customer ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/02/21",
+      "memo_context": "\"! On February 21, 2019, following litigation initiated in 2008 by certain of the Victims, a court i",
+      "memo_efta": "02731054",
+      "corpus_efta": "EFTA01265180",
+      "corpus_page": 27,
+      "corpus_text": "I Account  February 21, 2019 to March 21,2019  IMPORTANT INFORMATION:  BANK DEPOSIT ACCOUNTS  How to Contact Us - You may call us at the telephone num",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/02/21",
+      "memo_context": "\"! On February 21, 2019, following litigation initiated in 2008 by certain of the Victims, a court i",
+      "memo_efta": "02731054",
+      "corpus_efta": "EFTA01265180",
+      "corpus_page": 29,
+      "corpus_text": "I Account,  I February 21, 201940 March 21,2019  This page intentionally left blank  CONFIDENTIAL  SONY_GM_00003669  Page 4 of 4  EFTA_00117745  EFTA0",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/02/21",
+      "memo_context": "\"! On February 21, 2019, following litigation initiated in 2008 by certain of the Victims, a court i",
+      "memo_efta": "02731054",
+      "corpus_efta": "EFTA01268297",
+      "corpus_page": 1,
+      "corpus_text": "Rage 2  of  2)  Southern Financial LLC  6100 Red Hook Quarter, B-3  St Thomas, USVI 00802  February 21, 2019  To: TD Ameritrade  Re: Account  To Whom ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Southern District of New York retumed an indictment (th",
+      "memo_efta": "02731070",
+      "corpus_efta": "EFTA01616541",
+      "corpus_page": 0,
+      "corpus_text": "Subject  Fw: Great St. James  From  Keith Richards  To:  keith richards  Date  Tue, Jul 2 2019 at 3:25 PM  me  From: Jean-Pierre Oriol  Sent: Tuesday,",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Southern District of New York retumed an indictment (th",
+      "memo_efta": "02731070",
+      "corpus_efta": "EFTA01808915",
+      "corpus_page": 0,
+      "corpus_text": "From:  Cashkim Bussue  Sent:  Tuesday, July 2, 2019 3:29 PM  To:  jeevacation@gmail.com;  Subject:  Mr Windy Road Project  Attachments:  IMG_1521.JPG;",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Southern District of New York retumed an indictment (th",
+      "memo_efta": "02731070",
+      "corpus_efta": "EFTA01808978",
+      "corpus_page": 0,
+      "corpus_text": "From:  Lesley Groff  Sent:  Tuesday, July 2, 2019 12:39 AM  To:  Rich Kahn  Cc:  Mike Glidden; Ann Rodriquez; Daphne Wallace; Myla Lacson Trestiza; Je",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Southern District of New York retumed an indictment (th",
+      "memo_efta": "02731070",
+      "corpus_efta": "EFTA01808947",
+      "corpus_page": 0,
+      "corpus_text": "From:  Sent:  To:  Subject:  Attachments:  Cashkim Bussue  Tuesday, July 2, 2019 629 PM  jeevacation@gmail.com,  Staff Cottage Painting  IMG_1624JPG; ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Southern District of New York retumed an indictment (th",
+      "memo_efta": "02731070",
+      "corpus_efta": "EFTA01808954",
+      "corpus_page": 0,
+      "corpus_text": "From:  Sent:  To:  Subject:  Attachments:  Cashkim Bussue <  Tuesday, July 2, 2019 6:28 PM  jeevacation@gmail.com;  GSJ outdoor Chairs  IMG_1614.JPG; ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Souther District of New York returned a sealed indictme",
+      "memo_efta": "02731082",
+      "corpus_efta": "EFTA01616541",
+      "corpus_page": 0,
+      "corpus_text": "Subject  Fw: Great St. James  From  Keith Richards  To:  keith richards  Date  Tue, Jul 2 2019 at 3:25 PM  me  From: Jean-Pierre Oriol  Sent: Tuesday,",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Souther District of New York returned a sealed indictme",
+      "memo_efta": "02731082",
+      "corpus_efta": "EFTA01808915",
+      "corpus_page": 0,
+      "corpus_text": "From:  Cashkim Bussue  Sent:  Tuesday, July 2, 2019 3:29 PM  To:  jeevacation@gmail.com;  Subject:  Mr Windy Road Project  Attachments:  IMG_1521.JPG;",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Souther District of New York returned a sealed indictme",
+      "memo_efta": "02731082",
+      "corpus_efta": "EFTA01808978",
+      "corpus_page": 0,
+      "corpus_text": "From:  Lesley Groff  Sent:  Tuesday, July 2, 2019 12:39 AM  To:  Rich Kahn  Cc:  Mike Glidden; Ann Rodriquez; Daphne Wallace; Myla Lacson Trestiza; Je",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Souther District of New York returned a sealed indictme",
+      "memo_efta": "02731082",
+      "corpus_efta": "EFTA01808947",
+      "corpus_page": 0,
+      "corpus_text": "From:  Sent:  To:  Subject:  Attachments:  Cashkim Bussue  Tuesday, July 2, 2019 629 PM  jeevacation@gmail.com,  Staff Cottage Painting  IMG_1624JPG; ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/02",
+      "memo_context": "On July 2, 2019, a federal grand jury in the Souther District of New York returned a sealed indictme",
+      "memo_efta": "02731082",
+      "corpus_efta": "EFTA01808954",
+      "corpus_page": 0,
+      "corpus_text": "From:  Sent:  To:  Subject:  Attachments:  Cashkim Bussue <  Tuesday, July 2, 2019 6:28 PM  jeevacation@gmail.com;  GSJ outdoor Chairs  IMG_1614.JPG; ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731087",
+      "corpus_efta": "EFTA01660840",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  (NY) (FBI)\"  Cc: alY)  (FBI)\" <  . (NY FBI  Subject: RE: Epstein updates 8/28  Date: Wed, 28 Aug 2019 17:51:53 +0000  Importance: Normal  ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731087",
+      "corpus_efta": "EFTA01265798",
+      "corpus_page": 0,
+      "corpus_text": "MoneyGram,  August 27, 2019  CONFIDENTIAL  SA  Federal Bureau of Investigation  26 Federal Plaza  New York, NY 10278  RE:  Subpoena, Dated 8/16/2019 (",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731087",
+      "corpus_efta": "EFTA01681944",
+      "corpus_page": 5,
+      "corpus_text": "I Messa e---- From:  ) (FBI)  Sent: Tuesday, August 27, 2019 2:31 PM  To:  Subjec :  : is ame  axwe  Can you give me a call when you get a chance, we ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731087",
+      "corpus_efta": "EFTA01649670",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Subject: RE: Weekend counseling for  Date: Tue, 24 Sep 2019 20:59:27 +0000  Importance: Normal  Now is great! I'll give you a call in a se",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731087",
+      "corpus_efta": "EFTA01649580",
+      "corpus_page": 0,
+      "corpus_text": "From: Alex Conlon <I  To: '  (NY) (FBI)\" -I  Subject: RE: Weekend counseling for  Date: Wed, 28 Aug 2019 00:25:50 +0000  Importance: Normal  Thanks so",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731088",
+      "corpus_efta": "EFTA01660840",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  (NY) (FBI)\"  Cc: alY)  (FBI)\" <  . (NY FBI  Subject: RE: Epstein updates 8/28  Date: Wed, 28 Aug 2019 17:51:53 +0000  Importance: Normal  ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731088",
+      "corpus_efta": "EFTA01265798",
+      "corpus_page": 0,
+      "corpus_text": "MoneyGram,  August 27, 2019  CONFIDENTIAL  SA  Federal Bureau of Investigation  26 Federal Plaza  New York, NY 10278  RE:  Subpoena, Dated 8/16/2019 (",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731088",
+      "corpus_efta": "EFTA01681944",
+      "corpus_page": 5,
+      "corpus_text": "I Messa e---- From:  ) (FBI)  Sent: Tuesday, August 27, 2019 2:31 PM  To:  Subjec :  : is ame  axwe  Can you give me a call when you get a chance, we ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731088",
+      "corpus_efta": "EFTA01649670",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Subject: RE: Weekend counseling for  Date: Tue, 24 Sep 2019 20:59:27 +0000  Importance: Normal  Now is great! I'll give you a call in a se",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/27",
+      "memo_context": "On August 27, 2019, we met with\u2019 in New York",
+      "memo_efta": "02731088",
+      "corpus_efta": "EFTA01649580",
+      "corpus_page": 0,
+      "corpus_text": "From: Alex Conlon <I  To: '  (NY) (FBI)\" -I  Subject: RE: Weekend counseling for  Date: Wed, 28 Aug 2019 00:25:50 +0000  Importance: Normal  Thanks so",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/28",
+      "memo_context": "a On September 28, 2019, i was interviewed in New York. || explained",
+      "memo_efta": "02731092",
+      "corpus_efta": "EFTA01649922",
+      "corpus_page": 0,
+      "corpus_text": "From:  To: '   (NY) (FBI)\"  Subject: Fwd: FW: 1996!!!  Date: Mon, 30 Sep 2019 15:21:59 +0000  Importance: Normal  Read below  Forwarded message  From:",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/28",
+      "memo_context": "a On September 28, 2019, i was interviewed in New York. || explained",
+      "memo_efta": "02731092",
+      "corpus_efta": "EFTA01649782",
+      "corpus_page": 1,
+      "corpus_text": "Thanks,  From:  [mailto:  Sent: Saturday, September 28, 2019 2:04 PM  To: EpsteinVictimList  Subject: 1996111  Hello,  I am the Epstein/MaxwelllWexner",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/28",
+      "memo_context": "a On September 28, 2019, i was interviewed in New York. || explained",
+      "memo_efta": "02731092",
+      "corpus_efta": "EFTA01649792",
+      "corpus_page": 1,
+      "corpus_text": "From:  Sent: Saturday, September 28, 2019 2:04 PM  To:  Subject: 1996111  Hello,  I am the Epstein/Maxwell/Wexner victim that reported EVERYTHING in 1",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/28",
+      "memo_context": "a On September 28, 2019, i was interviewed in New York. || explained",
+      "memo_efta": "02731092",
+      "corpus_efta": "EFTA01649766",
+      "corpus_page": 1,
+      "corpus_text": "From: Artistic WhistleBlower [mailto  Sent: Saturday, September 28, 2019 2:04 PM  To: EpsteinVictimList <EpsteinVictimtist@fbi.gov>  Subject: 19961II ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/28",
+      "memo_context": "a On September 28, 2019, i was interviewed in New York. || explained",
+      "memo_efta": "02731092",
+      "corpus_efta": "EFTA01649810",
+      "corpus_page": 1,
+      "corpus_text": "  Forwarded message  From: EpsteinVictimList CpsteinVictitnList@fbi.gov>  Date: Sep 30, 2019 10:46 AM  Subject: FW: 1996!!!  To: \"Jackson, Angela  Cc:",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01649416",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Subject: RE: Epstein Briefing Dates  Date: Tue, 10 Sep 2019 17:24:53 +0000  Importance: Normal  Low side  On Sep 10, 2019 1:22 PM,  wrote:",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01272487",
+      "corpus_page": 366,
+      "corpus_text": "Current Date:  February 26, 2020  First Bank  LSJE LLC  6100 RED HOOK QUARTER 63  ST THOMAS VI  00802  1 First Bank  Virgin islands  Account Number:  ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01272487",
+      "corpus_page": 367,
+      "corpus_text": "Current Date:  February 26, 2020  First Bank  Account Number:  Capture Date:  Item Number:  Posted Date:  Posted Item Number.  Amount:  Record Type:  ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01272487",
+      "corpus_page": 368,
+      "corpus_text": "Current Date:  February 26, 2020  First Bank  LSJE LLC  6100 RED HOOK QUARTER B3  ST THOMAS VI  00802  1 First Bank  Virgin islands  DEPOSIT  CHECKING",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01272487",
+      "corpus_page": 369,
+      "corpus_text": "Current Date:  February 26, 2020  First Bank  Account Number:  Capture Date:  Item Number.  Posted Date:  Posted Item Number.  Amount:  Record Type:  ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/11/04",
+      "memo_context": "On November 4, 2019, we interviewed i in In or around . when was approximately 16 years old, a frien",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01339374",
+      "corpus_page": 606,
+      "corpus_text": "To: Michael Kok  Subject: (Disarmed)Ftel2j: Escrow for N72218  I need the deposit assigned before we can execute the agreement.  Kim Thompson, Escrow ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/11/04",
+      "memo_context": "On November 4, 2019, we interviewed i in In or around . when was approximately 16 years old, a frien",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01339374",
+      "corpus_page": 625,
+      "corpus_text": "Subject  Ref2): Escrow for N7211E From:  'Kim Thompson\" - Sent  11/6/2019 10:12:17 AM  To:  \"Michael Kolich\"  I need the deposit assigned before we ca",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/11/04",
+      "memo_context": "On November 4, 2019, we interviewed i in In or around . when was approximately 16 years old, a frien",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01339374",
+      "corpus_page": 626,
+      "corpus_text": "Subject:  RE: Escrow for N722JE  From:  'Michael Kolich\"\u25a0  Sent:  11/6/2019 9:55:09   To:  \"Kim Thompson\"  Hi Kim,  I was out yesterday. Were you able",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/11/04",
+      "memo_context": "On November 4, 2019, we interviewed i in In or around . when was approximately 16 years old, a frien",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01339374",
+      "corpus_page": 630,
+      "corpus_text": "Subject:  Re: (Disarmed) RE: (Disarmed) Re: Escrow for 747221E  From:  'Kim Thompson'  Sent  11/4/20191109:48 AM  To:  \"Michael Kolich'  Mike,  The de",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/11/04",
+      "memo_context": "On November 4, 2019, we interviewed i in In or around . when was approximately 16 years old, a frien",
+      "memo_efta": "02731098",
+      "corpus_efta": "EFTA01339374",
+      "corpus_page": 661,
+      "corpus_text": "Subject:  {Disarmed' Re (Disarmed) Re: Escrow for N7221E  From:  'Michael Kolich\"  Sent:  11/4/2019 1101:27 AM  To:  'Kim Thompson\"  Attachments:  N72",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019 || was interviewed in When fi was either 16 or 17 years old, fa friend of hers",
+      "memo_efta": "02731102",
+      "corpus_efta": "EFTA01660419",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To: '  Subject: FW: NBC News Investigation  Date: Thu, 19 Sep 2019 20:20:50 +0000  Importance: Normal  From  Sent: Thursday, September 19, 20",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019 || was interviewed in When fi was either 16 or 17 years old, fa friend of hers",
+      "memo_efta": "02731102",
+      "corpus_efta": "EFTA00009930",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:I,  Subject: Re: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 15:34:29 +0000  I'm on it  On Sep 18, 2019, at 11:30 AM,  Hey Will,",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019 || was interviewed in When fi was either 16 or 17 years old, fa friend of hers",
+      "memo_efta": "02731102",
+      "corpus_efta": "EFTA00018905",
+      "corpus_page": 1,
+      "corpus_text": "Estate of Jeffrey Epstein  Probate No. ST.19-PB-80  Motion for Establishment of Compensation Program  Page 2  lawsuits name as defendants the Estate, ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019 || was interviewed in When fi was either 16 or 17 years old, fa friend of hers",
+      "memo_efta": "02731102",
+      "corpus_efta": "EFTA00025388",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  Subject: RE: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 14:28:53 +0000  I'll have an answer for you today  From:  Sent: Wedne",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019 || was interviewed in When fi was either 16 or 17 years old, fa friend of hers",
+      "memo_efta": "02731102",
+      "corpus_efta": "EFTA00017123",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Subject: RE: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 20:05:54 +0000  It's downstairs in an envelope with your name on it. Thank",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/15",
+      "memo_context": "On October 15, 2019, i was interviewed in| when was approximately 16 years old and living in Palm Be",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA01649847",
+      "corpus_page": 0,
+      "corpus_text": "Federal Bureau of Investigation  New York Division  26 Federal Plaza  New York, NY 10278  Victim Name  Victim Address  Victim Address  RE: Epstein Bri",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/15",
+      "memo_context": "On October 15, 2019, i was interviewed in| when was approximately 16 years old and living in Palm Be",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA01649915",
+      "corpus_page": 1,
+      "corpus_text": "On Sep 28, 2019 2:17 PM, Sigrid McCawley <  > wrote:  Hello Angela \u2014 my client  Thank you,  Sigrid  Sigrid McCawley  Partner  BOIES SCHILLER FLEXNER L",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/15",
+      "memo_context": "On October 15, 2019, i was interviewed in| when was approximately 16 years old and living in Palm Be",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA01649996",
+      "corpus_page": 0,
+      "corpus_text": "\u2022  Federal Bureau of Investigation  Victim Services Division  Epstein Briefing RSVP  October 15, 2019 - Miami, FL I I October 23, 2019 - New York, NY ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/15",
+      "memo_context": "On October 15, 2019, i was interviewed in| when was approximately 16 years old and living in Palm Be",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA01649708",
+      "corpus_page": 1,
+      "corpus_text": "These meetings will be held in two different locations, New York and Florida. Please choose which meeting  you prefer to attend:  Date: October 15, 20",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/15",
+      "memo_context": "On October 15, 2019, i was interviewed in| when was approximately 16 years old and living in Palm Be",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA01649636",
+      "corpus_page": 0,
+      "corpus_text": "Federal Bureau of Investigation  New York Division  26 Federal Plaza  New York, NY 10278  Victim Name  Victim Address  Victim Address  RE: Epstein Bri",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, i was interviewed in When was about 15 or 16 years old and living in Florida, a",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA01596180",
+      "corpus_page": 0,
+      "corpus_text": "October 16, 2019  Via Messenger  Maurene Comey  Assistant United States Attorney  Southern District of New York  The Silvio J. Mollo Building  One Sai",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, i was interviewed in When was about 15 or 16 years old and living in Florida, a",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA00017107",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To: Zach Jones  Cc: Clara Moran  Subject: RE: Continued investigation into possible collaborators of Jeffrey Epstein  Date: Tue, 17 Sep 2019 ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, i was interviewed in When was about 15 or 16 years old and living in Florida, a",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA00027952",
+      "corpus_page": 0,
+      "corpus_text": "From:  To: cj  Cc: Clara Moran  Subject: Continued investigation into possible collaborators of Jeffrey Epstein  Date: Tue, 17 Sep 2019 18:04:44 +0000",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, i was interviewed in When was about 15 or 16 years old and living in Florida, a",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA00030745",
+      "corpus_page": 0,
+      "corpus_text": "From:   To:  Cc: r\"  \"  Subject: RE: Continued investigation into possible collaborators of Jeffrey Epstein  Date: Tue, 17 Sep 2019 21:30:51 +0000  Pe",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, i was interviewed in When was about 15 or 16 years old and living in Florida, a",
+      "memo_efta": "02731103",
+      "corpus_efta": "EFTA00017780",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  ) '  >,  M Subject: FW: Continued investigation into possible collaborators of Jeffrey Epstein  Date: Tue, 17 Sep 2019 21:19:18 +0000",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, was interviewed in When was about 15 years old , her friends and",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA01596180",
+      "corpus_page": 0,
+      "corpus_text": "October 16, 2019  Via Messenger  Maurene Comey  Assistant United States Attorney  Southern District of New York  The Silvio J. Mollo Building  One Sai",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, was interviewed in When was about 15 years old , her friends and",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA00017107",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To: Zach Jones  Cc: Clara Moran  Subject: RE: Continued investigation into possible collaborators of Jeffrey Epstein  Date: Tue, 17 Sep 2019 ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, was interviewed in When was about 15 years old , her friends and",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA00027952",
+      "corpus_page": 0,
+      "corpus_text": "From:  To: cj  Cc: Clara Moran  Subject: Continued investigation into possible collaborators of Jeffrey Epstein  Date: Tue, 17 Sep 2019 18:04:44 +0000",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, was interviewed in When was about 15 years old , her friends and",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA00030745",
+      "corpus_page": 0,
+      "corpus_text": "From:   To:  Cc: r\"  \"  Subject: RE: Continued investigation into possible collaborators of Jeffrey Epstein  Date: Tue, 17 Sep 2019 21:30:51 +0000  Pe",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/16",
+      "memo_context": "On October 16, 2019, was interviewed in When was about 15 years old , her friends and",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA00017780",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  ) '  >,  M Subject: FW: Continued investigation into possible collaborators of Jeffrey Epstein  Date: Tue, 17 Sep 2019 21:19:18 +0000",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019, a was re-interviewed addition to confirming the information she provided duri",
+      "memo_efta": "02731107",
+      "corpus_efta": "EFTA01660419",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To: '  Subject: FW: NBC News Investigation  Date: Thu, 19 Sep 2019 20:20:50 +0000  Importance: Normal  From  Sent: Thursday, September 19, 20",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019, a was re-interviewed addition to confirming the information she provided duri",
+      "memo_efta": "02731107",
+      "corpus_efta": "EFTA00009930",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:I,  Subject: Re: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 15:34:29 +0000  I'm on it  On Sep 18, 2019, at 11:30 AM,  Hey Will,",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019, a was re-interviewed addition to confirming the information she provided duri",
+      "memo_efta": "02731107",
+      "corpus_efta": "EFTA00018905",
+      "corpus_page": 1,
+      "corpus_text": "Estate of Jeffrey Epstein  Probate No. ST.19-PB-80  Motion for Establishment of Compensation Program  Page 2  lawsuits name as defendants the Estate, ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019, a was re-interviewed addition to confirming the information she provided duri",
+      "memo_efta": "02731107",
+      "corpus_efta": "EFTA00025388",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  Subject: RE: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 14:28:53 +0000  I'll have an answer for you today  From:  Sent: Wedne",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019, a was re-interviewed addition to confirming the information she provided duri",
+      "memo_efta": "02731107",
+      "corpus_efta": "EFTA00017123",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Subject: RE: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 20:05:54 +0000  It's downstairs in an envelope with your name on it. Thank",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "| On September 18, 2019, was interviewed in m When was",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA01660419",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To: '  Subject: FW: NBC News Investigation  Date: Thu, 19 Sep 2019 20:20:50 +0000  Importance: Normal  From  Sent: Thursday, September 19, 20",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "| On September 18, 2019, was interviewed in m When was",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00009930",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:I,  Subject: Re: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 15:34:29 +0000  I'm on it  On Sep 18, 2019, at 11:30 AM,  Hey Will,",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "| On September 18, 2019, was interviewed in m When was",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00018905",
+      "corpus_page": 1,
+      "corpus_text": "Estate of Jeffrey Epstein  Probate No. ST.19-PB-80  Motion for Establishment of Compensation Program  Page 2  lawsuits name as defendants the Estate, ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "| On September 18, 2019, was interviewed in m When was",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00025388",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  Subject: RE: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 14:28:53 +0000  I'll have an answer for you today  From:  Sent: Wedne",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "| On September 18, 2019, was interviewed in m When was",
+      "memo_efta": "02731109",
+      "corpus_efta": "EFTA00017123",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Subject: RE: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 20:05:54 +0000  It's downstairs in an envelope with your name on it. Thank",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019. i was interviewed mm | reported being sexually abused by Epstein as an adult.",
+      "memo_efta": "02731111",
+      "corpus_efta": "EFTA01660419",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To: '  Subject: FW: NBC News Investigation  Date: Thu, 19 Sep 2019 20:20:50 +0000  Importance: Normal  From  Sent: Thursday, September 19, 20",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019. i was interviewed mm | reported being sexually abused by Epstein as an adult.",
+      "memo_efta": "02731111",
+      "corpus_efta": "EFTA00009930",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:I,  Subject: Re: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 15:34:29 +0000  I'm on it  On Sep 18, 2019, at 11:30 AM,  Hey Will,",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019. i was interviewed mm | reported being sexually abused by Epstein as an adult.",
+      "memo_efta": "02731111",
+      "corpus_efta": "EFTA00018905",
+      "corpus_page": 1,
+      "corpus_text": "Estate of Jeffrey Epstein  Probate No. ST.19-PB-80  Motion for Establishment of Compensation Program  Page 2  lawsuits name as defendants the Estate, ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019. i was interviewed mm | reported being sexually abused by Epstein as an adult.",
+      "memo_efta": "02731111",
+      "corpus_efta": "EFTA00025388",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  Subject: RE: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 14:28:53 +0000  I'll have an answer for you today  From:  Sent: Wedne",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/18",
+      "memo_context": "On September 18, 2019. i was interviewed mm | reported being sexually abused by Epstein as an adult.",
+      "memo_efta": "02731111",
+      "corpus_efta": "EFTA00017123",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Subject: RE: SHU Photos/Number of Steps  Date: Wed, 18 Sep 2019 20:05:54 +0000  It's downstairs in an envelope with your name on it. Thank",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/24",
+      "memo_context": "\u2018 On October 24, 2019, i was interviewed in New York. ml reported",
+      "memo_efta": "02731112",
+      "corpus_efta": "EFTA01597239",
+      "corpus_page": 0,
+      "corpus_text": "UBS  October 24, 2019  VIA OVERNIGHT MAIL  Federal Bureau of Investigation  26 Federal Plaza  New York, NY 10278  UBS Group AG  Legal\u2022SLG Group  Eric ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/24",
+      "memo_context": "\u2018 On October 24, 2019, i was interviewed in New York. ml reported",
+      "memo_efta": "02731112",
+      "corpus_efta": "EFTA00038636",
+      "corpus_page": 1,
+      "corpus_text": "Thank you for booking directly with us, I  Let the fun begin.  Tue, Oct 22, 2019 \u2014 Thu, Oct 24, 2019  Confirmation Number:  P,Moxy NYC Downtown  Check",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/24",
+      "memo_context": "\u2018 On October 24, 2019, i was interviewed in New York. ml reported",
+      "memo_efta": "02731112",
+      "corpus_efta": "EFTA00038636",
+      "corpus_page": 4,
+      "corpus_text": "W  Members get free nights, room upgrades, free Wi-Fi, exclusive  offers, Member Rates and more.  Join  Summary Of Charges  Tuesday, October 22, 2019 ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/24",
+      "memo_context": "\u2018 On October 24, 2019, i was interviewed in New York. ml reported",
+      "memo_efta": "02731112",
+      "corpus_efta": "EFTA00015524",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  Subject: RE: Mark Epstein  Date: Thu, 24 Oct 2019 16:32:29 +0000  No problem, and of course if she wants us instead we'll reach out. ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/24",
+      "memo_context": "\u2018 On October 24, 2019, i was interviewed in New York. ml reported",
+      "memo_efta": "02731112",
+      "corpus_efta": "EFTA00271736",
+      "corpus_page": 0,
+      "corpus_text": "UBS  October 24, 2019  VIA OVERNIGHT MAIL  Mark Lubin  Amanda Young  Federal Bureau of Investigation  26 Federal Plaza  New York, NY 10278  UBS Group ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/26",
+      "memo_context": "On August 26, 2019, i was interviewed in New York. | | reported being sexually abused by Epstein as ",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01266757",
+      "corpus_page": 0,
+      "corpus_text": "Lubin, Mark M. (NY) (FBI)  From:  PayPal Global Asset Protection <lawenforcement@paypal.com>  Sent:  Tuesday, October 08, 2019 1:13 PM  To:  Lubin, Ma",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/26",
+      "memo_context": "On August 26, 2019, i was interviewed in New York. | | reported being sexually abused by Epstein as ",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01687705",
+      "corpus_page": 2,
+      "corpus_text": "That time slot on Wednesday may not be good for me. Can you make it earlier, say 11:00?  Bruce Barket  Barket, Epstein, Kearon, Aldea & LoTurco  666 O",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/26",
+      "memo_context": "On August 26, 2019, i was interviewed in New York. | | reported being sexually abused by Epstein as ",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01649734",
+      "corpus_page": 1,
+      "corpus_text": "Victim Specialist  FBI Denver-Colorado Springs RA  0:  C.  From: Jackson, Angela (NY) (FBI)  Sent: Wednesday, August 28, 2019 3:00 PM  To: Wagner, Ali",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/26",
+      "memo_context": "On August 26, 2019, i was interviewed in New York. | | reported being sexually abused by Epstein as ",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01649745",
+      "corpus_page": 1,
+      "corpus_text": "From: MEM  (NY) (FBI)  Sent: Wednesday, August 28, 2019 3:00 PM  To: Wagner, Alicia A. (DN) (FBI) < >  Cc: ME,  L (DO) (FBI) < >;  Subject: RE: Epstei",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/26",
+      "memo_context": "On August 26, 2019, i was interviewed in New York. | | reported being sexually abused by Epstein as ",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01649474",
+      "corpus_page": 1,
+      "corpus_text": "This is my AOR. What do you need?  Thanks  Victim Specialist  FBI Denver-Colorado Springs RA  From: Jackson,  (NY) (FBI)  Sent: Monday, August 26, 201",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": "On August 28, 2019. | | was interviewed in New York. reported being sexually abused by Epstein n adu",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01687705",
+      "corpus_page": 41,
+      "corpus_text": "IJI \u2018I\u2018C  'Jot l\u2022Cl.  LUIL/./  I./  J.1V  I  I VI \u2022\u2022  \u2022- Is there any update on a visit with his parents this week?  Bruce A. Barket, Esq.  Barket Eps",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": "On August 28, 2019. | | was interviewed in New York. reported being sexually abused by Epstein n adu",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01687705",
+      "corpus_page": 44,
+      "corpus_text": ">>>  Hi Bruce,  Staff Attorney  CLC New York  Metropolitan Correctional Center  150 Park Row  New York, NY 10007  8/28/2019 4:23 PM >>>  Our Exec staf",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": "On August 28, 2019. | | was interviewed in New York. reported being sexually abused by Epstein n adu",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01649734",
+      "corpus_page": 1,
+      "corpus_text": "Victim Specialist  FBI Denver-Colorado Springs RA  0:  C.  From: Jackson, Angela (NY) (FBI)  Sent: Wednesday, August 28, 2019 3:00 PM  To: Wagner, Ali",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": "On August 28, 2019. | | was interviewed in New York. reported being sexually abused by Epstein n adu",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01649575",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To:'  Subject: RE: Call with VSD/ Epstein  Date: Wed, 28 Aug 2019 20:01:24 +0000  Importance: Normal  Copy. I forwarded to M.  From:  Sent: W",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": "On August 28, 2019. | | was interviewed in New York. reported being sexually abused by Epstein n adu",
+      "memo_efta": "02731114",
+      "corpus_efta": "EFTA01649745",
+      "corpus_page": 1,
+      "corpus_text": "From: MEM  (NY) (FBI)  Sent: Wednesday, August 28, 2019 3:00 PM  To: Wagner, Alicia A. (DN) (FBI) < >  Cc: ME,  L (DO) (FBI) < >;  Subject: RE: Epstei",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": ". On August 28, 2019, i was interviewed in New York. |",
+      "memo_efta": "02731115",
+      "corpus_efta": "EFTA01687705",
+      "corpus_page": 41,
+      "corpus_text": "IJI \u2018I\u2018C  'Jot l\u2022Cl.  LUIL/./  I./  J.1V  I  I VI \u2022\u2022  \u2022- Is there any update on a visit with his parents this week?  Bruce A. Barket, Esq.  Barket Eps",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": ". On August 28, 2019, i was interviewed in New York. |",
+      "memo_efta": "02731115",
+      "corpus_efta": "EFTA01687705",
+      "corpus_page": 44,
+      "corpus_text": ">>>  Hi Bruce,  Staff Attorney  CLC New York  Metropolitan Correctional Center  150 Park Row  New York, NY 10007  8/28/2019 4:23 PM >>>  Our Exec staf",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": ". On August 28, 2019, i was interviewed in New York. |",
+      "memo_efta": "02731115",
+      "corpus_efta": "EFTA01649734",
+      "corpus_page": 1,
+      "corpus_text": "Victim Specialist  FBI Denver-Colorado Springs RA  0:  C.  From: Jackson, Angela (NY) (FBI)  Sent: Wednesday, August 28, 2019 3:00 PM  To: Wagner, Ali",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": ". On August 28, 2019, i was interviewed in New York. |",
+      "memo_efta": "02731115",
+      "corpus_efta": "EFTA01649575",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To:'  Subject: RE: Call with VSD/ Epstein  Date: Wed, 28 Aug 2019 20:01:24 +0000  Importance: Normal  Copy. I forwarded to M.  From:  Sent: W",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/08/28",
+      "memo_context": ". On August 28, 2019, i was interviewed in New York. |",
+      "memo_efta": "02731115",
+      "corpus_efta": "EFTA01649745",
+      "corpus_page": 1,
+      "corpus_text": "From: MEM  (NY) (FBI)  Sent: Wednesday, August 28, 2019 3:00 PM  To: Wagner, Alicia A. (DN) (FBI) < >  Cc: ME,  L (DO) (FBI) < >;  Subject: RE: Epstei",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York. || reported being sexually abused by Epstein as ",
+      "memo_efta": "02731116",
+      "corpus_efta": "EFTA01596615",
+      "corpus_page": 0,
+      "corpus_text": "Customer News  New Card Reminder  As we recently communicated, you  will receive your new UBS Visa  Signature Business card in the coming  weeks. This",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York. || reported being sexually abused by Epstein as ",
+      "memo_efta": "02731116",
+      "corpus_efta": "EFTA01649847",
+      "corpus_page": 0,
+      "corpus_text": "Federal Bureau of Investigation  New York Division  26 Federal Plaza  New York, NY 10278  Victim Name  Victim Address  Victim Address  RE: Epstein Bri",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York. || reported being sexually abused by Epstein as ",
+      "memo_efta": "02731116",
+      "corpus_efta": "EFTA01649915",
+      "corpus_page": 2,
+      "corpus_text": "Date: October 23, 2019  Time: 10:00 AM  Location: 290 Broadway, New York, NY 10007  Participation is limited to you and one support person. If you are",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York. || reported being sexually abused by Epstein as ",
+      "memo_efta": "02731116",
+      "corpus_efta": "EFTA01649996",
+      "corpus_page": 0,
+      "corpus_text": "\u2022  Federal Bureau of Investigation  Victim Services Division  Epstein Briefing RSVP  October 15, 2019 - Miami, FL I I October 23, 2019 - New York, NY ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York. || reported being sexually abused by Epstein as ",
+      "memo_efta": "02731116",
+      "corpus_efta": "EFTA01649708",
+      "corpus_page": 1,
+      "corpus_text": "These meetings will be held in two different locations, New York and Florida. Please choose which meeting  you prefer to attend:  Date: October 15, 20",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "2 On October 23, 2019, || i was interviewed in New York i reported being",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA01596615",
+      "corpus_page": 0,
+      "corpus_text": "Customer News  New Card Reminder  As we recently communicated, you  will receive your new UBS Visa  Signature Business card in the coming  weeks. This",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "2 On October 23, 2019, || i was interviewed in New York i reported being",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA01649847",
+      "corpus_page": 0,
+      "corpus_text": "Federal Bureau of Investigation  New York Division  26 Federal Plaza  New York, NY 10278  Victim Name  Victim Address  Victim Address  RE: Epstein Bri",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "2 On October 23, 2019, || i was interviewed in New York i reported being",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA01649915",
+      "corpus_page": 2,
+      "corpus_text": "Date: October 23, 2019  Time: 10:00 AM  Location: 290 Broadway, New York, NY 10007  Participation is limited to you and one support person. If you are",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "2 On October 23, 2019, || i was interviewed in New York i reported being",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA01649996",
+      "corpus_page": 0,
+      "corpus_text": "\u2022  Federal Bureau of Investigation  Victim Services Division  Epstein Briefing RSVP  October 15, 2019 - Miami, FL I I October 23, 2019 - New York, NY ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "2 On October 23, 2019, || i was interviewed in New York i reported being",
+      "memo_efta": "unknown",
+      "corpus_efta": "EFTA01649708",
+      "corpus_page": 1,
+      "corpus_text": "These meetings will be held in two different locations, New York and Florida. Please choose which meeting  you prefer to attend:  Date: October 15, 20",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York",
+      "memo_efta": "02731117",
+      "corpus_efta": "EFTA01596615",
+      "corpus_page": 0,
+      "corpus_text": "Customer News  New Card Reminder  As we recently communicated, you  will receive your new UBS Visa  Signature Business card in the coming  weeks. This",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York",
+      "memo_efta": "02731117",
+      "corpus_efta": "EFTA01649847",
+      "corpus_page": 0,
+      "corpus_text": "Federal Bureau of Investigation  New York Division  26 Federal Plaza  New York, NY 10278  Victim Name  Victim Address  Victim Address  RE: Epstein Bri",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York",
+      "memo_efta": "02731117",
+      "corpus_efta": "EFTA01649915",
+      "corpus_page": 2,
+      "corpus_text": "Date: October 23, 2019  Time: 10:00 AM  Location: 290 Broadway, New York, NY 10007  Participation is limited to you and one support person. If you are",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York",
+      "memo_efta": "02731117",
+      "corpus_efta": "EFTA01649996",
+      "corpus_page": 0,
+      "corpus_text": "\u2022  Federal Bureau of Investigation  Victim Services Division  Epstein Briefing RSVP  October 15, 2019 - Miami, FL I I October 23, 2019 - New York, NY ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/23",
+      "memo_context": "On October 23, 2019, i was interviewed in New York",
+      "memo_efta": "02731117",
+      "corpus_efta": "EFTA01649708",
+      "corpus_page": 1,
+      "corpus_text": "These meetings will be held in two different locations, New York and Florida. Please choose which meeting  you prefer to attend:  Date: October 15, 20",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met in with a and her attorney for a",
+      "memo_efta": "02731122",
+      "corpus_efta": "EFTA01649416",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Subject: RE: Epstein Briefing Dates  Date: Tue, 10 Sep 2019 17:24:53 +0000  Importance: Normal  Low side  On Sep 10, 2019 1:22 PM,  wrote:",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met in with a and her attorney for a",
+      "memo_efta": "02731122",
+      "corpus_efta": "EFTA01272487",
+      "corpus_page": 366,
+      "corpus_text": "Current Date:  February 26, 2020  First Bank  LSJE LLC  6100 RED HOOK QUARTER 63  ST THOMAS VI  00802  1 First Bank  Virgin islands  Account Number:  ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met in with a and her attorney for a",
+      "memo_efta": "02731122",
+      "corpus_efta": "EFTA01272487",
+      "corpus_page": 367,
+      "corpus_text": "Current Date:  February 26, 2020  First Bank  Account Number:  Capture Date:  Item Number:  Posted Date:  Posted Item Number.  Amount:  Record Type:  ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met in with a and her attorney for a",
+      "memo_efta": "02731122",
+      "corpus_efta": "EFTA01272487",
+      "corpus_page": 368,
+      "corpus_text": "Current Date:  February 26, 2020  First Bank  LSJE LLC  6100 RED HOOK QUARTER B3  ST THOMAS VI  00802  1 First Bank  Virgin islands  DEPOSIT  CHECKING",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/10",
+      "memo_context": "On September 10, 2019, we met in with a and her attorney for a",
+      "memo_efta": "02731122",
+      "corpus_efta": "EFTA01272487",
+      "corpus_page": 369,
+      "corpus_text": "Current Date:  February 26, 2020  First Bank  Account Number:  Capture Date:  Item Number.  Posted Date:  Posted Item Number.  Amount:  Record Type:  ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/07",
+      "memo_context": "On October 7, 2019. attomeys provided us with an attorney proffer, during which they explained how m",
+      "memo_efta": "02731124",
+      "corpus_efta": "EFTA01266021",
+      "corpus_page": 1,
+      "corpus_text": "DECLARATION OF QUALIFIED PERSON  CERTIFYING THE AUTHENTICITY OF DOMESTIC BUSINESS  RECORDS AND/OR INFORMATION REFLECTED IN SYSTEMS OF  RECORD PURSUANT",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/07",
+      "memo_context": "On October 7, 2019. attomeys provided us with an attorney proffer, during which they explained how m",
+      "memo_efta": "02731124",
+      "corpus_efta": "EFTA01266023",
+      "corpus_page": 2,
+      "corpus_text": "DECLARATION OF QUALIFIED PERSON  CERTIFYING THE AUTHENTICITY OF DOMESTIC BUSINESS  RECORDS AND/OR INFORMATION REFLECTED IN SYSTEMS OF  RECORD PURSUANT",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/07",
+      "memo_context": "On October 7, 2019. attomeys provided us with an attorney proffer, during which they explained how m",
+      "memo_efta": "02731124",
+      "corpus_efta": "EFTA00019744",
+      "corpus_page": 0,
+      "corpus_text": "From:  \"  To: \"MMIMIMI=Er  Cc:  ,rnr)(Fhp\"  Subject: RE: Subpoena Revised- Date: Mon, 07 Oct 2019 21:48:54 +0000  Attachments: 2019-10-07,_subpoena_to",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/07",
+      "memo_context": "On October 7, 2019. attomeys provided us with an attorney proffer, during which they explained how m",
+      "memo_efta": "02731124",
+      "corpus_efta": "EFTA00023938",
+      "corpus_page": 0,
+      "corpus_text": "PRIORITIES WEBPAGE  SOUTHERN DISTRICT OF NEW YORK  Thwarting and Responding to Acts of Terror  The Office addresses a full range of threats to nationa",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/07",
+      "memo_context": "On October 7, 2019. attomeys provided us with an attorney proffer, during which they explained how m",
+      "memo_efta": "02731124",
+      "corpus_efta": "EFTA02730088",
+      "corpus_page": 0,
+      "corpus_text": "From:  Subject:  To:  Cc:  Sent:  RE: Epstein Briefing Update  October 7, 2019 5:20 PM (UTC-04:00)  Victims that we'd like to make arrangements to spe",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/11/26",
+      "memo_context": "On November 26, 2019, we interviewed in New York",
+      "memo_efta": "02731130",
+      "corpus_efta": "EFTA01268555",
+      "corpus_page": 1,
+      "corpus_text": "This email message is intended only for the named recipients. It may contain confidential information that is privileged or  that constitutes attorney",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/11/26",
+      "memo_context": "On November 26, 2019, we interviewed in New York",
+      "memo_efta": "02731130",
+      "corpus_efta": "EFTA01268555",
+      "corpus_page": 2,
+      "corpus_text": "busted out this title in two seconds flat.. was AMAZING to jump right on the review. Even In pitched in and  went to Bradford to handle the additional",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/11/26",
+      "memo_context": "On November 26, 2019, we interviewed in New York",
+      "memo_efta": "02731130",
+      "corpus_efta": "EFTA01669910",
+      "corpus_page": 257,
+      "corpus_text": "Current Date:  February 27, 2020  First Bank  Account Number:  Capture Date:  Item Number.  Posted Date:  Posted Item Number.  Amount:  Record Type:  ",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/11/26",
+      "memo_context": "On November 26, 2019, we interviewed in New York",
+      "memo_efta": "02731130",
+      "corpus_efta": "EFTA01669910",
+      "corpus_page": 258,
+      "corpus_text": "Current Date:  February 27, 2020  First Bank  ESTATE OF JEFFREY E EPSTEIN  9053 ESTATE THOMAS STE 101  ST THOMAS VI  00802  Account Number:  Capture D",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/11/26",
+      "memo_context": "On November 26, 2019, we interviewed in New York",
+      "memo_efta": "02731130",
+      "corpus_efta": "EFTA00032932",
+      "corpus_page": 0,
+      "corpus_text": "From: White Collar Law360 <news-alt@law360.com>  To: <  Subject: Ex-White House Counsel McGahn Ordered To Testify To House  Date: \"Cue, 26 Nov 2019 08",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/12/04",
+      "memo_context": "On December 4, 2019, we conducted a second proffer with in New York. This proffer focused on the $25",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01683910",
+      "corpus_page": 0,
+      "corpus_text": "From:  Subject: Lent:  December 4, 2019 3:18 PM (UM-05:00)  Imo: LAIR Remew 90A-NY-315122(  UNCLASSIFIED  Classification:  UNCLASSIFIED  Afternoon  C1",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/12/04",
+      "memo_context": "On December 4, 2019, we conducted a second proffer with in New York. This proffer focused on the $25",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA01683929",
+      "corpus_page": 0,
+      "corpus_text": "From:  Subject:  To:  Sent:  NCIASSIFIED  December 4, 2019 10:03 AM (I:tie-05: )  Classification:  UNCLASSIFIED  2828-NY-3156749  From  Sent: Tuesday.",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/12/04",
+      "memo_context": "On December 4, 2019, we conducted a second proffer with in New York. This proffer focused on the $25",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00032856",
+      "corpus_page": 0,
+      "corpus_text": "From:  To:  Cc:  Subject: RE: Epstein forfeiture theory  Date: Wed, 04 Dec 2019 18:59:39 +0000  I'm late to this but that time works for me too, thank",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/12/04",
+      "memo_context": "On December 4, 2019, we conducted a second proffer with in New York. This proffer focused on the $25",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00032856",
+      "corpus_page": 1,
+      "corpus_text": "From:  Sent: Wednesday, December 4, 2019 1:24 PM  To:  Cc:  Subject: RE: RE: Epstein forfeiture theory  Monday is pretty open. Maybe 2pm?  Co-Chief, M",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/12/04",
+      "memo_context": "On December 4, 2019, we conducted a second proffer with in New York. This proffer focused on the $25",
+      "memo_efta": "02731133",
+      "corpus_efta": "EFTA00019565",
+      "corpus_page": 2,
+      "corpus_text": "We look forward to discussing this proposal with you. We suggest arranging a time to do so before the protocol is  finalized, since it will be importa",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/09",
+      "memo_context": "On September 9, 2019, we interviewed",
+      "memo_efta": "02731136",
+      "corpus_efta": "EFTA00035807",
+      "corpus_page": 0,
+      "corpus_text": "LIMITED OFFICIAL USE  DEPARTMENT OF JUSTICE I OFFICE OF THE INSPECTOR GENERAL  MEMORANDUM OF INVESTIGATION  Case Number:  2019-010614  Reporting Offic",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/09",
+      "memo_context": "On September 9, 2019, we interviewed",
+      "memo_efta": "02731136",
+      "corpus_efta": "EFTA00028192",
+      "corpus_page": 0,
+      "corpus_text": "From: '  To: '  Subject: FW: Read: Jail where Epstein died has history of security breaches  Date: Mon, 09 Sep 2019 18:31:19 +0000  From  Sent: Monday",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/09/09",
+      "memo_context": "On September 9, 2019, we interviewed",
+      "memo_efta": "02731136",
+      "corpus_efta": "EFTA00019183",
+      "corpus_page": 6,
+      "corpus_text": "I hope all is well with you and the ongoing investigation. As we mentioned on the phone, we are here to assist with any  investigation into New Mexico",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/09",
+      "memo_context": "On September 9, 2019, we interviewed",
+      "memo_efta": "02731136",
+      "corpus_efta": "EFTA00030705",
+      "corpus_page": 0,
+      "corpus_text": "From:'  (USANYS)\" <  To: '  (USANYS) [Contractor]\"  Subject: RE: Outstanding requests - update  Date: Mon, 09 Sep 2019 21:43:38 +0000  We had understo",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/09/09",
+      "memo_context": "On September 9, 2019, we interviewed",
+      "memo_efta": "02731136",
+      "corpus_efta": "EFTA00030610",
+      "corpus_page": 0,
+      "corpus_text": "U.S. Department of Justice  United States Attorney  Southern District of New York  September 9, 2019  Florence Hutner, Esq.  General Counsel  Office o",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/08",
+      "memo_context": "On October 8, 2019, Maxwell's attorneys provided us with an attomey proffer. During the meeting, her",
+      "memo_efta": "02731143",
+      "corpus_efta": "EFTA00030702",
+      "corpus_page": 0,
+      "corpus_text": "From: \"Stoddart. Allison\"  Cc: r\" >, Subject: RE: JPMorgan Chase Production  Date: Fri, 08 Nov 2019 20:14:53 +0000  >, \"Sahni, Anjan\"  To update you o",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/10/08",
+      "memo_context": "On October 8, 2019, Maxwell's attorneys provided us with an attomey proffer. During the meeting, her",
+      "memo_efta": "02731143",
+      "corpus_efta": "EFTA02730161",
+      "corpus_page": 0,
+      "corpus_text": "From:  (DO) (FBI)  Subject:  f Final Call  To:  NY) (FBI);  (DO) (FBI)  Sent:  October 8, 2019 3:28 PM (UTC-04:00)  Please use the following informati",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/08",
+      "memo_context": "On October 8, 2019, Maxwell's attorneys provided us with an attomey proffer. During the meeting, her",
+      "memo_efta": "02731143",
+      "corpus_efta": "EFTA00097143",
+      "corpus_page": 0,
+      "corpus_text": "From: \"  To: \"Sahni, Arfar >, \"Stoddart, Allison\"  Cc: \"I  Subject: RE: JPMorgan Chase Production  Date: Tue, 29 Oct 2019 23:25:29 +0000  Anjan,  Than",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/08",
+      "memo_context": "On October 8, 2019, Maxwell's attorneys provided us with an attomey proffer. During the meeting, her",
+      "memo_efta": "02731143",
+      "corpus_efta": "EFTA00097253",
+      "corpus_page": 0,
+      "corpus_text": "U.S. Department of Justice  United States Attorney  Southern District of New York  The Silvio J. Motto Building  One Saint Andrew's Plaza  New York, N",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/10/08",
+      "memo_context": "On October 8, 2019, Maxwell's attorneys provided us with an attomey proffer. During the meeting, her",
+      "memo_efta": "02731143",
+      "corpus_efta": "EFTA00097253",
+      "corpus_page": 1,
+      "corpus_text": "Grand Jury Subpoena  Pnitebr *ales Piztritt Trani  SOUTHERN DISTRICT OF NEW YORK  TO:  JP Morgan Chase Bank N.A. And All Affiliates  National Subpoena",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/18",
+      "memo_context": "On July 18, 2019, we gave a reverse proffer to Leslie Groff, during which we explained that numerous",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01420765",
+      "corpus_page": 0,
+      "corpus_text": "Subject: Advocates Hope Trump Puts Kibosh On Stricter EB-5 Rules; Last Night  At Bisnow's Power Women Event  From: Bisnow New York <newsletter@news.bi",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/18",
+      "memo_context": "On July 18, 2019, we gave a reverse proffer to Leslie Groff, during which we explained that numerous",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01387471",
+      "corpus_page": 0,
+      "corpus_text": "From:  Sent:  To:  Subject:  Attachments:  Stewart Oldfield 7/18/2019 6:05:42 PM  Daphne Gales  Fw: Outstanding Official Checks Report as of 06/2019 I",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/18",
+      "memo_context": "On July 18, 2019, we gave a reverse proffer to Leslie Groff, during which we explained that numerous",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01425292",
+      "corpus_page": 0,
+      "corpus_text": "Subject: Google Alert - leon black  From: Google Alerts  Date: Thu, 18 Jul 2019 14:00:43 -0400  To:  {Google}  leon black Daily update \u2022 July 18, 2019",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/07/18",
+      "memo_context": "On July 18, 2019, we gave a reverse proffer to Leslie Groff, during which we explained that numerous",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01649277",
+      "corpus_page": 0,
+      "corpus_text": "From: \"U.S. Department of Justice - VNS\" <fedemail@vns.usdoj.gov>  To:  Subject: VNS USAO Court Event Notification for Investigative Case 31E-NY-30275",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/18",
+      "memo_context": "On July 18, 2019, we gave a reverse proffer to Leslie Groff, during which we explained that numerous",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01684300",
+      "corpus_page": 10,
+      "corpus_text": "233 81M88888 Crisis Intak  (U) On 08/  232 810888888 Crisis Intak  (U) On 08/  all 8#88#888  88888888  Crisis Intak  Crisis Intak  (U) On 08/  2Q  U) ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/25",
+      "memo_context": "On July 25, 2019, counsel for Wexner provided us with an attorney proffer. Wexner is the billionaire",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01365969",
+      "corpus_page": 0,
+      "corpus_text": "From: Adrian Cox  Sent: 25 July 2019 23:33  To: Troy Gravitt <  Subject: WSJ: Jeffrey Epstein Burrowed Into the Lives of the Rich and Made a Fortune (",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/07/25",
+      "memo_context": "On July 25, 2019, counsel for Wexner provided us with an attorney proffer. Wexner is the billionaire",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01660712",
+      "corpus_page": 0,
+      "corpus_text": "From: \"/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP  (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C2D83CBIAD26466DA5B898770E15EF4  To:  Cc:  Subject: RE: Su",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/25",
+      "memo_context": "On July 25, 2019, counsel for Wexner provided us with an attorney proffer. Wexner is the billionaire",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01270494",
+      "corpus_page": 205,
+      "corpus_text": "Current Date:  February 25, 2020  1 First Bank  JEFFREY E EPSTEIN  6100 RED HOOK QTRS STE B3  ST THOMAS VI  00802-1348  Account Number:  Capture Date:",
+      "significance": "high"
+    },
+    {
+      "memo_date": "2019/07/25",
+      "memo_context": "On July 25, 2019, counsel for Wexner provided us with an attorney proffer. Wexner is the billionaire",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01270494",
+      "corpus_page": 206,
+      "corpus_text": "Current Date:  February 25, 2020  First Bank  Account Number:  Capture Date:  Item Number:  Posted Date:  Posted Item Number:  Amount:  Record Type:  ",
+      "significance": "low"
+    },
+    {
+      "memo_date": "2019/07/25",
+      "memo_context": "On July 25, 2019, counsel for Wexner provided us with an attorney proffer. Wexner is the billionaire",
+      "memo_efta": "02731146",
+      "corpus_efta": "EFTA01687909",
+      "corpus_page": 9,
+      "corpus_text": "-  (516) 287 7230 - M  Barket Epstein corn  On Jul 26, 2019, at 3:38 PM,  Bruce,  > wrote:  Thanks for the kind words. We are happy to help. Have a gr",
+      "significance": "high"
+    }
+  ]
+}
