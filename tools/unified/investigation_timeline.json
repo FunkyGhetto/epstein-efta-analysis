@@ -1,0 +1,271 @@
+{
+  "total_events": 43,
+  "proffer_count": 30,
+  "public_events": 9,
+  "payment_near_proffer": [],
+  "co_absence_reinterpretation": {
+    "Larry Visoski": "Proffered Oct 2020 about CBP customs corruption. Absent from memo but NOT from investigation.",
+    "Leslie Groff": "Proffered Jul 2021. Absent from charging despite 53 memo mentions.",
+    "Prince Andrew": "Proffer agreement exists (EFTA00101307). MLAT request filed. Absent from memo except victim testimony."
+  },
+  "timeline": [
+    {
+      "date": "2019-04-24",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA01247320",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-05-02",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA01247302",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-05-08",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA01247310",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-05-17",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00090773",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-05-23",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA01247322",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-07-02",
+      "event": "Grand jury returns indictment",
+      "efta": null,
+      "type": "public"
+    },
+    {
+      "date": "2019-07-06",
+      "event": "Epstein arrested at Teterboro",
+      "efta": null,
+      "type": "public"
+    },
+    {
+      "date": "2019-07-08",
+      "event": "Indictment unsealed",
+      "efta": null,
+      "type": "public"
+    },
+    {
+      "date": "2019-07-12",
+      "event": "Proffer: REDACTED (female)",
+      "efta": "EFTA00024704",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-07-12",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00028641",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-07-17",
+      "event": "Proffer: REDACTED (female)",
+      "efta": "EFTA01245647",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-07-18",
+      "event": "Groff reverse proffer (she refuses)",
+      "efta": "EFTA02731146",
+      "type": "memo"
+    },
+    {
+      "date": "2019-08-07",
+      "event": "Groff attorney advises Fifth Amendment",
+      "efta": "EFTA02731146",
+      "type": "memo"
+    },
+    {
+      "date": "2019-08-09",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00131225",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-08-10",
+      "event": "Epstein dies in custody",
+      "efta": null,
+      "type": "public"
+    },
+    {
+      "date": "2019-08-16",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00126106",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-08-19",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00126081",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-08-21",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00126094",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-08-26",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00126068",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-08-28",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00126075",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-09-05",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00126063",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-09-09",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00062964",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-09-10",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00126090",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-09-16",
+      "event": "Proffer: Richard Bamett",
+      "efta": "EFTA01245368",
+      "type": "proffer"
+    },
+    {
+      "date": "2019-10-01",
+      "event": "Prosecution memo written (approximate)",
+      "efta": "EFTA02731082",
+      "type": "memo"
+    },
+    {
+      "date": "2019-11-26",
+      "event": "Proffer: REDACTED (female)",
+      "efta": "EFTA01246590",
+      "type": "proffer"
+    },
+    {
+      "date": "2020-02-07",
+      "event": "Proffer: David Rodgers",
+      "efta": "EFTA00159178",
+      "type": "proffer"
+    },
+    {
+      "date": "2020-07-02",
+      "event": "Maxwell arrested",
+      "efta": null,
+      "type": "public"
+    },
+    {
+      "date": "2020-10-07",
+      "event": "Proffer: REDACTED (male)",
+      "efta": "EFTA00015011",
+      "type": "proffer"
+    },
+    {
+      "date": "2020-10-07",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00159712",
+      "type": "proffer"
+    },
+    {
+      "date": "2020-10-07",
+      "event": "Proffer: Lawrence Visoski",
+      "efta": "EFTA00159723",
+      "type": "proffer"
+    },
+    {
+      "date": "2021-01-27",
+      "event": "Proffer: REDACTED (male)",
+      "efta": "EFTA01245989",
+      "type": "proffer"
+    },
+    {
+      "date": "2021-04-27",
+      "event": "Proffer: REDACTED (female)",
+      "efta": "EFTA00017844",
+      "type": "proffer"
+    },
+    {
+      "date": "2021-05-14",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00159380",
+      "type": "proffer"
+    },
+    {
+      "date": "2021-07-23",
+      "event": "Proffer: Lesley Groff",
+      "efta": "EFTA01682023",
+      "type": "proffer"
+    },
+    {
+      "date": "2021-07-23",
+      "event": "Groff proffer agreement signed",
+      "efta": "EFTA01682023",
+      "type": "corpus_discovery"
+    },
+    {
+      "date": "2021-08-19",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA01249940",
+      "type": "proffer"
+    },
+    {
+      "date": "2021-08-20",
+      "event": "Proffer: REDACTED (unknown)",
+      "efta": "EFTA00159388",
+      "type": "proffer"
+    },
+    {
+      "date": "2021-11-29",
+      "event": "Maxwell trial begins",
+      "efta": null,
+      "type": "public"
+    },
+    {
+      "date": "2021-12-29",
+      "event": "Maxwell convicted",
+      "efta": null,
+      "type": "public"
+    },
+    {
+      "date": "2022-06-28",
+      "event": "Maxwell sentenced to 20 years",
+      "efta": null,
+      "type": "public"
+    },
+    {
+      "date": "2025-07-24",
+      "event": "Proffer: Ghislaine Maxwell",
+      "efta": "DOJ-OGR-00022982",
+      "type": "proffer"
+    },
+    {
+      "date": "2025-07-24",
+      "event": "Maxwell proffer with DAG Blanche (publicly released Aug 2025)",
+      "efta": "DOJ-OGR-00022982",
+      "type": "public"
+    }
+  ]
+}
