@@ -518,6 +518,25 @@
       "gap": 0.5,
       "prosecution_outcome": "Never charged",
       "npa_covered": false
+    },
+    "Emmy Tayler": {
+      "role": "Maxwell former assistant (1997-?), replaced by Kellen",
+      "memo_mentions": 0,
+      "corpus_pages": 1061,
+      "evidence_score": 7.0,
+      "action_score": 0,
+      "gap": 7.0,
+      "prosecution_outcome": "Never charged, never proffered, interview likely cancelled by COVID",
+      "npa_covered": false,
+      "ausa_assessment": "potentially the most critical person in the case (EFTA00106062)",
+      "graph_metrics": {
+        "betweenness": 0.6643,
+        "eigenvector": 0.0,
+        "pagerank": 0.0,
+        "community": 0,
+        "kcore": 0,
+        "constraint": null
+      }
     }
   },
   "prosecution_decisions": {
