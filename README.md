@@ -63,6 +63,16 @@ A SpaCy-based named entity extraction tool identified 356 unique person names ac
 
 The entity network confirms the manual analysis findings — Maxwell↔Epstein is the strongest connection (141 shared pages), followed by Epstein↔Black (47 pages) and Epstein↔Groff (26 pages). The tool and filtered JSON data are in `tools/entity_network/`.
 
+## Verification Tools
+
+Two tools were built during this analysis and are included in `tools/`:
+
+**EFTA Verifier** (`tools/verifier/`) — Renders any EFTA page from the original PDFs side-by-side with the corresponding OCR text. Used to visually verify every citation in this repo against the original documents. Supports delta-encoded search strings for sharing specific page sets.
+
+**Entity Network** (`tools/entity_network/`) — SpaCy NER extraction across all 18 OCR files with 6 noise filters. Identifies 356 unique person names, 809 co-occurrence pairs, and 65 names flagged by keyword proximity. Filtered JSON data is included in `tools/entity_network/data/` for inspection without running extraction.
+
+Both tools require local EFTA PDF files to run. See `tools/README.md` for setup details. They are included to document the verification process, not to work out of the box.
+
 ## Method
 
 **Phase 1 — OCR:** Adrian processed 4,251 PDF files with Tesseract 4.1.1 (200 DPI, English). Output: ~6.8 MB cleaned text, 18 files.
