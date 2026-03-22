@@ -1,0 +1,524 @@
+{
+  "total_redacted": 71,
+  "identifications": [
+    {
+      "efta": "EFTA01247320",
+      "date": "2019-04-24",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01682025",
+      "date": "2019-04-24",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01247302",
+      "date": "2019-05-02",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": [
+        {
+          "name": "Sarah",
+          "method": "temporal_bridge",
+          "confidence": "low",
+          "reasoning": "Same date (2019-05-02) in EFTA00092647 mentions Sarah",
+          "efta_evidence": "EFTA00092647"
+        }
+      ]
+    },
+    {
+      "efta": "EFTA01247310",
+      "date": "2019-05-08",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00090773",
+      "date": "2019-05-17",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01247322",
+      "date": "2019-05-23",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00024704",
+      "date": "2019-07-12",
+      "gender": "female",
+      "attorney": "Joseph\nNascimento",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00027643",
+      "date": "2019-07-12",
+      "gender": "female",
+      "attorney": "Joseph\nNascimento",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00028641",
+      "date": "2019-07-12",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00096653",
+      "date": "2019-07-12",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00159466",
+      "date": "2019-07-12",
+      "gender": "female",
+      "attorney": "Joseph \nNascimento",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01245647",
+      "date": "2019-07-17",
+      "gender": "female",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00131225",
+      "date": "2019-08-09",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126106",
+      "date": "2019-08-16",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00132208",
+      "date": "2019-08-16",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00135523",
+      "date": "2019-08-16",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00162939",
+      "date": "2019-08-16",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126081",
+      "date": "2019-08-19",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00130149",
+      "date": "2019-08-19",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141115",
+      "date": "2019-08-19",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126094",
+      "date": "2019-08-21",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141106",
+      "date": "2019-08-21",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126068",
+      "date": "2019-08-26",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141087",
+      "date": "2019-08-26",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141102",
+      "date": "2019-08-26",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141133",
+      "date": "2019-08-26",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126075",
+      "date": "2019-08-28",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141094",
+      "date": "2019-08-28",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141138",
+      "date": "2019-08-28",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126063",
+      "date": "2019-09-05",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141091",
+      "date": "2019-09-05",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141101",
+      "date": "2019-09-05",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00062964",
+      "date": "2019-09-09",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126115",
+      "date": "2019-09-09",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141114",
+      "date": "2019-09-09",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01688067",
+      "date": "2019-09-09",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126090",
+      "date": "2019-09-10",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141095",
+      "date": "2019-09-10",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141153",
+      "date": "2019-09-10",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01246590",
+      "date": "2019-11-26",
+      "gender": "female",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00015011",
+      "date": "2020-10-07",
+      "gender": "male",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00159712",
+      "date": "2020-10-07",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01245989",
+      "date": "2021-01-27",
+      "gender": "male",
+      "attorney": "Megan \nBenett",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00017844",
+      "date": "2021-04-27",
+      "gender": "female",
+      "attorney": "Jennifer Seidel",
+      "candidates": [
+        {
+          "name": "Post-Maxwell-arrest victim or witness",
+          "method": "temporal_pattern",
+          "confidence": "low",
+          "reasoning": "Female proffer in 2021 \u2014 during Maxwell pretrial period"
+        }
+      ]
+    },
+    {
+      "efta": "EFTA01249938",
+      "date": "2021-04-27",
+      "gender": "female",
+      "attorney": "REDACTED",
+      "candidates": [
+        {
+          "name": "Post-Maxwell-arrest victim or witness",
+          "method": "temporal_pattern",
+          "confidence": "low",
+          "reasoning": "Female proffer in 2021 \u2014 during Maxwell pretrial period"
+        }
+      ]
+    },
+    {
+      "efta": "EFTA00159380",
+      "date": "2021-05-14",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01249940",
+      "date": "2021-08-19",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00159388",
+      "date": "2021-08-20",
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00020083",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00022062",
+      "date": null,
+      "gender": "male",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00022356",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00022432",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00022456",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00024684",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00040160",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00072842",
+      "date": null,
+      "gender": "male",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00077146",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00079098",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00087994",
+      "date": null,
+      "gender": "male",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00099391",
+      "date": null,
+      "gender": "male",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00101156",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00126058",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00132684",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141097",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00141099",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00159321",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00159332",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA00161531",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01246216",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01249950",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    },
+    {
+      "efta": "EFTA01684235",
+      "date": null,
+      "gender": "unknown",
+      "attorney": "REDACTED",
+      "candidates": []
+    }
+  ]
+}
