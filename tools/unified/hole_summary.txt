@@ -1,0 +1,37 @@
+HOLE GEOMETRY
+============================================================
+
+Holes: 18 | Clusters: 14 | Chains: 2
+High similarity: 4
+
+TOP SIMILARITY
+  0.866: section_b_content <-> section_c_missing
+  0.707: section_a_content <-> section_b_content
+  0.612: section_a_content <-> section_c_missing
+  0.612: section_b_content <-> section_d_groff
+
+CLUSTERS
+  1 (1): no_proffer_staley
+  2 (1): staley_jp_morgan
+  3 (1): no_proffer_dubin
+  4 (1): offshore_accounts
+  5 (1): groff_wire_purpose
+  6 (2): ghost_tayler_indyke, ghost_tayler_black
+  7 (1): ghost_tayler_groff
+  8 (1): no_proffer_tayler
+  9 (1): tayler_post_covid
+  10 (4): section_a_content, section_b_content, section_d_groff, section_c_missing
+  11 (1): wall_18_excised
+  12 (1): groff_21month_gap
+  13 (1): wall_proffer_content
+  14 (1): fictionalized_memoir
+
+LONGEST CHAIN
+  13 holes: section_a_content -> wall_18_excised -> groff_wire_purpose -> ghost_tayler_groff -> ghost_tayler_indyke -> tayler_post_covid -> ghost_tayler_black -> no_proffer_tayler
+
+PREDICTIONS
+  [TIGHTLY_CONSTRAINED] section_d_groff: SDNY charging analysis for Groff — joint evaluation with Maxwell, proffer anticipated, interests of 
+  [TIGHTLY_CONSTRAINED] section_a_content: 8-page sex trafficking conspiracy analysis for redacted co-conspirator. Most likely Kellen.
+  [TIGHTLY_CONSTRAINED] no_proffer_tayler: COVID cancelled March 2020 London interview. Most critical person never formally interviewed.
+  [LOOSELY_CONSTRAINED] ghost_tayler_groff: Temporal succession: Tayler → Kellen → Groff. Same role lineage. Ghost = dataset boundary.
+  [LOOSELY_CONSTRAINED] groff_21month_gap: Maxwell arrest July 2020 likely triggered Groff to proffer. 20 corpus docs show activity.

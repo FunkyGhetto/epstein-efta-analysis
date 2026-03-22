@@ -1,0 +1,215 @@
+{
+  "total_holes": 18,
+  "clusters": 14,
+  "chains": 2,
+  "high_similarity_pairs": [
+    [
+      "section_b_content",
+      "section_c_missing",
+      0.866
+    ],
+    [
+      "section_a_content",
+      "section_b_content",
+      0.707
+    ],
+    [
+      "section_a_content",
+      "section_c_missing",
+      0.612
+    ],
+    [
+      "section_b_content",
+      "section_d_groff",
+      0.612
+    ]
+  ],
+  "cluster_summary": [
+    {
+      "id": 10,
+      "size": 4,
+      "ids": [
+        "section_a_content",
+        "section_b_content",
+        "section_d_groff",
+        "section_c_missing"
+      ],
+      "types": [
+        "excised"
+      ]
+    },
+    {
+      "id": 7,
+      "size": 1,
+      "ids": [
+        "ghost_tayler_groff"
+      ],
+      "types": [
+        "ghost"
+      ]
+    },
+    {
+      "id": 6,
+      "size": 2,
+      "ids": [
+        "ghost_tayler_indyke",
+        "ghost_tayler_black"
+      ],
+      "types": [
+        "ghost"
+      ]
+    },
+    {
+      "id": 8,
+      "size": 1,
+      "ids": [
+        "no_proffer_tayler"
+      ],
+      "types": [
+        "missing_proffer"
+      ]
+    },
+    {
+      "id": 3,
+      "size": 1,
+      "ids": [
+        "no_proffer_dubin"
+      ],
+      "types": [
+        "missing_proffer"
+      ]
+    },
+    {
+      "id": 1,
+      "size": 1,
+      "ids": [
+        "no_proffer_staley"
+      ],
+      "types": [
+        "missing_proffer"
+      ]
+    },
+    {
+      "id": 4,
+      "size": 1,
+      "ids": [
+        "offshore_accounts"
+      ],
+      "types": [
+        "financial_gap"
+      ]
+    },
+    {
+      "id": 5,
+      "size": 1,
+      "ids": [
+        "groff_wire_purpose"
+      ],
+      "types": [
+        "financial_gap"
+      ]
+    },
+    {
+      "id": 11,
+      "size": 1,
+      "ids": [
+        "wall_18_excised"
+      ],
+      "types": [
+        "wall"
+      ]
+    },
+    {
+      "id": 13,
+      "size": 1,
+      "ids": [
+        "wall_proffer_content"
+      ],
+      "types": [
+        "wall"
+      ]
+    },
+    {
+      "id": 12,
+      "size": 1,
+      "ids": [
+        "groff_21month_gap"
+      ],
+      "types": [
+        "temporal_gap"
+      ]
+    },
+    {
+      "id": 9,
+      "size": 1,
+      "ids": [
+        "tayler_post_covid"
+      ],
+      "types": [
+        "temporal_gap"
+      ]
+    },
+    {
+      "id": 14,
+      "size": 1,
+      "ids": [
+        "fictionalized_memoir"
+      ],
+      "types": [
+        "identity_gap"
+      ]
+    },
+    {
+      "id": 2,
+      "size": 1,
+      "ids": [
+        "staley_jp_morgan"
+      ],
+      "types": [
+        "financial_gap"
+      ]
+    }
+  ],
+  "longest_chain": [
+    "section_a_content",
+    "wall_18_excised",
+    "groff_wire_purpose",
+    "ghost_tayler_groff",
+    "ghost_tayler_indyke",
+    "tayler_post_covid",
+    "ghost_tayler_black",
+    "no_proffer_tayler",
+    "no_proffer_dubin",
+    "section_d_groff",
+    "wall_proffer_content",
+    "groff_21month_gap",
+    "offshore_accounts"
+  ],
+  "predictions": [
+    {
+      "hole": "section_d_groff",
+      "tightness": "TIGHTLY_CONSTRAINED",
+      "prediction": "SDNY charging analysis for Groff \u2014 joint evaluation with Maxwell, proffer anticipated, interests of justice test"
+    },
+    {
+      "hole": "section_a_content",
+      "tightness": "TIGHTLY_CONSTRAINED",
+      "prediction": "8-page sex trafficking conspiracy analysis for redacted co-conspirator. Most likely Kellen."
+    },
+    {
+      "hole": "no_proffer_tayler",
+      "tightness": "TIGHTLY_CONSTRAINED",
+      "prediction": "COVID cancelled March 2020 London interview. Most critical person never formally interviewed."
+    },
+    {
+      "hole": "ghost_tayler_groff",
+      "tightness": "LOOSELY_CONSTRAINED",
+      "prediction": "Temporal succession: Tayler \u2192 Kellen \u2192 Groff. Same role lineage. Ghost = dataset boundary."
+    },
+    {
+      "hole": "groff_21month_gap",
+      "tightness": "LOOSELY_CONSTRAINED",
+      "prediction": "Maxwell arrest July 2020 likely triggered Groff to proffer. 20 corpus docs show activity."
+    }
+  ]
+}
