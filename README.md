@@ -1,73 +1,30 @@
-> **TL;DR:** SDNY's prosecution memo says they found no evidence Epstein managed anyone else's money. Most other findings here are independently confirmed by larger projects. Full sourcing below.
+> **Start here →** [`analysis/complete-findings-english.md`](analysis/complete-findings-english.md) — the single document presenting all verified results.
 
 # Epstein Files Transparency Act — Primary Source Analysis
 
-An AI-assisted analysis of 4,251 documents released under the Epstein Files Transparency Act (H.R. 4405) in January 2026. Directed by Adrian Moen. Searching, analysis, and writing performed by Claude (Anthropic).
+An AI-assisted analysis of 4,251 documents released under the Epstein Files Transparency Act (H.R. 4405) in January 2026, cross-referenced against a 2.89-million-page corpus and 165+ existing reports. Directed by Adrian Moen. Analysis and writing by Claude (Anthropic).
 
-## How This Was Made
-
-I (Adrian) OCR-processed 4,251 PDF files from the EFTA release using Tesseract. I then gave the resulting text files to Claude and directed the analysis through conversation — asking questions, choosing which threads to follow, and deciding what mattered. Claude performed the actual searching, identified the key passages, built the network analysis, cross-referenced documents, and wrote every word of text you see in this repo. I reviewed the flagged passages and Claude's conclusions, but I did not read the 7,700 pages of OCR output myself.
-
-This is not an analysis I wrote with AI assistance. It is an analysis AI performed at my direction. The distinction matters because I'd rather you judge the work on whether it's correct than on who — or what — produced it.
-
-**What you can verify right now:** Every finding cites specific EFTA document numbers. The documents are public. You can look them up. If the analysis says EFTA02731139 contains Maxwell instructing a victim to perform sexual acts on Glen Dubin, you can check whether EFTA02731139 says that. If it doesn't, the analysis is wrong. If it does, then the question of what tool produced it is irrelevant.
-
-The prosecution memos in VOL00012 — marked "Attorney Work Product" and "Subject to Fed. R. Crim. P. 6(e)" — are the most substantive documents in the entire release. They are also the ones almost nobody has read, because reading 18 files of OCR output is not something journalists on deadline do.
+**What you can verify:** Every finding cites specific EFTA document numbers. The documents are public at [justice.gov/epstein](https://www.justice.gov/epstein). 56/56 citations independently verified against rhowardstone's full-text corpus with zero errors.
 
 ---
 
 ## What This Found
 
-Findings from SDNY prosecution memoranda, independently verified against original PDF pages. Most of these findings have also been documented by the comprehensive [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) project (165+ reports, 1,614-person registry). What this repo adds is page-level PDF verification of every citation and a reproducible method accessible to non-technical users. One finding — the absence of client accounts — appears to be genuinely new.
+Findings from SDNY prosecution memoranda. Most have also been documented by [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) (165+ reports). What this repo adds: page-level PDF verification, complete proffer mapping, financial deconstruction, network graph analysis, and five genuinely new findings verified against all public sources.
 
-- **Glen Dubin** — Maxwell explicitly instructed a victim to perform sexual acts on him. Named in SDNY memo EFTA02731139. The victim's name is redacted. The account may be Giuffre's (who has publicly accused Dubin in civil proceedings) or a separate victim — the redaction prevents confirmation. Either way, this is SDNY's internal prosecution memo documenting the testimony as part of their case preparation. No law enforcement action followed. [1]
+**Genuinely new (verified March 22, 2026):**
 
-- **Harvey Weinstein** — Epstein instructed a victim to massage Weinstein at the Paris residence. Weinstein ordered her to remove her shirt. She refused. Source: EFTA02731096. Not previously reported from primary EFTA documents. [2]
+1. **No client accounts** — SDNY reviewed three banks and found no evidence of Epstein managing anyone else's money. "We have not identified any accounts that are consistent with Epstein handling or investing other people's money." Source: EFTA02731148. Not in any other EFTA project.
 
-- **Leon Black** — Subject of an active federal human trafficking referral in June 2023 (EFTA02731477), with an identified minor victim. This goes beyond the civil lawsuits that have been publicly reported. [3]
+2. **78 proffer agreements mapped** — Complete proffer landscape across the full corpus. SDNY conducted dozens of formal interview sessions. One indictment (Maxwell). No other project has this count.
 
-**Note:** SDNY's memo states they were unable to corroborate the "lent out" accounts. They confirmed the victim's recruitment by Maxwell, abuse by Epstein, and recruiting of other minors, but the specific allegations about being directed to have sex with Dubin, Black, Staley, Andrew, and Weinstein remain uncorroborated in the memo's own assessment. See `analysis/victim-cross-reference-english.md` for details.
+3. **18 redacted pages structural skeleton** — Pages 68-85 of the prosecution memo are covered by redaction bars, but surviving section headings reveal five charging analysis sections (A through E). Page 75: "Leslie Groff **and/or** Ghislaine Maxwell with a federal crime." Section A is 8 pages — the longest analysis — for a redacted person.
 
-- **"Cooperating Defendants: None"** — SDNY's memo (EFTA02731053) explicitly states they had zero cooperating defendants and planned to use Epstein's indictment as leverage. His death eliminated this strategy. This is the structural explanation for why no co-conspirators were indicted. [4]
+4. **Groff proffer agreement** (EFTA01682023) — Formal proffer dated July 23, 2021, with attorney Michael Bachner. Her cooperation is publicly known; this specific document is not cited elsewhere.
 
-- **No cameras in bedrooms** — The memo explicitly states searches "did not reveal any cameras in any of the bedrooms or massage rooms." The blackmail narrative is not supported by the physical evidence found during the 2019 searches. Source: EFTA02731148. [5]
+5. **Linguistic hedging predicts non-charging** — SDNY uses hedging language for people it didn't charge and confident language for Maxwell. The pattern is consistent across all 22 tracked persons.
 
-- **No client accounts** — "We have not identified any accounts that are consistent with Epstein handling or investing other people's money." The hedge fund manager myth is disproven in SDNY's own words. Source: EFTA02731148. **(Not found in any other EFTA analysis project. Appears to be a genuinely new finding.)** See `analysis/epstein-financial-deconstruction-english.md` for the full analysis connecting this finding to the Wexner proffer, Deutsche Bank review, and the absence of cameras.
-
-- **Darren Indyke** (Epstein's attorney) told a witness not to talk to police (EFTA02731123) and brought computers into prison for Epstein to have video sex (EFTA02731127). [6]
-
-- **David Blaine** introduced a victim to Epstein at a NYC nightclub. Source: EFTA02731111. [7]
-
-- **Leslie Groff** was still actively recruiting in December 2018, six months before Epstein's arrest, and was never indicted despite being named throughout the prosecution memo. Source: EFTA02731133. [8]
-
-**Notes:**
-[1] Independently confirmed by rhowardstone/Epstein-research from the same source document.
-[2] Independently confirmed.
-[3] Independently confirmed; their project includes additional DANY interview data.
-[4] Independently confirmed from a different source document.
-[5] Independently confirmed from a different source: FBI CID summary EFTA00038617.
-[6] Independently confirmed; rhowardstone includes a congressional witness brief on Indyke.
-[7] Listed in their registry but with minimal analysis. Our SDNY memo context adds detail.
-[8] Partially confirmed; their focus is different. The $250K wire context appears new.
-
----
-
-## Current Status
-
-This project has been cross-referenced against the full 2.89M-page EFTA corpus and [rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research) (165+ reports). 56/56 EFTA citations verified against independent corpus with zero errors.
-
-**Genuinely new findings (not found in any other EFTA project):**
-- SDNY found no evidence of client accounts (EFTA02731148) — see financial deconstruction
-- Four Groff scheduling emails from the corpus showing active massage recruitment (EFTA01940212, EFTA01941335, EFTA02043921, EFTA02206177)
-- Two uncovered victim interviews not cited by any other project (EFTA02731115, EFTA02731117)
-- Bill Clinton Africa trip page not cited elsewhere (EFTA02731110)
-- Groff Section D (EFTA02731167) confirmed missing from the EFTA release itself — not an OCR error
-- Off-by-one OCR marker methodology applicable to all EFTA OCR work
-
-**Confirmed covered by rhowardstone (not duplicated):**
-- SDNY-DANY Leon Black correspondence, Copperfield, Dechert LLP, Wigdor, Horowitz
-
-**Open leads:** 544 identified, 53 high priority. Lead data in `tools/analysis_outputs/data/leads.json`.
+**Note:** SDNY's memo states they were unable to corroborate the "lent out" accounts — specific allegations about Dubin, Black, Staley, Andrew, and Weinstein remain uncorroborated in the memo's own assessment. The victim's recruitment by Maxwell, abuse by Epstein, and recruiting of minors were corroborated.
 
 ---
 
@@ -75,72 +32,47 @@ This project has been cross-referenced against the full 2.89M-page EFTA corpus a
 
 | File | Description |
 |------|-------------|
-| **`analysis/complete-findings-english.md`** | **The complete findings document. Start here.** Everything verified and cross-referenced, written for journalists, researchers, and congressional staff. |
-| `analysis/epstein-v4-english.md` | Complete analysis (~2,400 words). All findings integrated with four evidence levels. |
-| `analysis/epstein-findings-english.md` | Detailed findings report (~4,500 words). Full EFTA sourcing, redaction analysis, identity reconstruction. |
-| `analysis/epstein-v4-norwegian.md` | Norwegian original of v4. |
-| `analysis/epstein-findings-norwegian.md` | Norwegian original of the findings report. |
-| `analysis/epstein-financial-deconstruction-english.md` | Financial deconstruction: no client accounts, Wexner proffer, Deutsche Bank review. Every claim sourced to specific EFTA pages. |
+| **`analysis/complete-findings-english.md`** | **Start here.** All verified results in one document. |
+| `analysis/epstein-financial-deconstruction-english.md` | No client accounts + Wexner proffer + Deutsche Bank review. Every quote verbatim from OCR. |
 | `analysis/epstein-financial-deconstruction-norwegian.md` | Norwegian version of the financial deconstruction. |
-| `analysis/victim-cross-reference-english.md` | Cross-volume victim testimony mapping: connects redacted victim designations across VOL00012 and other EFTA volumes using contextual fingerprints. No real names. |
-| `analysis/groff-investigation-english.md` | Leslie Groff investigation: 50 mentions across the prosecution memo, reverse proffer, Fifth Amendment invocation, December 2018 email, and why she was never indicted. |
-| `analysis/groff-prosecution-gap-english.md` | The prosecution gap: four explanations for why Groff was never charged, tested against corpus data. Includes discovery of EFTA01682023 — her proffer agreement with SDNY (July 2021). |
-| `analysis/proffer-landscape-english.md` | The proffer landscape: 78 proffer agreements mapped across the corpus. SDNY interviewed everyone and charged one person. Groff proffer and complete mapping are new; Maxwell 2025 is publicly available context. |
+| `analysis/groff-investigation-english.md` | Leslie Groff: 50 memo mentions, scheduling emails from corpus, proffer agreement. |
+| `analysis/groff-prosecution-gap-english.md` | Four explanations for why Groff was never charged, tested against corpus data. |
+| `analysis/proffer-landscape-english.md` | 78 proffers mapped. SDNY interviewed everyone and charged one person. |
+| `analysis/victim-cross-reference-english.md` | Victim designations mapped across volumes. No real names. |
+| `analysis/epstein-v4-english.md` | Earlier analysis (v4). Superseded by complete-findings but preserved for record. |
+| `analysis/epstein-v4-norwegian.md` | Norwegian original of v4. |
+| `analysis/epstein-findings-english.md` | Detailed findings report. Superseded by complete-findings. |
+| `analysis/epstein-findings-norwegian.md` | Norwegian original of the findings report. |
 
 ## Source Data
 
-The raw OCR text files are included in the `ocr/` folder (~6.8 MB, 18 files). You can verify any finding by grepping for the EFTA document number in the OCR files. See `ocr/README.md` for how EFTA page markers work in the OCR output.
+OCR text files in `ocr/` (~6.8 MB, 18 files). See `ocr/README.md` for the off-by-one EFTA marker rule.
 
-Example:
-
-    grep -A 20 'EFTA02731138' ocr/epstein_ren16.txt
-
-This returns the content of page EFTA02731139 (the Dubin page). See `ocr/README.md` for why you grep for the number one below.
-
-No need to download 4,251 PDFs or run OCR yourself.
+    grep -A 20 'EFTA02731138' ocr/epstein_ren16.txt  # Returns content of page EFTA02731139
 
 ## Tools
 
-Two tools were built during this analysis and are included in `tools/`. Neither is meant to work out of the box — they are included to document the verification process. See `tools/README.md` for setup details.
+See [`tools/README.md`](tools/README.md) for full documentation. Key tools:
 
-**EFTA Verifier** (`tools/verifier/`) — Renders any EFTA page from the original PDFs side-by-side with the corresponding OCR text. Used to visually verify every citation in this repo. Requires local EFTA PDF files.
-
-**Entity Network** (`tools/entity_network/`) — SpaCy NER extraction across all 18 OCR files with 6 noise filters. Identified 356 unique person names, 809 co-occurrence pairs, and 65 names flagged by keyword proximity. The network confirms the manual analysis: Maxwell↔Epstein is the strongest connection (141 shared pages), followed by Epstein↔Black (47) and Epstein↔Groff (26). Filtered JSON data is included in `tools/entity_network/data/`.
-
-## Method
-
-**Phase 1 — OCR:** Adrian processed 4,251 PDF files with Tesseract 4.1.1 (200 DPI, English). Output: ~6.8 MB cleaned text, 18 files.
-
-**Phase 2 — Verification:** Claude compared findings against 814 public sources.
-
-**Phase 3 — Systematic analysis:** Claude performed grep searches, Python co-occurrence mapping, date extraction, and identified key passages. Adrian directed which questions to ask and which threads to follow.
-
-**All text in this repo was written by Claude.** Adrian directed the analysis, reviewed the results, and made editorial decisions.
+- **Verification** (`tools/verification/`) — QA checks, PDF page verification, citation validation
+- **Unified knowledge base** (`tools/unified/`) — 22-person database with evidence scores, graph analysis, proffer landscape, solve map, and queryable red thread
+- **Pattern analysis** (`tools/analysis_outputs/`) — Financial trails, leads, redaction analysis
+- **Entity network** (`tools/entity_network/`) — SpaCy NER with 6 noise filters
 
 ## How to Verify
 
-1. Access the EFTA documents from the public release at https://www.justice.gov/epstein/
-2. Look up any EFTA number cited in the analysis
-3. Read the document
-4. Decide for yourself
-
-If you find an error, open an issue. If you find something missed, open a pull request.
+1. Open any EFTA number at [justice.gov/epstein](https://www.justice.gov/epstein)
+2. Compare against our citation
+3. If wrong, open an issue
 
 ## Related Work
 
-This analysis exists alongside significantly larger projects analyzing the same documents:
-
-- **[rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research)** — 165+ forensic reports, 1,614-person entity registry, 273 pseudonym identifications, congressional witness briefs. The most comprehensive EFTA analysis available. Most of our findings are independently confirmed there.
-- **[rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data)** — Companion data repo: persons registry, knowledge graph, phone number enrichment, DOJ document removal audit.
-
-What this repo contributes that the above do not:
-1. **"No client accounts"** — The finding that SDNY found no evidence of Epstein handling other people's money (EFTA02731148) does not appear in any of the above projects.
-2. **Page-level PDF verification** — Every EFTA citation was verified by rendering the original PDF page and comparing it to OCR text. The off-by-one OCR marker issue was discovered and corrected during this process.
-3. **Accessible method** — OCR + AI-directed search + visual verification, documented end-to-end, reproducible by anyone with Tesseract and a chat interface.
+- **[rhowardstone/Epstein-research](https://github.com/rhowardstone/Epstein-research)** — 165+ forensic reports, 1,614-person registry. Most comprehensive EFTA analysis available. Most of our findings independently confirmed there.
+- **[rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data)** — Full-text corpus (2.89M pages), knowledge graph, person registry.
 
 ## Author
 
-Adrian Moen. Fredrikstad, Norway. No journalistic or academic affiliation. Analysis directed by Adrian, executed and written by Claude (Anthropic).
+Adrian Moen · Fredrikstad, Norway · Analysis directed by Adrian, executed and written by Claude (Anthropic).
 
 ## License
 

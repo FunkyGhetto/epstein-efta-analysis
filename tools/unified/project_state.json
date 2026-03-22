@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-22T10:11:29.823552",
-  "commit_count": 58,
+  "timestamp": "2026-03-22T11:30:00",
+  "commit_count": 68,
   "persons_tracked": 22,
-  "analysis_files": 10,
+  "analysis_files": 11,
   "citations_verified": "56/56 against corpus",
   "proffer_count": 78,
   "leads_total": 544,
@@ -11,92 +11,28 @@
   "total_questions": 73,
   "genuinely_new_findings": [
     "No client accounts (EFTA02731148) \u2014 not in any other EFTA project",
-    "Groff proffer agreement (EFTA01682023) \u2014 not cited by rhowardstone",
-    "78-proffer complete mapping \u2014 not attempted by any other project",
-    "Groff corpus scheduling emails (4 EFTAs) \u2014 not in rhowardstone",
-    "18 redacted pages structural skeleton \u2014 section headings and legal framework mapped",
-    "Page 75 joint charging evaluation: 'Groff and/or Maxwell with a federal crime'",
-    "Footnote 61: JP Morgan Staley messages corroborate victim account",
-    "Off-by-one OCR marker methodology",
-    "Section D confirmed missing from release (not OCR failure)",
-    "Linguistic pattern: hedging predicts non-charging across all persons"
+    "78 proffer agreements mapped \u2014 no complete count exists elsewhere",
+    "18 redacted pages structural skeleton \u2014 section headings A-E with legal framework",
+    "Page 75 joint charging: Groff and/or Maxwell with a federal crime",
+    "Linguistic hedging predicts non-charging across all persons",
+    "Groff proffer document EFTA01682023 \u2014 cooperation known, formal document not cited",
+    "Groff corpus scheduling emails (4 EFTAs) \u2014 direct massage recruitment evidence",
+    "Off-by-one OCR marker methodology applicable to all EFTA OCR work"
   ],
   "walls": [
-    "Section D content redacted",
-    "Section A identity redacted",
-    "Proffer content protected",
-    "18 redacted pages",
-    "AUSA names redacted",
+    "Section D content \u2014 redacted in release",
+    "Section A identity \u2014 redacted",
+    "Proffer content \u2014 legally protected",
+    "18 redacted pages \u2014 charging sections covered by redaction bars",
+    "AUSA names \u2014 redacted throughout",
     "71 redacted profferors",
-    "Offshore accounts not discussed"
+    "Offshore accounts \u2014 not discussed in memo"
   ],
-  "red_thread_top10": [
-    {
-      "name": "Leslie Groff",
-      "evidence": 7.5,
-      "action": 1,
-      "gap": 6.5
-    },
-    {
-      "name": "Leon Black",
-      "evidence": 5.5,
-      "action": 1,
-      "gap": 4.5
-    },
-    {
-      "name": "Prince Andrew",
-      "evidence": 4.8,
-      "action": 1,
-      "gap": 3.8
-    },
-    {
-      "name": "Jes Staley",
-      "evidence": 4.3,
-      "action": 1,
-      "gap": 3.3
-    },
-    {
-      "name": "Les Wexner",
-      "evidence": 4.0,
-      "action": 1,
-      "gap": 3.0
-    },
-    {
-      "name": "David Rodgers",
-      "evidence": 4.0,
-      "action": 1,
-      "gap": 3.0
-    },
-    {
-      "name": "Harvey Weinstein",
-      "evidence": 3.6,
-      "action": 1,
-      "gap": 2.6
-    },
-    {
-      "name": "Larry Visoski",
-      "evidence": 2.5,
-      "action": 0,
-      "gap": 2.5
-    },
-    {
-      "name": "Darren Indyke",
-      "evidence": 3.1,
-      "action": 1,
-      "gap": 2.1
-    },
-    {
-      "name": "Section A \u2014 Unknown",
-      "evidence": 2.0,
-      "action": 0,
-      "gap": 2.0
-    }
-  ],
-  "highest_value_next_actions": [
-    "FOIA for unredacted EFTA02731082 (would reveal Sections A-D content)",
-    "Identify AUSA 'Alex' from EFTA00106062 \u2014 cross-reference with other cases",
-    "Read Emmy Taylor interview transcript if it exists in corpus",
-    "Search for Groff documents between Aug 2019 and Jul 2021 (the silent period)",
-    "Compare corpus text vs OCR on all 86 prosecution memo pages systematically"
+  "corrections_applied": [
+    "excised -> redacted (March 22 2026): pages 68-85 have text beneath redaction bars",
+    "Dubin victim ambiguity: may be Giuffre or separate person",
+    "SDNY corroboration caveat: lent-out accounts not corroborated",
+    "Maxwell 2025 proffer: publicly released, not our discovery",
+    "Kellen was also never charged (plea collapsed)"
   ]
 }

@@ -116,4 +116,27 @@ Consolidates every data source — entity network, financial trail, linguistic p
     python3 tools/unified/query.py --uncharged                 # Evidence but no charges
     python3 tools/unified/query.py --red-thread                # The full narrative
 
-**`unified/knowledge_base.json`** — 18 persons with evidence scores, action scores, and gap analysis. The red thread query ranks people by the discrepancy between evidence strength and prosecution action.
+**`unified/knowledge_base.json`** — 22 persons with evidence scores, action scores, and gap analysis.
+
+**`unified/rebuild.py`** — Automated full rebuild of the entire project state from raw data. Connects to the corpus, reads all JSONs, greps OCR/rhowardstone, and regenerates knowledge_base.json, solve_map.json, and project_state.json.
+
+    python3 tools/unified/rebuild.py
+
+**`unified/solve_status.py`** — Prints the solve dashboard: 73 questions scored across 5 categories (identity, decision, financial, structural, connection), overall percentage, top unsolved, and walls.
+
+    python3 tools/unified/solve_status.py
+
+**Additional data in `unified/`:**
+- `graph_analysis.json` — Network graph metrics: betweenness, eigenvector, PageRank, community detection, structural holes
+- `cooccurrence_matrix.json` — Fresh 231-pair co-occurrence matrix from corpus (222 non-zero pairs)
+- `proffer_landscape.json` — All 78 proffer agreements with dates, attorneys, and terms
+- `proffer_identifications.json` — Attempted identification of 71 redacted profferors
+- `investigation_timeline.json` — Complete chronological timeline (43 events)
+- `hole_geometry.json` — 18 holes clustered by shape similarity
+- `triangulation_results.json` — Cross-question inference chains
+- `dimensional_analysis.json` — Redaction shapes, filing topology, temporal rhythm, linguistic fingerprints, negative space
+- `internet_probe_results.json` — Cross-reference of findings against public sources
+- `micro_search_results.json` — Surgical internet probes on every data point
+- `excised_pages_analysis.txt` — Structural mapping of 18 redacted charging analysis pages (CORRECTION: redacted, not excised)
+- `project_state.json` — Current project state snapshot
+- `probe_results/` — Deep probe data for Groff, Wexner, Black, and Emmy Tayler
