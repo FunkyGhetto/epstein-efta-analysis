@@ -11,7 +11,7 @@ import glob
 from pathlib import Path
 from urllib.parse import urlparse
 
-REPO = os.path.expanduser("~/Documents/epstein-efta-analysis")
+REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OCR_DIR = os.path.join(REPO, "ocr")
 ANALYSIS_DIR = os.path.join(REPO, "analysis")
 README = os.path.join(REPO, "README.md")
