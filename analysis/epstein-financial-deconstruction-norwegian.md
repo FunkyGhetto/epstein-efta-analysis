@@ -112,7 +112,7 @@ Ofre trodde kameraer fantes:
 
 > "[sladdet] further claimed that the FBI told her that Epstein had cameras watching her at all times, including while in the bathroom (we are not aware of any such cameras)." (Kilde: EFTA02731142)
 
-Kombinert med ransakingsresultatene mangler overvaking-for-utpressing-teorien fysiske bevis i SDNY-materialet.
+Overvaking-for-utpressing-teorien stottes ikke av kamerasoket, men kompliseres av det omfattende fotografiske materialet og DVR-systemene FBI beslagla.
 
 ## Hva dette betyr
 
@@ -121,7 +121,7 @@ Det populaere narrativet om Epstein inneholder to nokkelpastander:
 1. **Han var hedgefondforvalter eller finansradgiver** med en klientliste av velstaende og mektige mennesker.
 2. **Han brukte skjulte kameraer** for a ta opp kompromitterende aktivitet og utnytte det for beskyttelse eller profitt.
 
-SDNYs eget patalememo, skrevet til intern bruk og ikke for offentligheten, finner ingen bevis som stotter noen av pastandene. Kontoene var personlige. Kameraene ble ikke funnet.
+SDNYs eget patalememo, skrevet til intern bruk og ikke for offentligheten, finner ingen bevis som stotter den forste pastanden. Kontoene var personlige. Nar det gjelder den andre: ingen kameraer ble funnet installert i soverom eller massasjerom pa tidspunktet for ransakelsen. Men DVR-overvakingssystemer, CDer med handskrevne etiketter inkludert navn, og hundrevis av fotografier ble beslaglagt.
 
 Det SDNY fant var enklere: Epstein stjal fra en veldig rik person over to tiar, akkumulerte hundrevis av millioner gjennom tyveri og honorarer, og brukte pengene pa sin egen livsstil, eiendommer og fly. Da det ble oppdaget, inngikk offeret et privat forlik og anmeldte ikke.
 

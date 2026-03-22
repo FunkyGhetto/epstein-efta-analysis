@@ -20,7 +20,7 @@ Where did his money come from? Wexner's attorneys told SDNY that Epstein "stole 
 
 On the same page as the no-client-accounts finding, the memo states: "contrary to some news reports, these searches did not reveal any cameras in any of the bedrooms or massage rooms." (Source: EFTA02731148)
 
-Two dominant public narratives — hedge fund manager running a blackmail operation — are both unsupported by SDNY's own evidence. This specific finding does not appear in any other EFTA analysis project, including rhowardstone's 165-report dataset.
+The hedge fund manager narrative is unsupported by SDNY's own evidence. The blackmail narrative is more complex: the memo states no cameras were found installed in bedrooms or massage rooms at the time of the 2019 search, but the FBI seized CDs with handwritten labels including names and explicit descriptions, DVR surveillance systems with 16+ hard drives, and hundreds of photographs. The absence of installed cameras does not address whether cameras existed previously or where the labeled material came from. This specific finding does not appear in any other EFTA analysis project, including rhowardstone's 165-report dataset.
 
 **Caveat:** "No immediate indication" is not "no evidence." The JP Morgan review was still in progress. Offshore accounts were not discussed. SDNY hedges: "appears to account for virtually all" is cautious language. The Wexner explanation came from Wexner's attorneys, not sworn testimony.
 

@@ -438,7 +438,7 @@ The FBI evidence log contains:
 
 **Source:** EFTA02731148 (epstein_ren16.txt, VOL00012)
 
-The memo states explicitly: "contrary to some news reports, these searches did not reveal any cameras in any of the bedrooms or massage rooms." This contradicts the popular narrative that Epstein filmed guests in compromising situations as blackmail material.
+The memo states explicitly: "contrary to some news reports, these searches did not reveal any cameras in any of the bedrooms or massage rooms." However, the FBI did seize CDs with handwritten labels including names and explicit descriptions, DVR surveillance systems with 16+ hard drives, and hundreds of photographs. The absence of installed cameras at the time of the 2019 search does not address whether cameras existed previously or where the labeled material came from.
 
 *However* — FBI seized two complete DVR surveillance systems with 16+ hard drives. These presumably covered common areas and entrances. The fact that no cameras were found in bedrooms does not mean cameras were never there — only that they were not present when the search was conducted in July 2019, more than a decade after evidence destruction is documented.
 

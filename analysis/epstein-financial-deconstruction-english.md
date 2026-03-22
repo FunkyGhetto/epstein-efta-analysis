@@ -132,7 +132,7 @@ Victims believed cameras existed. One stated:
 
 > "[redacted] further claimed that the FBI told her that Epstein had cameras watching her at all times, including while in the bathroom (we are not aware of any such cameras)." (Source: EFTA02731142)
 
-The memo records SDNY's assessment parenthetically: "we are not aware of any such cameras." Combined with the search warrant finding of no cameras in bedrooms or massage rooms, the surveillance-for-blackmail theory lacks physical evidence in the SDNY record.
+The memo records SDNY's assessment parenthetically: "we are not aware of any such cameras." Combined with the search warrant finding of no cameras in bedrooms or massage rooms, the surveillance-for-blackmail theory is not supported by the camera search, but is complicated by the extensive photographic material and DVR systems the FBI did seize.
 
 ## What This Means
 
@@ -141,7 +141,7 @@ The popular narrative about Epstein involves two key claims:
 1. **He was a hedge fund manager or financial adviser** with a client list of wealthy and powerful people.
 2. **He used hidden cameras** to record compromising activity and leverage it for protection or profit.
 
-SDNY's own prosecution memo, written for internal use and not for public consumption, finds no evidence supporting either claim. The accounts were personal. The cameras were not found.
+SDNY's own prosecution memo, written for internal use and not for public consumption, finds no evidence supporting the first claim. The accounts were personal. On the second: no cameras were found installed in bedrooms or massage rooms at the time of the search. However, DVR surveillance systems, CDs with handwritten labels including names, and hundreds of photographs were seized.
 
 What SDNY did find was simpler: Epstein stole from one very wealthy person over two decades, accumulated hundreds of millions through theft and fees, and used that money to fund his own lifestyle, properties, and planes. When discovered, the victim settled privately and did not press charges.
 
