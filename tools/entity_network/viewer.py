@@ -139,6 +139,76 @@ class Api:
         os.unlink(tmp)
         return json.dumps({"cancelled": True})
 
+    def export_all(self):
+        """Export all data as a ZIP: entities, cooccurrence, flagged JSONs + all dossiers."""
+        import shutil
+        import zipfile
+
+        tmp = os.path.join(tempfile.gettempdir(), "efta-entity-network.zip")
+        with zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zf:
+            # Raw JSON data
+            for name in ["entities.json", "cooccurrence.json", "flagged.json"]:
+                path = os.path.join(DATA_DIR, name)
+                if os.path.exists(path):
+                    zf.write(path, f"data/{name}")
+
+            # Top 50 flagged dossiers as text files
+            flagged_names = [f["name"] for f in FLAGGED[:50]]
+            for pname in flagged_names:
+                if pname not in ENTITIES:
+                    continue
+                ent = ENTITIES[pname]
+                conns = CONNECTIONS.get(pname, [])
+                lines = [f"DOSSIER: {pname}", f"Total occurrences: {ent['count']}", ""]
+                for f in FLAGGED:
+                    if f["name"] == pname:
+                        lines.append(f"Keyword score: {f['total_score']}")
+                        for kw, cnt in sorted(f["keyword_breakdown"].items(), key=lambda x: -x[1]):
+                            lines.append(f"  {kw}: {cnt}")
+                        lines.append("")
+                        break
+                lines.append("CONNECTIONS:")
+                for other, count, pages in conns[:30]:
+                    lines.append(f"  {other}: {count} shared pages")
+                lines.append("")
+                lines.append("OCCURRENCES:")
+                for occ in ent["occurrences"]:
+                    efta = f"EFTA{occ['efta_page']:08d}" if occ.get("efta_page") else "unknown"
+                    lines.append(f"  [{efta}] {occ['file']}:{occ['line']}")
+                    lines.append(f"    {occ['context'][:200]}")
+                    lines.append("")
+                safe = pname.replace(" ", "_").replace("/", "_")
+                zf.writestr(f"dossiers/{safe}.txt", "\n".join(lines))
+
+            # Summary
+            summary = [
+                "EFTA Entity Network — Export Summary",
+                f"Total unique names: {len(ENTITIES)}",
+                f"Co-occurrence pairs: {len(COOCCURRENCE)}",
+                f"Flagged names: {len(FLAGGED)}",
+                f"Dossiers included: {len(flagged_names)} (top 50 by keyword score)",
+                "",
+                "TOP 20 FLAGGED:",
+            ]
+            for f in FLAGGED[:20]:
+                summary.append(f"  {f['name']}: score={f['total_score']} ({f['occurrence_count']} occ)")
+            zf.writestr("summary.txt", "\n".join(summary))
+
+        window = webview.windows[0]
+        dest = window.create_file_dialog(
+            webview.SAVE_DIALOG,
+            save_filename="efta-entity-network.zip",
+            file_types=("ZIP files (*.zip)",),
+        )
+        if dest:
+            save_path = dest if isinstance(dest, str) else dest[0]
+            shutil.copy2(tmp, save_path)
+            os.unlink(tmp)
+            return json.dumps({"saved": save_path})
+
+        os.unlink(tmp)
+        return json.dumps({"cancelled": True})
+
 
 # ---------------------------------------------------------------------------
 # HTML
@@ -257,6 +327,9 @@ body {
         <input type="text" id="search" placeholder="Filter names..." oninput="filterNames()">
     </div>
     <div class="name-list" id="name-list"></div>
+    <div style="padding:8px;border-top:1px solid #333;">
+        <button class="export-btn" style="width:100%;margin:0;" onclick="exportAll()">Download All Data (ZIP)</button>
+    </div>
 </div>
 
 <div class="main" id="main">
@@ -363,6 +436,19 @@ async function selectName(name) {
     }
 
     main.innerHTML = html;
+}
+
+async function exportAll() {
+    const main = document.getElementById('main');
+    main.innerHTML = '<div class="placeholder">Packaging all data...</div>';
+    try {
+        const raw = await pywebview.api.export_all();
+        const data = JSON.parse(raw);
+        if (data.saved) main.innerHTML = '<div class="placeholder">Saved to ' + esc(data.saved) + '</div>';
+        else if (data.cancelled) main.innerHTML = '<div class="placeholder">Cancelled.</div>';
+    } catch(e) {
+        main.innerHTML = '<div class="placeholder">Error: ' + e + '</div>';
+    }
 }
 
 async function exportDossier(name) {
